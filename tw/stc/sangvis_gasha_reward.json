@@ -1,0 +1,3302 @@
+[
+    {
+        "id": 1001,
+        "sangvis_id": "1001",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 3002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 3003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 3004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5005,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5006,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5007,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5008,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5009,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5010,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 5011,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 12001,
+        "sangvis_id": "1001,1002",
+        "reward_type": 2,
+        "single_num_weight": "1001:5000,1002:5000"
+    },
+    {
+        "id": 13002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 13003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 13004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15005,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15006,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15007,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15008,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15009,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15010,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 15011,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 21001,
+        "sangvis_id": "1003",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 23002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 23003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 23004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 23005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 23006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25007,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25008,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25009,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25010,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25011,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25012,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 25013,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 31001,
+        "sangvis_id": "1004",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 33007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35008,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35009,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35010,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35011,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35012,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35013,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35014,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 35015,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 41001,
+        "sangvis_id": "1005",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 43008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45009,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45010,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45011,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45012,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45013,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45014,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45015,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45016,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 45017,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 51001,
+        "sangvis_id": "1006",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 53009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55010,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55011,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55012,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55013,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55014,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55015,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55016,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55017,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 55018,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 61001,
+        "sangvis_id": "1007",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 63010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65011,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65012,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65013,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65014,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65015,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65016,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65017,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65018,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 65019,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 71001,
+        "sangvis_id": "1008",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 73011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75012,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75013,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75014,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75015,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75016,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75017,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75018,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75019,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 75020,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 81001,
+        "sangvis_id": "1009",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 83012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85013,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85014,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85015,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85016,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85017,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85018,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85019,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85020,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 85021,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 91001,
+        "sangvis_id": "1010",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 93012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95013,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95014,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95015,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95016,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95017,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95018,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95019,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95020,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95021,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 95022,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 101001,
+        "sangvis_id": "1011",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 103013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105014,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105015,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105016,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105017,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105018,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105019,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105020,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105021,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105022,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 105023,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 111001,
+        "sangvis_id": "1012",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 113014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 115024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 121001,
+        "sangvis_id": "1001",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 123014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 125024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 131001,
+        "sangvis_id": "1013",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 133014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 135024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 141001,
+        "sangvis_id": "1002",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 143014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 145024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 151001,
+        "sangvis_id": "1003",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 153014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 155024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 161001,
+        "sangvis_id": "1014",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 163014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 165024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 171001,
+        "sangvis_id": "1004",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 173014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 175024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 181001,
+        "sangvis_id": "1005",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 183014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 185024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 192001,
+        "sangvis_id": "1007,1008,1009,1010,1011,1012",
+        "reward_type": 2,
+        "single_num_weight": "1007:1000,1008:1000,1009:1000,1010:1000,1011:1000,1012:1000"
+    },
+    {
+        "id": 193002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 193014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 195024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 201001,
+        "sangvis_id": "1006",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 203014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 205024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 211001,
+        "sangvis_id": "1007",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 213014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 215024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 221001,
+        "sangvis_id": "1015",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 223014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 225024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 231001,
+        "sangvis_id": "1008",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 233014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 235024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 241001,
+        "sangvis_id": "1009",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 243014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 245024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 251001,
+        "sangvis_id": "1010",
+        "reward_type": 1,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253002,
+        "sangvis_id": "2001",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253003,
+        "sangvis_id": "2002",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253004,
+        "sangvis_id": "2003",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253005,
+        "sangvis_id": "2004",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253006,
+        "sangvis_id": "2006",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253007,
+        "sangvis_id": "2005",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253008,
+        "sangvis_id": "2008",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253009,
+        "sangvis_id": "2009",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253010,
+        "sangvis_id": "2010",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253011,
+        "sangvis_id": "2011",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253012,
+        "sangvis_id": "2012",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253013,
+        "sangvis_id": "2013",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 253014,
+        "sangvis_id": "2014",
+        "reward_type": 3,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255015,
+        "sangvis_id": "3001",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255016,
+        "sangvis_id": "3002",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255017,
+        "sangvis_id": "3003",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255018,
+        "sangvis_id": "3004",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255019,
+        "sangvis_id": "3005",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255020,
+        "sangvis_id": "3007",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255021,
+        "sangvis_id": "3008",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255022,
+        "sangvis_id": "3006",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255023,
+        "sangvis_id": "3009",
+        "reward_type": 5,
+        "single_num_weight": ""
+    },
+    {
+        "id": 255024,
+        "sangvis_id": "3010",
+        "reward_type": 5,
+        "single_num_weight": ""
+    }
+]

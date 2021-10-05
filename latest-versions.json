@@ -1,0 +1,26 @@
+[
+    {
+        "region": "jp",
+        "dataVersion": "d97e9ab41eb9af1adb01f669c8ac2baa",
+        "abVersion": "2021092416",
+        "clientVersion": "20700"
+    },
+    {
+        "region": "kr",
+        "dataVersion": "fa69b6d06df00c217cea611d235de4dc",
+        "abVersion": "0",
+        "clientVersion": "20799"
+    },
+    {
+        "region": "tw",
+        "dataVersion": "10e02d615df24960bf6a8cf80a8ab640",
+        "abVersion": "0",
+        "clientVersion": "20799"
+    },
+    {
+        "region": "us",
+        "dataVersion": "61b67e8bcc55e31c13de11f517b3eebc",
+        "abVersion": "2021092819",
+        "clientVersion": "20702"
+    }
+]
