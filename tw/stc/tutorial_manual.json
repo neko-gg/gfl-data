@@ -1802,5 +1802,126 @@
         "content": "d5defa1229c96f8f_draw_210513314.jpg,85d22c01c981330a_draw_210513313.jpg",
         "function_control_id": 26,
         "goto_page": 0
+    },
+    {
+        "id": 2000,
+        "type": 1,
+        "child_ids": "2001,2002,2003,2004,2005,2006,2007,2008,2009,2010",
+        "title": "tutorial_manual-10002000",
+        "sub_title": "tutorial_manual-20002000",
+        "code": "manual_chess",
+        "content": "",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2001,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002001",
+        "sub_title": "tutorial_manual-20002001",
+        "code": "",
+        "content": "1ea3657a13f1de60_draw_211008633.jpg,51ec7b35891aedfb_draw_211008634.jpg,3a0485ecac897474_draw_211008635.jpg,0f39ac7c62c359d3_draw_211008636.jpg,f9aadd4562ee8304_draw_211008637.jpg,3fd5b288e88c278e_draw_211008638.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2002,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002002",
+        "sub_title": "tutorial_manual-20002002",
+        "code": "",
+        "content": "0d754b4facbae1e1_draw_211008627.jpg,bbaf739f47ebecd5_draw_211008628.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2003,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002003",
+        "sub_title": "tutorial_manual-20002003",
+        "code": "",
+        "content": "7b7a9d302275d091_draw_211008643.jpg,2eb374f566e1334e_draw_211008644.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2004,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002004",
+        "sub_title": "tutorial_manual-20002004",
+        "code": "",
+        "content": "6ccf1a2954e7acd0_draw_211008641.jpg,ee78603a41715239_draw_211008642.jpg,5372a7deb83e9cbc_draw_211008639.jpg,c467d6b0e343ad49_draw_211008640.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2005,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002005",
+        "sub_title": "tutorial_manual-20002005",
+        "code": "",
+        "content": "3ca3e344de37363f_draw_211008619.jpg,096f9b01674616ca_draw_211008620.jpg,94972a570682c41d_draw_211008621.jpg,bc705114ca981916_draw_211008622.jpg,365e2a43ae0a6f69_draw_211008623.jpg,2f75f2ac8fb6753b_draw_211008624.jpg,b59839e555830a4a_draw_211008625.jpg,d0ffe67fcbd4cffa_draw_211008626.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2006,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002006",
+        "sub_title": "tutorial_manual-20002006",
+        "code": "",
+        "content": "7eda42ee5deaf434_draw_211008645.jpg,d94774e693a9c9ed_draw_211008646.jpg,bda34d622ef66098_draw_211008647.jpg,bfb236de986f5179_draw_211008648.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2007,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002007",
+        "sub_title": "tutorial_manual-20002007",
+        "code": "",
+        "content": "dfe201ea4d3ce747_draw_211008629.jpg,e65e1b31f4ebea88_draw_211008630.jpg,82f476fab0d10fd0_draw_211008631.jpg,209b1551efd85c2d_draw_211008632.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2008,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002008",
+        "sub_title": "tutorial_manual-20002008",
+        "code": "",
+        "content": "124d7a40f80b03b5_draw_211008616.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2009,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002009",
+        "sub_title": "tutorial_manual-20002009",
+        "code": "",
+        "content": "335067b2eb19bb78_draw_211008617.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
+    },
+    {
+        "id": 2010,
+        "type": 2,
+        "child_ids": "",
+        "title": "tutorial_manual-10002010",
+        "sub_title": "tutorial_manual-20002010",
+        "code": "",
+        "content": "8496c666240e33a6_draw_211008618.jpg",
+        "function_control_id": 16,
+        "goto_page": 0
     }
 ]
