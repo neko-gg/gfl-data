@@ -1,0 +1,27 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>207</BIN><黑屏2><BGM>BGM_Danger</BGM>:ねぇ、敵が追ってきてる気がするんだけど！？+まさか見つかった？+でも撃ってはこないし、一体どうなってるの！？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:考えないで、前からも来てる！+左よ！ついて来て！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:なんなのよ、一体！？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:あの意識！あいつが敵を操ってるの！私たちを取り押さえる気よ！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:えっ！？でもさっき……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:そう、振り切れたと思ってた、でも戻って来たのよ！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:なんてしつこいやつなの……！
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:こうなったからには、やつらの位置を徹底的にスキャンするわ！+こっちへ、敵はまだ包囲しきれてない！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:このまま信号局まで突っ走るの！？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:他に方法があるなら言って！
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>これがあなたたちのやり方なの？</color>+<color=#00CCFF>考えもなしにあちこち走り回ることが？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>あんたが操ってるんでしょ！</color>+<color=#A9A9A9>私に発砲できないのは分かってるのよ！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>それはどうかしら、このシステムに留まるのも悪くない気がしてきたわ。恩を仇で返すようなメンタルよりかは、居心地がいいかもね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>あっそう、お気に召したなら良かったわ。達者で暮らしなさい！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>でもこのシステムに、これ以上めぼしいものはなさそうね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>次の言葉を当ててみせましょうか！？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>分かっているのなら、大人しく捕まりなさい。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>こんなバカげた白いユニットで、私を止められると思ったら大間違いよ！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>そうかもしれないわ、でも「ネイト」ならどうかしら？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>ネイトですって！？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あらかじめ言っておくけど、私ではあの人形たちを制御できないの。あなたに対して、思った以上に敵対心を抱いているようね。</color>
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4！止まって！例の黒い敵が現れたわ！
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:チッ……武器を使う気よ、傍の建物に逃げて！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:発砲し始めた！M4、早く！
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||<BIN>9</BIN><<黑屏1>:クソッ……コイツ、本気だわ……速度を上げていかないと！
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>逃げるもよし、隠れるもよし。でも結局は私と向き合うことになるのよ、ルニシア。</color>+<color=#00CCFF>あなたとかくれんぼに勤しむのも一興かもね、全ての取り返しがつく前に。</color>

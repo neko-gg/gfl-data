@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:装甲列車、司令室内にて。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:それで……それでどうしたの！？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4 SOPMOD IIMod(0)||:期待に満ちた顔で袖を引っ張らないで。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO、どうしたの？+なんでいきなり途切れちゃったの？
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:残りの記憶の欠片はまだ処理中よ。//nあんたの「バナナ」、かなり熱くなってるみたいだけど。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:「バナナ」、もっと頑張って！
+()<Speaker>指揮官</Speaker>||:アンジェを追っていたのは、私たちだけではなかったようだね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:指揮官もアンジェさんを探していたんですか？+でもあの時、グリフィンはすでに撤退していたんですよね？
+RO635(0)<Speaker>RO635</Speaker>||:大部分は撤退しましたけど、指揮官はわたしたちを連れて、//nアンジェさんを手助けしに戻ったんです。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:そしてネイトに捕まった。//nやつらから逃れることが出来てなによりだわ。
+()<Speaker>指揮官</Speaker>||:急にROの気持ちがわかったよ……あの時の事は思い出したくないんだ……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:指揮官を助け出すの、本当に大変だったんだから！+しかもあいつら、それ以来ことあるごとにちょっかい出して来やがって……//nあぁ、ムカつく！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ネイトもますます強くなってきてる。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:この素体を見て、よからぬ考えを起こさないでもらえると助かるんだけど。
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:……お喋りはそこまで。+残りの欠片はまだなの？
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:処理中よ……外の小隊の通信が活発になってるわ。何かあったみたいね。
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:指揮官さま、敵に動きが！偵察小隊からの報告を送っておきました！
+()<Speaker>指揮官</Speaker>||:わかった。各小隊へ告ぐ、//n戦闘を命じられた人形は戦闘チャンネルに接続せよ。//n弾薬を3セット配給する。+M4。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:了解。すでにメンタル演算はツェナープロトコルへ移行、接続完了しています。
+()<Speaker>指揮官</Speaker>||:カリン、作戦警告を発令、後方人員は交戦エリアより撤退。+重装部隊の視界確保を最優先に。//n全小隊は命令なしに発砲してはならない。
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:はい！+UMP45さんより通信です、転送します！
+()<Speaker>指揮官</Speaker>||:開いて。
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>指揮官、思い出話の邪魔はしたくなかったけど、軍の部隊が凄まじい速度で接近してるのは分かるわね？</color>+<color=#00CCFF>他の作戦小隊は予定の配置についたわ、命令を。</color>
+UMP45Mod(0)<Speaker>指揮官</Speaker><通讯框>||:404小隊は列車内で待機、AR小隊が合流する。
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>404了解。</color>
+()<Speaker>指揮官</Speaker>||:RO、軍の装甲列車は動いた？
+RO635(0)<Speaker>RO635</Speaker>||:まだです。//nセンサーによれば、大型熱源は依然タリン市内に留まっています。
+()<Speaker>指揮官</Speaker>||:威力偵察か。//n私たちが停車している目的を探っているんだ。+となれば、こちらもある程度は留保すべきだね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:確かに。彼らは列車が故障しているとは知りません。
+()<Speaker>指揮官</Speaker>||:M4、RO、それからダンデライオン、残りの作業を進めて。+SOP IIとAR-15は404小隊と合流後、予備部隊として防御支援を。+出来るだけ火力を抑えて軍の部隊を殲滅するんだ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:了解。SOP II、行くわよ。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:全て準備完了しています。
+()<Speaker>指揮官</Speaker>||<黑点1>:よし、あとの事は指揮システム上で話そう。
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:外にて。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:やっと来たわね。+2人だけなの？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:M4とROは別件に当たってるわ。//n私たちは予備部隊だそうよ、指揮官が不用意に発砲するなと。
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:そういった心配は、自分たちの小隊に向けるべきね。//n404は常に利益第一、一発の弾薬さえも無駄にはしないわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ならいいわ、装備と弾丸をチェックしておいて。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:へぇ～、これが404小隊かぁ！+謎の小隊と一緒に戦えるなんて、なんだか興奮しちゃうな！
+G11(0)<Speaker>Gr G11</Speaker>||:えぇ……+ずっと前に協力したことあったじゃん……+雪山でさぁ……
+HK416Mod(0)<Speaker>416</Speaker>||:黙りなさい。+あの時のことなんて、とっくに忘れてるわよ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:いっつもすれ違ってる気がするんだよね。//nでも416は覚えてるよ、グリフィンが撤退した時！+楽しかったよね～！今回も前みたいに、//n軍をギッタンギッタンのコテンコテンにしてやろう！
+HK416Mod(0)<Speaker>416</Speaker>||:あの時ね……
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:あら、グリフィンじゃ色々とお愉しみだったんじゃない？
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:まぁね、誰かさんが砲弾に当たって焼却炉行き直前だった頃の話よ。+私がグリフィンの人形を連れて敵を防いだおかげで、//nあんたは助かったんだから。
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:そうだったかしら？どうりで覚えてないはずだわ。
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:チッ、404に戻るんじゃなかったわ。
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:後悔するのが、ちょっとばかり遅かったみたいね～
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:昔話は結構だけど、そろそろ任務について話しても？
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:もちろん、大歓迎よ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:チッ……前線の状況は？
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:情報は全てネットワーク上に共有済みよ。敵は自律部隊。//n恐らく、こっちの防衛線と火力位置を偵察するのが目的ね。+第一波は80の方角、距離にして約3000ｍ。高速で接近してる。//n予想ではあと10分程度でこちらの最前線に接触するわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:取るに足らないわね。+唯一心配なのは、列車の故障により立ち往生してるのを軍に知られる事。//nこちらが先手を取れるのはたったの5分。//nやつらが今タリンを出発したら、私たちに勝算はないわ。
+G11(0)<Speaker>Gr G11</Speaker>||:じゃあなんで相手はすぐにでも出発しないの？
+HK416Mod(0)<Speaker>416</Speaker>||:さっきの戦いで、グリフィンに恐れをなしたんでしょ。+こっちの状況を確認できない限り、不用意には動かないはずよ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:その通り。+装甲列車の修理はまだ完全には終わってない。//n自律部隊が近づく前に殲滅するわよ。+9、予定完了時間は？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:あと30分くらいで修理が終わるよ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:聞こえたわね。+少なくとも30分は持ちこたえるわよ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:分かった。正面は指揮官が解決するわ。//n私たちは遊撃部隊として、防衛線の両側から零れた敵を拾うわよ。+異論ないわね？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:ないわ。9とG11は列車に残って引き続き修理を。//n416は私と遊撃部隊に加わって。
+HK416Mod(0)<Speaker>416</Speaker>||:了解、せいぜい可愛がってやろうじゃない。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:それじゃ、さっそく出発だ！
+()||<黑点2><BIN>10</BIN>:

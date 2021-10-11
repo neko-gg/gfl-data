@@ -1,0 +1,77 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>229</BIN><Night><黑屏2><BGM>BGM_Room</BGM>:数分後。
+HK416Mod(0)<Speaker>416</Speaker>||:G11、なに後ろでグズグズしてんのよ！？
+G11(2)<Speaker>Gr G11</Speaker>||:壁の記号に見覚えがあるって思っただけだよ、なんで怒鳴るのさ。+さっきからあったんだけど、どんどん増えていく……//nなにかの危険信号なんじゃ……
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:この交差した三角形の真ん中に点のあるやつ？+わたしにもよく分かんないや……
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:何を象徴してるかは謎だけど、一つだけ確かなのは、//n私たちが重要なものに近づきつつあるということ。+9、イントゥルーダーの位置はまだ追跡できる？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:位置の特定はできるけど、周囲のエリアがぜんぶ封鎖されちゃってるから、//n基地の主電源を起動しないことには、たどり着けないみたい。
+HK416Mod(0)<Speaker>416</Speaker>||:まずは動力室を探さなくちゃいけないってこと？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:その必要はないかな……//nわたしたち、もう一つの入口から動力室に近づいてってるから……
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:なんて偶然なのかしら。//nまるでイントゥルーダーによって、動力室に誘い込まれてるみたい。
+()||:UMP45は真っ暗な廊下の先を凝視した。//n地図上では、前方に動力制御室が控えている。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45姉、動力室のほうに、いくつか鉄血信号を検知したよ、それと……
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:それと？
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:ネイトっぽい信号が2つ……+でもぜんぜん動いてないみたい。通路内で見た鉄血の残骸と似てる。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:なるほど……共倒れしたのかもね。+警戒を続けて、距離に注意。+416、私と入口のチェックを。
+HK416Mod(0)<Speaker>416</Speaker>||:オーケー、門は既に破壊されてるようね。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:誰の仕業か知らないけど、助かったわ。
+()||<BIN>228</BIN><黑屏2>:45と416は、壊れかけた扉をそっと押し開き、//n警戒しながら部屋へと足を踏み入れた。//n9とG11も、音を立てずにその後に続く。+404小隊が室内を見回すと、案の定、//n制御室に黒衣を纏った2体のネイトが佇んでいた。//nネイトを取り囲むようにして、数体の鉄血人形が立っている。+ネイトと鉄血は俯いたまま微動だにしない。//nまるで操られているパペットのように。
+()<Speaker>UMP9</Speaker>||:変なの……
+()<Speaker>416</Speaker>||:G11、そんなにくっつかないで、うまく狙えないじゃない！
+()<Speaker>Gr G11</Speaker>||:だ……だって……見るからに怖いんだもん……+もしいきなり動き出したら……！
+()<Speaker>UMP9</Speaker>||:シッ―……静かに……縁起でもないこと言わないで！
+()<Speaker>UMP45</Speaker>||:……戦闘中に互いへ強制侵入したのかしら？+両方同時にフリーズしてる光景なんて初めてよ。+ついにネイトが出たわね。記録の中の装備とは全く違うみたいだけど。
+()<Speaker>UMP9</Speaker>||:パラデウスの自律部隊がいないね。ネイトと鉄血だけで戦ったのかな？
+()<Speaker>UMP45</Speaker>||:そうみたいね。+ネイトの装備も不十分だし。この基地、一体何のためにあるの……？
+()<Speaker>416</Speaker>||:ネイトがこの鉄血たちの動きを止めた後に、M16に侵入されたとか？
+()<Speaker>Gr G11</Speaker>||:なんかマトリョーシカみたい……難しすぎる……
+()<Speaker>UMP9</Speaker>||:45姉、予備電源はまだ作動してるよ。//n閉回路システムに切り替えれば、反逆の居場所がわかるかも。
+()<Speaker>UMP45</Speaker>||:閉回路システムしかないの？
+()<Speaker>UMP9</Speaker>||:うん。この基地、信号遮蔽が敷かれてるの。//nだからここからじゃ、指揮官たちとは連絡がつかない。+それと同じで、反逆が遠くにいたらスキャンできないし、通信も届かない。+でも閉回路システムは基地内の線路だから、遮断の影響を受けないんだ。+とりあえず試してみよっか？
+()<Speaker>UMP45</Speaker>||<黑屏1>:今すぐお願い。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>229</BIN><Night>:待っててね……ちょっと時間がかかるかも。
+HK416Mod(0)<Speaker>416</Speaker>||:反逆はともかくして、本当に敵のど真ん中で電源を入れるつもり？
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:動力がなかったら、次の扉はあなたが持ち上げてくれる？
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:動力を起動して、いきなり敵に包囲されたらどうするの？
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:私の記憶じゃ、昔のあなたはそこまで猜疑的じゃなかったはずだけど。
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:この基地、何だかおかしいわ。+てっきり難攻不落だと思ってたのに、何もかもが想定とは違ってた。
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:状況は得てして想定とは異なるわ。
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:あ、45姉！反逆を見つけたよ！+閉回路テレビから確認できるよ、みんな無事でよかった！
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:通信は届く？
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:これを使えばね！
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:トランシーバー？
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:その通り。基地の通信システムみたい。//n機密性は高くないけど、今はそんなこと言ってらんないし！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:仕方ないわね。もしもし、聞こえる？
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>あーあー、聞こえてる。</color>+<color=#00CCFF>こちら正規軍、身元を明かせ、オーバー。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:こちらUMP45。+そんな冗談が言えるとは、新メンバーとは違って、随分と余裕のようね。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>なんだ、UMP45じゃない。</color>+<color=#00CCFF>もう面会は果たしたのね、紹介する手間が省けたわ。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:反逆の尻を二度も拭うことになるなんて、//n私の人生も捨てたもんじゃないわね。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>なにせ、普段の仕事は誇れたものじゃないものね。ここまで幸せな任務を遂行できるチャンスはそうないわよ。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:ガッカリした？てっきり、私の声が聞きたくて仕方ないのかと思ってたわ。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>指揮官じゃないのは少々残念だけど、急を要する事態なんだし、あなたで十分よ。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:フン、無駄口はよして。+基地内の状況は？限りなく手短に教えて。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>地下2階でパラデウスの研究エリアを発見したわ。そしたら鉄血が押し寄せてきて、何もかもメチャクチャになったってワケ。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:それは知ってる。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>動力が切れたおかげで、2階の部屋に閉じ込められてる。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:アンジェは？
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>他のエリアにいるわ。少し困ったことになってるの。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:敵に包囲されてるの？
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>その方がマシだったかもね。筆舌に尽くしがたいわ。</color>+<color=#00CCFF>とりあえず、私たちをここから出してちょうだい。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:動力を再起動するわ。座標を同期して、そっちに合流する。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>2階の信号遮断が酷すぎて、精確な位置の特定ができない。</color>+<color=#00CCFF>とにかく2階へ来て合流して。大丈夫、このエリアはそう広くないから。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:何とかしてみるわ。
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>そうだ、フリーズしてる鉄血またはパラデウスに遭遇したら、近づかないこと。</color>+<color=#00CCFF>稼働停止している理由はわからないけど、オブジェのように見えて、外界からの刺激で容易く恢復するわ。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:……
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>まぁ、潜入が得意なあなたたちのことだから、大した問題じゃないとは思うけど。</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:電源を起動できたらその場で待機して、すぐに向かうわ。
+()||<SE1>AVG_tele_disconnect</SE1>:通信終了。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<BGM>BGM_Danger</BGM>:えっと……
+G11(2)<Speaker>Gr G11</Speaker>||:あのさ……あたし、先に部屋を出てるから、その後で電源入れてくれる？
+HK416Mod(0)<Speaker>416</Speaker>||:何言ってんのよ、右の3つはあんたの担当だからね。
+G11(3)<Speaker>Gr G11</Speaker>||:そんなにたくさん！？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:時間を無駄にしないで、防御位置につきなさい。//n動力を再起動した後は、このオブジェどもに殺し合いを続けてもらうわ。
+()||:UMP45はジェスチャーで操作パネルの位置を示した。+404小隊のメンバーは、それぞれ出口付近の位置へと移動し、//n45の動作を待っている。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:フー……準備はいい？
+()||<SE2>Alarm</SE2><白屏1>:UMP45は操作パネルを分析し終えると、思いきり動力レバーを引いた。+たちまち世界が明るくなる。+警報とパイプの擦りあう鋭い音が、404の聴覚モジュールを刺激した。//nネイトと鉄血は停止ボタンを解除した映画の如く、//n再び狂ったようにお互いを攻撃し始めた。
+G11(3)<Speaker>Gr G11</Speaker>||<白屏2><BIN>229</BIN>:うわぁぁ――！+本当に生き返った！
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:いいから！今のうちにここを離れるわよ！

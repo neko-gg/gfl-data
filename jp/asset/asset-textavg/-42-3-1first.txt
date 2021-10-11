@@ -1,0 +1,147 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:……
+NPC-Passadou(0)<Speaker>パサドゥ</Speaker>||:「けして言葉にできぬ、この愛が常磐木の如く」+「或いは滄海の如く変わらぬと」+「もし微かに憶えているなら」+「ふと佇む時、どうか私を思い出して」
+()||<黑屏1>:パサドゥの目に涙が滲んだ。//n鼻歌を口ずさみながら、フラフラと闇の中へと吸い込まれてゆく……+やがて、彼女の姿は消えて無くなった。
+()||<黑屏2><BGM>m_avg_labyrinth</BGM><BIN>283</BIN>:……混乱が収まった後、廃棄された劇場にて。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:終わりました。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩、もう椅子の下から出ていいよ……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:……ミズ・パサドゥは？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:消えちゃったよ。Spitfire先輩が、//n劇場のシステムをシャットダウンしてくれたの。+97式散先輩！はやく起きて！
+()||:目を覚ました97式散は、その場に飛び上がった。//n未だに平静を取り戻せずにいる。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩……もう終わったよ。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ミズ・パサドゥは！？
+Spitfire(2)<Speaker>Spitfire</Speaker>;97typeS(2)<Position>0,100</Position>||:立ち去りました。
+SuperSASS(2)<Speaker>Super SASS</Speaker>;97typeS(2)<Position>0,100</Position>||:あれ、全部ホログラム映像だったんだよ……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>;97typeS(2)<Position>0,100</Position>||:つまり、幽霊騒ぎだとか思われてたのは、//n劇場のホログラム映像の暴走だったってこと？+ちぇっ、つまんないの……
+MDR(2)<Position>0,100</Position>;97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:散々ビビってたくせに……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>;97typeS(2)<Position>0,100</Position>||:そっちだって――
+Spitfire(2)<Speaker>Spitfire</Speaker>;MDR(2)<Position>0,100</Position>||:そう単純な話ではありません。
+Spitfire(2);MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:え、なに？彼女、また戻って来たの？
+Spitfire(2)<Speaker>Spitfire</Speaker>;MDR(2)<Position>0,100</Position>||:先ほどシステムに侵入した時、テータ改ざんの記録が見つかりました。+時刻はちょうど、一年前の今日です。
+Spitfire(2);SuperSASS(2)<Speaker>Super SASS</Speaker>||:えっ？！火災と何か関係が？
+Spitfire(2)<Speaker>Spitfire</Speaker>;SuperSASS(2)||:火災の直接的原因とは無関係でしょう。//nですが、他との関連性は否めません……+改ざんは火災発生の15分後に行われています。//n型番<color=#FF0000>AH400の家政用人形</color>が、自身の意識データをアップロードし、//n劇場の制御システムを書き換えようとしました。+しかし、プロセスは中断された。
+Spitfire(2);SuperSASS(2)<Speaker>Super SASS</Speaker>||:アップロード中に、なにか起きたのかな？
+Spitfire(2)<Speaker>Spitfire</Speaker>;SuperSASS(2)||:火災当日、現場で一体何が起きていたのか、//n知っているのはMDRのみです。+MDR、何か心当たりは？
+Spitfire(2);MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:待って、AH400家政用人形？もう型落ちしてる人形じゃん。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ってか、パサドゥ事件に人形なんて出てきてないけどな……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:そういえば劇団って、人形を役者に採用しちゃダメなんじゃないっけ？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:そんな規定あったんだ。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:MDR、物語を続けてください。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:オッケー！話してるうちに、何か閃くかもしんないし……
+()||<BGM>BGM_Empty</BGM>:MDRは再び配信カメラを回し始めた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:みっなさ～ん！おっ待たせしました～！+先ほどは幽霊の追撃から逃れるため、配信を切らざるを得なかったのです。+さて、幽霊劇場にまつわる怪談の続きをお話しましょう……+前回は確か、ミス・ジェーン・ドウが//nミズ・パサドゥそっくりに整形したところまででしたね。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ちょっくら寝て来るわ、MDRの話が終わったら呼んでよ。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:え？先輩……？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:二人の間で揺れていたミスター・アルラーは、さらに激しく動揺し始めた！+かつてミスター・アルラーはミズ・パサドゥを――//nその美しい顔立ちを、そして類稀なる才能を深く愛していた。//nそれは否定しようのない事実だ……+しかし、ミズ・パサドゥの病が進むにつれ、彼女の心は徐々に荒んでゆき、//n加えて劇団に様々な不祥事が続き、//nミスター・アルラーはミズ・パサドゥを遠ざけるようになった。+ちょうどその時、ミス・ジェーン・ドウがミスター・アルラーの傍に現れたのだ。//n優しく淑やかで、思いやりに溢れる彼女は、//nミスター・アルラーの冷え切った心を温めたのだった……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:SASS、肝心なパートになったら呼んでください。辺りを見て来ます。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:待って、あたしも行く。
+SuperSASS(2)<Speaker>Super SASS</Speaker><Shake>||:え……
+()||:SASSは配信に夢中になっているMDRを一目見た。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:MDR先輩……ごめん！
+()||<SE1>RunStep</SE1><黑屏1>:SASSは足早にSpitfireと97式散の後を追った。
+()||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:……劇場裏にて。+SpitfireはMDRの配信を開いた。//n騒がしい解説を聞きながら、三人は劇場の探索を始めた。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||<BGM>BGM_Sneak</BGM>:Spitfire、あの人形、まだここにいると思う？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:えっ！？あの人形、まだ生きてるの……？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:分かりません。ただ当時のニュースには、//n家政用人形に関する情報は一切ありませんでした。+報道によれば、発火して約20分間は、炎の勢いが収まらなかったそうです。+その段階で劇場へと入った家政用人形が、//n無事に戻ってこれるとは思えません。
+Spitfire(2);97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なぁんだ、何か発見したのかと思ったよ。//n人間のメディアが家政用人形なんかに関心持つわけないじゃん。+家政用人形についてのニュースが出てくるのなんて、//nせいぜいグリフィンの匿名掲示板ぐらいでしょ。
+Spitfire(2)<Speaker>Spitfire</Speaker>;97typeS(2)<Position>0,100</Position>||:家政用人形の生死を気にする必要などありません。//nですが人形たるもの、同胞を憐れむ心を捨ててはならない。+さもなくば、滅亡はそう遠くないものとなるでしょう。
+Spitfire(2);97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なにさ、いきなり真面目になっちゃって？+あたしだって、その人形が気になったからついてきたんだよ？
+SuperSASS(2)<Speaker>Super SASS</Speaker>;97typeS(2)<Position>0,100</Position>||:そうそう。その人形、本当にまだ劇場にいるのかな？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:あんな危険な状況で劇場に入るなんて、//nきっと何か大事なことがあったんだよ……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:あの状況でやらなきゃなんないことってなにさ？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:誰かを助けようとしたのかもしれませんね。例えば、ミズ・パサドゥだとか……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:ええっ？！
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<黑屏2><BIN>283</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:知っての通り、ミズ・パサドゥはミスター・アルラーと出会うまで、//n一人で暮らしていた。+一人暮らしの女性は往々にして自立心が強く、//n何事も自分でこなし、他人に頼ろうとはしない。+たとえ解決できない問題でも、ミスター・アルラーの手は借りずに、//n自分でなんとかしようするはずだ。+対してミス・ジェーン・ドウは真逆のタイプの女性だった。//n彼女はミスター・アルラーを頼ることになんの迷いも持たず、//n心の底から彼を慕っていたのだ。
+()<Speaker>コメント</Speaker>||:<color=#FA8072>えーっ、パサドゥのほうこそ他人に甘えるタイプだと思ってた……</color>
+()<Speaker>コメント</Speaker>||:<color=#00BFFF>そうそう。ドキュメンタリーでの料理の解説もメチャクチャだったし。</color>
+()<Speaker>コメント</Speaker>||:<color=#00FA9A>前に二人でインタビュー受けてた時なんか、アルラーを尻に敷いてた！</color>
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ゴホン！とにかく、ミスター・アルラーは//nミス・ジェーン・ドウとミズ・パサドゥの間で揺れていたのだ。+しかしミス・ジェーン・ドウが自らをミズ・パサドゥそっくりに変えてしまうと、ミスター・アルラーに残された最後の理性は完全に砕かれてしまう……+元のミズ・パサドゥさえ消えれば、ミス・ジェーン・ドウは//nその存在を完全に乗っ取ることができる……+そして「ミズ・パサドゥ」はミスター・アルラーの優しい妻であり続け、劇場にも再び「ミズ・パサドゥ」の歌声が響くようになるのだ。
+()<Speaker>コメント</Speaker>||:<color=#8A2BE2>コイツ、ヤバすぎ！</color>
+()<Speaker>コメント</Speaker>||:<color=#B8860B>アルラー結構温厚な感じだし、正直そんなことするようなヤツには見えない。</color>
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ミズ・パサドゥは二人の陰謀を知った。+そこで彼女も彼女自身の計画を立てたのだ……
+()||<SE1>GF_Halloween_Femal_Cry_loop</SE1><BGM>BGM_Empty</BGM>:不意に、一陣の風がMDRのマントを吹き上げた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:誰？今なんか言った？+SASS？+Spitfire？+97式散？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1><黑屏1><Shake>:ってかあいつらどこ行ったんだ！？
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Sneak</BGM>:思うに、火災の際に劇場へと入った人形は、//nミズ・パサドゥを助けようとしたのでは。+ミズ・パサドゥとミスター・アルラーが結婚した後に購入した、//n家政用人形かもしれません。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:でも、AH400はだいぶ古い型番だよね……+パサドゥさんとアルラーさんが結婚したの、そんなに昔じゃなかったはずだよ。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ミズ・パサドゥはずっと一人暮らしだったって、MDRが言ってたし……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><通讯框>||:ミズ・パサドゥは二人の陰謀を知った。+そこで彼女も彼女自身の計画を立てたのだ……
+()||<SE1>AVG_whitenoise</SE1>:突如、MDRの配信が途切れた。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……配信が途切れました。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なんでいっつもこれからって時に途切れるの？！+ミズ・パサドゥの計画ってなんなのさ？ちゃんと最後まで話してよね！？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩、そう焦らない……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:この辺りの電波が悪いのかもしれません、先へ進みましょう。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ここ、なんにもないじゃん！//nどこもかしこも燃やされて真っ黒だし、不気味すぎるよ……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:パサドゥさんの部屋にも、空のクローゼットしかなかったね……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:確かに、何の手がかりも残されていませんね。道具部屋に行ってみましょう。
+()||<黑点1>:三人はさらに劇場の裏へと進んでいった。
+()||<黑点2><BGM>BGM_Empty</BGM>:数分後、MDRも恐る恐る劇場の裏へと駆け込んだ。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<BGM>GF_20HW_Scene2</BGM>:SASS！Spitfire！97式散！+どこにいるの？隠れて脅かそうったって……
+()||:返事はない。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:まさか私の配信中に、一人ずつ消えていったんじゃ……？+となると、次は私……？+やめてよ……誰か通信に応えてよ！
+()||<SE1>GF_Halloween_Wind_loop</SE1>:静寂の中、誰かが溜息をついた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><Shake>||:だ、誰？！
+()||:……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:97式散！隠れて私を驚かす気だな！？+やめろよな！いい加減出てこいってば！
+()||:……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:に、逃げるなよ！今に見つけ出してやる！
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:声の方向を辿って、MDRは闇の中へと飛び込んだ。
+()||<黑屏2><BIN>88</BIN>:……道具部屋にて。+かつて置かれていたはずの演劇道具は、もうほとんど残っていない。//nグリフィンが寄付した物資箱が並べられているが、//n中の物資はすでに使われた後だ。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:やっぱり何の収穫もないじゃんか……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:そうでもないよ。カリーナさんが本当に慈善活動に//n取り組んでたって分かったし……+劇場再建のお手伝いをするって言ってたけど、//n私たちの物資、ちゃんと届いてたんだね。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:それは確かに意外だわ……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:どうやら、家政用人形は火災の後で処理されたようですね。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:所有者がちゃんと素体を安置してくれてると良いけど。+あれだけ古い型の家政用人形に、//nこんな勇気があっただなんて凄いよ……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:ちゃんと直せたらいいな……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:何か変です。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:どうしたの？
+()||:SpitfireはMDRのアーカイブを見返した。
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:この家政用人形の正体について、とある考えが浮かびました。
+()||<黑屏2><BIN>18</BIN><Night>:……ミズ・パサドゥの部屋にて。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:はやく出てこいよ！まだかくれんぼするつもりなの！？
+()||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:……聞こえたぞ！そこだな！？
+()||:MDRは思いきりクローゼットを開いたが、中には何もなかった。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:はっはーん、随分と隠れるのが上手だな！ならこの後ろはどうだ？！
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:MDRはクローゼットをどかした。
+()||<黑屏2><BIN>9</BIN>:クローゼットの後ろには、とある部屋が隠されていた。+微かな光を頼りに、MDRは部屋の隅に//n一人の人形が横たわっていることに気づいた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:97式散？あんただろ！？こんなとこで寝てんの！？+SASSとSpitfireは？
+()||:落ち着きを取り戻したMDRは、人形に近づいて、軽く揺さぶってみた。+人形に反応はない。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:マジで？グッスリじゃん！
+()||<SE1>AVG_Rain2</SE1><白屏1>:（雷）+稲妻の光が、その人形の姿を照らした。
+()||<白屏2>:それは焼け爛れた見知らぬ人形だった。//n見るも無残な躯体は、ボロボロのスカートを纏っている。
+()<Speaker>MDR</Speaker>||<SE1>Stop_AVG_loop</SE1><黑屏1>:<size=50>ギャアアアアアアアアァァァ――！！！</size>
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏2><BIN>88</BIN>:おそらく、その人形こそがミス・ジェーン・ドウです。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position><Shake>||:ハァ！？ンなワケないじゃん！+人形が人間と役者の地位を競うかぁ！？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:ですがこれなら、ミス・ジェーン・ドウが//nミズ・パサドゥの容貌を持っていたことに説明がつく……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:特定の人間の顔を模倣するのって、違法なんじゃないの？+確か、メチャクチャ重い罪に問われるとかなんとか……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:だからこそ、ミス・ジェーン・ドウの存在を知られてはならなかった。//nミズ・パサドゥとミスター・アルラーを除いて。+劇場のスタッフ全員の記憶から、//nミス・ジェーン・ドウの存在が抜け落ちていたのも納得がいきます。+なぜなら、彼らはそもそもミス・ジェーン・ドウに会っていなかった。//n言葉を変えれば、ミス・ジェーン・ドウに会った時、//nそれがミス・ジェーン・ドウだと気づいていなかったからです。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:となると、パサドゥさんは最初からジェーン・ドウさんの存在を知っていて……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なにせ、彼女が自分で作ったから……
+()||:ギャアアアアアアアアァァァ――！！！+場の重たい空気が、MDRの悲鳴によって破られた。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:MDR先輩？！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:またミズ・パサドゥが出てきたの？！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:声は向こうからです！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||<SE1>RunStep</SE1><黑屏1>:MDR先輩！+待ってて！
+()||<黑屏2><BIN>70</BIN><Night>:……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:MDR！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:MDR先輩！
+()||:三人はMDRが見つけた部屋に入った。MDRは隅に縮こまって震えている。+彼女の視線を追って、三人は床に横たわる人形の残骸に気づいた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><Shake>||:ギェェェェェェ――！！！に、人形がぁぁぁぁ！！！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:……MDR、アンタもはやグリフィンの恥だよ、恥！
+()||:Spitfireは人形に近づき、詳しく調べ始めた。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:型番AH400の家政用人形。ミス・ジェーン・ドウを見つけました。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:え、なに？その人形がジェーン・ドウ？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:Spitfire先輩が、ジェーン・ドウさんはパサドゥさんの人形なんだって。+パサドゥさんが病気になって舞台に上がれなくなったから、//n人形を違法改造して、自分の代わりに主演させてたの。+でも、なんでジェーン・ドウさんがここに？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:もし火災の当日、舞台にいたのがミス・ジェーン・ドウだったら？
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ちょっとちょっと――全部が全部しっちゃかめっちゃかになってきたよ！？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:じゃあパサドゥはどこにいたのさ！？//nダメだ、メンタルがグチャグチャになってきた……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:MDR、火災の当日、一体何が起きていたのです？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:最初から整理するよ。パサドゥはアルラーとジェーン・ドウの陰謀に気づいた。+そこで、自分にとって特別な意味を持つこの劇場で死ぬことにした。+公演の自分のパートになると、彼女は舞台に火をつけた。+予期せぬことが起きて、ジェーン・ドウはすぐ劇場から逃げたんだけど、//nアルラーは急に後悔して、パサドゥを助け出そうとした。+観客も劇場スタッフも逃げおおせたけど、//nパサドゥとアルラーだけが劇場に残った。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:ストップ。パサドゥをすべてジェーン・ドウに置き換えてみてください。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:……ジェーン・ドウは舞台に火をつけ、アルラーは彼女を助けようとした。+観客とスタッフは全員逃げ出せたけど、//nジェーン・ドウとアルラーだけが中に残った。+うーん……状況的には問題ないけど……肝心のパサドゥは？
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:……家政用人形じゃ、人間に危害を加える権限はないよね？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:な、ないと思う……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:今はまだ推測にすぎません。+この子のメンタルに入れば、何が起きたのかハッキリするでしょう。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<黑点1>:おっ、それ良いアイディア！+配信を見てくれている皆さん！+なんと、ホコリを被っていた未解決事件に新たな手掛かりが！+たった今、劇場の隅で人形の残骸を発見しました！+彼女はなぜここに？//nまさか、彼女こそ姿を消したミス・ジェーン・ドウなのでしょうか？//nパサドゥ事件とは一体どんな関わりが？+さっそく、彼女のメンタルに入ってみたいと思います！

@@ -1,0 +1,26 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:……装甲列車内にて。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:重装部隊が至近距離射撃を始めたわ。//n追撃してきた軍の自律部隊に、生き残りはいないでしょうね。+全員乗車した？
+HK416Mod(0)<Speaker>416</Speaker>||:危機一髪ね、危うく乗りそびれるところだった。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:え？そうかな、せいぜい10ｍくらいの距離でしょ？
+HK416Mod(0)<Speaker>416</Speaker>||:普通の人形は10ｍもジャンプできないものなの。//nあんたという例外を除いて。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:……よし、全員乗れたみたいね。+整備室で弾を補充するわよ。
+()<Speaker></Speaker>||<黑屏2><BGM>m_avg_casual</BGM>:人形たちは整備を終えた……
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45姉、おかえり！お疲れ様。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:ホントに疲れたわ。//n404が激戦続きだなんて、一体いつから？
+HK416Mod(0)<Speaker>416</Speaker>||:少なくとも報酬はもらえてるじゃない、何が不満なの？
+G11(0)<Speaker>Gr G11</Speaker>||:このボロ列車、やっと発車したのか……+さっきまで爆発音がどんどん近づいてたから……//nてっきりここが最後の寝床になるのかと思ったよ。
+HK416Mod(0)<Speaker>416</Speaker>||:あんたね、ずっと車内にいたんでしょ？+なんなのよ、その生死を賭して戦ったみたいな言い方は。
+G11(3)<Speaker>Gr G11</Speaker><Shake>||:うぁぁ……416、ほっぺたひっぱらないでよぉ！//nあたしだって一生懸命、修理を応援してたんだから！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:この列車が走れるようになって良かった。//nじゃなきゃ、残りの距離を徒歩で進むことになってたわよ。+9、よくやったじゃない。
+UMP9Mod(0)<Speaker></Speaker>||:UMP9は自分の後ろ首に触れた。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:えへへ、カリーナや、手伝ってくれた人形たちのおかげだよ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:そうね。ただし、今度時間をオーバーしたら、//n次のメンテナンスで、G11とメンタルコアを交換してもらうから。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:え……！
+HK416Mod(0)<Speaker>416</Speaker>||:最高に面白そうじゃない、その日を楽しみにしてるわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:指揮官から通信よ……+了解。+みんな、補充を終えたら司令室に集合よ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:その「みんな」って、私たちも含まれてるの？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:もちろん、404小隊も全員来てほしいそうよ。//n次の任務に関わる事なんだとか。+10分後に作戦会議を始めるわ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:なら、損傷したダミーを修理でき次第向かうわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:他のメンバーは私と行きましょう。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:OK！みんな、また後でね！

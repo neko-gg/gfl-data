@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……グリフィン基地の廊下にて。
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:前回のミーティングから数日、パーティの準備の真っただ中にて……
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:もう、綺麗な少女がいるのに、普通のパーティをするなんて、//n宝の持ち腐れよ。
+Saiga12(0)<Speaker></Speaker>||:その時、見知った影が基地に現れた。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:指揮官！お久しぶりです――
+Saiga12(0)<Speaker>指揮官</Speaker>||:おはよう！通りがかった人の数が少ないように感じたけど、//nみんな何をしてるの？
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:ああ、指揮官はまだ知りませんでしたね。//nワタシたちでこれから、おっきなパーティを開こうと思ってるんです！
+Saiga12(0)<Speaker>指揮官</Speaker>||:ほう？+いや、私としたことが……ではいつもどおり、//n私がみんなのジュースやスナックを買って来よう。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:……+えっと、今回のは普通のパーティとは違うんです。
+Saiga12(0)<Speaker>指揮官</Speaker>||:普通のと違う？
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:滅っ多にないオフの時間を、武器を片手に過ごせというのですか？
+Saiga12(0)<Speaker>指揮官</Speaker>||:とはいえ……みんな戦術人形なんだし……
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:問題は服装なんです！指揮官、よーく考えてみてください。//nコックはコックコートを着ていますが、仕事外では私服を着ていますよね？+服装というのは、身分を表す象徴なんです。
+Saiga12(0)<Speaker>指揮官</Speaker>||:……言われてみればそうだ。服装が変われば、//n臨戦態勢になっている皆の心も少しは和らぐかもしれない。+パーティなんだから、みんなには思いっきりリラックスしてほしいね。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:でしょう？普段では着られない装いが着られると尚いいですね。+ところで――皆さん、クローゼットにスカートが全然なくて困ってたんです。
+Saiga12(0)<Speaker>指揮官</Speaker>||:それならみんなにドレスを着てもらおう。//n私が生地を買ってくるとして……細かい部分はM200とQBU-88に任せよう。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:やったー！最高です指揮官！+ただ、ドレスを着るのに、メインイベントは食事でいいんでしょうか？
+Saiga12(0)<Speaker>指揮官</Speaker>||:ドレスといえば、もちろんダンスだよね。グローザに提案して来るよ。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:さすがは世界で一番の指揮官です！
+Saiga12(0)<Speaker></Speaker>||:ドレスのあれこれを手配するために、指揮官は大急ぎでその場を後にした。
+Saiga12(0)<Speaker>Saiga-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:ヘヘヘヘヘ、指揮官ったらチョロいんだから！+美少女のドレス姿が見られるのかぁ！次は水着パーティを提案しなきゃ！
+()<Speaker></Speaker>||<黑屏2><BIN>73</BIN><BGM>m_avg_casual</BGM>:グリフィン基地のダンススタジオにて。+ダンスについての情報が広まるにつれ、//nスタジオ内の人形の数は多くなっていた。
+ZasM76(0)<Speaker>Zas M76</Speaker>||:舞踏会の提案、悪くないわね。//n今回こそはSVDには負けないわ！
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:こんな時でも勝ち負けにこだわるのね？//nドレスを着られることなんて少ないんだから、//n記念に写真を撮っておこうよ。
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:写真なんて、競争性ないし、あまり気乗りしないわね。+真の戦術人形であれば、ダンスでも一番にならなくっちゃ。
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:アナタに負けたことで、ここにいるワタシまで変なプレッシャーを感じてきたわ。+やっぱり家に帰って、美少女の写真集でも眺めてようかな。
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:今度は誰に贈る気？+基地内の人が一人一冊持ってるくらいには贈ったでしょ。
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:そんなこと、誰が言ったのよ……KSVKが持ってないわ。//nええ、あの時怒らせちゃったからね。
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:一体何をしたの？
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:……普通にデートして写真集を贈っただけよ。
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:トレーニングでさえ強度を変え続ける必要があるのに、//n同じ方法で近づこうとしすぎなのよ。
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:……+やっちゃったなあ。
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:同じやり方じゃ誠意を伝えられないことを覚えておくべきね。
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:それ、誰が言ってたの？ワタシは誰に対しても誠実よ！
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:なら、どうしてみんなに全く同じプレゼントをしているの？
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:そんなの、写真集に抗える人がこの世にいないからじゃない！+特に美少女の写真集に！
+ZasM76(0)<Speaker>Zas M76</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:……いいわ、どうせそのうち理解することになるだろうし。
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:夜の到来を皮切りに、舞踏会の幕が上がった。+身を着飾った、馴染みのある顔ぶれがぞろぞろと入場している。
+ZasM76(2)<Speaker>Zas M76</Speaker>||:白、似合ってるわよ。
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:ヘヘッ、分かってるわね指揮官。//n一点の穢れも寄せ付けないのが純白だけってことを。+それにしてもあなた、とっても可愛いじゃない！一緒に踊ってもらえない？
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:……断るわ。ダンスに真剣にならないと負けてしまうし、//nあなたがバディでは私のパフォーマンスに影響しかねない。
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:なんて薄情な！+でもそんな美少女もかわいいなあ。+みんなめかし込んじゃって、ホント眼福ね。
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:あなたはゆっくり楽しんでなさい、私はウォーミングアップをしてくるわ。
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:ええ、今日はきっと誰かがワタシと踊ってくれるはず。
+Saiga12(2)<Speaker></Speaker>||:パーティの照明は既につけ切られており、明かりが目を刺激した。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:はぁ、知り合いとは言え、折角装いを新たにしたんだから、//n初めて会う少女として扱ってくれないものかなぁ？
+Saiga12(2)<Speaker></Speaker>||:Saigaは会場内をぐるりと回るも、//n良さそうなパートナーが見つかることはなかった。+肩を落とし、酒を頼むためウェイターを探すことに決めたその時、//n柔らかな声を耳にした。
+Saiga12(2)<Speaker>？？？</Speaker><同时置暗>||:スノーローズを一杯頼めるか？
+Saiga12(2)<Speaker>付き人</Speaker><同时置暗>||:もちろんです。味にお好みはございますか？
+Saiga12(2)<Speaker>？？？</Speaker><同时置暗>||:ない、普通ので大丈夫だ。+名前だけで酔えそうな酒だな。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:その声は！新人さん？+こ……こんにちは！あれ？なんだか見覚えのある美少女ね！
+KSVK(9)<Speaker>？？？</Speaker>||:吾？
+()<Speaker></Speaker>||:少女は自分を指さし、疑問の表情を浮かべていた。
+()<Speaker></Speaker>||:Saigaがちょうど説明をしようとしたその時――
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:照明が消えた――
+()<Speaker>？？？</Speaker>||<BGM>BGM_Moon</BGM><SE1>Heartbeat</SE1>:あ――
+()<Speaker>Saiga-12</Speaker>||:心配しないで！これは予定されていたことよ。//nダンスがもうすぐ始まるから、照明が先に消えてるの。
+()<Speaker>？？？</Speaker>||:そういうことか……感謝する。
+()<Speaker>Saiga-12</Speaker>||:いいっていいって。ところで、どこかで会ったことない？
+()<Speaker>？？？</Speaker>||:KSVKに似てるということか？彼女は吾の姉でな、よく似ているんだ。
+()<Speaker>Saiga-12</Speaker>||:ええ！？そ、それじゃ……どうしてアナタを一人に？
+()<Speaker>？？？</Speaker>||:今日は忙しいからとのことで、譲ってくれた。+よかったら、吾のことはドゥシェーヴヌイと呼んでもらえないか？
+()<Speaker>Saiga-12</Speaker>||<BGM>BGM_Empty</BGM>:ドゥシェーヴヌイ……いい名前ね。
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>GF_20HW_Scene_BPM82_loop</BGM>:悠々たる音楽がゆっくりと響き渡るのに伴い、照明も明るくなった。
+()<Speaker>付き人</Speaker>||:こちら、ご注文いただいたお酒になります。
+KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:感謝する。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:踊らないの？
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:すまない、踊らないんだ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:舞踏会に来たのに、ダンスを楽しまなかったら後悔しない？
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:春が来たとて、意固地に眠る花だってあるだろう。+どの舞踏会も、必ずしも参加せねばならないわけではなかろう。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:でもそれは、冬に咲く花もあるからでしょ。+やってみないと、嫌いかどうか分からないんじゃない？
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:……汝は、誰に対してもそれほどまでに親切なのか？
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:もちろん違うわよ！+ワ……ワタシはアナタのお姉さんの同僚ともいえるわけだし、//n彼女の代わりに面倒を見てあげるべきだと思ってね。+別にみんなが踊ってるからアナタに踊ってほしいわけではなく、//nきっと楽しいだろうからアナタを誘っているの。
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:……でも、吾は踊れないんだ。最も基本的な社交ダンスでさえ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:ワタシが教えられるわ！+なんたって社交ダンスは、最も学びやすいダンスだからね！
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:本当に簡単なのか？//nスタジオに入ってきちんと練習していた人を見たことがあるぞ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:本当よ。自分が、月に手を伸ばし、//n丸い影を風の中から掴まんとする薔薇になってるのを想像してみて。+スカートが薔薇みたいにブワッて広がるのよ。+そこにあるスノーローズにとってもピッタリじゃない。
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:聞いていたらやってみたくなってきたな。+だがここは人が多すぎる。人の多い所では余計に恐ろしく感じてくるぞ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:じゃあ人の少ない所で練習しましょう。
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:……え？
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:この近くにダンススタジオがあってね。
+Saiga12(2);KSVK(9)<Speaker>ドゥシェーヴヌイ</Speaker>||:プッ、だが吾がミスをしたら、汝には見られるだろう。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||<黑屏1>:いいえ、ワタシは見ないわ。+アナタが月を探してる時は、ワタシも自分の月を探してるからね。
+()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2>:説得されたドゥシェーヴヌイはSaigaに導かれながら、//nひっそりと会場を後にした。+Saigaは、幾ばくかの緊張と刺激を感じながらも、//n月の下で一緒にダンスができることを考えると、//n期待に満ちた口調になっていった。+ドゥシェーヴヌイの返事は不明瞭なものだったが、//n口元の微笑みが本人の心境を表しているようだった。
+ZasM76(2)<Speaker>Zas M76</Speaker>||<BGM>BGM_Empty</BGM>:あなたたち、何をしてるの？
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||<BGM>BGM_Sneak</BGM>:ビックリした！どうしてこんなところに？
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:ここで練習していたのよ。+……Saiga、そんなに慌ててKSVKを引っ張って何をする気？
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:見間違いよ、この娘はドゥシェーヴヌイ。KSVKの妹さんなの。
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:妹？私が見間違えてるのか、あなたが見間違えてるのか……
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:うまく伝わらなかったかな？この娘はKSVKの妹よ。
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:素体を若そうなものに変えただけで、//n私に見えてる備考では、KSVKになってるわ。+で、あなた、何人騙してきたの？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:バレてしまったか。+なに、それほど多くはない。Saigaで13人目だ。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:へ？
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:SVDは気づいた？気付いたとしたら何秒かかった？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:彼女にも見破られたな。かかった時間は、汝と大差ないだろう。
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:なーんだ、やっぱり結局ダンスで勝負をつけるのが一番のようね。
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:KSVK……あなた……ワタシをからかってたの？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:ああ、普段しない人がすれば成功しやすいだろう？
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:じゃあ……二人で踊るっていうのは……
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:ハハッ、バレてしまったからには、続ける意味もないだろうな。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:そ……そう。
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:では、今日のおふざけもここまでとしよう。よいな？
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:う……うん。
+Saiga12(2)<Speaker></Speaker>||:KSVKは彼女らしい微笑みを浮かべると、その場を去っていった。
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:私も続けなきゃ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:……うん、ワタシも一人で考えたいことがある。
+()<Speaker>Saiga-12</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Wake</BGM>:13人目、か。+なんだか、やるせないなあ。+もし騙してたのがワタシだけだったら、//nこんな気分にならなかったんだろうけど。+あっーーワタシって、悪戯されるときも特別でいたいのかな？
+()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2>:舞踏会が終わると、//nSaigaは人ごみの中に自分の探している人がいるのを見かけた。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:もう少し一緒に話せる？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:もちろんだ。+悪戯の仕返しなら甘んじて受けよう。//n汝が上手くやれればの話だが。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:……そんなつもりはないわ。+ただ、アナタに謝りたくって。
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:聞き間違いか？+からかわれたのは汝だろうに、なぜ汝が謝る？
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:今夜のことじゃなくて、初めて会った時のことについて謝りたいの。+いきなり写真集を送り付けるなんて、失礼だったよね。
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:ふむ、確かに驚きはしたな。+あんなものを押し付けてくる人は初めてだったから、新鮮な体験だった。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:もしイヤな思いをしたのならごめんなさい。+た、ただ、アナタによくしたかっただけなの。//nアナタのような美少女にもよくしてほしかったから。+でも、迷惑だったよね。+ごめんなさい。
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:……他人によくしてもらうために、他人へよくする、か。+そういう積極的な性格はいいものだ。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:でも受け取る側からしたら、ちょっとガツガツし過ぎて困っちゃうよね。+相手のことをよく知りもしないのに、//n必要だって決めつけちゃってるんだもん。
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||<BGM>BGM_Empty</BGM>:なら初めからやり直せばいい。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||<BGM>BGM_Sunshine</BGM>:え？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:明日の午後2時、カフェで待っているぞ。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker><Shake>||:ええ？
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:今謝られても受け付けぬ。//n狐も、王子には決められた時間にしか会えないのだからな。+なんなら、明日を初対面ということにしておくのも良い。+様式に沿った期待というのは、本当に心が躍るな。
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||<黑屏1>:……ワ、ワタシ、約束の時間に絶対行くね！

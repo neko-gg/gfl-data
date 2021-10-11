@@ -1,0 +1,5 @@
+ACR(0)<Speaker>ACR</Speaker>||<BIN>8</BIN>:指揮官、他に私にできることはありませんか？
+()<Speaker>指揮官</Speaker>||:もうないよ、今日のパーティーを楽しんできて。
+ACR(0)<Speaker>ACR</Speaker>||:指揮官は行かないのですか？
+()<Speaker>指揮官</Speaker>||:残りの報告を処理したら行く。
+ACR(0)<Speaker>ACR</Speaker>||<黑屏1>:ではここで待たせてください……せっかくの戦闘のない日なので、指揮官と一緒にいたいのです。

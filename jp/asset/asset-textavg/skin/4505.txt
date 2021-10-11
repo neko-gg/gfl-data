@@ -1,0 +1,98 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()<Speaker>M4A1</Speaker>||<BIN>138</BIN><黑屏2><BGM>BGM_Room</BGM>:……
+()<Speaker></Speaker>||:藤蔓の形をしたガーターリングを嵌めると、//nM4は鏡に向かい、メイクを丁寧にチェックした。
+M4A1(7)<Speaker>M4A1</Speaker>||:よし！+完璧ね。
+M4A1(7)<Speaker>M4A1</Speaker>||:（頑張れ、M4！）+（……あなたならできるわ！）
+M4A1(7)<Speaker></Speaker>||<黑屏1>:戦場に向かう前のように自分を奮い立たせた彼女は、//nこれから大一番に向かうようだ。+決意に満ちた眼差しを鏡の傍らにある、机に置いた写真に向けた。//n写真には四人の少女がそれぞれ違う表情で映っている。//nその中にははにかむM4の姿もある。
+()<Speaker>M4A1</Speaker>||<黑屏2><黑屏1><BGM>BGM_Empty</BGM>:……+……みんなで映ってる写真があればいいのにな。
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><BGM>BGM_Moon</BGM>:……
+M16A1(1)<Speaker>M16A1</Speaker>||:おおっ！こいつはいい酒だ！
+M16A1(1)<Speaker></Speaker>||:M16は手に取ったグラスを一口に飲み干すと、//n気分よさそうに声を上げた。
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:舞踏会はまだですよ、飲み過ぎないようにしないと。
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:酒を手にした瞬間、舞踏会は始まっているのさ。私にとってはな。+ただ、パーティー用の酒は別にあるんじゃないのか？//nとすると、こいつは一体どこから来た酒なんだ？
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:気に入ってくれたようですね。
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:ん？
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:オホン！そうだ、舞踏会の合間の休憩に、//nステージに上がりませんか？
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:ショーでも披露するのか？
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:いえ、そういう訳では。
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:ならどうしてだ？//nお前が心を込めて用意した//nサプライズの数々が見れるんじゃないのか？
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:みんなで一緒に写……
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:しゃ？
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:あ、な、何でもないです！
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:ん？
+M4A1(7);OTs14(6)<Speaker>OTs-14</Speaker>||:M16。
+M4A1(7);OTs14(6)<Speaker></Speaker>||:グローザが突然現れたことで会話は中断された。//nグローザと小声で会話を交わすと、M16の表情が真剣さを帯び始める。
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:すぐに出発する。
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:M16姉さん？+まさか、敵に動きが？
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:敵？まさか。//nパーティーの予備の酒を狙ってる奴らがいるらしくてな、//n私が行って守ってやらないといけないんだ。
+M4A1(7)<Speaker>M4A1</Speaker>;M16A1(1)||:ですが、それって……
+M4A1(7);M16A1(1)<Speaker>M16A1</Speaker>||:話は後だ。//nそれまではSOP IIたちと遊んでいろ。
+M4A1(7);M16A1(1)<Speaker></Speaker>||:M16は二杯目のグラスを一気に飲み干した。
+M4A1(7);M16A1(1)<Speaker></Speaker>||:それと、ありがとうな、M4。
+M4A1(7)<Speaker></Speaker>||:グラスを置くと、M16はグローザと共に去っていった。
+M4A1(7)<Speaker>M4A1</Speaker>||:……
+M4A1(7)<Speaker></Speaker>||:テーブルの空きグラスを見つめるM4の心に、小さな喜びが芽生えた。
+M4A1(7)<Speaker>M4A1</Speaker>||:気付いていたんですね、特別に用意したお酒だって。
+M4A1(7)<Speaker>M4A1</Speaker>||:……+でも……SOP IIは？+あの子の性格なら、とっくにこっちに来ててもおかしくないのに……
+M4A1(7)<Speaker></Speaker>||:M4は左右を見回したが、SOP IIの姿は見つからない。
+M4A1(7)<Speaker>M4A1</Speaker>||<黑屏1>:（一緒に参加しようって約束したのに。//nドレスを着るからといって、こんなに遅いはずがないわ。）+……+（近くをぶらぶらしていましょうか。）
+M4A1(7)<Speaker>M4A1</Speaker>||<黑屏2><BIN>96</BIN>:ここがステージだったのね？
+M4A1(7)<Speaker></Speaker>||:あちこち見て回るついでにSOP IIを探していたM4は、//n会場の一端に、先ほどできたばかりであろうステージを見つけた。+舞踏会はもうすぐ始まろうとしており、//nステージ上で数人の人形がダンスの練習をする様がM4の目に入った。
+M4A1(7)<Speaker>M4A1</Speaker>||:他の出し物のリハーサルもここでするのね。+……出し物。
+()<Speaker></Speaker>||<白屏1><BGM>BGM_Empty</BGM>:ステージ上で軽快に舞う人形たちが、//n段々と自分のよく知っている人形の姿と重なり始めた。+リズムの波によって、意識が少しずつ朦朧としてくる。
+RO635(10)<Speaker>RO635</Speaker>||<白屏2><BIN>96</BIN>:「だが待て、何だあの窓から漏れてくる光は？」+「あっちは東、とすればジュリエットは太陽か、昇れ美しい太陽よ！」
+M4A1(7)<Speaker>M4A1</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:ええっ？！
+RO635(10)<Speaker>RO635</Speaker>||:「口をきいた」+「ああ、もう一度開いてくれ、輝く天使よ！」
+M4A1(7)<Speaker>M4A1</Speaker>||:待って、RO。何をしてるの？
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:カットカットぉ！+M4、ちゃんとセリフ覚えておかないとダメじゃん！
+M4A1(4)<Speaker>M4A1</Speaker>||:SOP IIもここに？
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:わたしのことは名監督SOP IIと呼びたまえ！
+M4A1(4)<Speaker>M4A1</Speaker>||:私たちも出し物を用意していたのね？+ところで、さっきの台詞はもしかして……？
+AR15(5)<Speaker>ST AR-15</Speaker>||:『ロミオとジュリエット』です。//nもうあなたがジュリエット役ということに決まっています。
+M4A1(4)<Speaker>M4A1</Speaker>||:そ、そうなの？
+RO635(10)<Speaker>RO635</Speaker>||:M4、もう少し真面目に取り組んでください。//nわたしだってやっとこのことでステージ恐怖症を克服したんですよ……
+M4A1(4)<Speaker>M4A1</Speaker>||:わ、わかった！+……えっと……
+M16A1(1)<Speaker>M16A1</Speaker>||:セリフも覚えていないのか？まったく……//nほら、私に続いて読んでみろ――+「敵はあなたの名前だけ。あなたはあなたよ、モンタギューではなくて」
+M4 SOPMOD II(1)<Speaker>名監督SOP II</Speaker>||:わぁ～M16が読んだ台詞、すっごく少女っぽい！
+M16A1(1)<Speaker>M16A1</Speaker>||:何か言いたいことでも？
+M4 SOPMOD II(1)<Speaker>名監督SOP II</Speaker>||:えっ、ゴホンゴホン！+M4、読んでみて！
+M4A1(4)<Speaker></Speaker>||:えっとえっと……+「敵はあなたの名前だけ。あなたはあなたよ、モモモ……」
+RO635(10)<Speaker>RO635</Speaker>||:「モンタギュー」！
+M4A1(4)<Speaker>M4A1</Speaker>||:「……あ、あなたはあなたよ、モモンガ牛ではなくて！」
+M4A1(4)<Speaker></Speaker>||:……+このような静まり返った瞬間を「舞台が白ける」と呼ぶと、//nメンタル内のデータがM4に告げている。
+M16A1(1)<Speaker>M16A1</Speaker>||:あはははは！モモンガ牛ってなんだよM4？
+M4A1(4)<Speaker>M4A1</Speaker>||:え？
+RO635(10)<Speaker>RO635</Speaker>||:……ブフッ。//nどうやらセリフを覚えるのにもう少し時間が必要なようですね。
+AR15(5)<Speaker>ST AR-15</Speaker>||:ふっ、あんたらしいわ、M4。
+M4A1(4)<Speaker>M4A1</Speaker>||:えっと……ふふっ、あはははは……
+M4 SOPMOD II(1)<Speaker>名監督SOP II</Speaker>||:ちょっと、みんな真面目にやってよ真面目に！
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは丸めた台本で掌を叩いたが、//nふざけた雰囲気を打ち消すことはできなかった。+そしてこの一幕もカメラに収められ、//nみんなのいい思い出となってゆくのであった……
+M4A1(4)<Speaker>M4A1</Speaker>||:フラッシュ、少し眩しいわね……
+M4A1(7)<Speaker></Speaker>||<白屏1>:M4は耐えきれず手で光を遮った。
+M4A1(7)<Speaker>M4A1</Speaker>||<白屏2><BGM>BGM_Empty</BGM><BIN>96</BIN>:メンタル内で見た幻が幕を閉じると、M4はようやくこの白い光が//nステージライトによるものであることに気が付いた。+人形たちもとっくに練習を止めている。
+M4A1(7)<Speaker>M4A1</Speaker>||<BGM>GF_Memorial</BGM>:さっきのは一体全体なんだったの……+でも、あんな劇、あり得るわけないわよね……ははは。+……あれ？
+M4A1(7)<Speaker></Speaker>||:ステージに視線を戻すと、//nそこに立つ見慣れた人形たちがM4の目に飛び込んだ。
+M4A1(7)<Speaker>M4A1</Speaker>||:R、RO？+それにAR-15も！？
+RO635(7)<Speaker>RO635</Speaker>||:あ、M4！
+RO635(7);M4A1(7)<Speaker></Speaker>||:ROと目があると、M4は内心驚いた。//nステージ上の彼女たちが先ほどの幻と重なり始めているのだ。+どうにかして忘れようとしていると、//nこちらに手を振るROが目に入り、M4はステージに上がることにした。
+RO635(7);M4A1(7)<Speaker>M4A1</Speaker>||:うぅ……
+AR15(3)<Speaker>ST AR-15</Speaker>;M4A1(7)||:M4、あんたなんで緊張してるのよ？
+M4A1(6)<Speaker>M4A1</Speaker>||:き、緊張してる私？！
+KSVK(9)<Speaker>KSVK</Speaker>||:力を抜くといい。//n記念すべき時に、こわばってぎこちない姿を残したくはないだろう？
+M4A1(7)<Speaker>M4A1</Speaker>||:写真を撮るの？
+RO635(7)<Speaker>RO635</Speaker>;M4A1(7)||:はい。あなたとカメラテストをして、//n集合写真を撮る準備をしようと思っていたんです。
+RO635(7);M4A1(7)<Speaker>M4A1</Speaker>||:集合写真？まさかあなたたち……？
+AR15(3)<Speaker>ST AR-15</Speaker>;M4A1(7)||:そうだ、それと。+「こっちはそれほど時間はかからない。//n私にいい位置をとっておいてくれよ！」+と、M16が。
+AR15(3);M4A1(6)<Speaker>M4A1</Speaker>||:か、完全に見抜かれてたの……？
+RO635(7)<Speaker>RO635</Speaker>;M4A1(6)||:まぁ、M4は隠し事ができませんからね。
+RO635(7);M4A1(6)<Speaker>M4A1</Speaker>||:うっ、次からは気を付けるわ。
+AR15(3)<Speaker>ST AR-15</Speaker>;M4A1(6)||:そんなところで努力してどうするつもりなの？
+AR15(3);M4A1(7)<Speaker>M4A1</Speaker>||:えっ！？いや、私は……！
+RO635(7)<Speaker>RO635</Speaker>;M4A1(7)||:ふふっ！+あっ、そろそろ時間ですね。
+AR15(3)<Speaker>ST AR-15</Speaker>;M4A1(7)||:M16のやつ、時間はかからないとか言っておいて、//nまだ戻ってこないなんて。それにSOP IIも。
+RO635(7)<Speaker>RO635</Speaker>;M4A1(7)||:もう少し待ってみましょう、その間にカメラチェックもできますし。//n彼女たちが揃ったら、きっといい集合写真が撮れますよ。+M4、あなたはどうおもいますか？
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(7)||:さっきグローザとの話が終わったと思ったら、今度はAR-15か？+はは、ちょうどいい時に戻って来たみたいだな。
+M4A1(8)<Speaker>M4A1</Speaker>||:ええ！では、KSVK、お願いね！
+KSVK(9)<Speaker>KSVK</Speaker>||:了解した。では、並んでくれ。
+M4A1(8)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:各々KSVKのおすすめする位置に立った。+新しい集合写真を想像し、M4はつい笑みをこぼす。
+()<Speaker></Speaker>||<SE1>AVG_Division_Camera</SE1>:KSVKもこの絶好の瞬間を逃すことなく、シャッターを切った。

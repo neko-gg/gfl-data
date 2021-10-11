@@ -1,0 +1,41 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>225</BIN><黑屏2><BGM>10051</BGM>:……
+()<Speaker>エゴール</Speaker>||:なんだと！？……やってくれたな、グリフィンの指揮官め。
+()<Speaker>伝令兵</Speaker>||:どうしますか、大尉。
+()||<SE1>AVG_tele_connect</SE1>:（着信音）――暗号化通信が入った。+エゴールの口角が僅かに上がる。
+()<Speaker>エゴール</Speaker>||<黑屏1>:少しは認めてやろう。//nだが最後に勝つのは、ジョーカーを握るこの私だ。+正面部隊を安全距離まで退避させろ。+クオーツから連絡だ。
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:……列車司令室。
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:ケホッケホッ……指揮官さま、無事ですか……
+()<Speaker>指揮官</Speaker>||:とりあえず五体満足のようだ……ダンデライオンは？
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:私も問題ないわ。
+()<Speaker>指揮官</Speaker>||:運には見放されてなかったようだね……+ダンデライオン、人形たちを隔離壁内に入らせて。+それから、列車の底に爆弾を設置する。//n障害物として徹底的に機能させるんだ。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:もはや、ここから出る気はなさそうね。
+()<Speaker>指揮官</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:任務を達成できれば、出られる機会もあるさ……+まだこっちを睨んでる輩がいる。+AR小隊が沿岸砲を押さえれば、軍を潰すことだって可能だ。+それを終えたら、基地内の問題に取りかかろう。
+()||<BIN>99</BIN><黑屏2><BGM>BGM_Danger</BGM>:もう一方……5分前。
+()||:AR小隊は沿岸へ向かっていた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:目的地まであとどのくらい？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:今の速度なら、あと2分ほどです！
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:気をつけて！テュポーンがまた撃ってきた！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:遠すぎて全然当たんないよぉ！なんで向こうの攻撃は当たるわけ？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:いいから榴弾全部ぶっ放しときなさい！+軽くなった分、速度も上がるかもしれない！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ねぇ、この道、ホントに大丈夫なの？
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:平原続きで身を隠せる場所すらない！//n風力発電機を盾代わりにするしかありませんね！
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:時間がない、もう敵が先回りしてる！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ヤバいヤバい！風車のブレードが落ちてきてる！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:SOP II！はやくルーフから下りて！+危険すぎるわ――！
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:加速よ！+永久防塁に入ってしまえば、装甲火力もこちらには届かない！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:分かりました！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:見て、右！+またテュポーンだ。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:相手も沿岸砲を狙ってる。RO、もっと飛ばして！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:ああぁぁぁ！もうこうなったら！皆さん、掴まっててくださいよ！+振り落とされても知りませんからね！
+()||:AR小隊を乗せた軍用車は、最高速度で//n沿岸砲下の永久防塁めがけて爆走し始めた。+テュポーンの攻撃を避けながら、SOPIIはひっきりなしに近づいてくる//n正規軍車両に榴弾をお見舞いし、失速を余儀なくさせる。+やがて軍より先に永久防塁へ到達すると、//n一同はブレーキを踏むや否や、素早く車上から飛び降りた。+同時に、榴弾を避けていた正規軍車両も、別の入り口前に停車した。+車を降りた兵士が遠くの人形に目を向ける。//n双方は一瞬遅疑するも、迷うことなく防塁の中へと突入していった。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:クッ、奴らの先を越さないと！+中に入ったら、みんなは敵の足止めを。//n私が制御室を奪取する！+ダンデライオン！ルートを教えて！軍の位置を特定するのよ！
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:位置を特定できたわ。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:数は多くないわ、別れて行動しましょう。//n狭い空間なら人形のほうが有利よ！+SOP II、RO、ここで防衛を。AR15は下層の掃討。+これ以上敵の侵入を許さないで！
+()||:そう言い終えるなり、M4は振り返らずに防塁の地下へと入っていった。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:よっしゃ～！早いとこボコボコにしてやりたかったんだよね！
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:その無限に湧いてくる自信が羨ましいわ……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:自信なくして、勝利はあり得ない。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:分かってます。何があろうと、隊長を失望させるわけにはいきません。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:当然ね。行くわ、ここは頼んだわよ。
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:了解しました。

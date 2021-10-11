@@ -1,0 +1,219 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN><Night><BGM>m_avg_casual</BGM>:……暗い宿舎にて。
+()<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:RO、着替え終わったよ！出発しようよ！
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:あれ？どうして誰もいないの……？
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは訝しげに通信機を開くと、ROの残したメッセージに気が付いた。
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>SOP II、わたしとM4は先に会場に行って手伝いをしてるわ。</color>+<color=#00CCFF>着替えが済んだら、直接会場に来て。</color>+<color=#00CCFF>忙しいから、また後で。</color>
+()<Speaker></Speaker>||:メッセージ終了。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:えぇ……
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは手元の二つのグラスに目を落とした。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:ROと一杯飲んでから行きたかったのに……+……+でも――これで邪魔者はいなくなった！えへへへ……
+()<Speaker>RO635</Speaker>||<黑点1>:SOP IIは楽しそうにROのベッドに飛び上がると、//nM4のベッドへと飛び跳ねた。+一面真っ暗闇の宿舎に、SOP IIの笑い声がこだまする……
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:数分後、規則正しいノック音が響いた。
+()<Speaker>？？？</Speaker>||:こんにちは、誰かいますか？お届け物です。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:……だれ？
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIはROのベッドから飛び降りると、入口へと向かった。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:お届け物って？
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||:こんにちは、SOP IIさん。M4さんはいらっしゃいますか？
+MG34(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:M4なら居ないよ、ここにはわたしだけ。
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||:そうですか……+であれば、代わりにM4さんの荷物を受け取っていただけますか？//nすぐに欲しそうにしていたので。
+MG34(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:いいよ！
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは快く荷物受取のサインをした。
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||<黑点1>:ありがとうございます！+私への高評価もお忘れなく！
+()||<黑点2><BIN>82</BIN><BGM>BGM_Empty</BGM>:SOP IIはM4の荷物を宿舎へと運び込んだ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:……結構重いなぁ。中身は何なんだろ？
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:SOP IIは無意識にM4のベッドへと目を向けたが、//n静かにこちらを見つめる抱き枕があるだけだった。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:ちらっと、ちらっと見るだけ……絶対に壊さない！
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIが注意深く箱の蓋を持ち上げると、一枚の紙が目に入った。
+()<Speaker>注意書き</Speaker>||:<Size=55>SOP II！！！開けるな！！！</Size>
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:……
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIはぷんすかしながらも蓋を下ろすと、//nもう一度M4のベッドを見た。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:フンッ、M4め、紙切れ一枚でこのSOP IIを//n止められるとは思わないことだよ？
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP II蓋を持ち上げると、紙を投げ捨てた。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:わぁ～～～M4ってばこんなに沢山お酒買ったの！+いろんなのがある……+これなんて高そう……
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは箱の中から一瓶取り出した。+目を引くラベルが張り付けられている。
+()<Speaker>ラベル</Speaker>||:お願い、SOP II。//n他のはどうしたっていいから、これだけは触らないで。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:……+M4、ここまで予想してたの？！+まぁいいや、他のはどうしてもいいって言ってるんだし。//nじゃ、遠慮なく！へへへ……
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは嬉しそうに箱を漁り始めた。//nピンク色の酒が詰められた瓶に彼女の目が惹きつけられる。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:これって何のお酒だろ？//n今日のわたしのドレスにぴったり……+むぅ～……ナントカカントカチェリー酒？+「適量を守って飲んでください、//n飲み過ぎると幻覚作用が起こる可能性があります」……+へへっ、構うもんか！いただきま～す！
+()<Speaker></Speaker>||:SOP IIはもう待ちきれないといった様子で瓶の蓋を開けると、//nそのままラッパ飲みし始めた。+濃い花の香りが鼻へ抜けると、//nすぐにブラックチェリーと柑橘類の混じった香りが広がる。+その香りの消えないうちに、//n熟成されたカカオの香りと共に、//nほんのり苦いスモーキーな香りが段々と現れる。+同時に、クリーミーさとグレープフルーツの渋みが顔を出し始める……
+()<Speaker>M4 SOPMOD II</Speaker>||:いい気持ち……+ずっとこの感覚に浸ってたい……
+()<Speaker></Speaker>||<黑点1>:SOP IIは無意識に、一口、また一口と瓶に傾ける……
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Moon</BGM>:どのくらい飲んだのか分からなくなった頃、//nSOP IIは段々と素体が軽くなり、空に浮いているような感覚を覚えた。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:わぁ……浮かんでどこに行くの、わたし？
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:えへへ……なんだか楽しい……
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:世界が全部綺麗になってる……
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:わたし、飛んでる……
+()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Empty</BGM>:……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:あれ？ここどこ？+どうして花畑にいるの？さっき会場に着いたはずなんだけど……+服も変わってる？
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:SOP II姫殿下、やっとお越しになりましたね
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;RO635(11)||:え……RO、何言ってるの？それにその恰好は？
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:姫殿下、どうなされたのです？お腹でも減りました？
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;RO635(11)||:えぇ……
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:デザートを用意いたしました。お気に召せば幸いです。
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは目を擦った。
+RO635(8)<Speaker>RO635</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:……SOP II、SOP II！何呆けてるの？
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:気付くと、SOP IIは賑やかな劇場にいた。+華麗な衣装を身にまとった人形たちが会話に興じたり、//nダンスをしたりしている……+目の前に立つROは眉間にしわを寄せながら自分を揺らしている。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:ふぇ、RO、どうしてまた着替えてるの？
+M4 SOPMOD II(1);RO635(8)<Speaker></Speaker>||:ROはデザートを一皿、SOP IIに手渡した。
+M4 SOPMOD II(1);RO635(8)<Speaker>RO635</Speaker>||:なにまた馬鹿なこと言ってるの？//nわたしはずっとこの恰好で会場の設営をしてたわよ。+ほら、受け取って。//nあなたのためにとっておいたデザート。+やっとのことで守り抜いたのよ、//nもう少し遅かったら全部なくなってたんだから。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(8)||:えへへ、ありがとRO。//nでもどうして「姫殿下」って呼ぶのを止めちゃったの？
+M4 SOPMOD II(1);RO635(8)<Speaker>RO635</Speaker>||:……ひめでんか？+もういいわ、無駄話はやめよ。//nわたしは手伝いに行ってくるから、イタズラせずに大人しくしてるのよ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(8)||:うん、わかった！
+M4 SOPMOD II(1)<Speaker></Speaker>||:ROは急ぎ足で去っていった。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:RO、どうして忘れてるんだろ……？+もしかしてさっき見たのは幻だったのかな？
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIはデザートを片手に、また酒を飲み始めた。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BIN>262</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:あれ――ここはどこ？+さっきまでパーティーにいたのに！
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは静かな湖畔を前に、目を丸くした。+先ほどまで高貴で豪華なドレスを着た人形たちが、//n今はどいつもこいつも兎の耳を頭から生やしている。//nまるで絵本から飛び出してきたかのようだ。+SOP IIは目を輝かせながら彼女たちに近づいた。するとその中に、//n大きな風船を手に遠くに歩いてゆく見慣れた人形を見つけた。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:M4！M4もここにいたんだ？
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:そんなにたくさんの風船、どこで見つけたの？
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:SOP II、私はここを去らないといけないの。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:どこに行くの？
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:うんと遠い場所よ……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:ならわたしも一緒に行く。
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:とてもとても遠いところなの……+だからここでお別れよ。
+M4 SOPMOD II(5);M4A1(4)<Speaker></Speaker><Position>0,+400</Position>||:風船に引っ張られ、M4の足が地面から浮き始める。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker><Shake>;M4A1(4)<Position>0,+400</Position>||:行かないで！行っちゃだめだよM4！
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<快跑><SE1>RunStep</SE1>:SOP IIはM4に飛び掛かって彼女をきつく抱きしめる。
+M4A1(7)<Speaker>M4A1</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:……SOP II！放して！
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||<BGM>BGM_Hello</BGM>:あれ？+M4、風船は？
+M4 SOPMOD II(1)<Speaker></Speaker>;M4A1(7)||:SOP IIは困惑しながらも手を緩めた。
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:やっと息が吸えた……+どうしたの、SOP II？いきなり飛び掛かってきたりして。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:だってM4がどっか行くって言うから……
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:私が？どこに？
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:分からないよ。うんと遠い場所だって。+わたしに見つけられないぐらい。
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:……+考えすぎよ。私はここにいるじゃない。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:……うん！
+M4A1(7)<Speaker>M4A1</Speaker>||:大丈夫？私はまだ用事があるから、AR-15たちを探しに行くね。
+()<Speaker></Speaker>||:M4は心配そうにSOP IIを見やると、//n不安そうな足取りでスタジオの方向へと向かった。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:どういうことなんだろう？+さっきからおかしな光景ばかり見るけど……
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:SOP IIは酒を飲んで気を紛らわせようとした。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BIN>269</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:どうしてまた戻ってきたの？！+……+まぁいいや……みんなここにいるんだし。+M4はここでは……風船売りの少女か。ふふふっ……+あっ！ROにもうさ耳が生えてる！//nM16とAR-15はどうなってるんだろ？
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは恍惚とした笑みを浮かべると、人形たちへと近づいていった。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:みんな可愛いね！ハグしようよ！
+()<Speaker>人形</Speaker>||:あっ……はい……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:へへへっ……
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは花畑を駆け巡り、//n目についた人形一人一人とハグを交わした。
+AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:AR-15！ここにいたんだ！
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:SOP II、この花束をM4に渡してもらえる？
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:いいよ！でもAR-15はどこ行くの？
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:……+私は、自分がやるべきことをするだけよ。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:……
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:急いで、SOP II。+M4が待っているわ。//nしっかり守ってあげてね、頼んだわよ……
+M4 SOPMOD II(5)<Speaker></Speaker>;AR15(6)||:悪夢のような情景がSOP IIのメンタルに映し出される。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:いやだ！いやだいやだいやだ！+今度は絶対行かせない！
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIはAR-15の服を鷲掴みにした。
+AR15(3)<Speaker>ST AR-15</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:……あんた、どうしちゃったのよ？
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||<BGM>BGM_Hello</BGM>:ううぅ……AR-15……
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:ど、どうしたっていうのよ？+何があったの？誰かに酷いことでもされた？
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:AR-15がわたしのことを置いて、また一人で勝手に行こうとしたから……
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:そんなことしてないわよ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:見たもん！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:……+記憶が混乱してるだけよ。飲んで少し落ち着きましょ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:うん……
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:SOP IIはAR-15に瓶を手渡した。
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:一緒に飲みましょ、そしたら嫌なこともきれいさっぱり消えるわ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:だったらAR-15はたくさん飲んでよ。//nさっきはすごい悲しかったんだよ……
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:……+はいはい、わかったわよ。飲めばいいんでしょ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:へへっ、これ、M4が買ったお酒なんだ。美味しいんだよ！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:なんですって？あんた、M4が買ったのを――
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:AR-15がたじろいだ一瞬の隙に、//nSOP IIは彼女の顎を掴み瓶を口に突っ込んだ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:よしよし、たーんとお飲み！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:むっ……ぐっ……
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:瓶はすぐに空になり、SOP IIは飲ませる手を緩めた。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:えへへっ……デザート食べてよ！ROがわたしにとっておいてくれたんだ！+二個……いや、一個だけね！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:……
+M4 SOPMOD II(1);AR15(3)<Speaker></Speaker>||:AR-15は地面にへたり込むと、//nそのまま起き上がってくることはなかった。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:食べないの？じゃあ全部わたしのだよ、へへっ……
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:SOP IIは緑色のミント味のビスケットを口に放り込んだ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:もぐもぐ……+爽やかな味……あっ、わたし、また浮いてる！
+()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Boss</BGM>:正面より吹き付ける心地よい風に向かって、SOP IIは走り出した。+彼女が過ぎ去ると、//n木の葉はざわざわと音を立て、花びらが舞い上がる……
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:あはははははは――わたし、すっごく速い！
+()<Speaker>AR-15の声</Speaker>||:待ちなさい、SOP II！
+M4 SOPMOD II(5)<Speaker></Speaker>||:AR-15の叫び声が自身の遥か後ろより聞こえてくる。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:飛んだ！わたし、飛んでる！！
+()<Speaker>慌てている人形</Speaker>||:ウソでしょ、何してるの！？
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIの暴走により巻き起こった風が人形たちの//nスカートをめくり上げ、//nそれによって悲鳴の連鎖が起こる。
+()<Speaker>冷静な人形</Speaker>||:早く奴を止めるんだ――ッッ！！
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:アハハハハハ！！+誰にも捕まらないよーだっ！
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは素早く花畑に潜り込んだ。
+()<Speaker>慌てている人形</Speaker>||:居なくなった！誰か見てない？
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:へへっ、お次はどのビスケットを食べよっかな？
+M4 SOPMOD II(5)<Speaker></Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:SOP IIはピンク色の苺味のビスケット摘まみ上げ、//n口へと放り込んだ。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:もぐもぐ……+……+この感じ……力が漲ってくる……！
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは花畑から這い出ると、//n兎の騎士さまがM4と行き違いになろうとしていた。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:M16！
+M16A1(2)<Speaker>M16A1</Speaker>||:SOP II、どうしてそんな場所から？
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:M16、どこ行ってたんだよ！
+M16A1(2)<Speaker></Speaker>;M4 SOPMOD II(5)||:M16は一瞬呆気にとられたようだったが、//nすぐに爽やかな微笑みで表情を塗り替えた。
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:ああ……M4のために取りに行くものがあってな。
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:わたしに任せてよ！わたしが走るの一番速いでしょ！
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:ははっ、でもこれはM4から任された任務だからな。
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:どうして……
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:そう思い詰めるな、きっとお前にも分かる時が来る。
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:……
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:だから大人しくROと行動してろ、わかったな？
+M16A1(2)<Speaker></Speaker>;M4 SOPMOD II(5)||:M16はいつもと変わらない微笑みでSOP IIの頭を撫でると、//nその場から去ろうとした。
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:……+行かせない。
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:なに？
+M16A1(2)<Speaker></Speaker>||<快跑><SE1>RunStep</SE1>:SOP IIはM16向かって突進し始めた……
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:うおおお――！
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP IIは慣れた手つきでM16の腰をがっちりとロックすると、//nそのまま無理やり持ち上げた。
+M16A1(0)<Speaker>M16A1</Speaker><Position>0,+100</Position>;M4 SOPMOD II(1)||<BGM>BGM_Empty</BGM>:な、なんだぁ！？+SOP II、お前なにしてるんだ？
+M16A1(0)<Position>0,+100</Position>;M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>m_avg_casual</BGM>:絶対行かせない――って、あれ？また戻ってきた……
+M4A1(7)<Speaker>M4A1</Speaker>;M4 SOPMOD II(1)||:SOP II、あなた何をしてるの！
+M16A1(0)<Speaker>M16A1</Speaker><Position>0,+100</Position>;M4 SOPMOD II(1)||:大丈夫だ、M4。
+M16A1(0)<Speaker></Speaker>;M4 SOPMOD II(1)||:SOP IIが困惑した顔でM16をぱっと放すと、//nM4が心配そうに駆け寄ってきた。
+M4A1(7)<Speaker>M4A1</Speaker>;M4 SOPMOD II(1)||:SOP II、一体どうしたっていうのよ。
+M4A1(7);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:……わたしは何でもないよ。これ以上ないってくらい絶好調！
+M16A1(0)<Speaker>M16A1</Speaker>;M4 SOPMOD II(1)||:隠れて大分飲んだみたいだな。
+M16A1(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:えへへ……そんなことないよ……
+M4 SOPMOD II(1)<Speaker></Speaker>||:M4とM16の隙を狙って、SOP IIは//n口に緑色のビスケットを放り込み、逆方向へと走っていった。
+M4A1(7)<Speaker>M4A1</Speaker>||:SOP II――！
+M16A1(0)<Speaker>M16A1</Speaker>||:安心しろよ、M4。//n他のやつが追いかけてくれるさ。
+M16A1(0)<Speaker></Speaker>||<黑屏1>:M16は全て分かっているかのような微笑みで、//nこちらに向かって走ってくる人形を見つめていた。
+()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><BGM>BGM_Empty</BGM>:……騒がしい花畑とは違い、今いる湖は静まり返っており、人の気配がない。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:またここだ……
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIが湖に足を踏み入れると、水しぶきが辺りに散った。//nそれが陽の光を反射して眩しく輝く。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:みんなどこ行ったの？
+M4 SOPMOD II(5)<Speaker></Speaker>||:静かな湖畔から聞こえてくるのは、水の流れる音ばかりだった。+SOP IIは立ち止まり、自分が波立てた水面を睨みつけた。+奇妙な感覚がメンタルに湧き上がる。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:……もう、つまんないの。+ROたち、何してるんだろ？
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは湖の中で腰を下ろし、冷たい水に足まで浸かった。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:……+みんなに会いたいなぁ……+どうしてまだ来ないの？
+M4 SOPMOD II(5)<Speaker></Speaker>||:湖の水も黙りこくる。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:嫌いだな、ここ。+景色は基地より断然いいけど、人形たちにはうさ耳が生えてるし……+それに、みんなもいないし。+……+みんなが恋しいなら、探しに行くしかないね！
+M4 SOPMOD II(5)<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:突如やる気が漲ってきたSOP IIは、湖から立ち上がった。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO——+M4——+AR-15——+M16——
+M4 SOPMOD II(5)<Speaker></Speaker>||:こだました声が、まるでさざ波のように円を描いて広がっていく。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO……M4……AR-15……M16……+ぐすっ……+みんなどこなの？
+M4 SOPMOD II(5)<Speaker></Speaker>||:気がつくと、声が震え始めていた。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:置いていかないで……+一人は嫌だよ……
+M4 SOPMOD II(5)<Speaker>RO635の声</Speaker>||:SOP II――！
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO？ROだ！+RO！わたしはここだよ！
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは涙を拭い、懸命にこちらへと走ってくるROへと叫んだ。
+RO635(11)<Speaker>RO635</Speaker>||:SOP―― II――
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:R――O――
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP IIは両腕を広げ、もうすぐここまでくるROを包容で迎えようとした。+しかし、予想だにしないことに、ROはSOP IIに触れると//nすぐに慣れた手つきで彼女を取り押さえ、かつ手錠で両腕を拘束した。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker><Position>0,-200</Position>||:へ？
+RO635(11)<Speaker>RO635</Speaker>||<SE1>AVG_bigglassbreak</SE1>:メンタルインパクト！+オマエの罪を数えろ！！！
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker><Position>0,-200</Position>||<黑屏1><BGM>BGM_Empty</BGM>:SOP IIのいた世界が急速に遠のいてゆく……
+()<Speaker></Speaker>||<睁眼><BIN>83</BIN><BGM>BGM_Moon</BGM>:意識が戻ると、SOP IIは自分が//n会場外の噴水の中に座っていることに気付いた。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:……どうしてここに？
+RO635(8)<Speaker>RO635</Speaker>||:……+目は覚めた？+ちょっと飲みすぎよ。//nメンタルが混乱して酷いことになってたわよ。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:ううぅ……わたし、またやっちゃった？
+RO635(8)<Speaker>RO635</Speaker>||:聞く必要ある？M4が後始末に向かってるわ。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:うっ……//nごめんなさい……
+RO635(8)<Speaker>RO635</Speaker>||:ROは無表情で自分のスカートを絞ると、//nバッグの中からハンカチを取り出しSOP IIの顔の水滴を拭いた。
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:RO！
+RO635(7)<Speaker>RO635</Speaker>||:なによ？
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:わたしのこと、怒ってないの？
+RO635(7)<Speaker>RO635</Speaker>||:……怒ってないわよ。
+RO635(7)<Speaker></Speaker>||:ROはため息をつくと、SOP IIを噴水から引き上げ、//nSOP IIのスカートも絞ってあげた。
+RO635(7)<Speaker>RO635</Speaker>||:行くわよ、着替えないと。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(7)||:りょーかい！
+M4 SOPMOD II(1);RO635(7)<Speaker>RO635</Speaker>||:もうあなたは禁酒だから。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(7)||:ええぇ？やだよそんなのぉ！
+M4 SOPMOD II(1);RO635(7)<Speaker>RO635</Speaker>||:甘えても無駄、今回ばかりは許さないわよ。
+M4 SOPMOD II(1);RO635(7)<Speaker></Speaker>||<黑屏1>:二人の人形はわあわあと騒ぎながら宿舎への帰り道を歩いた。+全身ずぶ濡れで、しかもパーティーの最も賑やか瞬間も逃してしまったが、+SOP IIにとってはこの瞬間こそ、今日一番幸福な時間なのであった。

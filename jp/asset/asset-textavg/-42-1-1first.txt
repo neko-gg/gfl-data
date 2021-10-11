@@ -1,0 +1,79 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>96</BIN><黑屏2><边框>2</边框>:……
+NPC-Passadou(0)<Speaker>？？？</Speaker>||<黑屏1><边框>2</边框>:「夢で彼は私に歌う」+「夢で彼は私に近づく」+「私を呼ぶあの声は」+「私の名を口ずさむ」+「これもまた夢なのか」
+()||<BIN>87</BIN><黑屏2><Night><BGM>GF_20HW_Scene_BPM82_loop</BGM>:……ハロウィン前夜、グリフィンのサークル活動室にて。+現在進行形で、怪談会が行われている。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:……これが、<color=#FF0000>ミズ・パサドゥ</color>の生前における早期の映像である。//n人間からすれば、彼女は間違いなく絶世の美女だ。+たとえミュージカルを嗜まぬ者でも、ミズ・パサドゥの歌声が非常に美しく、//n聞く者の魂を揺さぶるものであることに気づくだろう。+本当に、魂が存在すればの話だが……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:あたしらを連れてきた時は、怪談会をやるって言ってたのに……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:まぁまぁ、そう焦らない。//n今まさに、その怪談会の雰囲気を作ってるトコなんじゃん？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:このパサドゥさんて、先輩が話そうとしてる怪談と関係があるの？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:その通り！私の怪談は、そのパサドゥさんが主人公ってわけ！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:もしや、劇場の幽霊事件？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:そう！今からちょうど一年前、あの劇場で起きた幽霊事件！+去年のハロウィン前夜、あの有名な劇場は文字通り一晩中燃え盛り……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:あの事件は、とっくに様々なメディアに報道し尽されています。//n今日のメインがそれなら、ワタシは先に失礼します。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:あ、あたしも……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ちょっと待った！話を聞いてってば！//nニュースになってたのはもちろん知ってるよ！+でもこの私が怪談会をやろうって言い出したからには、//n世間に知られていない裏の情報を握ったに決まってるじゃん！+ほら！MDRの尊厳を賭けて、生配信のセッティングまでしてるんだから！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:うっわぁ、珍しくMDRが本気だよ。しゃーない、話の続きを聞いてあげよう。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……+そう言うことなら、拝聴しましょう。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ウォッホン。では、ミズ・パサドゥの話から始めよう。+ミズ・パサドゥは名の知れたミュージカル女優だ。代表作は『胡蝶の繭』。+そして偶然にもミズ・パサドゥの生涯は、//n『胡蝶の繭』の物語に酷似している。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:『胡蝶の繭』ってなんのお話？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:あー……それは私も分かんない！劇場内は撮影禁止だし……+この情報も、ミュージカルファンの人たちから聞いたんだ……+Spitfireは、よく劇場に行ってたんだっけ？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:要約しますと……//n昔、荒涼としたとある荘園に、夫婦が静かに暮らしていた。+しかしある日、一人の記憶を失くした女が、荘園へと迷い込む。+優しい夫婦は彼女を引き取るも、//n何故かその女の挙動や容姿は、徐々に妻に似るようになってくる。+それに呼応するかのように、妻の身体は段々と弱々しくなってゆく。+しまいには、その女は水面に映った影のように、妻の生き写しとなっていた。+そして、夫が出かけたある雨の夜、悲劇は起こった。+その女が、妻を襲ったのだ。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:そ、それで？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:妻とその影の女が死に物狂いで争っていた時、//nなんと夫が帰ってきてしまった。+しかし争っている二人の容貌は瓜二つで、//n夫にもどちらが妻なのか見当がつかない。+やがて、夫はどうにか本物の妻を見分けると、影の女をやっとのことで倒した。//nしかし、夫はそのせいで重傷を負い、不幸にも世を去ってしまった。+辛うじて生きながらえた妻は、荘園の使用人に事の顛末を話したが、//n妻を除き、その女を覚えている者は誰一人としていなかった。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:えぇ！そんな……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:つまり、全部妻の妄想だったってこと？+記憶をなくしたおかしな女は最初からいなくて、//nすべては妻が夫を殺したことを隠すための自作自演？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:影の女の悪だくみが失敗したんじゃない？//n妻に成り替わろうとしてたけど、結局出来なかった。+次の被害者を探すために、自分を知る者の記憶をすべて消した。+だけど妻だけは、何らかの原因によって、影の女を覚えていた……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:その理論でいくと、影の女が勝ったのかもしれないよね？+誰もいない夜に、影の女が妻に成り代わり、自分に関する記憶を消した。+影の女が語るこの物語自体、真実を隠すためのもので……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なんか、ますます気味が悪いよ……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:人形でもあるまいし、記憶を消すなんて芸当が人間にできますか？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:なかなか面白い結末じゃん！+で、Spitfire、結局この話の真実はなんだったの？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:真実なんてありませんよ、いわゆるオープンエンドです。+妻が影の女に勝てたと思うもよし、影の女が妻に成り代わったと思うもよし。//n或いは、すべてが夢だったと思うこともできる。+夫が立ち去った夜の荘園は、蛹となった毛虫の繭のようなもの。//n人々が目にするのは、繭を突き破り羽化した蝶の姿だけ。//n繭の中で何が起きたのかは、誰にも分かりません。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:よく分からないけど、とても深いお話だね……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:さすがはSpitfire、博識だねぇ～//nってことは、この物語が起きた場所も、分かってるんだろ？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:基地からそう遠くない、あの廃棄された劇場ですね？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:そう、基地近くの廃棄された劇場は、//n昔、ミズ・パサドゥが公演を行っていた場所。+最盛期は毎晩のように、悠揚とした歌声が響き渡っていた。+しかし奇妙な火災により、今や劇場は完全に寂れた廃墟と化している。//nいいや、もしかすると、今は別の意味で賑わっているのかもしれない……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩が言ってた、あそこにはオバケが出るって……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:せ、先輩の冗談でしょ……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:噂によれば、劇場が廃棄されたのは、//nミズ・パサドゥの怨霊が劇場を守るために、//n他者を近づけさせないからなんだとか。
+()||<SE1>AVG_Rain2</SE1>:轟音と共に、白い稲妻が人形たちの顔を照らした。+MDRは密かに唾を呑み、噂の続きを話し始めた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1>:物語は、ミズ・パサドゥが主演女優ではなかった頃から始まる。+その頃、彼女はまだ劇団に入ったばかりで、//n舞台では脇役しか与えられなかった。+その後、練習を重ねることで、//nミズ・パサドゥは劇団の主演女優にまで上り詰め、//n重要な役柄を任されるようになった。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:わぁ――努力して夢を掴み取った人なんだ。+なんだか励まされるな……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:シッ、これはまだ序の口に過ぎない――+自身の美貌と才能を武器に、//nミズ・パサドゥは劇団のオーナーである<color=#FF0000>ミスター・アルラー</color>と結婚した。+それによりミズ・パサドゥの劇団における地位は不動のものとなり、//n生活もだいぶ楽になった。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:それで？劇場がどうしてお化け屋敷になったわけ？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:幸せな時間はいつだって短い。//nやがて予想外の不幸が次々とミズ・パサドゥを襲った。+彼女は突如病気にかかり、二度と舞台に立てなくなったのだ。+盛大な拍手を浴びることに慣れた女優にとって、//nこれほど酷い仕打ちはない。+さらに夫であるミスター・アルラーも、//n彼女に冷たい態度をとるようになった……+その背後には、ミズ・パサドゥに取って代わろうとした脇役女優――+<color=#FF0000>ミス・ジェーン・ドウ</color>がいたのだ！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……ミス・ジェーン・ドウ？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:……パサドゥさん、可哀そう。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:なに、ま～たその展開！？//nどうせジェーン・ドウがアルラーを奪って、//n二人でパサドゥを殺したとかなんでしょ？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:いいや。火災の後に発見されたのは、ミスター・アルラーの遺体だけだった。+しかし目撃者の証言によると、劇場が燃え盛っていた時、//n劇場内からはミズ・パサドゥの歌声が、ずっと響いていたらしい。//nだがその歌声も徐々に小さくなり、やがて聞こえなくなった……+そこで人々は、ミズ・パサドゥは劇場の中で死んだのだと考えた。//n肉体を伴う幽霊となり、劇場を守り続けているのだと……+一方、それ以来ミス・ジェーン・ドウが劇場に姿を現すことはなかった。+一説には、ミス・ジェーン・ドウこそが『胡蝶の繭』に登場する影の女であり、//nすでに次の標的を探し始めているんだとか……
+97typeS(2)<Speaker>97式散</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:ど、どういうこと？
+()||<BIN>87</BIN><关闭蒙版>:……突然、部屋の明かりが灯った。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:うっぎゃああああ―――
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:キャアアア――
+Spitfire(2)<Speaker>Spitfire</Speaker>||:カリーナさん。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:カリーナさんか！ビックリしたよ！
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||<BGM>BGM_Hello</BGM>:あっ、ごめんなさい。//nアクティビティルームの明かりが点いていなかったから、誰もいないものかと。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:今、怪談会の真っ最中なんだけど……
+NPC-Kalin(2)<Speaker>カリーナ</Speaker>||:そうだったんですか？でも……+MDRさん、アクティビティルームの使用申請、出してませんよね？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:わ、忘れてたんだってば……
+NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:となれば、残念ですね……+今夜のアクティビティルームは、スプリングフィールドさんが予約しています。//n確か、ハロウィンスイーツの食べ比べ大会を開催するんだとか。+皆さんも、参加されてはどうですか？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:明かりが点いてたんじゃ、怪談会が続けられないじゃん！+あっ、待って、閃いちゃったかも……
+()||:MDRは一瞬、狡猾な笑顔を浮かべたが、すぐに収めた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:教えてくれて、どーもありがとーございました、カリーナさん！+すぐに立ち去りますね～！
+NPC-Kalin(0)<Speaker>カリーナ</Speaker>||<黑点1>:どういたしまして……？
+()||<黑点2><BIN>88</BIN>:……無人の倉庫にて。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:こんなところに連れて来てどうすんのさ？+ここで怪談会の続きすんの？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:……さっきと比べると雰囲気に欠けるけど、まぁまぁいけるかな。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:おやおやおや、私を誰だと思ってるんだい？+もっと適した場所があるじゃないか！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:待った。まさか、あの廃棄劇場でやるつもりなんじゃ……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:賛成です。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:えぇっ？！
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:悪霊の縄張りで悪霊の話をする、これ以上刺激的なことなんてある！？+ついでに配信もオンにして幽霊劇場探検LIVEだ！+これ、確実にバズるヤツっしょアハハハハハハ！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:……なに、アンタら怖いの？
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:こ、この天気で外に出るのは、さすがに危ないんじゃない……？
+()||:Spitfireが倉庫の扉を開けると、//nさっきまで吹きすさんでいた暴風雨は、跡形もなくなっていた。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:雨は止んでいます。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:……+SASS、あんたも行くよね？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:えっ？私は……+9、97式散先輩、そんなに強く掴まないで……+行く、絶対に行くから！
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<黑屏1>:よし！グリフィン探険隊LIVE、スタート！

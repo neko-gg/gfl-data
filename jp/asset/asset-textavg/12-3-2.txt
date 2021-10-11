@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>202</BIN><BGM>m_avg_casual</BGM>:やっと解決できた……+M4、時間がある時に、メンタルスペースを整理しておいてくださいよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:ごめん……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:それじゃ、記憶のアップロードを続けようよ！//nこれからどうなるか気になるじゃん！
+RO635(0)<Speaker>RO635</Speaker>||:テレビドラマじゃないんだから……
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:なんだか妙にイライラするわね……
+()<Speaker>指揮官</Speaker>||:ゴホン……問題が解決したならアップロードを続けよう。//n時間を無駄にしたくない。
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:はい、作業を続けます。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<回忆><黑屏2><BIN>72</BIN><BGM>BGM_Empty</BGM>:ここは……
+()<Speaker>透き通った声</Speaker>||<BGM>10230</BGM>:メンタルの最下層よ、あなたはここでゆっくりするといいわ。
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||:私の身体を……返しなさい！
+()<Speaker>透き通った声</Speaker>||:冷静になった？
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:やっぱりそうだったのね……私の身体を奪うことが目的だったのね！？
+()<Speaker>透き通った声</Speaker>||:あなたの身体に興味はないわ、私は真実を追い求めているだけ。+だからこそ、あなたに自滅させるわけにはいかないの。//nこんな形で終わらせることなど許されない。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:あんたに決める権利なんてない！
+()<Speaker>透き通った声</Speaker>||:アンジェリアと反逆小隊、それにグリフィンも消滅していない。//nこれを見なさい。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:これは！？
+()<Speaker>透き通った声</Speaker>||:あなたが何もかも放棄していた時に、通信をハッキングして得た情報よ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:つまり……+指揮官とアンジェさんは……まだ生きてる！？
+()<Speaker>透き通った声</Speaker>||:ええ、まだ必死に抗い続けているわ。+一方で、あなたはその砲台を使って、ロクでもないことをしようとしてる。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:……+体を返しなさい……彼女たちを探すわ。
+()<Speaker>透き通った声</Speaker>||:あなたには失望したわ。//n彼女たちを探し出す力が、本当にあると言い切れる？
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:あ……+あるわ……
+()<Speaker>透き通った声</Speaker>||:あなたのメンタルは不安定なままよ。冷静な判断など下せやしないわ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<震屏>:あるって言ってるでしょ！
+()<Speaker>透き通った声</Speaker>||:ここで大人しくしていなさい。この素体を変に弄ばれては困るわ。+素体の安全を確保できたら、制御権を返してあげる。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:私が信じるとでも思うの！？
+()<Speaker>透き通った声</Speaker>||<黑屏1>:他に選択肢はないもの。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<回忆><黑屏2><BIN>6</BIN><Night><BGM>BGM_Empty</BGM>:ハッキング完了。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:どうしてこんなに時間がかかるのよ？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:文句があるなら、ご自分でどうぞ？+あら、ごめんなさい、すっかり忘れていたわ。//nあなたのメンタルポートは完全に封鎖されていて、//n傍で見ていることしか出来ないんだったわね？
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:チッ……+それで状況は？+手ぶらで戻って来たとは言わせないわよ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:色々と分かったわ。+グリフィンは軍の手を逃れ、街の外へと逃げた。//nコーラップス爆弾の影響で、軍の指揮システムが混乱に陥っている。+それに装甲部隊が市街地に集結している、何かを探しているようね。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:グリフィンが包囲を抜けたの？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:通信ではそう報告されているわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:さすがは指揮官。+となれば、軍の行動はアンジェを狙ってのことだわ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:可能性はあるわね。+彼女は生きていると思う？
+M4A1Mod(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:普通の人間なら、とっくに感染症でくたばってるでしょうね。//nでもアンジェはそう簡単には死なない。+あの女は、たとえELIDになろうとも、けして反撃の手を緩めない。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(3)||:なるほどね。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:次はどうするの？グリフィンと合流？それともアンジェを助けにいく？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:夜が明けて、雪が止むまで待ちましょう。今動くのは危険だわ。
+M4A1Mod(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:でも時間が……
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(3)||:周囲には新たな敵が出現している。//n暗闇の中で蜂の巣になりたいと言うのなら、ご自由に。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:チッ……
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:ちょっと待って、新たな敵って何のこと？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:微かにだけれど、ルニシアと同じ波動を感じる。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:どういう意味よ、それ……
+()<speaker></speaker>||<BGM>BGM_Empty</BGM>:（物音）
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>10106</BGM>:地下室から音？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:まさか、兵士！？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:……！
+()<speaker></speaker>||:M4A1の疑問に答えるかのごとく、//n獣のような咆哮が部屋の中から重たく響いた。//n何者かが怒りに任せ、扉に激しく躯体を打ち付けている。+AR-15は武器を構え、部屋の扉に照準を合わせた。+次の瞬間、扉は勢いよく蹴破られ、小さな影が目の前に躍り出た。+真っ白だったはずのスカートは、血に染まっている。//nボサボサの髪の毛は、「彼女」の年齢らしからぬ凶相を隠せないでいた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:女の子！？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:かつてはね。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ど……どうするの？+今すぐ立ち去る？
+()<speaker></speaker>||:M4A1は何も言わずに、「少女」を凝視している。
+()<speaker></speaker>||<SE1>Runstep</SE1>:やっとのことで扉を突き破った「少女」は、//n再び怒号をあげ、M4A1に襲い掛かった。
+()<speaker></speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:（銃声）+AR-15が少女の眉間を精確に射抜いた。+少女は声もなく雪の中へと倒れた。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>BGM_Empty</BGM>:正しい選択ね。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:言われなくてもわかってるわ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>GF_Memorial</BGM>:哀れな人間。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:付近に隠れていた一般人かしら。両親はとっくに他界してるのかもしれないわね。//nでなきゃこんな子が、一人でここにいるはずがない。
+()<speaker></speaker>||:M4A1は少女の傍へと近寄り、そのまぶたを優しく閉じた。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:彼女は変異によって死んだのよ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……あいつのせいじゃないわ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<黑点1>:分かってる。+手伝って。
+()<speaker></speaker>||<黑点2><BIN>6</BIN><Night><回忆>:数分後。+地面に膝をつくM4A1の傍らに、掘り起こされた土が積み重なっている。+AR-15は汚れたテディベアと小さな花束をその隣に置いた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:こんなもんでしょ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:……+命はこうも簡単に消えてしまうのね。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:それがこの世界よ。+私たちが何を守ろうと、結局はこうなる。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:どこにいたって同じだわ。//n弱者はいとも容易く抹消され、強者が全てを支配する。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:だから私たちは強者になるしかない。こんな事で抹消されないように。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:あんたも感傷に浸ったりするのね？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:私とあなたたちの間に、大した違いはないわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……+だからと言って、あんたを認めるつもりはない。+一時的な協力関係にあるだけよ、M4のためにね。+何が目的かは知らないけど、//nもしここから逃れてもM4に意識を明け渡さなかったら、//n私があんたを殺すから。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<黑屏1>:ええ、分かっているわ。
+()<Speaker>指揮官</Speaker>||<关闭蒙版><黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:一般人……+まさか、あの状況下で一般人が暮らせていたなんて……
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||<BGM>m_avg_casual</BGM>:もともと戦場となったのは廃棄された街だった。//nイエローエリアには、隠れて暮らしている難民が数多く存在するわ。
+()<Speaker>指揮官</Speaker>||:一般人を守るはずが……罪のない人々を巻き込んでいたとは。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:闘争がある限り、おいそれと平和は訪れない。+生きることは容易ではないわ。//n幸いにも生き残った者だけが、物事の是非を判断できる。
+()<Speaker>指揮官</Speaker>||:あんな幼い感染者を撃つのは、きっと辛かっただろう。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:撃たなければ、感染者は苦しみ続けることになるわ。
+()<Speaker>指揮官</Speaker>||:コーラップス放射線に当てられる感覚は知っている。//n骨が皮膚を突き破り、引き裂かれるかのような痛みが全身を襲う。+重度の感染者だったら、痛みはその比じゃないだろうね。//n彼らにとって唯一の救いは、死だけだ。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:その痛みに耐えられただけで、あなたは十分立派よ。+あんな苦しみを、二度と味わいたくはないでしょうね。
+()<Speaker>指揮官</Speaker>||:……出来ることならね。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||<黑屏1>:さぁ、引き続き記憶を辿りましょう。//nこの作業を終えないことには、軍に対抗しうる情報は手に入らない。//n悲劇の連鎖を断ち切ることは出来ないのよ。+私たちの時間は限られているわ。

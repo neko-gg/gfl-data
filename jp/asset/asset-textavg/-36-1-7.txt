@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>223</BIN><BGM>BGM_NightOPS</BGM>:隔離壁周辺。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:敵、ゼンゼンいなかったな……つまんないの……
+M4 SOPMOD IIMod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:それって、良いことなんじゃないの？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;AR15Mod(0)||:そりゃそうだけどさ～……ルーフの上、つまんなかったんだもん……
+RO635(0)<Speaker>RO635</Speaker>;AR15Mod(0)||:つまらない時間がずっと続いてくれたら有難いんですけど……
+RO635(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:RO、まだ着かないの？
+RO635(0)<Speaker>RO635</Speaker>;AR15Mod(0)||:路面状況が悪すぎて、スピードが出せません。
+RO635(0)<Speaker>RO635</Speaker>||:地図には地形情報すらないですし。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:ダンデライオンも万能じゃないわ。+一刻も早くたどり着かないと。もう爆発音が聞こえてきてる。
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:軍はまだ火力準備の段階にあるはず。+本格的な戦いはこれからね。30分も持ち堪えられるかしら……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:指揮官ならきっと大丈夫。//n私たちが一秒でも早く任務を遂行できれば、指揮官の勝算も高まる。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:分かってる、こっちの準備は出来てるわ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:うん……私も。+ちょっと待って、これは、サイレント信号……？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:どうしたの？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:404が、タリンの時と同じく強制接続を受けたみたい。//nこれからオフライン状態に入るって。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:つまり、基地にはネイトあるいは異性体がいるってことね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:ダンデライオン。
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>スキャン結果に異常なし、それらしい信号はないわ。ただ……</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)<通讯框>||:ただ？
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||:<color=#00CCFF>「感じる」の……</color>
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||:<color=#00CCFF>あなたもでしょう？おそらく、そこにいる全員が――</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:どういう意味？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:うわっ！みんな空を見て！
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:！
+()<Speaker>ST AR-15</Speaker>||<BIN>227</BIN><黑点2>:青い……オーロラ？
+()<Speaker>RO635</Speaker>||:どうしてここにオーロラが？それに今は昼間のはずじゃ？
+()<Speaker>M4A1</Speaker>||:オーロラ？
+()<Speaker>ダンデライオン</Speaker>||<黑点1>:<color=#00CCFF>オーロラだけじゃない。</color>
+()<Speaker>？？？</Speaker>||<黑点2><BIN>9</BIN>:あの時の景色、ここでも見られるのかな？
+()<Speaker>？？？</Speaker>||:ここでなら終わる、蝶が巻き起こした嵐もやがては収束する。
+()<Speaker>？？？</Speaker>||<黑点1>:お父さまの願いも、きっと叶うよね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点2><BIN>223</BIN>:この声は……
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||:<color=#00CCFF>あなたも「感じた」のね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:基地で何かあったの？
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||:<color=#00CCFF>OGASプロトコルの感染力が強化されている。M16の狙いは分からないけど、計画はすでにラストスパートに入っているようね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:……「モルスカヤズヴィズダー」のこと？あそこに何が隠されてるの？
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>それは私が知り得ることじゃないわ。</color>
+()<speaker></speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:……軍列車内。
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||<BGM>10230</BGM>:確かか？基地上空にオーロラ現象を捕捉したと？
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>伝令兵</Speaker><通讯框>||:<color=#00CCFF>は、はい……</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Soldier(0)<通讯框>|||:……
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||<黑点1>:映像を送れ。
+()<Speaker>エゴール</Speaker>||<黑点2><BIN>227</BIN>:ふむ……
+()<Speaker>副官</Speaker>||:大尉、そろそろでしょうか？
+()<Speaker>エゴール</Speaker>||:全ユニット進攻準備。モスクワとの専用線を繋げ。
+()<Speaker>副官</Speaker>||<黑点1>:はっ。
+()<speaker></speaker>||<黑点2><BIN>202</BIN><SE1>AVG_tele_connect</SE1>:暗号化通信チャンネル。
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||:カーター将軍、おっしゃっていた通りの状況になりました。
+NPC-Yegor(4);NPC-Carter(0)<Speaker>カーター</Speaker><通讯框>||:<color=#00CCFF>分かっている。我々の同志もすでに動いたようだ。メインシステムは起動された、時間は限られている。あの基地のサブシステムを必ず起動しろ。</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Carter(0)||:奴らは嘘をついていなかったようです。
+NPC-Yegor(4);NPC-Carter(0)<Speaker>カーター</Speaker><通讯框>||:<color=#00CCFF>払える物はすべて払った。だからこそ、手に入れるべき物をすべて手にしなくては。</color>+<color=#00CCFF>この状況下では、奴はもはや信頼に値せん。遅かれ早かれ、こちらを裏切るだろう。だが、なりふりかまっている暇はない。</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Carter(0)||:了解、速やかに任務を遂行いたします。
+NPC-Yegor(4);NPC-Carter(0)<Speaker>カーター</Speaker><通讯框>||:<color=#00CCFF>あの売国奴は、すでに我々の同志を捕らえ始めている。お前に残された時間は僅かだ、彼らの犠牲を無駄にするな。</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Carter(0)||:メインシステムが停止するまでに、必ずや基地を手中にしてみせましょう。
+NPC-Yegor(4);NPC-Carter(0)<Speaker>カーター</Speaker><通讯框>||:<color=#00CCFF>それと、裏で隠れている連中には……</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Carter(0)||:私と部下は、誰一人として奴らに屈しなどしません。
+NPC-Yegor(4);NPC-Carter(0)<Speaker>カーター</Speaker><通讯框>||:<color=#00CCFF>すまんな。</color>
+NPC-Carter(0)<Speaker>カーター</Speaker>||:<color=#00CCFF>またお前と同志たちを、逃げ道のない戦いへと向かわせてしまった。</color>
+()<Speaker></Speaker>||:エゴールは珍しく笑った。
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||:当然の事です。覚悟はとうに決めています。//n将軍はどうか、ご自身の成すべきことにご専念ください。
+()<speaker></speaker>||<SE1>AVG_tele_disconnect</SE1>:暗号化通信終了。
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||<黑屏1>:同志諸君、前線部隊へと通達――//n進攻を開始する、グリフィンを捻り潰せ！

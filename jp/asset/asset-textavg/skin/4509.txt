@@ -1,0 +1,133 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:ダンスに出ないのか？+己の身分を忘れ、リラックスして//n新たな体験ができる貴重な機会だというのに。
+DP12(0)<Speaker>DP-12</Speaker><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>後方支援で手が回らなくって。それに、あなたたちの衣装の手配も終わっている頃のはず。今から参加しようにも間に合わないでしょうね。</color>+<color=#00CCFF>そうだ、届いたあなたの衣装を部屋に置いておいたんでした。時間があるときに試着を忘れないようにしてくださいね。</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:うむ。+このサイズ……本当に吾のか？+全く着れないぞ。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>あら、送るデータを間違ってしまったんでしょうか？</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そんなはずはない、出荷時のデータを丸ごとコピーしたんだからな。+しかし、今から改修をお願いして間に合うかどうか。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>舞踏会まであと数日でしたよね？</color>+<color=#00CCFF>生地はたしか、指揮官がまとめて発注していたような？</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そうだ。しかし、生地をちょうど使い終えてしまったとQBU-88に聞いた。+どうすれば……今の吾の素体では着れないといっても、//n当日は全員ドレスを着ているだろうし……
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>なにか方法を考えましょう。</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:ドレスなんて物の予備を、誰かが持っているとは思えない。+しかし、かといって普段着を着ては興が醒めてしまうな。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>小さい素体が倉庫にありませんでしたか？</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そうだな。だが、戦闘用メンタルアップグレードの時の//nサイズが不便だったから、変えてしまったんだ。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>試してみましょうよ。ひょっとしたら使えるかもしれません。</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そうするほかないか。それでもダメとなると……
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>安心してください。必ず使えるでしょうから。</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:どういうことだ？
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:<color=#00CCFF>いえ、何でもありません。とにかく試しに行きましょう。吉報をお待ちしていますよ。</color>
+KSVK(9)<Speaker>KSVK</Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:まさかこの身体にピッタリ合うなんてな。+これが運命の恩寵というものか？//n主も、時には願いを聞き入れてくれるのだな。
+KSVK(9)<Speaker></Speaker>||<BGM>BGM_Room</BGM>:彼女が倉庫の扉をゆっくりと閉め切ろうとした時、誰かの足音が耳に入った。
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:誰？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:え……？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:あら、警報が鳴ってないということは、//nシステムに承認されてるということなのかしら。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>AR-15には分からないのか？</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:でも少し見覚えがあるわね。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:そうか？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:KSVKに似てるような……
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……似ていて当然だ。
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:同じ型番なの？+姉妹とか？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……そういうお姉さんは？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:私はAR-15。KSVKの同僚よ。彼女を探しておくわよ？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:ありがとう、ここに来るのは初めてだから、道がわからなくって。+<color=#A9A9A9>この感じをキープしておこう！</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:ええ。+ここは倉庫よ。まずは待合室に連れていってあげるわ。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:ありがとう。+<color=#A9A9A9>なんて親切なんだ！AR-15にこんな側面があったとは、普段では絶対に見られないだろうな……</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:ひとまずは連絡よね。
+AR15(3);KSVK(9)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:（通信音）+KSVKの着信音が鳴り響く。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||<SE1>AVG_tele_disconnect</SE1>:……+妹？+フッ。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:撮影スタジオができたぞ、撮ってみるか？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:話をそらさないで。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:はて？機材をいっぱい並べて、芸術写真が撮れるようにしたんだ。+かなり研究をしているというM200にも協力を頼んだので、//n本人に限りなく近く、//n本人を遥かに超える美しい写真が撮れること間違いなしだ。
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:どうやってそんなことを？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:レンズや照明、フィルターを使ったりするのだろう。+試していかないか？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:SOP IIたちに聞いてくるわ。
+KSVK(9)<Speaker></Speaker>||:AR-15が踵を返す。
+KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:芸術写真の女性を引き付ける力というのは、//n何千年経とうと変わらないのだな。木炭にしろカメラにしろ、//n切り取った一瞬は永遠に残る。+たまには悪ふざけをするのもいいものだ。新たな経験が得られる。+もしかして、普段の吾は皆を束縛し過ぎているのだろうか？//n少し気になるな……+皆を怒らせることになるのは分かっているが、//nこのまま続けてみるのも悪くない。+ふむ――これが悪魔の考え方というものか。実に面白いな。
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:晩餐の明かりは昼のように明るく、//n春風を思わせる音楽が、行き交う少女たちの身体に吹き付けていた。
+M200(3)<Speaker>M200</Speaker>||:K……SVK？いつその新しい素体を用意したんですか？
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:む、汝にはバレないと思ったのだが、いとも容易く見破られるとは。
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:通信を繋いでいればどのみち分かっていたことです。+信号がKSVKである限り、素体を変えてもKSVKのままなのですから。
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:ふむ、障壁を用意しておかなければならないようだ。+すごいな、M200は。
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:……それほどでもありません。+で、誰をからかうつもりなんですか？
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:具体的には考えていない。+止めないのか？
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:まあ、度を越えないのであれば。
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:そうか……
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:でも、怒る人は出るでしょうね。
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:からかった側は愉悦を得られ、からかわれた側は惨痛を得る。//nありとあらゆるものは等価交換でできている。+事が終わった時は謝罪を入れるつもりだ。
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:ならいいですけど。
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:ところで、手伝いを頼んでもいいだろうか？
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:ああ、いいですよ。+撮影ですよね？カメラの準備ならできています。
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:ああ、だができれば多めに頼む。いたずらの一幕が撮れるとなお良い。
+M200(3)<Speaker>M200</Speaker>||<黑屏1>:善処します。
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:バーカウンター。そこは人が多く集まる場所。+そして当然、いたずらに最適な場所でもある。
+KSVK(9)<Speaker>KSVK</Speaker>||:スノーローズを一杯頼めるか？
+KSVK(9)<Speaker>付き人</Speaker>||:もちろんです。味にお好みはございますか？
+KSVK(9)<Speaker>KSVK</Speaker>||:ない、普通ので大丈夫だ。+名前だけで酔えそうな酒だな。
+KSVK(9)<Speaker>？？？</Speaker><同时置暗>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:その声は！新人さん？
+Saiga12(2)<Speaker></Speaker>||:彼女の下に歩み寄ったのは、純白のドレスを纏った人形――+Saigaだった。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:こ……こんにちは！あれ？なんだか見覚えのある美少女ね！
+KSVK(9)<Speaker>KSVK</Speaker>||:吾のことか？+<color=#A9A9A9>バレていないのだろうか……</color>
+()<Speaker></Speaker>||<BIN>9</BIN>:すると照明がパッと消えた。
+()<Speaker>KSVK</Speaker>||:あ――+<color=#A9A9A9>舞踏に出る人は既に出払っているはず。</color>
+()<Speaker>Saiga-12</Speaker>||:心配しないで！これは予定されていたことよ。//nダンスがもうすぐ始まるから、照明が先に消えてるの。
+()<Speaker>KSVK</Speaker>||:そういうことか……感謝する。
+()<Speaker>Saiga-12</Speaker>||:いいっていいって。ところで、どこかで会ったことない？
+()<Speaker>KSVK</Speaker>||:KSVKに似てるということか？彼女は吾の姉でな、よく似ているんだ。
+()<Speaker>Saiga-12</Speaker>||:ええ！？そ、それじゃ……どうしてアナタを一人に？
+()<Speaker>KSVK</Speaker>||:今日は忙しいからとのことで、譲ってくれた。+よかったら、吾のことはドゥシェーヴヌイと呼んでもらえないか？
+()<Speaker>Saiga-12</Speaker>||:ドゥシェーヴヌイ……いい名前ね。
+()<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>簡単に騙されるとは……簡単に騙せてしまう時ほど、相手を容易に怒らせやすいというが、そうなった場合、いかにして謝ればいいものだろうか。</color>+<color=#A9A9A9>まあ、それは最後に考えるとしよう。</color>
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:悠々たる音楽がゆっくりと響き渡るのに伴い、照明も明るくなった。
+()<Speaker>付き人</Speaker>||:こちら、ご注文いただいたお酒になります。
+KSVK(9)<Speaker>KSVK</Speaker>||:感謝する。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:踊らないの？
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:すまない、踊らないんだ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:舞踏会に来たのに、ダンスを楽しまなかったら後悔しない？
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:春が来たとて、意固地に眠る花だってあるだろう。+どの舞踏会も、必ずしも参加せねばならないわけではなかろう。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:でもそれは、冬に咲く花もあるからでしょ。+やってみないと、嫌いかどうか分からないんじゃない？
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:……汝は、誰に対してもそれほどまでに親切なのか？
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:もちろん違うわよ！+ワ……ワタシはアナタのお姉さんの同僚ともいえるわけだし、//n彼女の代わりに面倒を見てあげるべきだと思ってね。+別にみんなが踊ってるからアナタに踊ってほしいわけではなく、//nきっと楽しいだろうからアナタを誘っているの。
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:……でも、吾は踊れないんだ。最も基本的な社交ダンスでさえ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:ワタシが教えられるわ！+なんたって社交ダンスは、最も学びやすいダンスだからね！
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:本当に簡単なのか？//nスタジオに入ってきちんと練習していた人を見たことがあるぞ。
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:本当よ。自分が、月に手を伸ばし、//n丸い影を風の中から掴まんとする薔薇になってるのを想像してみて。+スカートが薔薇みたいにブワッて広がるのよ。+そこにあるスノーローズにとってもピッタリじゃない。
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>薔薇の形か、興味深い。</color>+<color=#A9A9A9>後々怒られると分かってはいても、このまま続けたくなってしまうな。</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>82</BIN>:そこまで聞いたDP-12は、整理し終えた物資の半分を下ろすと、//n微笑みながらKSVKのほうを向いた。
+DP12(0)<Speaker>DP-12</Speaker>||:それから？
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||<BGM>m_avg_casual</BGM>:それから吾は、パーティに戻った。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Saigaのことは好きですか？
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:ううむ――どう言ったらいいものか？
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:彼女はあなたを、外で二人っきりでダンスしようと誘った。+あろうことかあなたはそれを承諾して……//n一緒に踊りに行った。+Zasに見抜かれてなかったら、//nきっと彼女は一晩経っても真相を知らなかったでしょうね。
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:身分を変えたのなら、同じことをするわけにはいかない。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:あなたらしくない物言いですね。+素体を変えたのと同時に、メンタルにも少し変化が生じたのでしょう。
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:……きっと、奥底で眠っていた側面が出てきてしまったのだろう。+こういったいたずらをした経験はなかったが、//n人をからかうことでよもや、楽しいことが起こるとはな。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:雅やかさを残した悪戯は、生活に趣きをもたらしてくれるんです。
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そうだな。そういうわけで、彼女とアフタヌーンティーの約束をしたんだ。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:あら？そういう時系列だったんですね？+それにしても、ドゥシェーヴヌイが新しいお友達と触れ合えたなんて、//n微笑ましいです。
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:アツアツのアールグレイティーとチーズケーキ。//nこれに勝るアフタヌーンティーの時間が他にあるかしら？
+KSVK(0)<Speaker>KSVK</Speaker>||:怒っていないのだな？
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:ワタシがアナタに怒るわけないわよ。
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:何故だ？
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:KSVKだからよ。何をしたって、KSVKは可愛いわ。
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:可愛い？そんな言葉で吾を形容する者がいるとは、物好きもいたものだ。
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:ええー、可愛いって。//nむしろ、むしろアナタに嫌われないかが心配よ。
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:ありえない話だ。+<color=#A9A9A9>悪戯されても、つい許してしまう人こそが可愛いはずだろう。吾には到底成せないことだ。</color>
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:じゃ、じゃあ、ワタシの思い入れのあるものを//n貸してあげたいんだけど、いいかな？
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:写真集か？
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:そう！アナタにしか見せられないとっておきの一冊なの。+指揮官にだって見せたことないんだから……
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:何故それにそこまで固執するんだ？
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:二人だけで美少女と二人で美少女を眺めるなんて、//nすっごく楽しいと思わない？
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:内緒事で距離を縮ませ、友になる。そういうことか？
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:いえ？アナタに貸せば、アナタは返しに来なきゃいけないから――+また会えることになるでしょ？
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:プッ、そんな回りくどいことをしなくていいというのに。+来週末にでも、また会える。
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:ホント？ヤッター！+写真は受け取ってもらえなかったけど、//nもっと素敵な約束をありつけちゃった。
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:どうにも、以前の吾は頭が固すぎたようだな。+積極的に好意を伝えることは、//n恥ずかしいのではなく可愛らしいことだったんだな。
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:つ・ま・り！ワタシたちは美少女について、共通認識を得られたってこと？
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1>:うっ、まあ、そう理解してもらって構わない。
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||<黑屏2><BIN>82</BIN>:宿舎にて、様子を聞きにDP-12がもう一度電話をしてきた。
+DP12(0)<Speaker>DP-12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>どうですか？</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:楽しんでいる。が、奇怪な写真集はさすがに断ったよ。
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>愉快そうなデートですね。</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:そういえばだが、吾のデータは何故間違っていたんだ？+それに間違ったあとに丁度いい素体があったのも……エレナ、汝まさか……
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>もう、久しく過ぎたことなので、気にするだけ無駄ですよ。</color>+<color=#00CCFF>そうだ、M200のほうから写真が送られてきたんです。</color>
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:まったく、貰っておこう。+一回きりのおふざけではあったが……実に愉快なものだった！

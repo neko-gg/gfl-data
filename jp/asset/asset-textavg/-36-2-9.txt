@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE2>Alarm</SE2>:……沿岸砲台前の臨時防衛陣地。
+RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Battle</BGM><黑屏1>:M4！M4！+目を覚まして下さい！！
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>99</BIN><睁眼><火花>:……私……何があったの？
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(3)||:素体が熱すぎてフリーズしていたんです。+早く立ってください、敵が次の攻撃を準備してます！
+RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:うっ……誤算だった、まさか敵に先を越されるなんて。+ダンデライオン、現在の状況は？+ダンデライオン？
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(4)||:さっきの砲撃は、恐らく指揮官のいる装甲列車を狙ってのものかと……
+RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:指揮官は……きっと大丈夫よ！+制御室を占領した、今からでも火力支援は遅くないはず！
+M4A1Mod(4)<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:M4は兵士たちの死体を制御台から降ろし、銃を拾い上げた。
+M4A1Mod(4)<Speaker>アナウンス</Speaker>||:<color=#00CCFF>射撃命令を受付けました。パラメーターの調整……調整失敗……原因診断中。</color>+<color=#00CCFF>警告、インターフェイスがロックされています。弾薬の装填プロセスが阻害されています。</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:なんですって！？
+AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>下の階が占領された、M4！まだ戻らないの！？</color>
+RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:給弾システムがオフになってます、//n弾薬庫が軍に制圧されたのかもしれません！+隊長、どうしましょう？
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:次は……次は……
+M4A1Mod(3)<Speaker></Speaker>||:M4のメンタルは真っ白になった。
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>今いる人形で弾薬庫を奪回できる可能性は……ほぼゼロに近い。でもやらなきゃ……</color>+<color=#A9A9A9>でも指揮官がいない今……負けることは目に見えている、実行するべきじゃない……でもやらなくちゃ……</color>+次は……
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker><通讯框>;M4A1Mod(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>他にも方法はあるわ。</color>
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||:ダンデライオン！+砲撃による損傷は？指揮官は無事なの？
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>装甲列車に命中したわ。指揮官と部隊は隔離壁内にいたけど、爆撃範囲内からは離脱できなかった。現在の損傷は不明よ。</color>
+NytoIsomer(3);M4A1Mod(2)<Speaker>M4A1</Speaker>||:直撃してなくてよかった……
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>;M4A1Mod(2)||:<color=#00CCFF>ありがとう、私も無事よ。</color>+<color=#00CCFF>あなたたちの任務はまだ失敗していない。沿岸砲を制圧し、軍の列車を撃破すれば、勝機はあるわ。</color>
+NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:こっちは軍の歩兵に抑制された。弾薬庫がまだ彼らの手中にある。
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>;M4A1Mod(0)||:<color=#00CCFF>沿岸砲の周囲に鉄血の軍隊が散らばっている。ハッキングして、そちらの援助に向かわせるわ。</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:鉄血が？なぜそこに？
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>;M4A1Mod(4)||:<color=#00CCFF>原因は不明だけど、彼らを誘導し軍を攻撃させることは可能よ。そうすればまだチャンスはある。</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:勝算はどれくらいあるの？
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>;M4A1Mod(4)||:<color=#00CCFF>半々ね。そして同じく原因不明だけど、その鉄血たちは支配を受けていない。侵入できるのは確実よ。</color>+<color=#00CCFF>ただし、私の計算力では彼らの行動を制御できない。自律攻撃に任せるしかないわね。</color>+<color=#00CCFF>あなたたちの助けになるかどうかは、保証できないわ。</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:十分よ。+ダンデライオン、この部屋を離れる別のルートを探してちょうだい。+鉄血が来る前に、ここを軍に譲るわ。//nその後、鉄血と挟み撃ちにして奪い返す。
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>;M4A1Mod(4)||:<color=#00CCFF>待っていて。</color>
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||<SE1>AVG_tele_disconnect</SE1>:本当にいいんですか……もし鉄血がわたしたちを襲撃してきたら、//n今の状態のあなたを連れて、包囲を突破できるかどうか。
+RO635(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:こんな時こそ賭けるしかない。何としてでも沿岸砲を制圧しなきゃ。+指揮官がまだいるなら、火砲支援はグリフィンが//n防御線を再構築するための時間稼ぎになる。+もし指揮官が不測の事態に陥っていたら……+……+……砲台を奪い返し、一人でも多く軍を消滅させる//n。それが、指揮官へのせめてもの手向けよ。
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||:分かりました。
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>鉄血のハッキング完了、そちらへ接近中よ。</color>+<color=#00CCFF>幸運を祈っているわ。</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:了解。+用意！
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:人形が現れたのを見て、軍は猛烈な火力制圧を始めた。+激しい弾雨によって、彼女たちのいるエリアが瞬時に覆われた。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:今よ！15、SOP II、同期した計画通り動いて！
+AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>;M4A1Mod(4)||:<color=#00CCFF>了解！</color>+<color=#00CCFF>だけど、火力が凄まじいわ、先に行って……！</color>
+RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:SOP II、援護を！
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>;M4A1Mod(4)||:<color=#00CCFF>アハハ！よしきた！全員バラしてやるー！</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:深追いしないで、SOP II！続いて！SOP II！
+M4A1Mod(4)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:人形が逃げようとするのを見て、一人の兵士がこらえきれずに掩体から飛び出した。
+NPC-Yegor(3)<Speaker>兵士</Speaker>||:死ね！この鉄クズどもが！
+NPC-Yegor(3)<Speaker></Speaker>||<BGM>BGM_Boss</BGM><关闭火花>:彼の声が突然止んだ。
+()<Speaker></Speaker>||<闪屏><duration>2</duration></闪屏>:赤い光がスッと通り過ぎたかと思うと、まだ完全に掩体を離れていない//n兵士の身体が真っ二つになり、泥土の中へと倒れた。+見慣れた人影が死体の上から現れた。//n長刀についた鮮血を振り落としている。
+BOSS-2(0)<Speaker>エクスキューショナー</Speaker>||:仲間の損壊は、人間の命で償ってもらうぜ！+鉄血工造！突撃！
+BOSS-2(0)<Speaker></Speaker>||:鉄血部隊はAR小隊に目もくれず、軍へと突撃していった。
+RO635(0)<Speaker>RO635</Speaker>||:ダンデライオンの言った通りになりました……
+RO635(0);M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:驚いてる暇はないわ！ここを迂回する、弾薬庫を奪還しなくちゃ！

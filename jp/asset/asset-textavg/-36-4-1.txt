@@ -1,0 +1,33 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>M16A1</Speaker>||<黑屏2><黑屏1><BGM>BGM_NightOPS</BGM>:最後に言い残すことはあるか？この裏切者が。
+()<Speaker>UMP45</Speaker>||<黑屏2><BIN>218</BIN>:<color=#A9A9A9>あともう少し……</color>
+()<Speaker>M16A1</Speaker>||:なんだ、まだ足掻く気か？
+()<Speaker>UMP45</Speaker>||:……どっちが裏切者なんだか。
+()<Speaker>M16A1</Speaker>||:それがお前の遺言か？さらばだ、UMP45。
+()<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>今よ！</color>
+()<Speaker></Speaker>||<黑屏2><BIN>221</BIN><BGM>BGM_Sneak</BGM>:基地内部、地下2階。
+UMP45Mod(0)<Speaker>UMP45</Speaker><Shake>||:うっ……
+()<Speaker></Speaker>||:警戒しながら進んでいたUMP45は、//n突如バランスを崩し、壁に手をついた。+即座に小隊メンバーが周囲を警戒し始める。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>クソッ、気づかれた……</color>+<color=#A9A9A9>強制侵入のデータフローが増加し始めてる。</color>+<color=#A9A9A9>でもどうしてメンタル権限を直接奪おうとしない？なぜあの時の記憶を読み取ろうとするの？</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:45姉、大丈夫！？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:だ……大丈夫よ……
+HK416Mod(0)<Speaker>416</Speaker>||:全然大丈夫じゃなさそうだけど。
+G11(0)<Speaker>Gr G11</Speaker>||:なんか、今日はよく故障してない？
+HK416Mod(0)<Speaker>416</Speaker>||:いいから背後を見てなさい。
+G11(0)<Speaker>Gr G11</Speaker>||:ハァ……分かったよ……
+HK416Mod(0)<Speaker>416</Speaker>||:制御性能が低下してるわよ。+また強制侵入が始まったのね？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:フン……そもそも止まってないわよ……
+UMP9Mod(4)<Speaker>UMP9</Speaker><Shake>||:うそ！？+なら、わたしが今すぐ助けてあげる！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:必要ないわ、この程度じゃ防壁は破れない。//nそれに向こうは奇妙な方法で強行アクセスを維持してる。
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:え？それって大丈夫なの？+前みたいに、直接ポートを閉じちゃうのは？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:ダメよ。侵入を逆手に取って、敵の位置を追跡してるから。+相手のバックドアは突破したわ。向こうも気づいてるでしょうね。//nだから攻撃を強めてきた……
+HK416Mod(0)<Speaker>416</Speaker>||:何よそれ、あんたの侵入に気づいているんなら、//nアクセスを断てばいいだけの話じゃない。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:それが面白いところなの。相手もこちらと同様、断つのが惜しいみたいね。
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:なんでだろう？
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:簡単よ。お互い、相手のメンタルから何かを見つけ出そうとしてる……+これはチャンスよ、相手は私たちの進行方向にいる。//nメンタルのハッキングに成功すれば、//n何か重要な手がかりを得られるかもしれない。+次に何が起こるか分からない状況が、一番危険だからね。
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:それはそうだけど……じゃあ、わたしも演算を手伝うよ。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:信号源が汚染されてる可能性がある。ウィルスが潜んでる可能性だって……
+HK416Mod(0)<Speaker>416</Speaker>||:そんなこと言ってる場合？//nあんたが危険でない任務を引き受けた試しがあった？+9、今すぐアクセスしなさい。できれば一気に相手を片づけるのよ。
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:オッケー！+45姉、アクセスしたよ！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:まったく、仕方ないわね……ウイルスを察知したら、すぐに切断するのよ。
+UMP9Mod(3)<Speaker>UMP9</Speaker>||<黑屏1>:わたしに任せて、45姉！

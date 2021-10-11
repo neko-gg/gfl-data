@@ -1,0 +1,67 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>161</BIN><SE1>Gunfight</SE1><黑屏2><Night><回忆>:がらんとした空間に響いた最後の銃声が、風と共に消えた。+目の前に立ちふさがる最後のELIDを倒し、//nAR-15とM4A1はやや傾斜した高台に立った。+辺り一面乱雑とした戦場を見渡す。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:終わったの？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:終わったわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:正当防衛とはいえ、良い気分じゃないわね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:この一連の行動で、気分良く思えたことなど一度も無いわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:もう動いて良いのよね？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:すぐにここを離れましょう、銃声はすでに伝わった。//nそれに、嫌な予感がするの……
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:どういう事？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:何か、良くないモノがゆっくりと近づいている。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:良くないモノ、ね……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>161</BIN><Night>:ここで間違いない？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:残されていた微弱な信号は、ここで途絶えているわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:この家屋に来るまで、何かの残骸や戦いの痕跡は見当たらなかった。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:つまり、軍は追って来ていない。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:アンジェが中にいるかも。+入ってみる？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:私が反対したところで、意味はないのでしょう？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:フン、分かってるじゃない。
+()<Speaker></Speaker>||<BIN>161</BIN><Night><黑点2>:M4と15は警戒しながら、半崩壊状態となった建物へ足を踏み入れた。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:隅を確認して。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:異常なしよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:誰もいないわ。+ここで戦いがあったようね。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:自律兵器や人形の痕跡は見当たらない、人間同士の戦いなの？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:そのうち一方は、人間じゃないかもしれない。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:チッ……確かにね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:生き残った者は？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:いないわ、感染者の死体だらけよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:その中にアンジェリアは？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:いたら一目で分かるわ。+ん？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:どうしたの？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ハンドガンの薬莢だわ。+アンジェの銃よ、軍はこんなもの使わない。彼女はここに来ていた。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:壁に戦いの痕跡が残っている。//n弾痕からして、撃ったのはこの位置ね。+やっぱり、人間の血痕よ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:アンジェは軍ではなく、感染者に遭遇したんだわ……+最悪ね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:ライフルの薬莢もある、彼女は独りではなかった。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:反逆小隊が合流したんでしょう。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:残りの弾薬は？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:僅かよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:覚えておいて、この数の感染者に遭遇したら、すぐに逃げるのよ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:…………ご忠告感謝するわ。+ん？+シッ……音がする。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:音？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:複数の足音と、金属のぶつかる音。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:ありえないわ……信号反応も熱源反応もないなんて……
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:未知のユニットね、所属は分かる？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:識別不可能。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:これがあんたの言ってた、「良くないモノ」……？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:聞こえたわ……徐々に近づいて来ている。隠れなくては。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:こんな小さな部屋で、どうやって？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:相手の状況が掴めない。情報を収集したら、ここを離れるわよ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……分かったわ。
+()||<BGM>BGM_Empty</BGM>:白い鎧を身につけた敵が、建物の残骸を蹴とばして部屋へと入って来た。+M4と15はキャビネットの後ろに隠れ、外の状況を密かに伺っている。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Room</BGM>:白い鎧？初めて見るわ……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:たとえあなたでも、こんな状況でやつらと戦おうとは思わないはずよ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:どういう意味よ？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:ハッキングを試みているけど、やつらのシステムが予想以上に複雑なの。+私が敵の注意を惹くから、背後からナイフで倒して。//n直接アクセスしてみるわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4の身体を危険に晒す気！？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:相手を理解しなければ、余計危ないわ。+けしてルニシアへの危害となることはしない。//n彼女と共に消えたくはないもの。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:チッ……待ってなさい。
+()<Speaker></Speaker>||:白い敵は部屋の隅の物音に気づいた。//nその方向に照準を定め、警戒しつつゆっくりと近づいてゆく。+その時、AR-15はすでに敵の背後へと接近していた。
+()<Speaker></Speaker>||<SE1>Rope</SE1>:白い敵のヘルメットが地面に落ち、傍に立っていたM4の足元へと転がった。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:あなたの過激な動きのせいで、//n中枢システムが完全に壊れてないと良いけど。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:急所が分からないから、ひととおり切断しておいたの。
+()||:15は完全に動かなくなった敵を床に捨てた。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:さっさとアクセスして。//nこいつ、どうやら単純な機械じゃないわね……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:血液がない、人間でもないわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……なら一体何なの？
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>;AR15Mod(0)||:ルニシアの護衛を。//nこのユニットに偽装して、相手のネットワークに潜入してみるから。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:ちょっと待って！+クソッ……もう意識が無い……+敵はすぐに異変に気づく、ここにそう長くは居られないっていうのに……

@@ -1,0 +1,85 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+RO635(0)<Speaker>RO635</Speaker>||<BIN>202</BIN><黑屏2><BGM>m_avg_casual</BGM>:次の記憶の欠片を見つけました、アップロードを続けましょうか？
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:続けてもらわなければ困るわ。
+()<Speaker>指揮官</Speaker>||:M4、大丈夫？君の記憶は……
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:大丈夫です、指揮官。+作業を早く済ませましょう、軍がいつ攻めてくるとも限りません。
+()<Speaker>指揮官</Speaker>||<黑屏1>:それじゃ、RO、頼むよ。
+()<speaker></speaker>||<黑屏2><BIN>7</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1><回忆>:M4A1一行が移動を始めて15分後。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM>:もう日が暮れる、吹雪も止む気配がないわね。//n低温だと素体の稼働が鈍くなるわ、このままでは凍ってしまう。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:わかってる、だからこっちに向かってるの。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:そこに何があるの？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:さっき通った時、家屋を見つけた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:そう……この先よ、あの人工灌木の裏に民家があるわ。//n敵が潜んでいなければ、あそこで吹雪を凌げるはず。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:まずは偵察しましょう。
+()<speaker></speaker>||<黑点2><BIN>9</BIN>:M4A1とAR-15は道端の灌木の方へと足を運んだ。+そこには何者かによって小道が敷かれており、//n二人はそれに沿って進んだ。+生い茂った灌木林を抜けると、一軒の廃屋が目の前に現れた。+建物の周囲には子どもの玩具が散らばっており、//n在りし日の楽し気な笑い声が、あたかも聞こえてくるかのようだった。+地面のあちこちには、あどけなさに満ちた絵が残されている。//nAR-15は足元の絵を注意深く避けて、//n地面にポツンと横たわるテディベアを手に取った。+テディベアは毛の一部がすでに抜け落ちていた。//n小さな主人のお気に入りだったことが分かる。
+()<speaker></speaker>||<黑点1>:ふと、ぬいぐるみの表面に血が滲んでいるのに気づき、//nAR-15は眉をひそめた。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑点2><BIN>7</BIN><Night><回忆>:待って、何かいる。
+M4A1Mod(4);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:敵？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:運が良いわ、ここは軍の信号中継所よ。人気のスポットだったってわけね。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:見せて。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:見える？10ｍの距離よ、ここからなら中の様子をスキャンできるわ。+通信設備は無事なようね、配置されているのは非戦闘員のみ。//n彼らを一掃すれば、設備を掌握できるわ。
+M4A1Mod(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:丸腰の人間を撃てと？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(5)||:武器を持っていなくたって、敵には違いないわ。//n彼らの通信スキルは十分脅威と成り得る。
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:……
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(4)||:同情しているの？+あの兵士たちが、どうやってあなたの友人たちを虐殺したか忘れたの？+それとも、人形を壊すことを虐殺とは言わないのかしら？
+M4A1Mod(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:……そうは言ってないわ。
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM>:ただ、その口ぶりと行動……あんた、M4A1じゃないわね。
+M4A1Mod(4)<Speaker>M4A1？</Speaker>||:フッ……
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Danger</BGM>:何か変だと思ったのよ。//n前からM4A1は、頻繁に自分と会話しているようだった……
+AR15Mod(4)<Speaker>ST AR-15</Speaker><Shake>||:この意識、明らかに彼女じゃないわね。一体何者なの！？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:誰だっていいでしょう？+今はとにかく、生き残ることが先決よ。+正確には、「M4A1」が生き残ることがね。+あなたとは利害が一致していると思うけど。
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:チッ……
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:同意してもらえたなら、意味のない討論はよしましょう。時間の無駄だわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:フン……どうするつもりよ？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:フフフ……良い事を教えてあげる。//n今からすることに、あなたが罪悪感を感じる必要は無さそうよ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:え？
+M4A1Mod(2)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:中の人間は、すでに感染している。
+M4A1Mod(2)<Speaker>M4A1？</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:残るは意識を失った数名の通信兵だけ。//nさぁ、引導を渡してあげて、彼らを苦しみから解き放つのよ。
+()<speaker></speaker>||<Night><黑点2><BIN>6</BIN><SE2>Gunfight</SE2><Night><回忆>:（銃声）+ELIDと化した兵士が銃声と共に倒れた。+射殺し終えたAR-15が銃を下ろす。
+()<speaker></speaker>||<SE2>Gunkill</SE2>:M4A1は無表情のまま15のもう一方の武器を手に取ると、//n倒れた死体の傍へ行き、心臓と頭部に弾を数発撃ち込んだ。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>10230</BGM>:そそっかしいのね。
+()<speaker></speaker>||:手中の武器をAR-15に投げ返し、//nM4A1は真っ直ぐ設備のほうへと向かった。
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:チッ……+変異してない兵士はどうするのよ？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:汚染エリアにいれば、変異するのは時間の問題よ。//n弾薬は温存して、ナイフで心臓を貫けばいい。+彼らの処理はあなたに任せるわ。//n私はここから軍の通信にハッキングできるか試してみる。
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:……
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:どうしたの？出来ないの？
+M4A1Mod(0);AR15Mod(3)<Speaker>ST AR-15</Speaker>||:M4A1だったら……絶対にこんな事させたりしない。+私は……
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(3)||:私がルニシアでない事を、受け入れられない？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker><Shake>||:あんた……！
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:ならどうするの？私に銃を向ける？+こちらの弾薬は底をついている、あなたの好きに出来るわよ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker><Shake>||:M4A1の声でそれ以上言うんじゃないわよ！
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:私を撃つ気がないのなら、さっさとやるべき事を終わらせなさい。
+M4A1Mod(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:クソッ……
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:あなた、以前のAR-15とはだいぶ変わったと思わない？
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:え……？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:以前のAR-15は冷酷無情だったわ。//n何かと動揺する他の人形たちを見下していた。
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:でも今のあなたから感じ取れるのは軟弱さだけ。+それとも、これまではわざと冷酷で屈強な人形を装っていたのかしら？//n本当は無能で臆病な存在だと気づかれないために？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<震屏>:なんですって！？
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:違う？だから痛みに苦しむ兵士たちを放っておいたのでしょう？//n彼らが変異して襲って来るリスクすら考えずに。+ルニシアの弾倉はすでに空っぽよ。//n何か起きた時に対処できるのはあなただけ。+それとも、本当にあなたの力のみで彼女を危険から守れるとでも？
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||:わかった、もういい！+黙りなさい！
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:や……やればいいんでしょ！
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<黑屏1>:まったく、どうやってここまで生きて来れたのか不思議ね……+それを終えたらルニシアの傍について。//nこれよりセカンダリレベルにアクセスするわ。//nグリフィンもしくはアンジェリアの位置が分かれば、希望はあるかもしれない。
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>202</BIN><关闭蒙版>:うーん……
+()<Speaker>指揮官</Speaker>||<BGM>m_avg_casual</BGM>:意外だね……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:15、ダンデライオンにボロクソ言われてんじゃん！
+AR15Mod(2)<Speaker>ST AR-15</Speaker><Shake>||:そ……その時はただ、緊張状態にあって言い返せなかったの！
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:それもＭ4A1の顔と声だから、とっさに反応できなかったってだけよ！
+RO635(0)<Speaker>RO635</Speaker>||:つまり……M4A1の発した言葉だから、反論しなかったということですか？
+AR15Mod(5)<Speaker>ST AR-15</Speaker><Shake>||:そ……そうよ、悪い！？
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:……
+RO635(0)<Speaker>RO635</Speaker>||:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:……
+()<Speaker>指揮官</Speaker>||:……
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:私の観察によれば、AR小隊は情緒の影響を受けやすく、//n作戦効率は予想以上に低いわ。+その卓越した性能がなければ、//nこれまでの作戦で何度全滅していたことか、想像もつかないわね。
+()<Speaker>指揮官</Speaker>||:でもそのおかげで、彼女たちは単純な殺人兵器とならずに済んでいる。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:殺戮こそが戦術人形の存在意義よ。対象が機械か生物かに関わらずね。+その論調でいくと、包丁で野菜を切るべきではないという事になるわ。+人間がどう誤魔化そうと、汚れ仕事を人形に任せている事実に変わりはない。
+()<Speaker>指揮官</Speaker>||:……
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:何も恥じ入ることはないのよ。//n存在即ち理、それがこの世界の法則ですもの。+私にしてみれば、人を殺せない戦術人形よりも、//nカフェテリアで働くサービス人形のほうが、いくぶんか価値があるわね。+人形にせよ人間にせよ、敵に情けをかけるような行為は、//n無能の現れに他ならないわ。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:関係ないもんね！指揮官はいつだって、敵には容赦しないんだから！
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:グリフィンの記録によると、こちらの指揮官は//n敵を根絶やしにするのがお好きなようね、安心したわ。
+()<Speaker>指揮官</Speaker>||:全く褒められている気がしないんだけど……
+RO635(0)<Speaker>RO635</Speaker>||:ゴホン……そろそろ宜しいですか？//nデータの転送に問題発生、対処願います。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:記憶の欠片のリセットプロセスがフリーズしたというだけよ。//nセカンダリレベルから解決できるわ。
+RO635(0)<Speaker>RO635</Speaker>||:だからってわたし一人に押し付けないでください。//n一緒にデータを処理してるんじゃないんですか？
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||<黑点1>:仕方がないわね。早いところ、この不要なデータを片づけてしまいましょう。
+()||<黑点2><BIN>10</BIN>:

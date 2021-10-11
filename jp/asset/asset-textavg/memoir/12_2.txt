@@ -1,0 +1,76 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN><BGM>BGM_Room</BGM>:グリフィン指揮室内にて。
+HK45(0)<Speaker>Gr HK45</Speaker>||:あの子の前の主人について、指揮官はどのぐらい知ってるんですか？
+HK45(0)<Speaker>指揮官</Speaker>||:……+<c>軍にいたことがあるんだとか……<c>まったく知らないなぁ。
+HK45(0);NPC-Kalin(1)<Speaker>カリーナ</Speaker>||<分支>1</分支>:さすがは指揮官さま、そんなことまでご存知だとは！
+HK45(0);NPC-Kalin(1)<Speaker>カリーナ</Speaker>||<分支>2</分支>:そうでしたか、無理はありません……
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(1)||:アタシ、彼女の過去についてこれっぽちも知りません。+……完全にアタシのミスです。+盛大なパフォーマンスを計画するなどと言っておきながら、//n助手が何を経験してきたかも分からないなんて……
+HK45(0);NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:落ち込むことないですよ、HK45さん！//n秘密というわけでもないですし、私からお話しましょう。+どうやらC96さんは、へリアンさんが連れてきたそうなんです。
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(4)||<震屏>:へリアンさん！？あの美しくてクールな、高嶺の花のへリアンさん！？
+HK45(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:本人がそれを聞いたら、なんて思うんでしょう……アハハ。+単に、彼女が連れて来たというだけですよ。+当時、とある傭兵団の解散で大騒ぎになったらしくて、//n兵器なんかと一緒に、C96さんもオークションに出されていたそうです。+元の主人は、賭け事に負けて彼女を買い取ったようですね。//n兵団で雑用を強いられ、時にはオトリに使われてたんだとか。
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(0)||:オトリ？+あっ、アタシ、あの人がC96を「Red9」って呼んでるの、聞いた事あります。
+HK45(0);NPC-Kalin(0)<Speaker>カリーナ</Speaker>||:私も詳しくは知りませんが、彼女に少女の格好をさせて//n敵の警戒心が緩んだところを、袋叩きにしてたようなんです。+さらには傭兵の一員として、戦場に赴いたこともあるんだとか……//nヘリアンさんが彼女を買い取ったのも、そういった過去を知ってのことです。+「Red9」というのも、彼女に割り振られたナンバーでしょうね。
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(0)||:アタシたちとは違って、グリフィンに売られてきた人形……って事ですか？
+HK45(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||<BGM>BGM_Empty</BGM>:そんなところです……でも、待遇は皆さんと同じですよ？//n賃金も休暇もあるんですから。
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(3)||<BGM>BGM_Brain</BGM><震屏>:つまり、アイツがC96を尋ねてきたのは、まさか……+……仕事を探してもらおうと？//n可愛いC96をダシにして、宣伝でもする気なの！？
+HK45(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:ハァ……なんだかイヤな予感がします……
+HK45(0);NPC-Kalin(3)<Speaker>指揮官</Speaker>||:私もだよ。
+HK45(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:彼女を情け容赦なく売っぱらったクセに、//n今さらC96さんに助けを乞うなんて。//nまるで昔流行ったネット小説によく出て来る、クズな元カレじゃないですか。
+HK45(0)<Speaker>Gr HK45</Speaker>;NPC-Kalin(3)||:まさか……アイツ、C96にロクでもない事をさせる気なんじゃ！？//n例えばムリヤリ身売りをさせてお金を稼ぐとか……+どうしよう、彼女がヒドイ目に遭うかもしれないと思うと、//n何にも手につかない……どうしたらいいですか、指揮官！！！
+HK45(0);NPC-Kalin(3)<Speaker>カリーナ</Speaker>||:それは無いと思いますが、グリフィンに在籍する人形を拐しておいて、//nお金を入手したらオサラバできるとは、さすがに思ってないでしょう？+だからといって、放っておくわけにもいきませんが。//n指揮官さま、どうしたらいいと思います？
+HK45(0);NPC-Kalin(3)<Speaker>指揮官</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:……
+()<Speaker></Speaker>||<BIN>166</BIN><Night><黑屏2><BGM>m_avg_casual</BGM>:賑やかな都市にて。
+C96(0)<Speaker>C96</Speaker>||:うぅ……街中ってムレるなぁ、人も多いし……服、脱いじゃダメかなぁ。+えっと、今はなんと呼べばいいのですか、ご主人様？前みたいにヒキ……
+NPC-PasserbyM(0)<Speaker>ヒキ……？</Speaker>;C96(0)||<震屏>:その吐き気のする名前で呼ぶな！//nもはや昔のワシではないのだ、ゼニガエルと呼べ！+うむ、少しは高尚に聞こえるな。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:ゼニガエル様ですか？わかりました、ゼニガエル様。
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:なぜ今は、どこもかしこも監視カメラだらけなのだ？+おいこら、Red9、服を脱ぐんじゃない。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:でも本当に熱くて……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:目を付けられるとマズい。ワシは平穏に一仕事終えたいのだ……+おい、監視カメラの位置はわかるな？
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:もちろんです……えっ？監視カメラを探して、どうするのですか？+一仕事って……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:人形の分際でつべこべ言うな。お前は人形のやるべきことをやればいいのだ。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:グリフィンでは質問できますよ！暑かったら服も脱いでいいですし。
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:ほぉ、向こうじゃ良い暮らしにありつけてるようだな。//nどうせこれが終わったらお前は帰るのだ、どうとでも言え。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:はい、グリフィンは最高なのです！私、グリフィンが好きです。//nもちろん、指揮官のことも。+今でも人材募集してますよ、申し込んでみたらどうですか？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:あんな規則でがんじがらめの組織に、誰が行くものか！//n無駄口叩いとらんで、監視カメラが届かない場所をとっとと探すのだ！
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:そんな所を探して、どうするのですか？危ないですよ……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:ひっぱたかれたいのか、え？
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:ごめんなさい！カメラの死角を何ヶ所か見つけました。
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:いいだろう。ほれ、デジタルマップだ。どこなのかワシに詳しく教えろ。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:はい……こことここ、それからここも。
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||<BGM>BGM_Empty</BGM><黑屏1>:この街角が良さそうだ、行くぞ。
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>||<BIN>86</BIN><Night><黑屏2>:おい、ワシが昔教えたオトリになる方法、まだ覚えているな？
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:覚えてます……何をすればいいですか？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||<BGM>BGM_Danger</BGM>:ワシがターゲットを選ぶ、お前はそいつに助けを乞え。//nここへおびき寄せるのだ。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:ふむふむ、それで？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:そうしたら……殴って気絶させるに決まっとる。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:なるほど、殴って気絶させる！その次は……
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<震屏>:えっ、殴る！？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:気絶させたら、金目の物を片っ端から奪え。//n次にそいつの家族に電話して、大金を持ってきてもらうのだ！
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:それって強盗じゃないですか！？//n手伝えって、強盗を手伝えって意味だったのですか？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:うるさいぞ。これが一番手っ取り早い方法なのだ。//nワシがしばらく食っていくに十分な金が一度で入る。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:こ……こんなの違法ですよ！
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:Red9よ。よもや荷物の護送なんぞのために、//nお前を呼んだなどと思ったのではあるまいな？+大人しく言うことを聞け。//nさもないと、今すぐシャットダウンしてゴミ溜めに捨てるからな！
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:だ、ダメです……そうは言っても、私には……+今の私には、ちゃんとした仕事があるのです。//n万が一、罪のない人間を傷つけたことが、記録に残ったりでもしたら……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:何をグダグダ言ってる？+グリフィン？ハッ。グリフィン＆クルーガーなら、ワシも聞いたことがあるぞ。//n裏でどんな悪事を働いてるのか、分かったものではない。//n果たしてお前の指揮官とやらは、どれだけの命を手にかけたのだろうな？+お前も、人間を攻撃したことぐらいあるだろう。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:ないないない！絶対ないです！
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:声がでかいぞ。+それにしても、指揮官とやらもなかなかやるな。//n闇ブローカーから聞いたぞ。+なんでも裏ではさんざん人形をこき使ってる割に、//nお前たちには涼しい顔をしてるそうだな。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:指揮官は良い人です！悪く言わないでください！
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:黙れ、さっさと働かんか。//nワシでなかったら、お前がこんな旨い仕事にありつけるものか。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:で……できません……
+NPC-PasserbyM(0);C96(0)<Speaker></Speaker>||:そうは言いながらも、C96はぎこちなく頷いた。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:<color=#A9A9A9>どうしよう……</color>
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:ワシは人間だ、ワシの命令には抗えんだろう。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:危ないことはするなって、指揮官が……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:これが危ないものか。少々金を頂くだけだ、道端の乞食となんら違わん。+分かった分かった、そんな目でワシを見るな。+今回だけだ、約束する。//nそれに命までは奪わん、奪うのは金だけだと誓う。+この金が手に入ったら、ワシは海外で暮らすつもりだ。//nけしてお前を売ったりはしない。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:でも……
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:命令を執行するのだ！
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<黑点1>:……はい！
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>||<黑点2><Night><BGM>BGM_Empty</BGM>:チッ、面倒な奴め。分かってたら初めからこうしていた。+よし……あの女で行くぞ、赤い髪のヤツだ。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<SE1>AVG_footsteps_cave</SE1>:C96は、ゼニガエルの指し示す方に目をやった。
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker><Shake>||:赤い髪の……赤い髪の女……+へっ！？
+NPC-PasserbyM(0)<Speaker>ゼニガエル</Speaker>;C96(0)||:早く行け、今だ！
+C96(1)<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM>:C96は彼に押されて、ヨロヨロと路地を飛び出し、//nターゲットの足元にひれ伏した。
+C96(1)<Speaker>？？？？</Speaker>||:おや！こんなところに可愛らしい女の子が。+キミ、大丈夫？
+C96(1)<Speaker>C96</Speaker>||:だ、大丈夫……あなたは……
+C96(1)<Speaker></Speaker>||:華やかな衣服の女性は、C96に微笑みかけると、//n手を差し伸べて彼女を引き起こした。
+HK45(2)<Speaker>？？？？</Speaker>;C96(1)||<黑屏1>:アタシ？通りすがりの可愛いダンサーよ？

@@ -1,0 +1,2 @@
+Mk12(0)<Speaker>Mk 12</Speaker><Position>0,100</Position> ||<BIN>96</BIN>:指揮官、来るのが遅いぞ。+パーティーの衣装はすでに用意してある。
+Mk12(0)<Speaker>Mk 12</Speaker><Position>0,100</Position> ||<黑屏1>:なに突っ立ってるの、あたしに着せてほしいってこと？

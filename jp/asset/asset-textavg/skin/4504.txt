@@ -1,0 +1,142 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>RO635</Speaker>||<BIN>138</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:……
+()<Speaker></Speaker>||:宿舎を後にすると、ROはM4と共にパーティー会場に足を運んだ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:わぁ！綺麗な会場！
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:確かに雰囲気がありますね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:SOP IIも一緒に来ればよかったのに。//nあとで私たちのこと探すの大変だと思うけど……
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:ぐずぐずしているほうが悪いんですよ。//nまぁでももう着替えて来る頃じゃないでしょうか。//n道中でAR-15に会っているかもしれませんし。+ところで、スイーツが山ほどありますが、//nSOP IIが見たら、一人で全部平らげてしまうのでは……？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:ふふっ、折角のパーティーだもの。//nだからこそこんなに一杯用意されているんだし……+そうだ、ROはこの後何か予定ある？
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:わたしですか？+ええと……指揮官がパーティーを許可したのは予想外でしたが、//n開かれたからには、仕事のことは忘れて、楽しみたいと思ってます。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:それはよかった、ちょうど私も興味のある催しがあるの。時間になったら……
+M4A1Mod(0)<Speaker></Speaker>;RO635(0)||<SE1>AVG_tele_connect</SE1>:通信機の音が突如鳴り響いた。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:あ、指揮官からね。
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:指揮官からですか？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:ええ、私がみんなに良いものを山ほど注文したの覚えてる？
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:良いものですか……//nああ、前回言っていたあれのことですね……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:そう。お酒を買ったの、それに美味しいものも沢山。//n全部指揮官がお金を出したんだけどね。+そろそろ届いただろうから、指揮官に直接報告しないと。
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:そうだったのですね。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:後でステージのところで会うことにしましょ、//n私が参加したい催しはそこで行われるから。絶対待っててね！
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:ええ、ではまた後で。
+RO635(0)<Speaker>RO635</Speaker>||:……よし、と。この後は……+楽しむつもりとは言ったけど、//n何をすることが楽しむってことなのかしら？
+RO635(0)<Speaker></Speaker>||<黑屏1>:……+ROはテーブルに置かれたデザートをそっと手に取った。
+()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:何と言っても……大切なパーティーだから。+……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Hello</BGM>:今回のパーティーはもちろん大事よ！+私はこの日を楽しみにしているし、私たちの大切な思い出にしたいの。
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:……そうだったのですね？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:でも今の会場設営は全然だめね！+私が期待しているような、//n「宝石のような眩さ」とか「光の芸術」なんてのとは程遠いわ。+折角の機会なのに、適当な設営をするなんて絶対に許されない。//n少なくとももっと予算をかけて設営すべきよ。
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:そう、ですね……（釘を打つ音）+そうなんですか？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:私はもとよりそのつもりよ。ただ……
+AR15Mod(0)<Speaker></Speaker>;RO635(0)||<BIN>137</BIN>:AR-15は、安全ベルトを着用し、//n部隊天井の支柱に吊り下げられながら注意深く作業するROに目を向けた。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:あんた、何してるの？
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:わたしですか？
+AR15Mod(0);RO635(0)<Speaker></Speaker>||:ROは自身の手に握られた金づちと板に視線を落とした。
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:ステージライトの取り付け、ですかね？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:それは担当の人形がやるべき仕事じゃないのかって言ってるのよ！
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:ははは、申し訳ありません。//n皆さん忙しそうにしていたものですから、つい……
+AR15Mod(0);RO635(0)<Speaker></Speaker>||:ステージライトの設置に間違いがないか細かくチェックすると、//nROは慣れた様子で支柱から降り、安全ベルトを外した。
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:完成しましたね！+そうだ、ライトのチェックを忘れずに……
+AR15Mod(0);RO635(0)<Speaker>ライト担当の人形</Speaker><同时置暗>||:今チェックしていますよ、素晴らしい仕上がりです！+本当にありがとうございました、ROさん。//nあなたが来てからみんなやる気に満ち溢れてますよ！
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:折角のパーティーですからね。//nそのやる気を維持したまま作業をやり遂げたいものですね！//nでは、また後程。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:折角のパーティ？
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:AR-15、申し訳ありません、お待たせしました。//n先ほどはなんと？
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;RO635(0)||:会場設営のことであんたに話があったのよ。+でももういいわ。//n話したらまた自分でやりかねないもの。
+AR15Mod(2);RO635(0)<Speaker>RO635</Speaker>||:わたしに出来ることであれば、の話ですが。
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;RO635(0)||:いや、私はあんたにこういう些細なことに首を突っ込んでほしくないのよ。
+AR15Mod(2);RO635(0)<Speaker>RO635</Speaker>||:それは……？
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(0)||:M4から聞いたわよ。//nあんたがこの機会に、仕事のことを忘れて、//nパーティーをつもりだって言ってたこと。+だけど、今のあんたは全然そうしてないじゃない。
+AR15Mod(4);RO635(0)<Speaker>RO635</Speaker>||:いっ、言われてみれば！
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;RO635(0)||:今気づいたの？！
+AR15Mod(5);RO635(0)<Speaker>RO635</Speaker>||:すいません。忙しくなると他のことを考える時間を持てなくて。+しかし、このままでも達成感はありますし、//n手伝いをすれば、その分早く準備作業が終わるじゃないですか。
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(0)||:でもそれはあんたが手ずからする必要のないことよ。//n人手は十分に足りてるし、どこも担当の人形が配置されてるわ。//nそれなのにあんたは……+いい？あんたに何の仕事も割り振られていないのは、//nみんなパーティーの時ぐらいはあんたに休んで欲しいからなのよ！
+AR15Mod(4);RO635(0)<Speaker>RO635</Speaker>||:そうでしたか、申し訳ない……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:誰も責めてるわけじゃないわよ。
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:いえ、ありがとうございます、AR-15。//n確かにパーティーをちゃんと楽しむべきですね。+よし！そうと決まれば精一杯楽しまないと……
+AR15Mod(0);RO635(0)<Speaker>ステージ担当の人形</Speaker><同时置暗>||:ROさん、ちょうどいいところに。//nステージのデザインなのですが……
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:あっ、はい。どれどれ……+……はっ！？
+AR15Mod(4);RO635(0)<Speaker></Speaker><Shake>||<BGM>BGM_Empty</BGM>:助けを求められたROがそれに応じようと喜んで前へと出た瞬間、//n肩に突然強い力がのしかかった。+振り返ってみると、肩をきつく握りながら恐ろしい視線を//nこちらへ向けるAR-15が目に入る。
+AR15Mod(4);RO635(2)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:……A、AR-15？
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(2)||:あんた、ちょっと来て。
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:え、ちょっと……わっ！
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Door_Hit</SE1>:AR-15はROに言葉を返すこともなく、//n無理やりステージ裏の更衣室まで彼女を引きずってゆく。
+()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:えっと、AR-15？！待ってください……や、やめてくださいよ！
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:……
+()<Speaker>ST AR-15</Speaker>||:ハイハイ、勝手に動かないで！
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:……
+()<Speaker></Speaker>||<黑屏1>:……
+AR15(3)<Speaker>ST AR-15</Speaker>||<BIN>82</BIN><黑屏2>:よし、と。出てきていいわよ。
+RO635(7)<Speaker>RO635</Speaker>||<黑屏1>:……
+()<Speaker></Speaker>||<BIN>138</BIN><黑屏2><BGM>BGM_Moon</BGM>:更衣室を出てステージ前に来たROは、//nすっかり新しい衣装に着替えていた。+精緻な縫製と見事な配色に、//nステージの準備に忙しい人形たちも目を奪われる。
+RO635(7)<Speaker>RO635</Speaker>||:なっ、なぜです……？
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:なぜって……ドレスのこと？+宿舎で見つけたのよ。//n着替えるのを忘れたんだと思って持ってきたんだけど。+どうやら、あんたを脚立の上に登らせないようにするにはぴったりね。
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:そんなことしませんよ！
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:本当に？
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:……おそらく……
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:……+なかなか似合ってるわよ。
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:ううぅ、どうも……
+AR15(3);RO635(7)<Speaker></Speaker>||:食い気味に礼を言ったROは段々と気恥ずかしさを感じ始めた。+するとすぐに、彼女の視界に白い光が飛び込んできた。+（シャッター音）
+RO635(7)<Speaker>RO635</Speaker>||:写真を撮ったのは誰ですか！？
+KSVK(9)<Speaker>KSVK</Speaker>||:いや、すまぬすまぬ！+ROの綺麗な出で立ちを見ていたら、ついシャッターを切ってしまった。
+KSVK(9)<Speaker></Speaker>||:カメラを抱えたKSVKは嬉しそうにステージへと上がってきた。
+KSVK(9)<Speaker>KSVK</Speaker>||:AR-15、来たぞ！
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:KSVK？+冗談だったんじゃなかったのね。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:当然だろう？カメラまで準備ばっちりだ！
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:えっと……なんのことです？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:ROはまだ知らなかったのか？//nみんなを誘って写真を撮ろうと思っていてな、//n最後に撮影会を開くんだ。+最高の時というのは、切り取るべきだし、//n記念すべきものだろう？
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:そうなんですかね……？
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:そうなんだ。
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:な……ならいいでしょう。
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:それで、ROよ。くるりと回ってみては貰えないか？
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:こ、こうですか……？
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:ROはその場で軽やかに回ってみせた。
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:（え、もう撮り始めてるの？）
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:（撮った感じがどうなるかは分からないけど……髪飾り、曲がってないわよね？）
+KSVK(9)<Speaker>KSVK</Speaker>||:よし。次はこのポーズをとってくれ……
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:え？こうですか？了解です……
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:……一枚だけじゃないんですね？
+KSVK(9)<Speaker>KSVK</Speaker>||:ROはモデルのようだからな。吾とも一緒に撮ってくれ！+AR-15もどうだ？
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:集合写真を撮るには早すぎるんじゃない？
+AR15(3)<Speaker></Speaker>;KSVK(9)||:そう言いつつも、AR-15は画角に入ってきた。
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:（……みんなでこうやって集まったのは、いつぶりなんだろう……）
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:（どう戦いに勝つか、何を失うか、そんなことを考える必要もない……）+（今はただ、かっこいいポーズをとって、//nそしていい思い出を残すか考えるだけでいい。）+（もしかすると、これが肩の荷を下ろすってことなのかも？）
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:（少し、楽しい……）
+RO635(7)<Speaker>RO635</Speaker>||:あ、KSVK。ベルトが緩んでいますよ。
+KSVK(9)<Speaker>KSVK</Speaker>||:おお、本当だ……RO、吾はカメラを持っていて屈めない。//nすまないが、結びなおしてもらえないか？
+RO635(7)<Speaker>RO635</Speaker>||:構いませんよ……あれ？
+RO635(7)<Speaker></Speaker>||:撮影中、ROがKSVKのベルトを結びなおしていると、//n視界の端をよく知った人影が通り過ぎた。
+M4A1(7)<Speaker></Speaker>||:気付かれたことを察したのか、M4は少しの間呆然とすると、//n踵を返しあわただしく去っていった。
+RO635(7)<Speaker>RO635</Speaker>||:（M4はこちらの様子を気にしていた、それにあの目は……）+（あっ……！）
+RO635(7)<Speaker></Speaker>||:宿舎を出る時、M4が興味のある催しがあるから一緒に参加したいと//n言っていたことを思い出した。
+KSVK(9)<Speaker>KSVK</Speaker>||:準備はいいか？+では、3、2、1――
+RO635(7)<Speaker>RO635</Speaker>||:待ってください！
+KSVK(9)<Speaker>KSVK</Speaker>||:RO？
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:どうしたの？
+()<Speaker>RO635</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:わたしの助けを必要としている人がいるんです。
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Hello</BGM>:宴席では人形たちが賑わっていた。//n柔らかなメロディーに、楽しそうな話声が入り交じる。
+M200(3)<Speaker>M200</Speaker>||:うん、よく撮れてる。
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:ありがとう、M200。//n現像する時に大きなサイズのものも作ってもらっていい？+何と言ってもワタシとKSVKの記念すべき大事な瞬間だもの！+そうよね！
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:うっ、わかったわかった！+そうだ、AR-15はどこだ？
+M4A1(7)<Speaker>M4A1</Speaker>;KSVK(9)||:あ、AR-15なら……
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:わたしたちはAR-15が、M16とSOP IIを見つけてくるのを待ってるんです。//n帰ったら一緒に集合写真を撮ろうと思って。+でも少し時間がかかってますね、こうなるならわたしが行くべきでした。
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:AR-15もあなたに任せてばかりにしたくないのよ。+そうだ、どうせ待つなら、折角だし……？
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:あ、わたしたち二人でですね……いいですね。+お願いできますか、M200？
+M4A1(7);RO635(7)<Speaker>M200の声</Speaker>||:はい！喜んで！//nでは、もう少し寄ってください。
+M4A1(7);RO635(7)<Speaker></Speaker>||:ROは言葉に従い、M4とぴったり寄り添った。
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:うん……
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:RO？
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:いえ、何でもありません。+ただ、AR-15の言ったことは正しかったなと。//n実は何でもかんでも背負いこむ必要なんてない、//n積み重なれば、その分自分をがんじがらめにしてしまうだけですから。
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:うん、確かにそうね……
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:今は、気兼ねなくパーティーを楽しむのも悪くないなと思えます。//n考えすぎなこの性格を改めたほうがいいのかもしれませんね。
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:あなたならできると信じてるわよ、RO。
+M4A1(7);RO635(7)<Speaker></Speaker>||:二人は互いを見合わせくすりと笑うと、姿勢を伸ばし、//nリラックスした笑顔でM200のカメラを見つめた。
+M4A1(7);RO635(7)<Speaker>M200の声</Speaker>||:良い感じです。では撮りますよ……+3、2、1……
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:（シャッター音）
+RO635(7)<Speaker>RO635</Speaker>||:え？
+()<Speaker>？？？</Speaker>||:飛んだ！わたし、飛んでる！！
+()<Speaker>慌てている人形</Speaker>||:ウソでしょ、何してるの！？
+M4A1(7)<Speaker>M4A1</Speaker>||:SOP II？！
+()<Speaker></Speaker>||:突然の物音にROとM4の注意が集まる。//n見ると、パーティー会場を紫色の影が駆け抜けている。//n通り過ぎた後に、強烈なつむじ風を残して――+人形たちはめくれ上がるスカートを抑えることすら叶わず、//n口々に叫び声をあげている。+和気あいあいとしたパーティーの雰囲気は、//n一瞬にしてカオスと化し、先ほど芽生えたROの穏やかな心情も露と消えた。
+()<Speaker>冷静な人形</Speaker>||:早く奴を止めるんだ――ッッ！！
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:アハハハハハ！！+誰にも捕まらないよーだっ！
+RO635(7)<Speaker>RO635</Speaker>||:……それはどうかしらね？
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:RO？
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:やはり息抜きなんてできないわね。//nSOP II！お仕置きが必要なようね！
+RO635(7)<Speaker>RO635</Speaker>||<黑屏1>:先ほどの穏やかな気分を押し殺し、//nROはメガフォンと手錠を高々と掲げると、犯人の追跡を始めた。+会場の人形たちが次々とSOP IIを追う列に加わり、//nカオスは更に極まってゆく。+そうして折角のパーティーは、この目まぐるしく変わる雰囲気の中、//n終わりへと近づいていくのであった……

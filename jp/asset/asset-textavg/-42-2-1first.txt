@@ -1,0 +1,74 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>283</BIN><黑屏2><BGM>GF_20HW_Scene_BPM82_loop</BGM>:……廃棄された劇場の中にて。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:さ～て、観客の皆さん！長らくお待たせしました！+現在、私たちはなんと、あの超有名スポット――+幽霊劇場に来ておりま～す！+興味のある方は、投げ銭のほう、お願いいたしま～す！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:……いくら廃棄されてるからって、オモチャの人形、ここに捨てとくことある？+夜だと余計怖いんだけど……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:な、なんだか、誰かに見られてるような……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:ところでMDR、件のジェーン・ドウはその後何を？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:あ、そうだった！怪談の続きをしよう。+え～と、確か前回は、美しく才能に溢れたミズ・パサドゥの、//n劇団での順風満帆な生活が終わりを迎えたところ、だったよね。+治らぬ病と愛する者の裏切りが、彼女の脆弱な心を締め付けた……+そして昼ドラのお約束な展開の如く、//nミズ・パサドゥを心底妬んでいたミス・ジェーン・ドウは、//nいよいよ彼女に取って代わろうとしていた。+一人の人間に取って代わる最も簡単な方法と言えば――+本物に成り代わると同時に、本物の存在を消すことなのである。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:待って、それどういう意味？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ジェーン・ドウからしてみれば、パサドゥ本人に成り代わるなら、//nパサドゥと同じ顔を手に入れ、パサドゥの全てを奪い、//nそして本物のパサドゥを亡き者にするのがベストなわけだ。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:……それって、『胡蝶の繭』をわざと真似してるの？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:ミス・ジェーン・ドウの行為から察するに、//n彼女はミズ・パサドゥを崇拝していたようです。//n彼女に成り代わろうと考える程に。+ミズ・パサドゥの出世作を模倣し、犯罪を犯そうとしても、//nなんらおかしくはありません。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ジェーン・ドウが何を考えてたかなんて、誰も知らないけどね。+人生は芝居の如し、芝居は人生の如し。+パサドゥの出世作である『胡蝶の繭』も、//n彼女の人生の縮図みたいなモンだし。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:人間って、他人の顔をカンペキに複製できるの？それって合法？
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:確か、人形の顔を現存する人間に似せる事は法律で制限されてるけど、//n人間が別の人間の顔をもとに整形するのは、禁止されてないみたいだね。+それに、人間の整形技術もかなり進んでるし。//nまぁ、人形ほど便利じゃなさそうだけど？私にもよく分かんない。+とにかく、ジェーン・ドウは自分の顔をパサドゥそっくりにしてくれる//n医者を見つけて、手術を終えたってわけさ。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:一つ問題が。人形とは違い、人間が大幅な整形手術を行った際は、//n長期間にわたる回復が必要となります。+それも手術が成功した場合の話です。//nワタシの知る限り、他人の容姿を丸ごと複製するような手術は、//n成功率が極めて低いはず。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:だよね。療養期間中は、劇団での仕事もできないもんね。+そんなに長い間休んでたら、クビになってもおかしくないし……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:それはどうかな？『胡蝶の繭』に出てきた影の女みたいに、//nジェーン・ドウにも特別な力があったらどうする？+とにかく、ジェーン・ドウが再び劇場に現れた時、//n彼女はすでにパサドゥと瓜二つになっていたのさ！+劇場のスタッフたちにも、見分けがつかないほどにね。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:そこでもう一つ問題が。先ほどデータベースを調べたところ、//nジェーン・ドウに当てはまるような女性は見つかりませんでした。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:それが一番怖いトコなんだよ！+生存してる当事者の中で、//nジェーン・ドウを覚えている者は、誰一人いないんだ！+警察ですら、パサドゥの日記を調べて、//nその存在に気づいたぐらいなんだから。+しかも彼女に関連する資料は一切見つからず、//n存在していたかどうかも定かじゃない。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ってことは、ミス・ジェーン・ドウはミズ・パサドゥの単なる想像だったか、//n或いは影の女のように、本当に存在していたか……//nどっちの可能性もあるってわけだね。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:完全に『胡蝶の繭』の現実バージョンじゃん……
+Spitfire(2)<Speaker>Spitfire</Speaker>||:有り得ませんね。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:確かにね……でもありえちゃったら、都市伝説になんないじゃん？
+97typeS(2)<Speaker>97式散</Speaker>||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:ねぇ、なにか聞こえなかった……？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:な、なんの音？
+()||<SE1>Stop_AVG_loop</SE1>:MDRは舞台へと跳びあがり、配信カメラに向かって生き生きと喋り始めた。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:皆さ～ん、見えますか～？//nここが、ミズ・パサドゥがかつて演技をしていた場所で～す！+焦らなくても大丈夫！今からじっくり、見て行きますからね！+気に入ってくれたら、チャンネル登録よろしく、はぁと♡
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ちょっと、MDR。ここにあるもの、勝手に動かしたらマズいんじゃないの？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:そうだよ、先輩……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:大丈夫だって、どうせ劇場丸ごと廃棄されてるんだから！+このピアノ、まだ使えるかな？
+()||:MDRは隅にある古いピアノに近くと、鍵盤蓋を開け、//n適当にキーを押してみた。
+()||<SE1>GF_Halloween_Wind_loop</SE1>:冷たい風が、微かに吹いている。
+()<Speaker></Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:次の瞬間、燃やされたはずの劇場が、急に真新しくなった。+幕がゆっくりと開き、誰もいない舞台が現れた。
+97typeS(2)<Speaker>97式散</Speaker>||<BGM>GF_20HW_Theme_Selfloop_Freesync</BGM><SE1>Stop_AVG_loop</SE1>:ちょ……ちょちょちょ、ちょっと――アンタ何したの？！
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:どゆこと？なんかさっきと全然ちがくない？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩！そんなに強く掴まないでよ！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:これは……
+()||:一人の見目麗しい女性が、袖から舞台へと上がった。//n瑞々しい薔薇の花弁が、彼女の周囲を舞い踊っている。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:誰よアイツ？
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:きれい……
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:待った！あれは――
+NPC-Passadou(0)<Speaker>？？？</Speaker>||:「愛おしむがいい、私を深く強く」+「永遠の別れを交わす、その時に」
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:MDR！ちゃんと最後まで言ってよ！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩！どうしたの、先輩？！
+()||:まるで痛恨の一撃を受けたかのように、MDRは何も言えずに震えているだけだった。
+NPC-Passadou(0)<Speaker>？？？</Speaker>||:「どうか私を思い出して」+「そうすると誓って」
+Spitfire(2)<Speaker>Spitfire</Speaker>||:あの方がミズ・パサドゥです。
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:ハァァァァ？！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:でも、パサドゥさんはもう……
+NPC-Passadou(0)<Speaker>パサドゥ</Speaker>||:「心を取り戻し自由を得る」+「その願いに気づいたなら」+「束の間でもいい」+「あなたの想いを私に寄越して」
+()||:がら空きの客席から、盛大な拍手が沸き起こった。
+97typeS(2)<Speaker>97式散</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:うっぎゃああああああ――！！ほほほほ本当に出た！！！+逃げろぉぉぉぉ！！！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:97式散先輩！そっちは壁だよ！
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ぴぎゃああああああ――！！！助けて！！！
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:MDR先輩！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……もしかして、ホログラフィーをご存知ない？
+()||:Spitfireは眉をしかめると、心のままに歌うパサドゥの方へと歩いて行き、//nそのままパサドゥの身体をすり抜けた。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:逃げるのはおよしなさい、ただのホログラム映像です。
+()||<BIN>269</BIN>:瞬く間に、辺りの風景が再び変化した。+Spitfireは、花の香りを帯びた温かな風が吹いているように感じた。+パサドゥはドレスをたくし上げ、花畑の中に足を踏み入れる。+花びらを掠めたドレスの裾に、微かな朝露の痕が残った。
+NPC-Passadou(0)<Speaker>パサドゥ</Speaker>||:……私の憧れをご存じかしら？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:し、知らない。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:ぎぇぇぇぇぇえええ――！！！幽霊に話しかけられたぁぁぁぁ！！！
+97typeS(2)<Speaker>97式散</Speaker><Position>0,100</Position>||:うわぁぁぁっぁぁぁ！！！逃げろぉぉぉぉ！！！
+NPC-Passadou(0)<Speaker>パサドゥ</Speaker>||:エヴァ・フリードよ、かつての「世紀の歌姫」。+彼女はオペラ歌手だけれど、私の一番の憧れなの。+いつか彼女のような、人々の心で永遠に生きる歌姫になりたい。+たとえこの肉体が朽ち果てようとも、私の魂は永遠に存在し続ける。
+Spitfire(2)<Speaker>Spitfire</Speaker>||:……+エヴァ・フリード？
+NPC-Passadou(1)<Speaker>パサドゥ</Speaker>||:その日が訪れるまで、傍にいてくれるのよね、そうでしょう？
+()||:パサドゥは人形たちに向かって鮮やかに微笑んだ。+97式散が白目を剥いて卒倒した。
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:いやぁぁぁぁぁぁああ！！！ここから出してぇぇぇ！！！
+Spitfire(2)<Speaker>Spitfire</Speaker>||:ハァ……このホログラム映像を止めない事には、収まりそうにないですね。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||:先輩、何か手伝えることはない？
+Spitfire(2)<Speaker>Spitfire</Speaker>||:そうですね、SASS、付近の警戒をお願いします。+ワタシはこの劇場の制御システムに侵入し、黒幕を暴いてやります。
+SuperSASS(2)<Speaker>Super SASS</Speaker>||<黑屏1>:分かった、私に任せて！

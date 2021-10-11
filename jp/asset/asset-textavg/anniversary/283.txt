@@ -1,0 +1,5 @@
+Liberator(0)<Speaker>リベレーター</Speaker>||<BIN>96</BIN>:へへっ、ここのフライドチキン、いいでしょ？
+()<Speaker>指揮官</Speaker>||:うん、衣はサクサクで、中身もジューシーだ。+まさかこんな世の中でも、こういう美味しいものを食べられるとはね。
+Liberator(0)<Speaker>リベレーター</Speaker>||:これも全部指揮官のおかげだよ。
+()<Speaker>指揮官</Speaker>||:え？
+Liberator(0)<Speaker>リベレーター</Speaker>||<黑屏1>:知ってる？この管轄区域の元々の名は――S09だよ。

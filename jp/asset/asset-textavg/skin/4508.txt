@@ -1,0 +1,135 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN><BGM>BGM_Hello</BGM>:……パーティー前。+AR-15はドアに寄りかかりながら、談笑する人形たちを見つめていた。
+AR15(3)<Speaker>ST AR-15</Speaker>||:この服、動きが制限されるったらありゃしないわね。+チッ、M16のやつ、なにが参加すればパーティーが好きになるよ。//n自分だけじゃない。
+AR15(3)<Speaker></Speaker>||:AR-15はスカートのすそを下に引っ張った。
+AR15(3)<Speaker>ST AR-15</Speaker>||:こんな動きづらい服着て自由自在に動ける奴なんているのかしら？
+()<Speaker>？？？</Speaker>||:いやだ！いやだいやだいやだ！
+()<Speaker></Speaker>||:パーティーの賑やかな雰囲気が唐突な叫び声に引き裂かれた。
+AR15(3)<Speaker>ST AR-15</Speaker>||:んん？あれはSOP II？+……何もない場所に向かって何してるの？
+AR15(3)<Speaker></Speaker>||:AR-15はSOP IIのもとまで行くと、彼女を会場の端まで引き寄せた。
+AR15(3)<Speaker>ST AR-15</Speaker>||:SOP II、あんた――
+M4 SOPMOD II(2)<Speaker></Speaker>;AR15(3)||<SE1>Rope</SE1>:SOP IIは突然手を伸ばすと、//nAR-15の襟を鷲掴みにし、大声で叫んだ。
+M4 SOPMOD II(2)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||<震屏><BGM>BGM_Empty</BGM>:今度は絶対行かせない！
+M4 SOPMOD II(2);AR15(3)<Speaker>ST AR-15</Speaker>||<BGM>m_avg_labyrinth</BGM>:……あんた、どうしちゃったのよ？
+M4 SOPMOD II(2);AR15(3)<Speaker></Speaker>||:AR-15は驚きつつもSOP IIの手を襟から放した。//nSOP IIの目に徐々に光が戻り始める。
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:ううぅ……AR-15……
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:ど、どうしたっていうのよ？+何があったの？誰かに酷いことでもされた？
+M4 SOPMOD II(3);AR15(3)<Speaker></Speaker>||:突然わんわんと泣き出すSOP IIを前に、//nAR-15はあたふたとし始める。
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:AR-15がわたしのことを置いて、また一人で勝手に行こうとしたから……
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:そんなことしてないわよ。
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:見たもん！
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:……
+M4 SOPMOD II(3);AR15(3)<Speaker></Speaker>||:思い出したくはないが、いつのことを言っているのか、//nAR-15にははっきりと分かっている。
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:記憶が混乱してるだけよ。飲んで少し落ち着きましょ。
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:……
+M4 SOPMOD II(3)<Speaker></Speaker>;AR15(3)||:AR-15を見つめるSOP IIの視線は真っ直ぐだった。//nまるで彼女の心の奥深くを掘り起こそうとでも言わんがばかりに。+しばらくすると、SOP IIは酒の瓶を手渡してきた。
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:一緒に飲みましょ、そしたら嫌なこともきれいさっぱり消えるわ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:だったらAR-15はたくさん飲んでよ。//nさっきはすごい悲しかったんだよ……
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:……+はいはい、わかったわよ。飲めばいいんでしょ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:へへっ、これ、M4が買ったお酒なんだ。美味しいんだよ！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||<震屏>:なんですって？あんた、M4が買ったのを――
+M4 SOPMOD II(1);AR15(3)<Speaker></Speaker>||:M16に酒を購入したというM4の話を思い返した一瞬の隙をついて、//nSOP IIはAR-15の口に瓶を突っ込んだ。
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:よしよし、たーんとお飲み！
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:むっ……ぐっ……
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:抵抗を試みたが、今日のSOP IIは普段より力が強く、//nAR-15は指一本動かすことができない。+見る見るうちに、瓶が空になっていく……
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:……
+AR15(3)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:AR-15はそのまま地面にへたり込んだ。視界がぐるぐると回っている。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:えへへっ……デザート食べてよ！ROがわたしにとっておいてくれたんだ！+二個……いや、一個だけね！
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:……+（SOP II、服が変わってる？）
+M4 SOPMOD II(5);AR15(6)<Speaker></Speaker>||:AR-15はぼんやりとした目つきでSOP IIを睨みつけたが、//n一言たりとも発することができない。
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:食べないの？じゃあ全部わたしのだよ、へへっ……+もぐもぐ……+爽やかな味……あっ、わたし、また浮いてる！
+M4 SOPMOD II(5)<Speaker></Speaker>;AR15(6)||:SOP IIは振り返ると、クラウチングスタートの態勢をとった。
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:待ちなさい、SOP II！
+AR15(6)<Speaker></Speaker>||:SOP IIの姿は既に目の届く範囲にはなかった。+AR-15は言うことの利かない素体をすぐさま立ち上がらせ、//nSOP IIの行き先を追おうと試みたが、//n彼女の視界は暗くなる一方だった。
+AR15(6)<Speaker>ST AR-15</Speaker>||:待てって言ってるでしょ、SOP II！走り回るな！
+AR15(6)<Speaker></Speaker>||<白屏1>:AR-15は目の前のドアを開ける。
+()<Speaker></Speaker>||<白屏2><BIN>269</BIN>:開けた瞬間、周りのパーティー会場が消えた。//n代わりに静かな花畑が辺り一面に広がっている。
+AR15(6)<Speaker>ST AR-15</Speaker>||:どういうこと？！ここは？！+さっきまで私は会場にいたはず……
+AR15(6)<Speaker></Speaker>||:AR-15は困惑の表情で振り向くと、先ほど目の前にあった門まで消えている。
+AR15(6)<Speaker>ST AR-15</Speaker>||:メンタルに侵入された？+……クソッ、すぐにSOP IIを見つけないと。+SOP II！SOP II！どこへ行ったの！
+AR15(6)<Speaker></Speaker>||:AR-15は花をかき分けながら駆け回り、SOP IIの姿を探した。+彼女の狼狽の混じった叫び声に、数人の人形が足を止め視線を向ける。
+AR15(6)<Speaker>ST AR-15</Speaker>||:SOP II！どこにいるの！
+()<Speaker>？？？</Speaker>||:AR-15……
+()<Speaker></Speaker>||:服の端を引っ張られたことに気が付いた彼女は、銃を構え振り返った。
+AR15(6)<Speaker>ST AR-15</Speaker>||:M、M4？
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:AR-15、SOP IIを探しているの？
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:そうよ、私は……+待って、どうしてあんたまでここに？服はいつ着替えたのよ？
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:何を言ってるの？//n私はずっとここにいたじゃない、服だって着替えたりなんかしてない。
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:あんた……
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:M4はスカートの端を摘まみながら訝しげに左右を見回している。//nその姿を見つめるAR-15のメンタルに、ある推測が立った。
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:M4、今あなたの来ている服はどんな感じ？
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:一緒に注文したドレスじゃない。
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:AR-15はM4に生えたうさ耳と、手にした大きな風船を見つめると、//n一言も発さなくなった。
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:AR-15、どうしたの？+変なことばかり言ってるし、//nさっきなんて突然会場を走り出して……
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:大丈夫……+飲み過ぎよ多分……+クソッ、SOP IIの奴、一体どこへ行ったの？
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:SOP IIも今日は何か変だわ。//nさっきも私が、うんと遠い場所に行っちゃうって……
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:私がSOP IIを置いて一人で任務に行っちゃうとも言ってたわ。
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:……+どうして嫌な過去ばかり思い出してるの？
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:恐らく飲み過ぎでメンタルが錯乱を起こしているのね。
+M4A1(4)<Speaker></Speaker><Position>0,+200</Position>;AR15(6)||:M4はAR-15の真っ赤になった顔に視線を向けた。
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:AR-15もさっき飲まされたのね？大事が無いようで何よりだけど。
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:AR-15はこの常軌を逸した空間を見回すと、苦笑いしつつ頷いた。
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:（早く現実に戻らないと。最悪ね……）+私はSOP IIを探してくる、やらかす前に見つけないと。
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:わかった。私もみんなに聞いてみる。
+AR15(6)<Speaker></Speaker>||:M4が手にした風船の紐を揺らすと、//n気球は凄まじい勢いで膨らみ、彼女を空高く連れて行った。+AR-15は唖然としながらM4の消えた方向を見つめると、//nそのまましばらくの間呆けてしまった。
+AR15(6)<Speaker>ST AR-15</Speaker>||:……幻覚、これはきっと幻覚よ！+早く覚めなさい！！！
+()<Speaker></Speaker>||:……AR-15は広大な花畑の中をしばらく探し回った。
+AR15(6)<Speaker>ST AR-15</Speaker>||:……パーティーホールが花畑になってからというものの、//nどこがどこだかわかりやしないわね。+他の人形に道を聞いても、私が見えてるものとは違うんだもの。+SOP IIのやつ、本当にどこに行ったのかしら。
+()<Speaker>RO635の声</Speaker>||:AR-15、どうして走り回っているんですか？
+()<Speaker></Speaker>||:頭にうさ耳を頂いたROが、心配そうな表情でこちらに歩いてきた。
+AR15(6)<Speaker>ST AR-15</Speaker>||:RO、あんたまで――+くっ……ふふっ……//nなかなか似合ってるわよ。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:ありがとうございます。わたしまでとは？
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:何でもないわ……+SOP IIを探しているの、さっき見つけた手がかりがまた途絶えちゃって。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:わたしもです。//nSOP IIならしばらく見ていませんね。どこで騒ぎを起こしていることやら。+通信にも出ませんし……
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:焦ることはないわ。M4が飛び……いえ、聞いて回ってるから。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:飛び？大丈夫ですか、AR-15？
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:ええ……
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:あなたからお酒の匂いがするのですが一体――
+RO635(11)<Speaker>？？？</Speaker>;AR15(6)||:うおおお――！
+RO635(11)<Speaker></Speaker>;AR15(6)||:聞きなれた力む声にROの注意が逸れた。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:SOP IIね！
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||<黑点1>:行きましょう。
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:SOP IIの声がする方向へ向かうと、そこにはM16とM4がいた。
+AR15(6)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Hello</BGM>:さっきのSOP IIの――+ぷっ、M16。//nあんたにもうさ耳をつける日が来ようとはね。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:はぁ？うさ耳？
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:M16のうさ耳が訝しげにピクピクと動く。
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:ぷっ、ふふふ……
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:先ほどSOP IIを見ませんでしたか？
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:さっき突然M16姉さんに突っ込んで……持ち上げてたわ。+確かにいつもやんちゃだけど、//n今日は何か様子がおかしい。
+M4A1(4);AR15(6)<Speaker>ST AR-15</Speaker>||:持ち上げた？SOP II、なかなかやるわね……
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:ははっ、ただ酔ってるだけさ。心配するほどのことじゃない。
+RO635(11)<Speaker></Speaker>;AR15(6)||:ROが顔色を少し悪くした。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:……+SOP IIはどちらへ？
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:それは……
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:M16姉さん？
+M16A1(2)<Speaker></Speaker>;AR15(6)||:M16が意地悪そうに笑うと、頭上のうさ耳もピンと立った。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:AR-15、一曲どうだ？
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:冗談言ってる場合？
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:冗談じゃないさ。//n酔ったSOP IIを連れ戻すのは、慣れているROに任せたほうがいいだろう？
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:AR-15、あなたも羽を伸ばさないと。
+M4A1(4)<Speaker></Speaker>;AR15(6)||:M4は懸命に取り繕っているが、//nAR-15にはM4の目に不安の色が見えていた。+私もSOP IIのように、みんなを心配させていたのだろうか？
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:そうですね。わたし一人で十分ですよ。
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:SOP IIはさっきゲートを出て、会場の外に走っていったぞ。
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:わかりました。彼女を追います。
+RO635(11)<Speaker></Speaker>;AR15(6)||:そう言うとROは走って会場を出ていった。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:お次は、私たちの時間だな。
+M16A1(2)<Speaker></Speaker>;AR15(6)||:M16の手が空中に、優雅なお誘いのポーズを描き出した。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:一曲お相手願えませんか、お嬢さん。
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:折角のパーティーなんだもの、リラックスしないと、AR-15。//n私はデザートを取りに行ってくるわね。
+M4A1(4)<Speaker></Speaker>;AR15(6)||<BGM>BGM_Empty</BGM>:M4は微笑みながらAR-15を押した。+AR-15がしょうがなくM16の手を握る。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||<BGM>GF_Memorial</BGM>:さ、私のリズムについてこれるかな？
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:ええ。
+M16A1(2)<Speaker></Speaker>;AR15(6)||:M16のリードのもと、二人の人形は花畑で踊りだす。+柔らかな花の枝がスカートに擦れ、//n軽快な音が鳴り響く。+AR-15が顔を上げると、空一杯に舞う花びらの先に、//n雲が彩を添えるのが見えた。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:AR-15、天井は見ても私のことは見れくれないのか？
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:あんたには天井でも、私の目には別のものに映ってるのかもれないわよ。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:お前が羽を伸ばして楽しんでくれれば、私はそれでいいさ。
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:……
+M16A1(2);AR15(6)<Speaker></Speaker>||:AR-15が軽くため息をつくと、視線を逸らしM16の踊るリズムに合わせ始めた。+視界の端に、デザートを両手に満面の笑みでこちらを見つめるM4が映る。
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:心配しなくていいぞ。SOP IIを捕まえて宿舎へ連れ戻したと、//nさっきROから連絡があった。+後であいつに何かうまいものでも持って帰ってやろう。
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:そうね。
+M16A1(2);AR15(6)<Speaker></Speaker>||:AR-15は無表情で頷いた。//nこの幻の世界から去ってしまうのが惜しくてたまらない、//n彼女はそんなことを考えていた。
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||<黑屏1>:もし、ずっとこうしていられたら、それも悪くないわね……

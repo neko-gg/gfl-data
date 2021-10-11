@@ -1,0 +1,3 @@
+RPD(0)<Speaker>RPD</Speaker>||<BIN>96</BIN>:指揮官、今日の任務は？今日はとても調子がいいので、いつでも行けます！
+RPD(0)<Speaker>RPD</Speaker>||:……アニバーサリー？+……+……しまった、忘れてしまいました。
+RPD(0)<Speaker>RPD</Speaker>||<黑屏1>:えっと……ガムならありますけど、受け取ってくれますか？

@@ -1,0 +1,12 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>229</BIN><黑屏2><BGM>BGM_Room</BGM>:私たちへの追撃を諦めたようね。
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:目の前の敵に集中してくれて助かったわ。//nじゃなきゃ、あれだけの鉄血から逃れるなんて無理よ……
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:どうしてああまでして戦ってるんだろう？+あの部屋の人形、外部からのアクセスは受けてないはずだよ？
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:それって、誰もあの鉄血たちに命令してないってこと？
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:うん。あのネイトたちも……まだ未完成品みたいだったし……
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:ここはもともと変なのよ。そんなことは放っておきましょ。+9、イントゥルーダーの位置はまだ追跡できる？
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:うん。でもなんだか、一定の距離を保たれてるような気がする。//n何がしたいんだろ？
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:もう一度侵入するつもりとか？//nそれとも、私たちを罠へとおびき寄せたいの？
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:……鉄血の行動には必ず理由がある。それが脅威でなければ、//nまずは反逆とアンジェを探しましょう。+次の階へのルートは予測できる？
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:あと3つ部屋を通れば入口に到着するよ……//nでも、イントゥルーダーがそのルート上にいるみたい。
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||<黑屏1>:そんなにケンカがしたいんなら、受けて立つまでよ。+小隊、警戒しながら前進！

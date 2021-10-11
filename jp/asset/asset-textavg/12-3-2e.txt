@@ -1,0 +1,50 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>207</BIN><黑屏2><BGM>BGM_Room</BGM>:M4、行き止まりよ！+どうすればいい？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:チッ、他にルートは……+この道はダメ……この道も……こっちは……クソッ！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:敵が追ってきた！
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ようやく自分を窮地に追い込んだわけね？</color>
+Nyto(0)<Speaker></Speaker>||:M4とAR-15は、白い勢力によって//n建物の行き止まりへと追い詰められていた。+部隊の中からネイトがゆっくりと現れ、唯一の出口の前に立ちふさがると、//n彼女たちに武器を向けた。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>……ネイトは制御出来ないんじゃなかったの？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>さっきまではね。私にとっては時間の問題でしかないわ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>他人の身体を乗っ取れるのなら、どうして私に付き纏うの！？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>私はあなたのメンタルから生まれたのよ。それに他人の身体になんて興味ないわ。</color>+<color=#00CCFF>言ったでしょう、私たちの目的は一致していると。自分が何なのか知りたい、ただそれだけよ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>他人の身体を操りながら言うことじゃないわね。説得力ゼロよ。</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>仕方ないでしょう、そうさせたのはあなたよ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>それで？次はどうするの？私たちをバラバラにでもする気？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ルニシア、あなたの一番の切り札は何かわかる？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>フン……</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>私があなたを傷つけないと知っている。でも知らせておきたい事があるの。</color>
+Nyto(0)<Speaker></Speaker>||:黒い人形が武器を下ろし、遠くの方を指さした。
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ここからそう遠くない場所で、白い勢力の別部隊が、アンジェリアならびにグリフィンとの最後の戦いを繰り広げているわ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>なんですって！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ここでモタモタしていたら、最終便に間に合わなくなるわよ？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>…………！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>まだ分からないの？</color>+<color=#00CCFF>この部隊を指揮している人形は、あなたにかまけている暇などないの。だからこそつけ込む隙が出来た。</color>+<color=#00CCFF>もしやつらが正気に返ったら、私たちは完全にお終いよ。</color>+<color=#00CCFF>最終便に間に合わないどころか、ここを生きて出られる可能性すら限りなくゼロに等しくなる。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>私は……信じない……</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あなたはもう信じている。事実を認めたくないだけよ。</color>+<color=#00CCFF>まるで駄々をこねる子どもね。無意味な抗いを続けて、貴重な時間を無駄にしている。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>私は決して――</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あなたのメンタルはすでに、事実を演算し終えているわ。</color>+<color=#00CCFF>その事実とは即ち、あなた一人では何も出来ないということ。</color>+<color=#00CCFF>私はあなたにその点を認識してほしかっただけ。それも徹底的にね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>あなた…………</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>それじゃ、私を迎える準備は整ったかしら？</color>+<color=#00CCFF>あなたの意志を無視したって良かったのよ。でも私は、あなたの言葉が聞きたいの。私に「戻って来て欲しい」と。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>口が裂けたって言うわけない！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>交換条件として、この場にいる白と黒のやつらを全て無力化してあげるわ。すぐにでもあなたの目指す信号塔へ連れて行ってあげる。</color>+<color=#00CCFF>生き残ることでしか、前には進めない。あなたのためだけじゃない、傍に立っているお友達のためでもあるのよ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>…………</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あなたの答えは？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>私に選択肢があると思うの？</color>
+()<Speaker>透き通った声</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:<color=#00CCFF>あなたにはいつだって、選択肢があったわ。そう、いつだって。</color>
+()||<黑点2><BIN>156</BIN><SE1>AVG_amb_wilderness</SE1><BGM>BGM_Wake</BGM>:30分後。
+()<Speaker>ST AR-15</Speaker>||:どういうこと、白い部隊が動きを止めたわ……
+()<Speaker>M4A1</Speaker>||:それは良かった。
+()<Speaker>ST AR-15</Speaker>||:あんたと関係してるんでしょ？あの謎の意識、それに黒い人形も……
+()<Speaker>M4A1</Speaker>||:悪いけど……その話はしたくないの。
+()<Speaker>ST AR-15</Speaker>||:…………
+()<Speaker>M4A1</Speaker>||:アンジェさんと連絡できた？
+()<Speaker>ST AR-15</Speaker>||:反逆から応答があったわ。+AK-12が座標を送ってきた。彼女たちの撤退用ヘリがそこにある。+でもアンジェは意識を失ってるみたい。//n指揮官は白い勢力に連れ去られたそうよ……//n過酷な戦いがあったようね。
+()<Speaker>M4A1</Speaker>||:……私たちは、結局失敗したのよね？
+()<Speaker>ST AR-15</Speaker>||:ここから逃れられるだけでも幸いだわ……後の事は、戻ってから考えましょ。
+()<Speaker>M4A1</Speaker>||:………………
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ルニシア、全ては始まったばかりよ。私たちは全ての解釈、答え、結果、そして真相を手にしなくてはならない。</color>
+()<Speaker>M4A1</Speaker>||:<color=#A9A9A9>やるべき事は分かってるわ。私に選択肢があると言ったわね？なら選んでやろうじゃない。金輪際、あなたの言葉を信じない。</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>信じなくてもかまわないわ。それでも私はあなたを助ける。なにしろ私たちは一つなんだもの。この事実は曲げられも避けられもしない。</color>+<color=#00CCFF>あなたにもいずれ分かるわ、この世の全ては必然だという事を。いつかあなたが、自分をルニシアだと認める日が来るように。</color>
+()<Speaker>M4A1</Speaker>||:<color=#A9A9A9>もし全てが必然だと言うのなら望むところよ。必要とあらば……この手で実現してみせる。</color>+<color=#A9A9A9>でもあなたの言う必然は、無意味な戯言にしか聞こえない。</color>
+()<Speaker>透き通った声</Speaker>||<黑屏1>:<color=#00CCFF>かまわないわ、時間が全てを証明してくれる。あなたの心が開け放たれる時、答えは自ずと現れるはずよ。今はまだ、その時ではないというだけ。</color>+<color=#00CCFF>それでもいいの、私は待ち続けるわ。あなたの認める「必然」が訪れる、その日まで。</color>

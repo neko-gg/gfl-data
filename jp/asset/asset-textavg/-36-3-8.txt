@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Truth</BGM>:思っていたより早かったわね、さすがはAR小隊。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:軍はもう合流して攻撃態勢に入ってる。//nそれで、あなたの言ってたプランは？
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:話の邪魔をしてすみませんが、M4、//n今さっきネイトと鉄血の信号を探知しました。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:ま～たネイト？ま～た鉄血なのぉ？+どっちを殺せばいいのさ。それか、どっちもやっちゃう？
+M4 SOPMOD IIMod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……どっちもやらないで。
+M4A1Mod(4)<Speaker>M4A1</Speaker>;AR15Mod(0)||:つまり……これがあなたの計画なの？
+M4A1Mod(4);NytoIsomer(3)<Speaker></Speaker>||:ダンデライオンはすぐには答えず、M4を連れて扉の方へと向かった。
+M4A1Mod(4);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:今からあなたのメンタルと私の意識をシンクロさせるわ。//n私の演算を全面的に支援し、//n尚且つ私の行為に疑問を持たないでもらいたいの。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:……うん。
+()||<BIN>229</BIN><黑屏2><SE1>AVG_door_storehouse</SE1>:ダンデライオンはゲートのパスワードを解除した。//n重い扉がゆっくりと開く。+M4の目の前に現れたのは、基地の奥底に密集するネイトと鉄血だった。
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:……
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:あれ……こいつら、なんで動かないの？
+M4 SOPMOD IIMod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:M4、私を信じてくれる？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:それについては、もう答えたと思ったけど。
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:いいえ。私が聞きたいのは、心から私を認め、//n私を理解し、私を恐れないかどうか。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:……+どう答えればいいか分からない。
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:それも一つの答えね。
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:M4は、ダンデライオンがオブジェのような人形たちに//nアクセスし始めているのを感じた。//n膨大な演算量に、彼女の胸も熱を帯び始める。+ダンデライオンは、ゆっくりとネイトの方へと歩いていった。//n距離が縮まるにつれて、前方のネイトから徐々に目覚めてゆく。+続いて、ネイトを取り囲んでいた鉄血たちも一斉に両目を見開いた。//n暗闇が緋色に染まる。
+NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:ついて来ないで。
+NytoIsomer(3)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:ダンデライオンはネイトの敵意を歯牙にもかけず、//nまるで人のいないところに立ち入るかの如く、//n落ち着いた様子のまま歩を進めた。
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:M4……
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(2)||:本当に大丈夫なんでしょうか？
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;AR15Mod(2)||:あのネイトと鉄血を、みんな呼び覚ますつもりなの？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(2)||:分からない、まったく分からないわ。
+()||<SE1>AVG_rifle_finalshot_n</SE1>:ネイトが腕を挙げた。//n横にいた鉄血人形が、すぐさまダンデライオンめがけて発砲する。+弾はダンデライオンの足元に当たった。威嚇の意図は明白だった。
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:どうか怖がらないで、一緒に家に帰りましょう。
+M4A1Mod(0);NytoIsomer(4)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:ダンデライオンは両腕を広げ、ネイトへと近づいてゆく。
+NytoIsomer(4)<Speaker></Speaker>||:ネイトの手が震えている。彼女はそれでも次の指示を下した――
+NytoIsomer(4)<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:彼女の周りにいる鉄血人形が、一斉に武器を構えた。
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>;NytoIsomer(4)||<SE1>AVG_weapon_reload</SE1>:ダンデライオン！
+M4A1Mod(0);NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:来ないで！
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:……！
+M4A1Mod(0)<Speaker></Speaker>;NytoIsomer(4)||:ダンデライオンは再びネイトへと近づいた。//nネイトを取り囲む鉄血たちも、にわかに震え始める。
+M4A1Mod(0);NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:彼女たちはここに閉じ込められていたの。//nここを離れる唯一の希望が差し込んだというのに、//n再び閉じ込められてしまった。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:どういうこと？
+M4A1Mod(0);NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:かつてAR小隊であった者の仕業よ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:まさか……M16？
+M4A1Mod(0);NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:……私と融合しましょう。
+M4A1Mod(0);NytoIsomer(4)<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:ダンデライオンはネイトを抱きしめた。//nネイトは戸惑いながらも手を伸ばし、同じように彼女を抱きしめる。+黒衣の少女たちは、あたかも影が夜に溶け込むかのように、//n強く抱きしめ合った。+背後にいたネイトと鉄血が群れを成して倒れ、そして起き上がった。//nやがて全員が、基地のゲートへ向かって歩いてゆく。
+M4A1Mod(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:M4……これは……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(5)||:15、大丈夫。もはや彼女たちに敵意はないわ。
+M4A1Mod(0)<Speaker></Speaker>;AR15Mod(5)||<SE1>AVG_footsteps_woodfloor</SE1>:鉄血を引き連れたネイトたちは、唖然とするAR小隊の横をすり抜け、//n基地の外へと向かって行った。
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:行きましょう、彼女たちが時間を稼いでくれる。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:あなた……彼女たちのメンタルを取り込んだの？
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:融合しただけよ、彼女たちと一体になったの。+グリフィンの人形だろうと、可哀想なネイトだろうと、//n私はただ、生き続ける資格を与えているだけ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:生き続ける……
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:融合が必ずしも間違いだとは限らない。//n受容と自我の確立は完全に矛盾しているわけじゃない。+ルニシア、あなたがもたらせる変化はもっと大きいわ。//nその時がきたら、どうか拒絶しないでほしい。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:……
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:早く指揮官たちと合流しましょう。あの人形たちも長くは持たない、//nすぐにでも基地内で準備を整えなければ。
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>:ええ……出発しましょう。
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:小隊は基地内部へと向かった。//n基地へと入る前に、M4は振り返ってネイトの後ろ姿を探した。//n彼女たちの漆黒のスカートが太陽に照らされ、柔らかな光芒を放っている。+敵であるはずなのに、目の前の少女たちの姿は、//nなぜだか見る者に懐かしさと哀れみを感じさせた。+だがもう後戻りは出来ない。+M4は視線を逸らした。彼女には分かっていた、//nあの漆黒の少女たちも、終いには血の色に埋もれるであろうことを。

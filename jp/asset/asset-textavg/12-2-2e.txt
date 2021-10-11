@@ -1,0 +1,32 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>207</BIN><黑屏2><BGM>BGM_Room</BGM>:……
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:銃を使えない作戦が、こんなに大変だったなんて……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:敵のセンサーが鈍くて助かった……私たちを直接感知できないみたい。+10秒後に敵の小隊が15メートル先を通過するわ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:了解……見えたわ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:まだ……まだよ……いいわ、敵が背を向けた、今よ！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:なんとかくぐり抜けたわ……危なかった、他の敵の位置は分かる？
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:ハッキングできるのは近くの敵だけ……//n騒ぎは起こしたくないの、敵に見つかったら終わりだもの。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:武器は手に入ったけど、//nスティグマが一致しないから期待は出来そうにないわ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:だからこそ細心の注意を払わなきゃ。//n敵の目を盗んで音もなく立ち去るのが一番よ。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:でもこのまま瓦礫の上を這ってたんじゃ、//n敵に見つからなかったとしても、撤退に間に合わないわ。+アンジェたちが無事なら、すぐにでもこのエリアを離れようとするはず。+もし彼女たちが通信可能な範囲を出てしまったら……私たちは……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:そうね……わかってるわ……でも今は他に方法もないし、もし……
+()<Speaker>透き通った声</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>もし幽霊みたいに、敵に認知されずに行動できたら？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>;AR15Mod(0)||:<color=#A9A9A9>！！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>驚いた？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:<color=#A9A9A9>だって、あなたはさっき…………</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あの白いやつらのシステムに取り残された？</color>+<color=#00CCFF>もしあなたがあれらをハッキングしなければ、永遠に見失っていたかもしれないわ。残念だけど、他に方法が無かったんだものね？</color>+<color=#00CCFF>また会えるだなんて、運命かしら。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>チッ…………</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>こっちはあなたのために頑張ってるのに、用が済んだらお払い箱だなんて。酷いのね、こんな事して心が痛まないの？</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>私を助けるのも、結局は自分のためでしょ。あなたのために痛める心なんて、持ち合わせてないわ。</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>あら、そう……</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>ええ、あなたの干渉を受けずにいる今の私が、本当の私よ。</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>ふぅん……ここから逃げるのを手伝ってあげようと思っていたけど。</color>+<color=#00CCFF>気が変わったわ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>え……ちょっと、何する気？</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>何度も助けてあげたのに、当のあなたは私を失望させてばかり。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>助けてなんて頼んでないわ！あなたなんか必要ない！</color>
+()<Speaker>透き通った声</Speaker>||:<color=#00CCFF>どうやら、あなたがどれだけ非力な存在か、思い知らせておく必要があるようね。</color>+<color=#00CCFF>自分の力だけでここを出られると思うなら、やってご覧なさい。</color>+<color=#00CCFF>ただし、もう誰もあなたの尻拭いはできないわ。失敗した報いは、自分で受ける事ね。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>クソッ、敵を引き寄せたわね！？</color>
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Room</BGM>:M4、どうしたの？+またボーッとしてるわよ。
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:さ、最適なルートを探していただけよ。//nわ、私たち……すぐにでも走って逃げないと！
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:でも、敵の目を盗むんじゃ……
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||<黑屏1>:もう時間がないの！+早く！私について来て！

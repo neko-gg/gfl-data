@@ -1,0 +1,44 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Danger</BGM>:司令室内。
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:指揮官さま、軍の装甲部隊が北防衛線に突撃してきました！+飽和攻撃です、こちらの重装部隊ではカバーできません！+前線部隊の消耗率は85%を超えています！
+NPC-Kalin(4)<Speaker>指揮官</Speaker>||:これが力の差ってやつか……+ダンデライオン、北線の部隊を列車付近に呼び戻せないか？+奴らの装甲部隊に列車の側面をつかれたら、私たちは終わりだ。
+NPC-Kalin(4);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:命令を発令中よ、残存部隊の編成を最適化したわ。+それと、予備部隊の人形が敵装甲部隊の位置を捕捉したけれど、//n列車には近づいてきていない。+狙いはおそらく沿岸砲ね。//nこちらの防衛線を突破したら、一気に畳みかけるつもりよ。
+NPC-Kalin(4);NytoIsomer(3)<Speaker>指揮官</Speaker>||:こっちが標的になったほうがまだマシだ……+この情報をAR小隊に伝えて、必ず軍より先に沿岸砲へとたどり着くんだ！
+NPC-Kalin(4);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:今連絡しているわ。
+NPC-Kalin(4);NytoIsomer(3)<Speaker>指揮官</Speaker>||:404小隊はどうなってる？隔離壁の扉はまだ開かないのか？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>;NytoIsomer(3)||:依然、サイレント状態のままです……
+NPC-Kalin(4)<Speaker>指揮官</Speaker>;NytoIsomer(3)||:404からの通信に注意。連絡がつき次第こちらも動く。+ハッ……30分なんて豪語しておきながら、たった10分でこのザマか……+これじゃ扉が開くまでのいい的だ！
+NPC-Kalin(7)<Speaker>カリーナ</Speaker>;NytoIsomer(3)||:指揮官さま……
+NPC-Kalin(7);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:指揮官、電子戦が功を奏したわ、一部の通信を取り戻した。
+NPC-Kalin(7);NytoIsomer(3)<Speaker>指揮官</Speaker>||:北線部隊は撤退できたか？
+NPC-Kalin(7);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:部隊の再編を試みているわね。それも持続的な攻撃に晒されたままで。+それと南防衛線が、攻撃の第二波を受けてるわ。//n全員人間の歩兵よ、ハッキング可能な自律ユニットはいないわね。+南防衛線の消耗率が70%に到達。抵抗を続けさせる？
+NPC-Kalin(7);NytoIsomer(3)<Speaker>指揮官</Speaker>||:……+……彼女たちも列車へ撤退させて。予備部隊に作戦準備をさせるんだ。
+NPC-Kalin(7);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:了解。
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM>:……+戦場の隅にて。+外界の銃声も混乱も、自分たちとは無関係であるかのように、//n人形たちは正常に稼働を続けている。
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:娘たち！指揮官からの通信だよ！
+SL8(2)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:繋いでくれ。+わかった……了解した。
+SL8(2);06TypeSMG(0)<Speaker>CF-05</Speaker>||:なにその表情？
+SL8(0)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:指揮官直々の命令だ、真面目に聞くのは当然だろ！+心配するな、まだ計画の内さ。+全員後退するぞ！ダミーを盾にしてもかまわない、//nメインフレームをしっかりと守れ。
+SL8(0);06TypeSMG(0)<Speaker>CF-05</Speaker>||:よっしゃ！みんな、いっくよー！
+SL8(0);06TypeSMG(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:一発の銃声が鳴った。
+SL8(2)<Speaker>Gr SL8</Speaker>||:……さっそくおでましだ。総員、作戦準備！
+NPC-Yegor(3)<Speaker>突擊隊員</Speaker>||<黑点1>:残存人形を発見……全員続け！
+M1928A1(0)<Speaker>トンプソン</Speaker>||<黑点2>:全部隊、撤退開始！
+M1928A1(0);MAC10(0)<Speaker>イングラム</Speaker>||:ダメです、まだ退けません！+ほかの隊が陣地に残ったままです！
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:イングラムさん、威勢を張ってる場合じゃありません、//n指揮官さまからの命令なんですよ！
+MP5(0);MAC10(0)<Speaker>イングラム</Speaker>||:だからなんですか？P7たちを見捨てて、私だけ逃げろとでも？
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:イングラムさん……あなた……
+MP5(0);MAC10(0)<Speaker>イングラム</Speaker>||:ダミーをください！私がここで敵を食い止めます！
+M1928A1(0)<Speaker>トンプソン</Speaker>;MAC10(0)||:……イングラムは残れ。//n他のメンバーはダミーを彼女に預けて、私と共に撤退。
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:でも……
+MP5(0);MAC10(1)<Speaker>イングラム</Speaker>||:そうこなくちゃ。礼を言います、隊長。
+MP5(0)<Speaker>Gr MP5</Speaker>||:イングラムさんを置いていくんですか？+他の隊員も……みんな、あきらめちゃうんですか？
+M1928A1(0)<Speaker>トンプソン</Speaker>||:イングラムの決意を無駄にするな。+彼女に報いたければ、最後の勝利を掴むことだ。
+()<Speaker></Speaker>||:仲間が撤退してゆくのを、イングラムは見なかった。+彼女は疲れた目をこすり、残ったダミーたちを率いて、//n敵へと突撃して行った――
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>Gunfight</SE1>:銃声がふたたび鳴り響く。
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2>:列車指令室内。
+NPC-Kalin(7)<Speaker>カリーナ</Speaker>||:指揮官さま……連絡のつく前線部隊がどんどん減っています……+それに、軍もすでに2km先まで迫ってきています。
+NPC-Kalin(7)<Speaker>指揮官</Speaker>||:列車の防衛システム起動、敵先兵を見逃して戦場を分断するんだ。//n撤退中の部隊を出来る限り援護する。+予備部隊をすべて投入。撤退してくる部隊と合流し、敵を迎撃する。
+NPC-Kalin(7);NytoIsomer(5)<Speaker>ダンデライオン</Speaker>||:この列車には、砲弾はほとんど残っていないわ。
+NPC-Kalin(7);NytoIsomer(5)<Speaker>指揮官</Speaker>||:……わかってる。+404からの連絡は？
+NPC-Kalin(7)<Speaker>カリーナ</Speaker>;NytoIsomer(5)||<黑屏1><BGM>BGM_Empty</BGM>:まだです……45さん……お願いします、どうか早く……！

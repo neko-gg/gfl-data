@@ -1,0 +1,18 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>BGM_Danger</BGM>:……装甲列車外にて。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:前の敵は全部やっつけたよ！
+HK416Mod(0)<Speaker>416</Speaker>||:気を抜かないで！//nスキャン結果を見るに、第9、第10波が迫って来てるわ！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:いつまで弾雨に降られてなきゃなんないのよ？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:待って、連絡するから……+あっ、直接通信よ！指揮官からの！
+HK416Mod(0)<Speaker>416</Speaker>||:やっと撤退？
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:……わかったわ、指揮官。+みんな聞いて、列車の修理が間もなく完了するわ。//n約10分後に潜水艦基地へと出発する予定よ！+通常部隊は総員退避、私たちだけで近づく敵を牽制する！//n列車起動後に1分間の撤退時間が与えられるわ！
+HK416Mod(0)<Speaker>416</Speaker>||:フン、ご親切な命令だこと。
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:十分でしょ、これがどこぞの美女だったら30秒ね。
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:とっとと敵を片づけちゃおうよ！//n早く戻ってM4と15の大冒険を見ておきたいんだから！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:――！+やめてよ、恥ずかしいでしょ！
+HK416Mod(0)<Speaker>416</Speaker>||:ちょっと、こんな所で雑談するのやめてくれる？+敵が近づいてきた！
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:したくてしてるわけじゃない！+45、別の小隊の撤退を援護して、SOP IIと416は火力支援を！+全小隊の撤退後、列車から500ｍの位置へ移動し、//n最終防衛線を立ち上げる、敵を近づけさせないで！
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:りょーかいりょーかい。じゃ、先に行くわね。//n416、AR小隊のエリート様方とよろしくやるのよ♪
+HK416Mod(0)<Speaker>416</Speaker>||:まだ言うつもりなら、最後の榴弾を餞別にしてやるわ。
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:……あなたたちって、仲が良いのか悪いのか……+とにかく行動開始よ。//nあと10分で、この忌々しい場所から離脱できるわ！
+()||<黑点2><BIN>10</BIN>:

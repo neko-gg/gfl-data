@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:軍の濃密な弾幕に対し、非力な殿小隊の損傷状況は酷い有様だった。
+Webley(0)<Speaker>ウェブリー</Speaker>||<SE2>Gunfight</SE2>:損傷した人形は掩体にて修復を、その他の人形は援護を頼みます！+INSAS、そちらの状況は？
+INSAS(0)<Speaker>INSAS</Speaker><通讯框>;Webley(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>フン、自分の心配でもしてな、こっちの……</color>
+Webley(0)<Speaker></Speaker>||<SE1>Explode</SE1>:（爆発音）
+Webley(0)<Speaker>ウェブリー</Speaker>||<SE1>AVG_tele_disconnect</SE1>:……INSAS？
+06TypeSMG(0)<Speaker></Speaker>||:CF-05は首を横に振った。
+06TypeSMG(0);Webley(0)<Speaker>ウェブリー</Speaker>||:……+攻撃を続けて！動きを止めないで！
+06TypeSMG(0);Webley(0)<Speaker>ウェブリー</Speaker>||:バルメ、まだここにいらしたのですか？+パーツが零れ始めているから、先に直すようお伝えしたはずですが！？
+m82(0)<Speaker>FI M82</Speaker>;Webley(0)||:やめてください、隊長。そんなこと言って、//n戦闘中にサボってたってことにするつもりなんでしょ……
+m82(0);Webley(0)<Speaker>ウェブリー</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:……
+06TypeSMG(0)<Speaker>CF-05</Speaker>;Webley(0)||:おーい！誰か弾薬持ってる？弾が切れた！
+06TypeSMG(0);Webley(0)<Speaker>ウェブリー</Speaker>||<SE1>Select</SE1>:最後の一箱です……受け取って！
+m82(0)<Speaker>FI M82</Speaker>;Webley(0)||:私も弾切れです……
+Webley(0)<Speaker>ウェブリー</Speaker>||:ここまでですか……
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:そう落ち込まないで、娘ちゃんたち！//n指揮官と約束したからには、最後の最後まで戦うよ！
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:……+傷だらけの殿小隊は、最後の一発を放った。
+Webley(0)<Speaker>ウェブリー</Speaker>||<BGM>BGM_Truth</BGM>:皆さん、集まってください。
+m82(0)<Speaker>FI M82</Speaker>||:隊長、何ですか？
+m82(0);Webley(0)<Speaker>ウェブリー</Speaker>||:これを。こっそり持ってきた爆薬です。+使い方は、分かりますわね。
+m82(0)<Speaker>FI M82</Speaker>;Webley(0)||:もちろんです。
+06TypeSMG(0)<Speaker>CF-05</Speaker>;Webley(0)||:雷管を詰めればいいんだよね。
+06TypeSMG(0);Webley(0)<Speaker>ウェブリー</Speaker>||:はい。砲弾の穴に隠れ、敵が来るのを待つのです。//n最後に言い残すことは？
+m82(0)<Speaker>FI M82</Speaker>;Webley(0)||:なんですかそれ、今からでも有給の申請を受け付けてくれるんです？
+06TypeSMG(0)<Speaker>CF-05</Speaker>;Webley(0)||:食糧ある？わたし辛いのが食べたい。
+06TypeSMG(0);Webley(0)<Speaker>ウェブリー</Speaker>||:この状況でまだ冗談が言えるなんて。その涙は嘘のようですわね。
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:自分だって、目が赤くなってるくせに。
+m82(0)<Speaker>FI M82</Speaker>||:何言ってるんですか、隊長だって震えてるじゃないですか。
+Webley(0)<Speaker>ウェブリー</Speaker>||:オホン。最後に、指揮官の言葉をお借りしようと思います。+貴方たちと共に戦えたことを、光栄に思いますわ。
+m82(0)<Speaker>FI M82</Speaker>||:また始まった。
+06TypeSMG(0)<Speaker>CF-05</Speaker>||<SE1>AVG_amb_wilderness</SE1>:戻ったらご飯奢ってよね。
+()<Speaker></Speaker>||:二人は遠くの塹壕まで歩いて行った。敵もすぐに二人に追いつく。+敵との距離を算出する必要はなかった、なぜなら……//nすでに敵の足音が聞こえていたからだ。
+()<Speaker></Speaker>||<SE1>Explode</SE1>:やがて2つの爆発音が鳴り響く。ヴェブリーは溜息をついた。
+Webley(1)<Speaker>ウェブリー</Speaker>||<黑屏1>:神よ我らが王を守りたまえ、君に勝利を、幸福を、栄光を。
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:3つ目の爆発音が鳴り響いた。
+()<Speaker></Speaker>||<BIN>223</BIN><黑屏2><BGM>BGM_Sad</BGM>:隔離壁の観察地点。
+RPK16(0)<Speaker>RPK-16</Speaker>||:殿部隊が突破されました。
+RPK16(0)<Speaker>指揮官</Speaker>||:……
+RPK16(0);AK15(0)<Speaker>AK-15</Speaker>||:爆破する？
+RPK16(0)<Speaker>RPK-16</Speaker>;AK15(0)||:全人形が基地へと入りました。指揮官様、ご指示を。
+RPK16(0)<Speaker>指揮官</Speaker>;AK15(0)||:爆破だ。入口を徹底的に破壊するんだ。
+AK15(0)<Speaker>AK-15</Speaker>||:了解。
+()<Speaker></Speaker>||<黑点1>:基地の入口に、爆破された瓦礫が積み重なる。//nこの入口は完全に破壊された。
+NPC-Yegor(4)<Speaker>エゴール</Speaker>||<黑点2>:ヘマタイト、こちらアース、状況はどうだ。オーバー。
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>正規軍将校</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>こちらへマタイト、防衛線を突破した。グリフィンの残党により基地入り口は破壊された。現在他の進入ポイントを探索中。</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Soldier(0)||<SE1>AVG_tele_disconnect</SE1>:フン、死に際の足掻きか。+アースからクオーツへ、状況を報告しろ。
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>正規軍将校</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>沿岸砲を破壊した。敵は火力支援を行えない。</color>+<color=#00CCFF>攻撃停止を要請する。負傷者が多過ぎる。一旦後送し、その後隔離壁の突破口から基地へと進入する。</color>
+NPC-Yegor(4)<Speaker>エゴール</Speaker>;NPC-Soldier(0)||:攻撃の手を緩めるな、今すぐ隔離壁へ突入しろ！​//n一刻も早く基地を制圧するのだ！
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>正規軍将校</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>……</color>+<color=#00CCFF>了解、行動開始。</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>99</BIN>:一方、AR小隊。
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:敵の攻勢が弱まった。早く基地へ戻って指揮官たちと合流しましょう。
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:でもまだ装甲部隊が辺りにいるわ。​//n合流したところで、敵に包囲されるのがオチよ。
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:ですが、ここで死を待つわけにもいきません。
+M4A1Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:そうだよ！どうせ死ぬなら、悪党を何人か巻き添えにしないと……！
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M4 SOPMOD IIMod(0)||:ダンデライオン、軍の装甲ユニットの数が多すぎて太刀打ちできない。//n基地へと撤退中よ。+指揮官の方の状況はどう？
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>グリフィンは基地内部へと撤退したわ。南口を爆破したから、軍は今のところ襲っては来れない。</color>+<color=#00CCFF>それよりも、あなたたちのいる場所の方が危険よ。軍の主力がそちらの装甲部隊と合流しつつある。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:彼らが見えたわ……
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:<color=#00CCFF>まだ気づかれていない。軍を迂回して北口へ向かって。そこで落ち合いましょう。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:軍が合流したら、また攻撃を仕掛けてくるはず。何か手立ては？
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:<color=#00CCFF>私を信じてくれるなら、方法はあるわ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:どんな方法なの？
+M4A1Mod(0);NytoIsomer(3)<Speaker>ダンデライオン</Speaker>||:<color=#00CCFF>私のもとに来てちょうだい。ルートは送ったわ。</color>+<color=#00CCFF>まずは会いましょう、話はそれからよ。</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||<黑屏1>:……+軍を迂回しそちらへ向かうわ、アウト。

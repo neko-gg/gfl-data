@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+PDW(0)<Speaker>Honey Badger</Speaker>||<BGM>BGM_Room</BGM><BIN>7</BIN><黑屏2>:いい調子よ！よくやったわ！ペト！
+m500(0)<Speaker>M500</Speaker>||:う―あ―！また先を越された！どうなってるの！？
+PDW(0)<Speaker>Honey Badger</Speaker>||:何度も言ったでしょう……自分だけに頼ってはダメ。+自分のパートナーさえ信頼できないようでは、良いハンターになれませんよ！
+m500(0)<Speaker>M500</Speaker>||:Damn……+このままじゃ減点だわ！
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワゥ……
+()||:M500とHoney Badgerによる激しい争奪戦の中、//n息の合ったHoney Badgerとペトとは対照的に……+ダウルはM500のペースに追いつくだけで精いっぱいだった。
+m500(0)<Speaker>M500</Speaker>||:何とかしなきゃ……
+()||:ハンターとして、M500には最高レベルの素養が備わっている。+M500の嗅覚、機敏さ、辛抱強さ、//nどれをとっても一流の狩人として遜色ないレベルだ。
+m500(0)<Speaker>M500</Speaker>||:仕方ない！
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワン！ワン！
+PDW(0)<Speaker>Honey Badger</Speaker>||:ま、待って！そこは深すぎるわ！進入禁止よ！
+m500(0)<Speaker>M500</Speaker>||:だって、こっちに大きな獲物が――
+PDW(0)<Speaker>Honey Badger</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:ちょっと――
+()||<SE1>AVG_wind_grass</SE1><BIN>99</BIN><睁眼>:……
+()<Speaker>？？？</Speaker>||<BGM>BGM_Battle</BGM>:キャイーン……
+m500(1)<Speaker>M500</Speaker>||:う……あ……わたし、気を失って……
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワン！
+m500(1)<Speaker>M500</Speaker>||:う～ん……昔の夢を見てたわ。
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワンワン！
+m500(1)<Speaker>M500</Speaker>||:My bad……手を貸して……+ぐっ……！
+()||:M500はふらふらと遮蔽物の後ろから立ち上がり、//n用心深くもう一方を見やった。+獲物に気付かれないように息を殺す、ハンターの基本だ。+M500は自分を探している武装した兵士たちを数えた。
+m500(1)<Speaker>M500</Speaker>||:５……６……+まだ7人いるわ……
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワン！
+m500(1)<Speaker>M500</Speaker>||:しっ。
+()||:M500はそっと愛犬の頭を撫でる。
+m500(1)<Speaker>M500</Speaker>||:通信機が壊れちゃったみたい。みんなとの連絡が取れないわ……+590は、うまく撤退できたかな？
+()||:弾丸は既に残り少なく、素体の状態も楽観できない。+彼女の任務は、援護部隊の一員として、//n他のメンバーを無事撤退させる事。+しかし、今の状況では彼女自身の安全さえも危ぶまれる。
+m500(1)<Speaker>M500</Speaker>||:よく聞くのよ、ダウル。
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワン？
+m500(1)<Speaker>M500</Speaker>||:わたしはもう戻れそうにない……この後、何とかしてあの7人を始末してやるわ。+お前ひとりで走って戻るのよ、Got it? 
+m500Mod(3)<Speaker>ダウル</Speaker>||:ワン――！
+m500(1)<Speaker>M500</Speaker>||:言うこと聞いて！
+()||:M500は深く息を吸った。
+m500(1)<Speaker>M500</Speaker>||:開戦前……わたしたちのメンタルは全てタンポポさんにバックアップを//n取ってもらってるから、ここで止まっちゃっても 大丈夫なの。+でもダウル、お前はダメよ。もしお前が死んじゃったら……+わたしは永遠にパートナーを失う事になる。
+m500Mod(3)<Speaker>ダウル</Speaker>||:クゥーン……
+m500(1)<Speaker>M500</Speaker>||:……あの試合のこと覚えてる？+わたしたち深追いしすぎて、氷の隙間に落ちちゃったのよね。+指揮官たちですら、わたしを見つけられずにいた。//nもしお前が指揮官たちを連れて来てくれなかったら、最悪なことになってたわ。
+m500Mod(3)<Speaker>ダウル</Speaker>||:キュン？
+m500(1)<Speaker>M500</Speaker>||:お前は、わたしの大切なパートナーよ。
+()||:M500は逞しい軍用犬に成長したダウルを抱きしめて、//n口を開けて笑って見せた。
+m500(1)<Speaker>M500</Speaker>||:……帰って「わたし」に会ったら、戦場のことを話してあげてね。
+m500Mod(3)<Speaker>ダウル</Speaker>||:……ワン！
+()||:ダウルはM500の顔の砂埃を舐めて、地面を掃くように尾を振った。+そしてM500の周りをくるくる回って、M500の足に体を擦り付けた。//nどうしても離れようとしない。
+m500(1)<Speaker>M500</Speaker>||:……
+()||<SE1>AVG_weapon_reload</SE1>:M500はフォアエンドをスライドさせ、背中を遮蔽物につけると、//nその場に座り込んだ。
+m500(1)<Speaker>M500</Speaker>||:行け！
+m500Mod(3)<Speaker>ダウル</Speaker>||:ウ～……ワゥ！
+()||:M500の怒号に、ダウルはぶるっと身体を震わせ、//n頭を揺らして主人の様子を伺った。+そして名残惜しそうに身を翻して、戦場のもう一方へと走って行った。
+m500(1)<Speaker>M500</Speaker>||:……パートナーと心を通わせることが出来てこそ、//n優秀なハンターと言えるのよ。+アンタらみたいにバラけてちゃ、獲物にされるだけね。
+()||:――優秀なハンターは、永遠にパートナーを信じる。
+m500(1)<Speaker>M500</Speaker>||:わたしたちはきっと勝つわ。指揮官、ダウル、590！
+()||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM><黑屏1>:（銃声）
+()||<BIN>9</BIN><黑屏2>:……+……
+()<Speaker>ダウル</Speaker>||<黑屏1>:ワン！
+()<Speaker>ダウル</Speaker>||<BGM>BGM_Hello</BGM><BIN>82</BIN><黑屏2>:ワン！ワン！
+M590(0)<Speaker>M590</Speaker>||:ダウル？ダウルなの？+この子ったら、どこへ行っていたの……
+()<Speaker>M500</Speaker>||:顔を舐めないで――くすぐったいですよ！ハハハハ――！
+M590(0)<Speaker>M590</Speaker>||<黑点1>:……あっ、そこにいるんですか？
+M590(0)<Speaker>M590</Speaker>||<黑点2>:やっぱり、ここですね。+訓練場にいないので、どうしたのかと思いました。
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:ちょっとはしゃぎ過ぎただけよ、Sorry、590。+こんなに楽しかったの久しぶり。
+m500Mod(1)<Speaker>ダウル</Speaker><Position>0,250</Position><Position>0,250</Position>||:ワン！クゥ～ン！
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:Good boy、良い子良い子。+もうすっかり大人ね。
+M590(0)<Speaker>M590</Speaker>||:あなたにも、とっても懐いてますね。
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:That's obvious！+わたしたちはパートナーだもん。+そうよね、ダウル！
+m500Mod(1)<Speaker>ダウル</Speaker><Position>0,250</Position>||:クゥ～ン！
+M590(0)<Speaker>M590</Speaker>||:成長したと言えば……+その通りですね。+ダウルだけでなく、あなたもずいぶん成長してますよ、500。
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:Of course！+わたしたちが一緒なら、捕らえられない獲物はないわ――+なんてったって、わたしたちは最強のコンビなんだから！
+m500Mod(1)<Speaker>ダウル</Speaker><Position>0,250</Position>||:ワゥ！
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:OK！Let's go！ダウル！もう一回練習するわよ！+今度こそ、必ず優勝してやる！
+M590(0)<Speaker>M590</Speaker>||:ちょっ、ちょっと待って……+あぁ……行っちゃった。
+M590(0)<Speaker>M590</Speaker>||:相変わらず威勢がいいわね。+もちろん、悪いことじゃないけど……+ハァ……まぁいいか。+いずれにせよ、やっぱり500はああでないと。+じゃないと、日常に戻った感じがしないもの。+そうですよね、ダウル？
+m500Mod(3)<Speaker>ダウル</Speaker>||<黑屏1>:ワン――

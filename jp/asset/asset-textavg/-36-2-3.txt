@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Danger</BGM>:こちらの部隊は壊滅寸前ね。//n重傷の人形を列車のシールド内に引導しているけど。+長くは持たないわ。
+()<Speaker>指揮官</Speaker>||:わかってる。+撤退できてない部隊の数は？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:ほとんどの部隊と連絡が取れません……+第二防衛線まで後退できた人形は、全体の10％程度です……
+()<Speaker>指揮官</Speaker>||:クソッ……そんな馬鹿な……
+NPC-Kalin(7)<Speaker>カリーナ</Speaker>||:指揮官さま……
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:通信よ。
+()<Speaker>指揮官</Speaker>||:404か？
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:……+いいえ……敵軍からの降伏勧告ね。
+()<Speaker>エゴール</Speaker>||:<color=#00CCFF>グリフィンの指揮官と人形ども、お前たちは既に反逆者とみなされている。これより最後通牒を言い渡す。</color>+<color=#00CCFF>お前たちの部隊はすでに壊滅した。もはや何の希望も残されていない。お前たちに許された道は降伏のみ！</color>+<color=#00CCFF>ただちに武装解除し、道を空けろ。さもなくば、虫けらのごとく貴様らを捻り潰してくれる！繰り返す――我々特殊作戦司令部はお前たち反逆者に最後通告を……</color>
+()<Speaker>指揮官</Speaker>||:消してくれ！
+NPC-Kalin(4)<Speaker>カリーナ</Speaker>||:……投降しますか？
+()<Speaker>指揮官</Speaker>||:するわけないさ。
+()||<SE1>AVG_tele_connect</SE1>:（通知音）
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>さすがは指揮官、それでこそ私たちが認めた人間だわ。</color>+<color=#00CCFF>待たせて悪かったわね、今までお疲れ様。</color>
+()<Speaker>指揮官</Speaker>||:404？連絡できるようになったのか！？
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>ええ、反逆小隊と合流したわ――少なくとも隔離扉の一部は開かれた。</color>+<color=#00CCFF>周囲に危険はないから、遠慮なく入って。</color>
+()<Speaker>指揮官</Speaker>||<BIN>224</BIN><黑屏2><BGM>BGM_War</BGM>:情報をありがとう。+カリーナ、列車を起動する。人形たちに列車への撤退指示を。
+()<Speaker>カリーナ</Speaker>||:了解です！
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>「K」さんが制御室で気絶してるわ。情況が落ち着いたら回収してあげて。</color>+<color=#00CCFF>彼の傍にいる反逆小隊の新メンバーにも補給と指示をよろしく。</color>+<color=#00CCFF>私たちは先行して基地内の偵察に向かうわ。反逆かアンジェを見つけたらまた連絡する。</color>
+()<Speaker>指揮官</Speaker>||:わかった、ご苦労だった。+やっぱり君たちは、決して期待を裏切らないな。
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>いい買い物だったでしょ？お客様にも、支払日まではちゃんと生きていて欲しいものね。</color>
+()<Speaker>指揮官</Speaker>||:そう願うよ。+ダンデライオン、部隊の撤退を急がせて。//nみんなをできるだけ早く呼び戻すんだ。
+()<Speaker>ダンデライオン</Speaker>||:最適な撤退ルートを手配中よ。在庫の砲弾で援護する必要は？+言っておくけど、あと1基数も残って……
+()<Speaker>指揮官</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:半基数を放て。誰一人として見捨てるつもりはない。
+()||<BIN>41</BIN><黑屏2><BGM>BGM_Danger</BGM><SE2>Gunfight</SE2>:……グリフィン防衛線。
+()||:L85A1は、軍の突撃部隊に追い詰められていた。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||:間に合わないのか？
+NPC-Soldier(0)<Speaker>突擊隊員</Speaker>||:死ね！
+()||<SE1>AVG_rifle_finalshot_h</SE1>:（銃声）+倒れたのは、軍の突擊隊員だった。
+NPC-Soldier(0)<Speaker>もう一名の突撃隊員</Speaker>||:軍曹！
+()||<SE1>AVG_rifle_finalshot_h</SE1>:（銃声）+矢継ぎ早に、また一人倒れる。
+NPC-Soldier(0)<Speaker>突擊隊長</Speaker>||:待ち伏せだ！掩体を探せ！
+()||<SE1>AVG_rifle_finalshot_h</SE1>:突撃隊員は最寄りの壁へと隠れたが、弾丸は壁もろとも彼の胸を貫いた。
+IWS2000(0)<Speaker>IWS 2000</Speaker>||:間一髪でしたけど、なんとか間に合いました。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>;IWS2000(0)||:あなた方は……Dチームの！
+Welrod(0);IWS2000(0)<Speaker>IWS 2000</Speaker>||:最後に様子を見にきて良かった。//nジャミングのせいで多くの隊員とはぐれてしまいましたけど。+わたくしたちと共に撤退しましょう！
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||:はい……！
+AUG(0)<Speaker>AUG</Speaker>||:私たちの部隊が最後のようね、急いで後方へ撤退を。+指揮官さんによれば、間もなく列車が起動するそうよ。
+()||:ウェルロッドはL85A1を背負った。
+Welrod(0)<Speaker>ウェルロッドMkⅡ</Speaker>||<黑点1>:了解です。
+()||<黑点2>:一方……
+MAC10(1)<Speaker>イングラム</Speaker>||:これでいい……これでみんな帰れる……
+MP41(0)<Speaker>MP41</Speaker>||:止まってください！+味方がいました！+ちょっとそこの方、ここで寝ないでくださいよ。//n今のメンタルバックアップは、昔のようにはいかないんですからね。
+MAC10(1)<Speaker>イングラム</Speaker>||:えっ、あなたは……Gチームの？+てっきりもう……
+MP41(0)<Speaker>MP41</Speaker>||:数発の砲弾なんかで、やられる私たちじゃありません！+さぁ、起きて！早くしないと間に合いませんよ！
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>急いで後退を、わたくしが援護いたしますわ。</color>
+MP41(0)<Speaker>MP41</Speaker>||:くぅ～、先輩シビレますねぇ。+ほら、行きますよ！あなたの小隊も、きっと帰りを待ってるはずです！
+MAC10(1)<Speaker>イングラム</Speaker>||<黑点1>:……そう……そうよ……そうよ！+お願い、どうか手を貸して！
+06TypeSMG(0)<Speaker>CF-05</Speaker>||<黑点2>:チッ！しつこいね！
+SL8(2)<Speaker>Gr SL8</Speaker>||:弾は節約しろ、撤退優先だ。戻って来てる人形は？
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:もういないみたい……行く？
+SL8(2)<Speaker>Gr SL8</Speaker>||:軍の奴ら、予想を遥かに超えてきたな……+策を講じてたとはいえ、ここまで生き延びられたのはラッキーだった。
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:もう待つ気はないってこと？
+SL8(2)<Speaker>Gr SL8</Speaker>||:まさか！もう少し待ってみよう、まだ戻って来てる奴らがいるかもしれない。
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:へへ、だよね。火鍋にしても、大勢で食べたほうが美味しいし。+……警戒！遠くに未知のターゲット出現！
+SL8(2)<Speaker>Gr SL8</Speaker>||:また突撃か？ありえない、このタイミングで……
+06TypeSMG(0)<Speaker>CF-05</Speaker>||<黑屏1>:違う……待って、あれは……味方だ！娘たちが撤退してきてる！+早く！援護してあげないと！
+()||<黑屏2><BIN>202</BIN>:……列車司令室。
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>||:指揮官さま！応答のあった人形部隊は全員撤退し終えました。+列車に乗せますか？
+()<Speaker>指揮官</Speaker>||:よし！列車と共に撤退だ、隔離壁で状況を立て直す。+ダンデライオン、発車準備を！
+NytoIsomer(4)<Speaker>ダンデライオン</Speaker>||:人形の乗車完了まであと30秒。
+()<Speaker>指揮官</Speaker>||:よし、次の一手だ。
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>||:指揮官さま、反逆小隊より通信です、繋ぎますか？
+()<Speaker>指揮官</Speaker>||:頼むよ。
+RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>直接通信で失礼します、グリフィンの指揮官様。残念ながら、悪い知らせです。</color>+<color=#00CCFF>404小隊の隊長より、直接通信チャンネルを拝借しています。一点、お伝えしておきたいことが。</color>+<color=#00CCFF>北の隔離壁上に、爆破された痕跡が見つかりました。手際からして、相当の手練れかと。</color>+<color=#00CCFF>軍がすでに侵入している可能性があります。</color>+<color=#00CCFF>すでに沿岸砲へ部隊を派遣しているとは思いますが、こちらのルート上から敵が追い上げて来る可能性が高いです。</color>+<color=#00CCFF>沿岸砲部隊の動向に、くれぐれもご注意を。</color>
+()<Speaker>指揮官</Speaker>||:了解した、お疲れ様。//nこちらは装甲列車で隔離壁へと入り、引き続き敵を阻止するつもりだ。+そちらから隔離壁の防御システムを起動できないか？//n攻撃さえできれば何でもかまわない。
+RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>最善を尽くします。さながら酸欠の魚が水面に顔を出すかのように。</color>
+()<Speaker>指揮官</Speaker>||:……ありがとう。+カリーナ、AR小隊と連絡は取れる？
+NPC-Kalin(8)<Speaker>カリーナ</Speaker>||:大丈夫です、通信を繋ぎますね。
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>……指揮官、そちらは大丈夫ですか？</color>
+()<Speaker>指揮官</Speaker>||<黑屏1>:とりあえずはね。でも君たちは急いだほうがいい。+軍が隔離壁に穴を開けた……+狙いは恐らくこちらと同様……+沿岸砲の奪取だ。
