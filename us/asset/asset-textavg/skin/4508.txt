@@ -1,0 +1,135 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN><BGM>BGM_Hello</BGM>:...Shortly before the banquet. +ST AR-15 leans against the doorway and watches silently as the other Dolls chatter with each other.
+AR15(3)<Speaker>ST AR-15</Speaker>||:This dress is really restricting.  +Tsk, 16 said anyone would enjoy themselves as soon as they arrive... Totally just speaking for herself.
+AR15(3)<Speaker></Speaker>||:She gives her dress another tug.
+AR15(3)<Speaker>ST AR-15</Speaker>||:How can any Doll move around freely wearing something like this?
+()<Speaker>???</Speaker>||:NO! NO, NO, NO, NO!
+()<Speaker></Speaker>||:A momentary silence follows the bellow at the bustling venue.
+AR15(3)<Speaker>ST AR-15</Speaker>||:Hm? Isn't that SOP-II? +...Why is she yelling at thin air?
+AR15(3)<Speaker></Speaker>||:ST AR-15 walks towards SOP-II and drags her aside.
+AR15(3)<Speaker>ST AR-15</Speaker>||:SOP-II, what—
+M4 SOPMOD II(2)<Speaker></Speaker>;AR15(3)||<SE1>Rope</SE1>:SOP-II grabs ST AR-15 by the collar and shouts into her face.
+M4 SOPMOD II(2)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||<震屏><BGM>BGM_Empty</BGM>:I'm not letting you go this time!
+M4 SOPMOD II(2);AR15(3)<Speaker>ST AR-15</Speaker>||<BGM>m_avg_labyrinth</BGM>:...What's gotten into you, SOP-II?
+M4 SOPMOD II(2);AR15(3)<Speaker></Speaker>||:ST AR-15 frees herself from SOP-II's grip anxiously. SOP-II's vacant eyes gradually focus on her.
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:(Sobs) 15...
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:A-Are you okay? +What happened? Did someone bully you?
+M4 SOPMOD II(3);AR15(3)<Speaker></Speaker>||:SOP-II suddenly bursts into tears, leaving ST AR-15 completely baffled.
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:You were leaving me behind again...
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:No, I wasn't.
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:I saw you!
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:...
+M4 SOPMOD II(3);AR15(3)<Speaker></Speaker>||:She is reluctant to revisit that memory, but she knows exactly what SOP-II is talking about.
+M4 SOPMOD II(3);AR15(3)<Speaker>ST AR-15</Speaker>||:Your memory is all jumbled. Here, have a drink to cool your head.
+M4 SOPMOD II(3)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:...
+M4 SOPMOD II(3)<Speaker></Speaker>;AR15(3)||:SOP-II looks straight into her eyes, as if to probe her thoughts. +Then she passes her bottle to ST AR-15.
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:Let's drink together and chase away the bad memories.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Then be prepared to down a few glasses. I was devastated...
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:... +Alright, alright, I'll drink a few with you.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Hehe, M4 bought this! It tastes really good!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||<震屏>:What? You opened M4's—
+M4 SOPMOD II(1);AR15(3)<Speaker></Speaker>||:ST AR-15 remembers that M4 has mentioned buying liquor for M16. But the moment her thoughts stray, SOP-II manages to pour the contents of the bottle into her mouth.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Good, drink up!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:(Gargles)
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:She tries to break free, but she can't so much as wriggle under SOP-II's freakish strength. +The bottle is soon empty.
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:...
+AR15(3)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:ST AR-15 slumps onto the floor, the world spinning wildly.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:Hehe... Now have a pastry! RO saved them for me! +I'll let you have two... No, I'll let you have one!
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:... +(Did SOP-II change into a different dress?)
+M4 SOPMOD II(5);AR15(6)<Speaker></Speaker>||:She stares dumbly at SOP-II and struggles to voice her confusion.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:You don't want it? Then they're all mine! +(Munches) +How refreshing... I-I'm floating again!
+M4 SOPMOD II(5)<Speaker></Speaker>;AR15(6)||:SOP-II turns around and readies herself for a sprint.
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:Wait, SOP-II!
+AR15(6)<Speaker></Speaker>||:SOP-II has already disappeared from her sight. +ST AR-15 gets back on her feet unsteadily and stumbles after her, but her vision is blurry and patchy.
+AR15(6)<Speaker>ST AR-15</Speaker>||:Hold on, SOP-II! Stop running!
+AR15(6)<Speaker></Speaker>||<白屏1>:She pushes open the door in front of her...
+()<Speaker></Speaker>||<白屏2><BIN>269</BIN>:The moment the door swings open, the banquet hall around her falls away, leaving only a sea of flowers.
+AR15(6)<Speaker>ST AR-15</Speaker>||:What's going on?! Where am I? +I was just at the banquet hall...
+AR15(6)<Speaker></Speaker>||:ST AR-15 looks around in confusion. The door has completely vanished.
+AR15(6)<Speaker>ST AR-15</Speaker>||:Has my neural cloud been hacked? +...Dammit, I've got to find SOP-II. +SOP-II! SOP-II, stay put!
+AR15(6)<Speaker></Speaker>||:She pushes through the bushes of flowers, searching for SOP-II. +Her distressed calls have attracted the attention of several other Dolls.
+AR15(6)<Speaker>ST AR-15</Speaker>||:SOP-II, where are you?!
+()<Speaker>???</Speaker>||:15...
+()<Speaker></Speaker>||:ST AR-15 feels her dress snag on something and turns around sharply with her gun raised.
+AR15(6)<Speaker>ST AR-15</Speaker>||:M-M4?
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:15, are you looking for SOP-II?
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:Yes, I... +Hold on, what are YOU doing here? And why are you wearing a different dress?
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:What are you talking about? I've been here the whole time, wearing the same thing.
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:You...
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:M4 looks down at her dress and fiddles with the hem. As ST AR-15 watches her, an idea occurs to her.
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:M4, what exactly are you wearing?
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:The evening dress that we ordered together.
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:ST AR-15 gawks silently at M4's bunny ears and huge bunch of balloons.
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:What's the matter, 15? +You say such weird things. And why did you run out of the banquet hall all of a sudden?
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:I'm fine... +I probably drank a bit too much... +Damn SOP-II, where the heck has she run off to?
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:SOP-II has been acting very strangely. She just said I'd told her I was going somewhere far away...
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:She also said I was going on a solo mission and leaving her behind.
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:... +Why is she thinking of such unhappy things on this day of all days?
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:She's probably experiencing some kind of neural dissonance caused by excessive alcohol consumption.
+M4A1(4)<Speaker></Speaker><Position>0,+200</Position>;AR15(6)||:M4 takes in ST AR-15's bright red face.
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:She made you drink quite a bit, didn't she? Good thing you seem to be alright.
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker></Speaker>||:ST AR-15 stares at this space filled with absurdity and can only smile helplessly. 
+M4A1(4)<Position>0,+200</Position>;AR15(6)<Speaker>ST AR-15</Speaker>||:(Send me back to reality, dammit...) +I'm going after SOP-II. We'd better track her down before she causes any big trouble.
+M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>;AR15(6)||:Right, I'll also ask around.
+AR15(6)<Speaker></Speaker>||:M4 tugs on her balloons, which inflate rapidly and lift her high into the sky. +ST AR-15 stares into the distance in stunned silence for a good long while.
+AR15(6)<Speaker>ST AR-15</Speaker>||:...I'm hallucinating. This must all be a hallucination! +Pull yourself together!!!
+()<Speaker></Speaker>||:...She keeps searching through the sweeping sea of flowers for a long time.
+AR15(6)<Speaker>ST AR-15</Speaker>||:...With the banquet hall looking like this, I can't tell where I'm going at all. +Even if someone else shows me the way, I'm seeing something different. +Where on earth did SOP-II go?
+()<Speaker>RO635's Voice</Speaker>||:15, what are you doing running all over the place on your own?
+()<Speaker></Speaker>||:RO walks over with concern all over her face and a pair of bunny ears on her head.
+AR15(6)<Speaker>ST AR-15</Speaker>||:You too, RO? +Pfft, it suits you.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Thanks. But what you do mean, me "too"?
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:Nothing... +I'm looking for SOP-II, but I keep losing track of her.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Same here. I haven't seen her the whole day. Who knows what kind of trouble she's getting herself into. +She hasn't been answering her calls either...
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:Don't worry, M4 has flown...uh... She's been asking around about her.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Flown? Are you sure you're alright, 15?
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:I'm fine...
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Why do you reek of boo—
+RO635(11)<Speaker>???</Speaker>;AR15(6)||:HAAAAAAAAGH!
+RO635(11)<Speaker></Speaker>;AR15(6)||:That familiar shout of exertion catches RO's attention.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:That's SOP-II!
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||<黑点1>:We'd better head over and see what she's up to.
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:ST AR-15 and RO follow SOP-II's voice and eventually run into M16 and M4.
+AR15(6)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Hello</BGM>:We just heard— +Pfft, never thought I'd see you with bunny ears, 16.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Hm? What bunny ears?
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:M16's bunny ears twitch in confusion.
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:Hahahahaha...
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Have you seen SOP-II?
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:She suddenly charged at 16 and lifted her up. +SOP-II has always been mischievous, but something doesn't seem right with her today.
+M4A1(4);AR15(6)<Speaker>ST AR-15</Speaker>||:She lifted you up? That's pretty impressive...
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Haha, she's just drunk. You don't have to be so worried.
+RO635(11)<Speaker></Speaker>;AR15(6)||:RO's face darkens.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:... +Which way did she go?
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Well...
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:16?
+M16A1(2)<Speaker></Speaker>;AR15(6)||:M16 grins, and her ears twitch playfully.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Let's dance, 15.
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:This isn't the time for jokes, is it?
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:I'm not joking. We can count on RO to hunt down the plastered SOP-II.
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:You do need to relax, 15.
+M4A1(4)<Speaker></Speaker>;AR15(6)||:Though M4 tries not to show it, ST AR-15 can still see the concern in her eyes. +Is she causing the others as much worry as SOP-II?
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Indeed. I can handle this on my own.
+RO635(11);AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:She just ran out through the door.
+RO635(11)<Speaker>RO635</Speaker>;AR15(6)||:Thanks, I'll catch up with her.
+RO635(11)<Speaker></Speaker>;AR15(6)||:RO rushes out of the banquet hall immediately.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Now, it's just you and I.
+M16A1(2)<Speaker></Speaker>;AR15(6)||:M16 holds out her hand gracefully in invitation.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Miss AR-15, may I have this dance?
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M4A1(4)<Speaker>M4A1</Speaker>;AR15(6)||:Go and have some fun, 15. I'll get you two some pastries.
+M4A1(4)<Speaker></Speaker>;AR15(6)||<BGM>BGM_Empty</BGM>:M4 smiles and pushes her towards M16. +ST AR-15 is left with no choice but to take M16's hand.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||<BGM>GF_Memorial</BGM>:Here. Can you keep up with the tempo?
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:Yeah.
+M16A1(2)<Speaker></Speaker>;AR15(6)||:With M16 in the lead, the two Dolls dance among the flowers. +Their dresses rustle against the delicate blooms, causing them to whisper. +ST AR-15 looks up. Through the flurry of petals swirling through the sky, she sees a few clouds gilded by sunlight.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Would you rather stare at the ceiling than look at me?
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:What you call a ceiling may look like something else entirely to me.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Whatever you say, as long as you have fun.
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M16A1(2);AR15(6)<Speaker></Speaker>||:She sighs lightly. She tears her eyes off the sky and focuses properly on the dance. +In her peripheral vision, she sees M4 beaming at her with a plate of pastries in her hands.
+M16A1(2)<Speaker>M16A1</Speaker>;AR15(6)||:Don't worry about SOP-II. RO just sent an update saying that she's already captured her and is about to escort her back to the dorm. +Pack up some food for them afterwards.
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||:Right.
+M16A1(2);AR15(6)<Speaker></Speaker>||:ST AR-15 nods expressionlessly, but deep down, she is starting to get attached to this fantasy world.
+M16A1(2);AR15(6)<Speaker>ST AR-15</Speaker>||<黑屏1>:It's not so bad even if things stay this way forever...

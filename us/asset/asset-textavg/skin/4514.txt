@@ -1,0 +1,140 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+OTs14(0)<Speaker>OTs-14</Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:Regarding the upcoming security mission, we need several T-Dolls with experience in corporate security to oversee...
+M1911(0)<Speaker>M1911</Speaker>||:...
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:As for the recent budget overrun in the Logistics Department, after some discussion with Miss Springfield, we are now proposing the following solutions... 
+M1911(0)<Speaker>M1911</Speaker>||:...
+OTs14(0)<Speaker>OTs-14</Speaker>||:Now, moving onto the duty roster...
+M1911(0)<Speaker>M1911</Speaker>||:...
+OTs14(0)<Speaker>OTs-14</Speaker>||:M1911, do you have any questions regarding the arrangement?
+()||:Well into the meeting, Groza finally notices one of the attendee's unusual demeanor.
+()||:Her question seems to have lit some kind of fuse. M1911 shudders briefly.
+M1911(0)<Speaker>M1911</Speaker>||:I...
+OTs14(0)<Speaker>OTs-14</Speaker>||:Yes?
+M1911(0)<Speaker>M1911</Speaker>||<震屏>:I CAN'T TAKE IT ANYMORE!!!!!
+M1911(0)<Speaker>M1911</Speaker>||:Overtime! Overtime! Overtime! +We've all been working overtime these days! I may as well be working for a logistics company! +The slumber party got canceled! So did the team-building trip! Even the eating contest fell through! +We've had no entertainment AT ALL! How are we supposed to keep going like this?!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Uh... But isn't it a good thing that there hasn't been any fighting...?
+M1911(2)<Speaker>M1911</Speaker>||:Things are so damn peaceful! If we don't get any events or activities, I'ma dismantle my own neural cloud right here!!!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Calm down!!!
+()||<黑屏2><BIN>80</BIN><BGM>GF_xGS2_27</BGM>:...That was several days ago.
+M1903(13)<Speaker>Springfield</Speaker>||:I've got to hand it to you. You threw a tantrum at a general meeting chaired by Groza?
+M1911(0)<Speaker>M1911</Speaker>||:The crying baby gets the milk, you know. And it all worked out in the end, didn't it? +I knew Darling wouldn't be angry with me for that.
+M1903(10)<Speaker>Springfield</Speaker>||:Baby, huh? You have more seniority than me, but I see you are still as youthful as ever.
+M1911(0)<Speaker>M1911</Speaker>||:Is that a hidden barb I hear in your words...? +Eh, I'm sure everyone is pleased. We haven't had a celebration like this in ages.
+M1903(10)<Speaker>Springfield</Speaker>||:So why did you get into a fight with Zas?
+M1911(0)<Speaker>M1911</Speaker>||:...M21 and I get along swell. I have no idea what you're on about.
+M1903(10)<Speaker>Springfield</Speaker>||:Haha.
+()||:Springfield polishes her cup wordlessly. She doesn't press the issue, but M1911is almost suffocating in the palpable pressure.
+M1911(0)<Speaker>M1911</Speaker>||:Alright, alright! M76 and I did get into a bit of a squabble. +We were discussing the entertainment program for the party. That kid doesn't mince words, she keeps driving me up the wall!
+M1903(10)<Speaker>Springfield</Speaker>||:It' not just a simple matter of who's right and who's wrong in an argument between friends. +I heard from Miss Kalina that you've each submitted a proposal?
+M1911(0)<Speaker>M1911</Speaker>||:Yeah, she said each proposal had its merits so she's going to combine them. +That worked out pretty well. The fight wasn't actually that bad, I'm sure we'll make up once the event is over. +Now I have more important things to worry about.
+M1903(10)<Speaker>Springfield</Speaker>||:More important things?
+M1911(0)<Speaker>M1911</Speaker>||:The ball, Springfield! The ball that Zas insisted on having!
+M1903(10)<Speaker>Springfield</Speaker>||:Now that you mention it, I believe Miss Kalina approved of the idea?
+M1911(0)<Speaker>M1911</Speaker>||:That's right! Now here's the question – how should I ask my darling to dance with me?
+M1903(10)<Speaker>Springfield</Speaker>||:The Commander?
+M1911(0)<Speaker>M1911</Speaker>||:A ton of Dolls are gonna ask my darling to dance! You're also gonna be one of them, aren't you?!
+M1903(10)<Speaker>Springfield</Speaker>||:Me? +...Hm, I do want to dance with the Commander.
+M1911(0)<Speaker>M1911</Speaker>||:See?!
+M1903(12)<Speaker>Springfield</Speaker>||:But the Combined Services Department is terribly busy, and the announcement of the ball came as a surprise. +I'm afraid I won't have time to change. It would be impolite to ask the Commander to dance while wearing my working uniform.
+M1911(0)<Speaker>M1911</Speaker>||:Huh... I see. +I feel kinda sorry for you, but I must admit it's also a relief that you're not an obstacle to my goal.
+M1903(10)<Speaker>Springfield</Speaker>||:You're puzzling over how to make the invitation?
+M1911(0)<Speaker>M1911</Speaker>||:And the timing. That matters too.
+M1903(10)<Speaker>Springfield</Speaker>||:No wonder you came running to me in the middle of your meeting. +Here for some word of advice?
+M1911(0)<Speaker>M1911</Speaker>||:You are everyone's greatest rival, after all. +But on the other hand, you're also our best confidante.
+M1903(10)<Speaker>Springfield</Speaker>||:I'd say you shouldn't overthink it. Just ask naturally. +If you feel too shy to ask, find an excuse to broach the subject. Make the dance a reward for your hard work or something.
+M1911(0)<Speaker>M1911</Speaker>||:But I was the one who complained about our workload. +Wouldn't it be ironic if I used that as an excuse to get the Commander to dance with me...?
+M1903(10)<Speaker>Springfield</Speaker>||:I was just giving an example.
+M1911(0)<Speaker>M1911</Speaker>||:Right... That did give me some ideas. +Thanks, you never fail to inspire courage.
+M1903(10)<Speaker>Springfield</Speaker>||:Hm, go for it. +Still...
+M1911(0)<Speaker>M1911</Speaker>||:What now?
+M1903(10)<Speaker>Springfield</Speaker>||:Don't forget about M76. +She does have the tendency of digging herself into a hole and losing perspective. +She won't get over it as easily as you did.
+M1911(0)<Speaker>M1911</Speaker>||:Alright... I will act my age and behave like a proper veteran.
+()||:M1911 waves awkwardly at Springfield and bids her goodbye.
+()||<黑点1>:...
+M1911(2)<Speaker>M1911</Speaker>||<黑点2><BIN>97</BIN>:(Hums) ♪
+()||:Having come up with a plan, M1911 strolls toward the banquet hall cheerfully. She's already imagining herself swaying to the music with the Commander in the center of the dance floor.
+M1911(2)<Speaker>M1911</Speaker>||:...Hm?
+()||:Just then, she notices an unusual figure in the courtyard.
+M1911(2)<Speaker>M1911</Speaker>||:...
+()||<BGM>BGM_Empty</BGM><黑点1>:...
+M1911(2)<Speaker>M1911</Speaker>||<BGM>BGM_Hello</BGM><黑点2><BIN>96</BIN>:Daaaaarlingggg!
+()<Speaker>Commander</Speaker>||:Hm... Jeez, M1911... You scared me.
+M1911(2)<Speaker>M1911</Speaker>||:Darling, let's have a little competition.
+()<Speaker>Commander</Speaker>||:A competition?
+M1911(2)<Speaker>M1911</Speaker>||:That's right. +There's going to be a balloon-shooting contest later on during the game session. How about a one-on-one against me?
+()<Speaker>Commander</Speaker>||:Trying to beat a T-Doll in shooting...? Very challenging.
+M1911(2)<Speaker>M1911</Speaker>||:If I win, you'll have to dance with me.
+()<Speaker>Commander</Speaker>||:And if I win?
+M1911(2)<Speaker>M1911</Speaker>||:Then I'll grudgingly allow you to dance with me~
+()<Speaker>Commander</Speaker>||:So basically, you're just asking me to dance?
+M1911(2)<Speaker>M1911</Speaker>||:What, will you say no?
+()<Speaker>Commander</Speaker>||:Of course not. But I fully intend to win the competition, you know?
+M1911(2)<Speaker>M1911</Speaker>||:Hoho... Such impudence, Darling. I will show you what a T-Doll is made of!
+()||:M1911 grins and takes the Commander's hand. There is an inscrutable glint in her eyes.
+()||<黑点1>:...
+()||<黑点2>:Half an hour later...
+M1911(2)<Speaker>M1911</Speaker>||:Now you see just how good I am, Darling?
+()<Speaker>Commander</Speaker>||:Wow... I didn't expect there to be such a big difference. +This is quite a disgrace.
+M1911(2)<Speaker>M1911</Speaker>||:Hehe, T-Dolls are very capable, you didn't have to throw the game, you know. +That's not very sporting, was it? 
+()<Speaker>Commander</Speaker>||:I just didn't want to risk winning and humiliating you... +But I was obviously worrying about nothing...
+M1911(2)<Speaker>M1911</Speaker>||:So, as per our agreement, will you dance with me, Darling?
+()<Speaker>Commander</Speaker>||:...Can't be helped. A promise is a promise.
+()||:The Commander smiles and holds out a hand.
+()<Speaker>Commander</Speaker>||:May I have this dance, M1911?
+M1911(2)<Speaker>M1911</Speaker>||:Certainly, Commander.
+()||:M1911 places her hand in the Commander's palm. +Meanwhile, the ball has officially begun, and all the partnered Dolls start spinning and twirling on the dance floor.
+()<Speaker>Commander</Speaker>||:Well? Feeling better?
+M1911(2)<Speaker>M1911</Speaker>||:What do you mean?
+()<Speaker>Commander</Speaker>||:We haven't been able to catch a break at all lately, it was about time I gave you all some time off. +This party only happened because of you and Saiga, so thank you.
+M1911(2)<Speaker>M1911</Speaker>||:...Sheesh, don't go all mushy on me all of a sudden. +I might end up stepping on your foot.
+()<Speaker>Commander</Speaker>||:You just did...
+()||:The Commander forces a pained smile, but they give M1911's hand a light squeeze and showed a genuinely gentle face to her again.
+()<Speaker>Commander</Speaker>||:Thank you for everything you've done. All of you.
+M1911(2)<Speaker>M1911</Speaker>||:And you, Darling.
+()||:Nothing more needs to be said. The human and the Doll simply sway to the music among the crowd.
+()||:Despite looking much younger than she is, M1911's movements are very graceful with the Commander leading the steps.
+M1911(2)<Speaker>M1911</Speaker>||:<color=#A9A9A9>Well? I ain't half bad, am I?</color> 
+()||:Not feeling a certain gaze, M1911 starts searching the crowd for the figure she spotted in the courtyard earlier. +That kid practiced so hard, but she still let me snatch the Commander's first dance from her – that's no good at all.
+M1911(2)<Speaker>M1911</Speaker>||:...
+()||:Hm...? +The smug smile gradually disappears from M1911's face. +As the song nears its end, the Commander asks lightly.
+()<Speaker>Commander</Speaker>||:What is it?
+M1911(2)<Speaker>M1911</Speaker>||:Hm... Oh, I'm so sorry, Darling. How could I space out when dancing with you?
+()<Speaker>Commander</Speaker>||:It's okay. Something must be troubling you.
+M1911(2)<Speaker>M1911</Speaker>||:You can tell?
+()<Speaker>Commander</Speaker>||:Don't forget – I've been a Commander for quite a while now.
+M1911(2)<Speaker>M1911</Speaker>||:Stop playing cool.
+()<Speaker>Commander</Speaker>||:Haha.
+M1911(2)<Speaker>M1911</Speaker>||:...It isn't that big of a deal.
+()||:The two stroll around the dance floor after their dance is over. M1911 looks like she wants to say something, but then she changes her mind. After checking her surroundings one more time, she finally sighs in exasperation.
+M1911(2)<Speaker>M1911</Speaker>||:I'm suddenly in a bad mood because I just realized a certain idiot didn't even put up a fight.
+()<Speaker>Commander</Speaker>||:Idiot? Put up a fight?
+M1911(2)<Speaker>M1911</Speaker>||:Stupid M76. I saw her practicing her moves in the courtyard during the day. +I thought she was also going to ask you to dance. +But she didn't even show up at the ball, let alone dance with you.
+()<Speaker>Commander</Speaker>||:...
+M1911(2)<Speaker>M1911</Speaker>||:...It's not really my business. +I don't want to be putting myself up on a pedestal as her senior either. +But I can't help but feel a bit disappointed to see her so spineless.
+()<Speaker>Commander</Speaker>||:...
+()||:The Commander looks thoughtfully into the distance, then they suddenly shift their gaze back to M1911.
+()<Speaker>Commander</Speaker>||:What if...that's not really the case?
+M1911(2)<Speaker>M1911</Speaker>||:Hm?
+()||<黑点1><BGM>BGM_Empty</BGM>:...
+()||<黑点2><BGM>BGM_Moon</BGM><BIN>97</BIN><Night>:M1911 drags the Commander along by the hand away from the banquet hall and down the empty hallway.
+()<Speaker>Commander</Speaker>||:...I knew it.
+M1911(2)<Speaker>M1911</Speaker>||:...This idiot.
+()||:M1911 rolls her eyes.
+()<Speaker>Commander</Speaker>||:Your concern for her is kind of misplaced.
+M1911(2)<Speaker>M1911</Speaker>||:I was NOT concerned about her.
+()||:She looks angrily towards the courtyard. +In the pale moonlight, Zas M76 is dancing alone.
+M1911(2)<Speaker>M1911</Speaker>||:...I saw her in the afternoon. +If she's been practicing so hard that she forgot the time... +I suppose she really wants to dance with you.
+()<Speaker>Commander</Speaker>||:She will be terribly disappointed when she finds out she's missed the ball.
+M1911(2)<Speaker>M1911</Speaker>||:She's hopeless.
+()||:M1911 crosses her arms and shrugs nonchalantly.
+M1911(2)<Speaker>M1911</Speaker>||:Well, guess I'll show my benevolence as her senior and let her have you.
+()<Speaker>Commander</Speaker>||:What about you?
+M1911(2)<Speaker>M1911</Speaker>||:We're still fighting with each other, so I'm not going to get involved and ruin it. +Besides, I'd rather die than watch my darling dance with someone else.
+()<Speaker>Commander</Speaker>||:You're not telling the truth, are you?
+M1911(2)<Speaker>M1911</Speaker>||:...I might get angry if you keep being so callous with me. +Now go.
+()||:M1911 grins and shoos the Commander towards Zas M76 as she backs away.
+M1911(2)<Speaker>M1911</Speaker>||:Don't keep a girl waiting.
+()<Speaker>Commander</Speaker>||:Alright.
+()||:The Commander enters the courtyard, and M1911 turns away.
+M1911(2)<Speaker>M1911</Speaker>||:<color=#A9A9A9>You owe me one.</color> 
+()||<黑屏1>:She hums a cheery tune and returns to the banquet hall alone.

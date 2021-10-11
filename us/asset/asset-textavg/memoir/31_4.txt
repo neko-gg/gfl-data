@@ -1,0 +1,75 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
+()<Speaker>M38</Speaker>||:The Commander's calling out to me...+But why can't I respond to the Commander?
+()<Speaker>M38</Speaker>||:Why can I never say the things I want to say? Am I afraid?+And if I am... What am I afraid of?
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||<BGM>BGM_Room</BGM><回忆>:We've decided how to punish you for your failure.+Even if you ARE a Doll, you ought to take responsibility for your actions. You understand, right?
+MAB38(0)<Speaker>M38</Speaker>||:Yes... I understand.
+()<Speaker>M38</Speaker>||:From that day on, I had to do more and more security work, and I had fewer and fewer chances to clear my cache. +I was no longer on the maintenance schedule either.+I spent every day being lectured for my previous failure.+I kept apologizing each time.+I worked all the time, without stopping.+Even then, I was never forgiven...
+MAB38(0)<Speaker>M38</Speaker>||:<color=#A9A9A9>Not long after, I made another mistake.</color>
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:Well, look at that. You aren't even as capable as a human being.
+MAB38(0)<Speaker>M38</Speaker>||:I-I'm sorry.
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:Apologizing again? +I've heard enough, we don't need you anymore.
+MAB38(0)<Speaker>M38</Speaker>||:—! +Am...am I going to be sold off?
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:What do you think? +Ever since you started working here, you've only brought in three times your investment in profits. +Selling you off now is pretty much squeezing the last bit of value from you. At least this way you'll make an extra bit of cash for us.
+MAB38(0)<Speaker>M38</Speaker>||:...I understand.
+()<Speaker>M38</Speaker>||<关闭蒙版>:I'm going to be recalled after this, huh... +I don't mind. After all, I was created to be a cog that turned for my employer. +And now that I'm a broken cog, I ought to be disposed of.
+()<Speaker>M38</Speaker>||<黑屏1>:Even so, I couldn't even make that last bit of money for them... +I ended up crashing on the way to the plant due to a cache overflow. +And then—
+()||<BIN>8</BIN><黑屏2><BGM>BGM_Empty</BGM>:Doink. +AR70 karate-chops M38's head.
+AR70(0)<Speaker>AR70</Speaker>||<震屏>:Calm down, you dummy. +You're a Doll working under the Commander now, not the you of the past.
+AR70(0);MAB38(0)<Speaker>M38</Speaker><Shake>||:Ow—! +Huh? D-dummy...?
+()||<黑屏1>:Upon seeing AR70's stern face, M38 accesses the records she's sealed away for a long time... +And they are...
+AR70(0)<Speaker>???</Speaker>||<BIN>22</BIN><黑屏2><边框>2</边框>:Oh? So you came here because you messed up several times at your job?
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:It's a bit more complicated than that - I don't deserve to be a Doll. +I just hope that my parts will be of use to someone else in the future...
+AR70(0)<Speaker>???</Speaker>;MAB38(0)||<边框>2</边框>:Is that your excuse for melting down your neural cloud?
+MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:Then what else should I do? +I'm afraid... +I'm afraid I'll keep making mistakes!
+()||<边框>2</边框>:Doink.
+MAB38(0)<Speaker>M38</Speaker><Shake>||<震屏><边框>2</边框>:Ow—!
+AR70(0)<Speaker>???</Speaker>;MAB38(0)||<BGM>BGM_Moon</BGM><边框>2</边框>:Think carefully, you dummy. Are you really just afraid of making mistakes?
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:Aren't I? +If not... +Then what is it that I'm afraid of?
+AR70(0)<Speaker>???</Speaker>;MAB38(0)||<边框>2</边框><黑屏1>:Go figure it out yourself. I can't be bothered to guide you right now. +I'll be going over to that Griffin place afterwards. +Since you're waiting to be collected for scrap anyway, you can consider going there if you can't think of an answer.
+MAB38(0)<Speaker>M38</Speaker>||<BIN>8</BIN><黑屏2>:I remember now. +Thank you, AR70. Thank you for reminding me of my original goal.
+AR70(0)<Speaker>AR70</Speaker>||:Well, don't crash again. You've got to show the Commander your strength.
+()||<黑屏1>:M38 nods, then she slowly closes her eyes and takes a deep breath.
+()<Speaker>M38</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#A9A9A9>Am I really just afraid of making mistakes?</color>+<color=#A9A9A9>When the former "AR70" asked me about it, I realized the truth.</color>+<color=#A9A9A9>I realized the reason why I rejected that logistics mission and why I crashed afterwards.</color>+<color=#A9A9A9>It was all because I didn't want to become the failure that I used to be.</color>+<color=#A9A9A9>Therefore—</color>
+MAB38(0)<Speaker></Speaker>||<BIN>8</BIN><睁眼>:M38 gazes unflinchingly at Commander, her eyes gleaming like sapphires.
+MAB38(0)<Speaker>M38</Speaker>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>What I ought to do is face "my old self, who was a failure."</color>
+MAB38(0)<Speaker>M38</Speaker>||<BGM>BGM_Sunshine</BGM>:Commander, I'd like to explain the reason why I've been dodging missions all this time.
+()||:The Commander nods, quietly watching M38.
+MAB38(0)<Speaker>M38</Speaker>||:I was once a service Doll used in security missions.+However, I made mistakes often and was a disappointment for my employer.+I came here after that, and all I thought about was how to avoid making mistakes...+I didn't want to remember my old self anymore.+I didn't want to become a failure again, like before.+As a result, I kept avoiding proper missions, only taking logistics missions where mistakes would not matter. +Perhaps I unconsciously thought that it was a way of changing myself.+But it was wrong. All I had been doing was simply treading water. +And then...
+MAB38(0)<Speaker></Speaker>||:M38 glances at AR70.
+AR70(0)<Speaker>M38</Speaker>||:Someone told me that it's doesn't matter even if I fail. I can just start over again.
+MAB38(0)<Speaker>M38</Speaker>||:And so I will do everything I can to clear a path forward for you, Commander!
+()||:A moment later...
+()<Speaker>Commander</Speaker>||:I see.
+MAB38(0)<Speaker>M38</Speaker>||:That means...!
+AR70(0)<Speaker>AR70</Speaker>||:You did it, M38!
+AR70(0)<Speaker></Speaker>;MAB38(0)||:AR70 runs up and hugs M38.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||:Haha... I finally took the first step in changing myself.
+MAB38(0)<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:Well, I'll allow AR70 to take part in the mission, but M38... I'll need to keep you under observation for a bit longer.
+MAB38(0)<Speaker>M38</Speaker>||:Huh?
+AR70(0)<Speaker>AR70</Speaker>||:What?
+()<Speaker>Commander</Speaker>||:While I'm glad you managed to overcome your past traumas, for the sake of the mission...+I think it's best that I keep observing you for a little longer.+You could very well experience your very first failure soon. Can you accept that?
+MAB38(0)<Speaker>M38</Speaker>||<黑屏1>:... +Yes!
+()||<BIN>9</BIN><黑屏2><黑屏1>:...Several days later.
+()||<BIN>7</BIN><黑屏2><BGM>BGM_Sneak</BGM>:At the frontlines, where the fighting with Sangvis Ferri is the fiercest.
+AR70(0)<Speaker>AR70</Speaker>||:Honestly, the Commander is way too harsh. I can't believe M38 has to remain under observation for a whole month. +Well, all the best to her. I'm going to use this to get promoted.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Oh? You're planning to take this location by yourself?
+AR70(0)<Speaker>AR70</Speaker>||:When did you get here, Sangvis scum?
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I'll tell you in three minutes, assuming you're not scrap by then.
+()||<SE1>AVG_rifle_finalshot_h</SE1>:Bang.
+AR70(0)<Speaker>AR70</Speaker>||:Tsk...
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:First, I'll start with your left leg, and then...
+AR70(0)<Speaker>AR70</Speaker>||<BGM>BGM_Empty</BGM>:Am I really going down in this place...
+MAB38Mod(0)<Speaker>M38</Speaker>||<BGM>BGM_War</BGM>:Of course not. How could you possibly fall here?
+AR70(0)<Speaker>AR70</Speaker>||:You're here at last. +Still, how did you get here? I thought the Commander said they'd be watching you for a month.
+MAB38Mod(0)<Speaker>M38</Speaker>||:I requested a neural upgrade because I wanted to come here and make myself useful ASAP. That way I wouldn't need to be put under observation.
+BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Hehe, so, the piles of scrap have multiplied. Just as well, you've saved me the trouble of looking for you.
+AR70(0)<Speaker>AR70</Speaker>||:While I hate to admit it... +These Sangvis units have superior specs. +Without reinforcements...
+MAB38Mod(0)<Speaker>M38</Speaker>||:Reinforcements? I AM the reinforcement. +Get up, AR70, we'll crush her together.
+AR70(0)<Speaker>AR70</Speaker>;MAB38Mod(0)||:...That sounded pretty cool. +Are you confident about this?
+AR70(0);MAB38Mod(0)<Speaker>M38</Speaker>||:I've already taken the first step towards changing myself. +Don't you want to follow me?
+AR70(0)<Speaker>AR70</Speaker>;MAB38Mod(0)||:Oh? +Hehe, lead the way, then!
+BOSS-1(0)<Speaker>Scarecrow</Speaker>;MAB38Mod(0)||:Are you done with your last words? Whatever they are, your mission is doomed to fail. Now rust here as scrap metal.
+BOSS-1(0);MAB38Mod(0)<Speaker>M38</Speaker>||:You're going to make us fail? Do it if you can—
+MAB38Mod(0)<Speaker>M38</Speaker>||<白屏1>:I'll show you the power of Griffin's new equipment.
+MAB38Mod(0)<Speaker>M38</Speaker>||<BIN>183</BIN><白屏2><黑屏1>:I won't be afraid of becoming my old self, "the failure", again...+Because I know that even if I fail, someone will be waiting for me, and someone will have gotten up before me.+In that case, all I have to do is move forward with all of my strength — the change in me begins here!

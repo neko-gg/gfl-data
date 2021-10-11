@@ -1,0 +1,41 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>Soldier A</Speaker>||<BIN>9</BIN><黑屏2>:Over here! One of them slipped the net!
+()<Speaker>Soldier B</Speaker>||:Don't think you can escape!
+()<Speaker>M500</Speaker>||<黑屏1>:...
+m500(0)<Speaker>M500</Speaker>||<BIN>99</BIN><BGM>BGM_Room</BGM><黑屏2>:Hehe...you fell for it. +Don't think you'll get me so easily. +This is the difference in our experience as hunters; a moment's carelessness and you become the prey instead.
+m500(0)<Speaker>M500</Speaker>||:By which I mean this!
+NPC-Soldier(0)<Speaker>Soldier A</Speaker>||:What...? She's behind—!
+()||<SE1>AVG_pistol_finalshot_n</SE1>:Bang!
+m500(0)<Speaker>M500</Speaker>||:(Pants)
+NPC-Soldier(0)<Speaker>Soldier B</Speaker>||:Over there!
+m500(0)<Speaker>M500</Speaker>||<黑屏1>:Are there more of them? +Good grief... Give me a break, will you...?
+()||<BGM>BGM_Empty</BGM><BIN>73</BIN><黑屏2>:At the Griffin training ground.
+m500(0)<Speaker>M500</Speaker>||<BGM>BGM_Hello</BGM>:Go hunting with me!
+M590(0)<Speaker>M590</Speaker>||:...This is too sudden, 500. I can't decide until you tell me more about it.
+()||:These are memories from a long time ago, from the days in Griffin.
+M590(0)<Speaker>M590</Speaker>||:I think I roughly get what you mean. You're talking about training, right?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:Yup! But hunting is hunting, you know!
+m500(0);M590(0)<Speaker>M590</Speaker>||:I don't quite understand. +Training refers to simulation training, doesn't it? Besides, I don't think any real hunting preserves still exist. +But since we're using VR training technology, why go out of your way to train yourself through hunting?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:...
+m500(0);M590(0)<Speaker>M590</Speaker>||:You don't understand my question, do you... +Alright, start from the beginning then, 500.
+m500(0)<Speaker>M500</Speaker>;M590(0)||:Yup! +Remember how some time ago, someone discovered you could use the simulator to mock up a virtual game park? +We all got into it right away. +Then more and more people started taking part, so we've decided to set up a competition!
+m500(0);M590(0)<Speaker>M590</Speaker>||:You skipped quite a lot in your explanation...but I understand now. +Are you going to take part in the competition, 500?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:Yup!
+m500(0);M590(0)<Speaker>M590</Speaker>||:Hunting, huh... I'm not very interested. +Why don't you take part by yourself? You don't need a team for this, right?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:We're all joining as individuals!
+m500(0);M590(0)<Speaker>M590</Speaker>||:Then there's even less reason to bring me along. +It looks like you really enjoy this sort of thing.
+m500(0)<Speaker>M500</Speaker>;M590(0)||:Because hunting is really fun!
+m500(0);M590(0)<Speaker>M590</Speaker>||:What exactly is fun about it? +I don't understand. Aren't small animals nothing but moving targets? +In that case, wouldn't a target drone be more efficient?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:Hehehe...you just don't get it, M590!
+m500(0);M590(0)<Speaker>M590</Speaker>||:...I never thought the day would come when you'd look down on me.
+m500(0)<Speaker>M500</Speaker>;M590(0)||:What we call "hunting" isn't the simple murder of small animals! +That sort of court entertainment can't be considered hunting, it's nothing more than playing with guns! +Real hunting is a deep and profound thing!
+m500(0);M590(0)<Speaker>M590</Speaker>||:Is that so? +That said, I still don't quite understand, even with your explanation. Could you tell me how it is deep and profound?
+m500(0)<Speaker>M500</Speaker>;M590(0)||:No problem! Hunting is... +... +...Woof!
+M590(0)<Speaker>M590</Speaker>||:Huh?
+m500(0)<Speaker>M500</Speaker>||:It...it's a pooch! 590, come look, it's a pooch!
+()<Speaker>Puppy</Speaker>||:Awoo...
+M590(0)<Speaker>M590</Speaker>||:Aw, was he abandoned? The poor dear... +He looks very healthy, so I don't think he's sick. That said, he must be starving.
+m500(0)<Speaker>M500</Speaker>||:Hahaha, don't lick my face~
+M590(0)<Speaker>M590</Speaker>||:...So she's already forgotten what she was going to say? +Oh well, that works too.
+m500(0)<Speaker>M500</Speaker>||:590! Can I keep him? I can keep him, right?
+()||<黑屏1>:...

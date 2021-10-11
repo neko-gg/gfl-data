@@ -1,0 +1,60 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>2</BIN><黑屏2><BGM>BGM_Danger</BGM>:After AR70 and M38 reach the designated area... +They begin fighting the S.F. remnants.
+MAB38(0)<Speaker>M38</Speaker>||<SE2>Gunfight</SE2>:Two more left at 3 o'clock!
+AR70(0)<Speaker>AR70</Speaker>||<黑屏1>:OK, heading there now.
+()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2><黑屏2>:The battle ends swiftly thanks to the coordination of the pair.
+MAB38(0)<Speaker>M38</Speaker>||:...Mission complete.
+AR70(0)<Speaker>AR70</Speaker>||<BGM>m_avg_casual</BGM>:These Sangvis scum are easily eliminated when they don't have support from their command post.
+()||:AR70 bends down and begins recovering S.F. components.
+MAB38(0)<Speaker>M38</Speaker>||:It would be best not to make light of them.
+AR70(0)<Speaker>AR70</Speaker>||:Hm? You sound like you're very experienced.+At first, I thought you refused the security job because you were afraid of fighting.
+()||:M38 shakes her head.
+MAB38(0)<Speaker>M38</Speaker>||:I'm not afraid of battle. +I'm simply more used to logistics missions.
+AR70(0)<Speaker>AR70</Speaker>||:While I'd like to ask you what happened to you in the past, I have the feeling you wouldn't tell me even if I did.
+MAB38(0)<Speaker>M38</Speaker>||:Yeah, I'm sorry...
+AR70(0)<Speaker>AR70</Speaker>||:That's fine. We civilian Dolls all have our secrets.+Anyway, the mission's pretty much over, so let's get ready to go back—
+()||<BGM>BGM_Empty</BGM><SE1>Select</SE1>:Suddenly, M38 raises her gun.
+MAB38(0)<Speaker>M38</Speaker>||:AR70, did you hear that?
+AR70(0)<Speaker></Speaker>||:AR70's brows furrow, then she raises her gun too.
+AR70(0)<Speaker>AR70</Speaker>||:Did you find something?
+()<Speaker>???</Speaker>||:(Sobbing and weeping)
+MAB38(0)<Speaker>M38</Speaker>||:——!
+AR70(0)<Speaker>AR70</Speaker>||:That sounds like... Is that a crying child?
+MAB38(0)<Speaker>M38</Speaker>0)||:I'm not picking up any Doll signals nearby. That has to be the sound of a human child...
+()<Speaker>Human Girl</Speaker>||:(More sobbing)
+()||:M38 and AR70 exchange glances, then immediately split up to search for the person in need of aid.
+MAB38(0)<Speaker>M38</Speaker>||:We're Tactical Dolls from Griffin. Please tell us your position.
+()<Speaker>Human Girl</Speaker>||:(Even more sobbing)
+MAB38(0)<Speaker>M38</Speaker>||:I repeat, we are Tactical Dolls from Griffin, please give us your position so we can proceed there and render assistance.
+()||:The girl gulps and mumbles a few unintelligible words.
+MAB38(0)<Speaker>M38</Speaker>||:That's no good, that's not enough for me to pinpoint your position... Please provide us with detailed coordinates.
+AR70(0)<Speaker>AR70</Speaker>||:Didn't she state them clearly?
+MAB38(0)<Speaker>M38</Speaker>||:Huh? But I didn't hear anything.
+AR70(0)<Speaker>AR70</Speaker>||<黑屏1>:We'll leave that aside for now. The situation is critical, so follow me.
+()||<BIN>9</BIN><黑屏2><黑屏1>:...Thirty minutes later, AR70 and M38 have rescued the human girl from underneath a collapsed building. +However, they now face a new problem—
+()<Speaker>Human Girl</Speaker>||<黑屏2><BIN>2</BIN>:(Sobbing and moaning)
+MAB38(0)<Speaker>M38</Speaker>||:Please stop crying. We can escort you back if you supply us with the necessary coordinates.
+()||:The human girl is still crying, and her face has turned a little pale.
+MAB38(0)<Speaker>M38</Speaker>||:Um...
+AR70(0)<Speaker>AR70</Speaker>||:Let me handle this.
+()||:M38 complies and backs away.
+AR70(0)<Speaker></Speaker>||:After that, AR70 slowly approaches the human girl...
+AR70(0)<Speaker></Speaker>||:She puts down her gun and kneels in front of the her.
+AR70(0)<Speaker>AR70</Speaker>||:La mia principessa... +It's alright now. You can hold me if you're scared...
+()<Speaker>Human Girl</Speaker>||:...
+()||:The girl ceases crying, but her eyes seem hollow and unfocused. She stands mutely in place.
+AR70(0)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:At that moment, AR70 takes the initiative and embraces the human girl in a hug. +The human girl returns the embrace in response.
+AR70(0)<Speaker>AR70</Speaker>||:Your clothes are very pretty. Who bought them for you?
+()<Speaker>Human Girl</Speaker>||<黑屏1>:My...mama...
+()||<BIN>9</BIN><黑屏2><黑屏1>:After that, AR70 and M38 successfully escort the human girl to a safe house and start heading back to Griffin.
+MAB38(0)<Speaker>M38</Speaker>||<BIN>83</BIN><黑屏2><Night>:You're amazing, AR70. +Were you a service-model Doll once?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Perhaps. +I deleted those memories after connecting to Griffin's database.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:Why? Did something happen to you in the past? +Was that why you came to Griffin...?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Hey, you haven't even told me YOUR story.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:I...
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Still, it's not going to get in the way of me telling you why I deleted my memories.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:Huh?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:I don't remember the exact reason because I deleted my memories. +But I do remember that back then, I wanted to change myself.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:Change yourself...? That sounds like a really human reason to have.+I'm kind of envious. If I'd deleted my memories when I joined...+Then I wouldn't have to run from them like I'm doing now.
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||<黑屏1>:Oh? I think you should tell me about what happened. I might be able to help you out.
+()<Speaker>M38</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Alright...

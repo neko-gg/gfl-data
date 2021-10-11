@@ -1,0 +1,14 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>m_avg_casual</BGM>:...At the Griffin base. +In the Protocol Control Center.
+()<Speaker>Commander</Speaker>||:So these Sangvis, Military, and Paradeus units can only be obtained through capture operations?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Correct, Commander. If the operation succeeds, they will add to Griffin's strength in battle.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:They will bolster our forces? That's nice. +Right, so how exactly do I go about it? Okay, I gave the command to capture them, now what?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Using this new equipment, we emit special electronic impulses directed at the enemy outposts. +Then Griffin will dispatch an armed squad that you've assembled to fight the enemies there. +If our squad is victorious, we'll be able to capture the enemy units. 
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Ugh, so we still have to fight... You said "if we're victorious", what happens if we lose...?
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Then the capture operation will fail, of course. But with you in command, how could we possibly lose?
+NPC-Kalin(1)<Speaker>Commander</Speaker>||:You make it sound so easy... But there is still a distinct possibility for failure, right?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:You don't have to worry about that either. We've signed a contract with a very capable third-party enterprise called Svarog Heavy Industries – they'll be giving us a hand with the capture operations! +Insider rumor has it, they NEVER fail!
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:I think I've heard of them. "NEVER fail", huh. Well, aren't they confident?
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:That's the power of money, Commander! +In any case, with such a distinguished aide, we won't have to worry about these enemy units giving us the slip.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||<黑点1>:That does sound very reassuring... But I found it extremely unnerving when you brought up the power of money... +Alright, then let me see for myself if they can live up to their impressive reputation.
+()||<黑点2><BIN>10</BIN>:

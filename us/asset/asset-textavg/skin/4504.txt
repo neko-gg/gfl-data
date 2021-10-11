@@ -1,0 +1,142 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>RO635</Speaker>||<BIN>138</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:...
+()<Speaker></Speaker>||:After leaving the dorm, RO and M4 arrive at the banquet venue together.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Wow, the venue looks amazing!
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:You're right, it's very atmospheric.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:I wish SOP-II had come with us. I wonder if she'd be able to find us later.
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:It's her own fault for being a slow poke. But she should've finished changing by now. She might even run into AR-15 on the way here. +Come to think of it, if she sees so many tasty desserts, she'd probably gobble everything up...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:Ahaha, it's a rare occasion, that's why they're going all out with the preparations... +What are your plans tonight, RO?
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Me? +Hm... I honestly didn't expect the Commander would agree to hosting the banquet. But since it's a banquet, I'm going to forget all about work and just enjoy myself tonight.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:That's great. I'm also quite interested in participating in some of the activities on the program. We can...
+M4A1Mod(0)<Speaker></Speaker>;RO635(0)||<SE1>AVG_tele_connect</SE1>:A voice suddenly speaks through the comms.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:Oh, the Commander is looking for me.
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:The Commander?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:Yeah, I ordered lots of goodies for the team, remember?
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Goodies... Oh, you mentioned it earlier...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:Yeah, I bought some liquor and plenty of snacks with the Commander's allowance. +The order has probably been delivered, so I have to receive it in person.
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:I see.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:I'll see you on the stage later then. That's where the activity is going to take place. Wait for me, okay?
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Sure, bye!
+RO635(0)<Speaker>RO635</Speaker>||:...Right. +I did say I was going to enjoy myself, but what exactly should I be doing?
+RO635(0)<Speaker></Speaker>||<黑屏1>:... +RO picks up a pastry from the table.
+()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:After all, this is an important banquet. +...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Hello</BGM>:This banquet is a very important occasion! +I'm really looking forward to it, and I want it to become a precious memory for everyone.
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:...I see.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:But right now, the décor is not satisfactory at all! +It's a far cry from the "glamorous" and "dazzling" scene that I was picturing. +This is a rare opportunity, and this half-assed attempt is utterly unacceptable. We must allocate more of the budget to the décor.
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Hm... (Hammering a nail) +You think so?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:That was the plan, but...
+AR15Mod(0)<Speaker></Speaker>;RO635(0)||<BIN>137</BIN>:ST AR-15 looks up at RO, who's concentrating on her task while perched on the stage rig, secured with a safety harness.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:What are you doing?
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Me?
+AR15Mod(0);RO635(0)<Speaker></Speaker>||:RO looks at the hammer and wrench in her hands.
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Rigging the lights on the stage?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:Shouldn't the Dolls in charge of the lighting be doing that?!
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Ahaha, sorry. Everyone seems so busy, I just had to help...
+AR15Mod(0);RO635(0)<Speaker></Speaker>||:After double-checking that the lights have been installed correctly, RO slides down from the rig with practiced ease and frees herself from the safety harness.
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:It's done! +Oh right, we have to test the lights...
+AR15Mod(0);RO635(0)<Speaker>Doll in charge of Lighting</Speaker><同时置暗>||:We're on it! It's looking pretty good! +Thanks for helping out, Miss RO! Your assistance has really bolstered everyone's morale!
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:It's not every day we get to celebrate on such scale, so keep up the spirit! I'll catch you all later~!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:Not every day we get to celebrate, eh?
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Sorry for the wait, 15. You wanted to tell me something?
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;RO635(0)||:I was going to discuss the décor with you. +But forget it. If I tell you what I'm thinking, you're going to get yourself involved, aren't you?
+AR15Mod(2);RO635(0)<Speaker>RO635</Speaker>||:If I can do anything to help, sure.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;RO635(0)||:Nope, I'd rather you stop butting in on such trivial chores.
+AR15Mod(2);RO635(0)<Speaker>RO635</Speaker>||:Huh?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(0)||:M4 told me that you were planning to forget all about work and enjoy yourself at the banquet. +But by the looks of it, you're not doing that at all.
+AR15Mod(4);RO635(0)<Speaker>RO635</Speaker>||:Oh, you're right!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>;RO635(0)||:You didn't even notice?!
+AR15Mod(5);RO635(0)<Speaker>RO635</Speaker>||:Sorry, I haven't given it much thought once I got busy. +I feel quite accomplished though. I made myself useful and expedited the preparation process.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(0)||:But you didn't have to. The banquet preparations have been extremely well-planned. There are Dolls assigned to take care of every aspect. As for you... +You should understand that the reason why no one gave you anything to do was because everyone wanted you to take a good rest!
+AR15Mod(4);RO635(0)<Speaker>RO635</Speaker>||:Hm, sorry...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;RO635(0)||:I don't mean to tell you off.
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:No, thank you, 15. I really should be taking it easy. +Alright then. From now on, I'm going to focus on enjoying myself...
+AR15Mod(0);RO635(0)<Speaker>Stage Manager Doll</Speaker><同时置暗>||:Good thing you're here, RO. I have a question about the stage design...
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Oh, I'm coming. +...Uh?!
+AR15Mod(4);RO635(0)<Speaker></Speaker><Shake>||<BGM>BGM_Empty</BGM>:RO is about to head over to offer her help, but she suddenly senses an immense force on her shoulder... +She turns around – ST AR-15, who has a death grip on her shoulder, is glaring at her menacingly.
+AR15Mod(4);RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Danger</BGM>:...1-15?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;RO635(0)||:You're coming with me.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Huh? Hold on... Whoa!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Door_Hit</SE1>:Ignoring RO's confusion, ST AR-15 all but drags her into the dressing room in the backstage.
+()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Huh?! 15, wait... S-Stop it!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:...
+()<Speaker>ST AR-15</Speaker>||:Alright, stand still!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:...
+()<Speaker></Speaker>||<黑屏1>:...
+AR15(3)<Speaker>ST AR-15</Speaker>||<BIN>82</BIN><黑屏2>:Okay, you can come out now.
+RO635(7)<Speaker>RO635</Speaker>||<黑屏1>:...
+()<Speaker></Speaker>||<BIN>138</BIN><黑屏2><BGM>BGM_Moon</BGM>:The RO that has just walked up on stage is dressed in a completely different manner. +The exquisite silhouette, coupled with the vibrant color combination, draws a lot of appreciative glances from the laboring Dolls.
+RO635(7)<Speaker>RO635</Speaker>||:W-Why...?
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:Why...? You mean what's the deal with the dress? +I found it in the dorm. I brought it along because I thought you'd forgotten to get changed. +But now, it appears to be the only thing that would prevent you from climbing up a ladder in just a few minutes.
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:You're exaggerating!
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:Am I?
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:...Probably...
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:... +You look very pretty.
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:Uh, thanks...
+AR15(3);RO635(7)<Speaker></Speaker>||:RO is a bit flustered by the unexpected compliment. +Then all of a sudden, she is blinded by a flash of white light. (Snap)
+RO635(7)<Speaker>RO635</Speaker>||:Who's taking pictures?!
+KSVK(9)<Speaker>KSVK</Speaker>||:Oh~ Sorry! +I just had to snap one since you're so pretty!
+KSVK(9)<Speaker></Speaker>||:KSVK hops onto the stage with a camera.
+KSVK(9)<Speaker>KSVK</Speaker>||:I'm here, Miss 15~
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:KSVK? +So you weren't joking.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Obviously not, I have my camera right here!
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:Uh... What are you two talking about?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Don't you know? I want to invite all the attendees to a photo shoot, then all the pictures will be shown at an exhibition. +Such happy moments should be preserved and treasured.
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:I see...?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Indeed.
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:Hm... Okay.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Then could you please give me a twirl, Miss RO?
+AR15(3);RO635(7)<Speaker>RO635</Speaker>||:L-Like this...?
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:RO spins lightly on the spot.
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:(Oh, has she taken it already?)
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:(I'm not sure how the photo will turn out... I hope my hair clips aren't tilted?)
+KSVK(9)<Speaker>KSVK</Speaker>||:Good. Now try this pose...
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:Huh? Like this? Okay...
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:...So we're doing more than one?
+KSVK(9)<Speaker>KSVK</Speaker>||:You are like a still model, Miss RO! I want to get a picture with you! +Wanna join us, Miss 15?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:Isn't it too early for a group photo?
+AR15(3)<Speaker></Speaker>;KSVK(9)||:Despite what she said, ST AR-15 still walks into the frame.
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:(...It feels like eons ago since we last had fun together like this...)
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:(Not focused on winning battles or worried about losing something important...) +(All I need to think about right now is striking pretty poses and making happy memories.) +(Perhaps this is what it feels like to leave all my troubles behind?)
+RO635(7)<Speaker>RO635</Speaker>||<SE1>AVG_Division_Camera</SE1>:(It makes me kind of happy...)
+RO635(7)<Speaker>RO635</Speaker>||:Oh, KSVK, your shoelaces came loose.
+KSVK(9)<Speaker>KSVK</Speaker>||:Oh dear, you're right... I can't really bend down with the camera. Could you tie them for me, Miss RO?
+RO635(7)<Speaker>RO635</Speaker>||:Sure... Huh?
+RO635(7)<Speaker></Speaker>||:While RO is helping KSVK with her little trouble, she catches sight of a familiar figure in her peripheral vision.
+M4A1(7)<Speaker></Speaker>||:The figure seems to have realized that she's been been spotted. M4 freezes for a moment before turning and leaving in a hurry.
+RO635(7)<Speaker>RO635</Speaker>||:(M4 seemed kind of bothered. That look she gave me...) +(Oh...!)
+RO635(7)<Speaker></Speaker>||:RO suddenly remembers that M4 mentioned something about wanting to participate in an "activity" just before leaving the dorm. 
+KSVK(9)<Speaker>KSVK</Speaker>||:Everyone ready? +Then one, two—
+RO635(7)<Speaker>RO635</Speaker>||:Hold on a second!
+KSVK(9)<Speaker>KSVK</Speaker>||:Miss RO?
+AR15(3)<Speaker>ST AR-15</Speaker>;RO635(7)||:What's wrong?
+()<Speaker>RO635</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Somebody needs my help.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Hello</BGM>:At the banquet, the Dolls mingle over drinks, chattering happily above the soft background music.
+M200(3)<Speaker>M200</Speaker>||:Hm, this looks pretty good.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:Thank you, M200. Could you please enlarge the picture when you print it? It's a precious moment between me and KSVK, after all~! +Right?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:Ugh, yes, yes, alright! +Come to think of it, where's Miss 15?
+M4A1(7)<Speaker>M4A1</Speaker>;KSVK(9)||:Oh, she...
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:We're going to take a group picture, so I've sent AR-15 to find M16 and SOP-II. +What's taking her so long? I should've gone myself.
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:AR-15 didn't want you to take everything upon yourself. +Well, since we're just waiting around, why don't we...?
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:Oh, just the two of us...? That's not a bad idea. +Can we, M200?
+M4A1(7);RO635(7)<Speaker>M200's Voice</Speaker>||:Of course! Then please stand closer to each other.
+M4A1(7);RO635(7)<Speaker></Speaker>||:RO scoots closer and leans towards M4.
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:Hm...
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:RO?
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:Oh, it's nothing. +I was just thinking that 15 had a point. I really shouldn't take everything to heart. The more pressure I put on myself, the deeper I dig myself in.
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:That's certainly true...
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:It feels pretty good to enjoy myself at the banquet without a care in the world. Perhaps I should work on not being such a worry wort.
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:You can do it, RO. I believe in you.
+M4A1(7);RO635(7)<Speaker></Speaker>||:The two Dolls smile at each other. Then they straighten up and turn cheerfully towards M200's camera lens.
+M4A1(7);RO635(7)<Speaker>M200's Voice</Speaker>||:Nice mood! Okay, here we go... +One, two...
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:WHOOSH!
+RO635(7)<Speaker>RO635</Speaker>||:Huh?
+()<Speaker>???</Speaker>||:I'm flying! I'm flying!!!
+()<Speaker>Panicking Doll</Speaker>||:Oh my goodness, what is she doing?!
+M4A1(7)<Speaker>M4A1</Speaker>||:S-SOP-II?!
+()<Speaker></Speaker>||:The sudden commotion draws RO and M4's attention. All they see is a blur of fuchsia tearing through the banquet venue, leaving chaos in its wake... +The nearby Dolls squeal in alarm as they struggle to keep the hems of their dresses down. The initial scene of joyous peace, along with RO's newfound contentment, is thrown into complete disarray.
+()<Speaker>Calm Doll</Speaker>||:Stop her!
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:HAHAHAHAHAHAHAHA! +Nobody can catch me!
+RO635(7)<Speaker>RO635</Speaker>||:...Are you sure?
+M4A1(7)<Speaker>M4A1</Speaker>;RO635(7)||:RO?
+M4A1(7);RO635(7)<Speaker>RO635</Speaker>||:I can't let my guard down after all. Just you wait, SOP-II, I'm going to kick your ass!
+RO635(7)<Speaker>RO635</Speaker>||<黑屏1>:With inner peace all forgotten, RO raises her megaphone and handcuffs and starts chasing after the culprit. More and more Dolls join in on the attempt to apprehend SOP-II, and the situation gets even more out of hand. +And so this special occasion comes to a tumultuous end... 

@@ -1,0 +1,129 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>m_avg_casual</BGM><SE1>AVG_doorknock_wood</SE1>:Knock knock. A light rap on the door jolts M200 awake. +She hurriedly halts the process of clearing her cache and jogs over to open the door.
+M200(0)<Speaker>M200</Speaker>||:Please come in... Huh?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Hi.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Hello, QBU-88. Is something the matter? +Have I missed a notice...?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Not at all. May I come in?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||<黑点1>:Oh yes, please.
+()<Speaker></Speaker>||<黑点2>:M200 welcomes QBU-88 into her room and closes the door.
+M200(0)<Speaker>M200</Speaker>||:Would you like something to drink?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Oh, I get offered a drink! What do you have?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:I've got black tea, juice, coffee, milk, fruit tea, ginger tea, hot cocoa, and green tea. Oh, there's also mulled wine, though I'll have to heat that up...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Whoa, hold it. Just a fruit tea will do. +Are you planning to open a beverage store with Springfield or something?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:No, I just bought a bunch of ingredients to practice making different kinds of drinks. +Here, fruit tea for you.
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Thanks. +...This tastes good! What's the brand?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:It's my own formulation. If you like it, I can give you some to take with you.
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Thanks! I love this tangy flavor.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:So... May I ask why you're here...?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Didn't Groza just send out a recruitment for party organizers? +I saw your reply. You said you can't participate because you have an assignment.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Oh, yes.
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:We checked the logs. You accepted that assignment AFTER she made the recruitment post.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:You never say no to social gatherings, as far as I know? +I just find this pretty odd. Is there someone you don't want to meet at the party?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Oh, it's nothing of that sort! +I'm just having some personal issues...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:What kind of issues?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Uh... I just have some thinking to do. It's not a good idea to bother others over something so trivial! +Don't worry, I can sort it out myself.
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:You probably can, but if you tell me, it could be solved more quickly. +And you don't have to feel like you're bothering me. I came precisely for this matter.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||<黑点1>:Hm... Thank you. So this is what happened...
+()<Speaker></Speaker>||<黑点2>:... +Several minutes later.
+QBU88(0)<Speaker>QBU-88</Speaker>||:So basically, you tried to interview some refugees, but they refused to cooperate.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Yeah... I wanted to shoot some post-war footage and edit them into a documentary for the celebration this year. +But apart from ruins, all I've got so far is grief-stricken people who have lost their home...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Isn't that only to be expected? War is destructive to begin with.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:I disagree. We are a security company, are we not? +We fight to protect more people, to put an end to strife, and to usher in an era of peace, isn't that right?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Yeah... Sounds about right.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:But is there really any meaning to all the fighting we've done? +No matter how hard we try to defeat our enemies, innocent civilians keep getting dragged into the war and end up getting killed. +We are Tactical Dolls, we were not created to prevent war – we perpetrate violence... There's no way we can end the bloodshed. +On top of that, we keep causing suffering.
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:But just letting our enemies storm through our defenses will result in even more suffering. +There is meaning to our fight.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:You have a point... (Sighs) I do feel better now that I've got it off my chest. +Thank you. Next time there's a party, I'll definitely make time for it!
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:I'm glad to hear it. +...Hold on, so you're still not coming to this party?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Huh? It's a shame, but...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:The solution is right in front of you. It's just taking out a few enemy targets. It won't take long if the two of us set off soon! +Those abandoned mechs have been getting on my nerves for a while now. Rather than letting them saunter around for a couple more days, why don't we wipe them out now and come back for the party?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Oh... Sure. +<color=#A9A9A9>Can I really handle another fight so soon?</color>
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Where's the location of your assignment? Let me see... +Oh! Theater No. 3 is pretty close. Let's go!
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Huh? We're going right now?!
+QBU88(0)<Speaker>QBU-88</Speaker>||:No time like the present!
+()<Speaker></Speaker>||<黑屏1><SE1>RunStep</SE1>:With just the two of them, the Dolls head towards the target location promptly...
+()<Speaker></Speaker>||<黑屏2><BIN>98</BIN><BGM>BGM_Empty</BGM>:An hour later, in Theater No. 3.
+QBU88(0)<Speaker>QBU-88</Speaker>||<BGM>BGM_Room</BGM>:These abandoned mechs were a piece of cake. Your assignment is all done, yeah?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Yes.
+M200(0)<Speaker></Speaker>;QBU88(0)||:M200 puts down her rifle and studies the mechanical remains all around her.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Thank goodness these weren't piloted by that man...
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:What do you mean? They're still weapons created for human use. +Strange... Why can't I find that spot?
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:88? What are you looking for?
+QBU88(0)<Speaker>QBU-88</Speaker>||:It's a secret.
+()<Speaker></Speaker>||:With that, she wanders off and continues her search.
+QBU88(0)<Speaker>QBU-88</Speaker>||<BGM>BGM_Empty</BGM>:Hm... Mm... Found it! +M200, over here.
+M200(0)<Speaker></Speaker>;QBU88(0)||<BGM>GF_Memorial</BGM>:M200 walks over and squats down to look at what QBU-88 is pointing at. +Behind the crumbling wall, a patch of lovely roses bloom silently.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:...Huh? How can there be flowers here?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:If memory serves, Theater No. 3 used to be a botanical conservatory in the Yellow Zone. +It was razed to the ground in the war, but this little patch came out unscathed. +There weren't any flowers the first time I came. The botanists must've been forced to evacuate shortly after they planted the seeds. +But look, they're now flourishing!
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:They managed to keep growing because we've been holding this place?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:That's right. As long as we don't pull back our line of defense, more flowers will grow here.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:...
+M200(0)<Speaker></Speaker>;QBU88(0)||:M200 stares intently at the roses. +Under the clouded sunlight, they look so fragile, yet so vibrant in the ashy soil.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:New life that grows out of land baptized by the flames of war... +I must take some pictures of it!
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Take as many as you want. It's pretty safe here. You can go absolutely crazy.
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Are there more flowerbeds like this one in other places?
+M200(0);QBU88(0)<Speaker>QBU-88</Speaker>||:Probably...? There might be more somewhere farther away from the war zone. I'm sure we'll find them if we take the time to look. +Let's do that, shall we?
+M200(0)<Speaker>M200</Speaker>||:Yes, please!
+()<Speaker></Speaker>||:M200 snaps picture after picture while QBU-88 keeps searching for more flowers. The two Dolls end up trekking across most of the theater.
+QBU88(0)<Speaker>QBU-88</Speaker>||<BGM>BGM_Empty</BGM>:Oh, there are flowers over here, M2— Huh?
+M200(0)<Speaker>M200</Speaker>||:What? Did you say some... QBU-88!!
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:A half-buried mech suddenly comes to life. +Its remaining mechanisms are still operational - it grabs QBU-88 and lifts her off the ground!
+QBU88(0)<Speaker>QBU-88</Speaker>||:H...Help!!
+M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Crap...
+M200(0)<Speaker></Speaker>;QBU88(0)||:M200 puts down her camera and starts firing at the mech. +But her rushed attacks merely leave dents on its armor and cause no significant damage. +Meanwhile, the soil around her starts quivering, and more mechs rise to their feet. +They loom over the petite M200 and have her completely surrounded.
+M200(0)<Speaker>M200</Speaker>||:No, this isn't something I can handle... +Hailing Groza! Come in, Groza!!
+OTs14(0)<Speaker>OTs-14</Speaker><通讯框>;M200(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What is it, M200? The party...</color>
+OTs14(0);M200(0)<Speaker>M200</Speaker>||<震屏>:Miss Groza, we need help!!!
+OTs14(0)<Speaker>OTs-14</Speaker>;M200(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>Calm down, M200. What is the matter?</color>
+OTs14(0);M200(0)<Speaker>M200</Speaker>||:We've encountered numerous abandoned mechs in Theater No. 3, some of them still have intact firing modules, and they've captured QBU-88! +I've sent you our coordinates... Please get here ASAP! Thank you very much!
+M200(0)<Speaker>M200</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#A9A9A9>Even if Miss Groza sets off immediately, it will still take her a while to get here... I've got to stall them for at least 10 minutes!</color> +<color=#A9A9A9>I'm going to damage their joints... Dammit, they have armor even on their joints!</color>
+()<Speaker></Speaker>||:Her successive shots finally draws the mech's attention. With QBU-88 in one hand, it reaches out to grab M200 with the other. +M200 stops immediately to dodge its attack and returns fire.
+QBU88(1)<Speaker>QBU-88</Speaker>||:Ugh... Arghhh...
+M200(0)<Speaker>M200</Speaker>;QBU88(1)||:Oh no... Keeping it on edge only makes it tighten its grip...
+M200(0)<Speaker></Speaker>||:M200 comes to a decision. +She stops running, props up her rifle, and aims straight for the weak point in the mech's leg. +At that moment, she does not dwell on the danger she's in; she is completely focused on her determination to save her friend. +She fires at the same instant when the mech takes a swipe at her.
+M200(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:Bang!
+M200(0)<Speaker>M200</Speaker>||:...I got it!
+()<Speaker></Speaker>||:The mech falls onto its knees abruptly. However, it soon regains its footing by shifting its weight onto the other leg... +Meanwhile, alerted by the loud gunshot, the other mechs turn and close in on M200...
+M200(1)<Speaker>M200</Speaker>||:No way...
+QBU88(1)<Speaker>QBU-88</Speaker>||:It-it's leaving... Help! Where is it taking me?
+M200(1)<Speaker>M200</Speaker>||:I'm going to shoot its joint again... Crap... I'm out of ammo!
+M200(1)<Speaker>M200</Speaker>||:The mech shambles forward, its busted leg dragging heavily behind it. +The other mechs are blocking her off. Her analytic system keeps issuing warning after warning. +Retreat! Retreat! Retreat immediately!
+M200(1)<Speaker>M200</Speaker>||:<color=#A9A9A9>Are there really no other alternatives...?</color> +<color=#A9A9A9>No, they still have 88. I've got to—</color>
+()<Speaker>OTs-14's Voice</Speaker>||<SE1>RunStep</SE1>:I see it! M200, close your eyes!
+M200(1)<Speaker>M200</Speaker>||<白屏1>:...!
+()<Speaker></Speaker>||<白屏2><BIN>98</BIN><BGM>BGM_Empty</BGM>:M200 obeys without question. +A dazzling flash lights up the inside of her eyelids. When the brightness subsides, she feels a warm hand on her shoulder.
+OTs14(0)<Speaker>OTs-14</Speaker>||<BGM>BGM_Sunshine</BGM>:Are you okay, M200?
+M200(1)<Speaker>M200</Speaker>;OTs14(0)||:I'm fine... QBU-88...
+M200(1);QBU88(1)<Speaker>QBU-88</Speaker>||:I...fuh...duh...
+M200(1)<Speaker>M200</Speaker>;QBU88(1)||:Some of her modules must've been damaged...
+M200(1);OTs14(0)<Speaker>OTs-14</Speaker>||:You two, retreat back to base.
+M200(1)<Speaker>M200</Speaker>;OTs14(0)||:There are way too many mechs. Will our reinforcements...
+M200(1);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:We'll handle it just fine. Get her out of here.
+M200(1)<Speaker></Speaker>;M16A1BOSS(0)||:As a recent recruit, this is the first time M200 has personally met M16A1. +M16A1 is practically a living legend, and M200 decides to put her faith in her.
+M200(1)<Speaker>M200</Speaker>||:...Okay. Sorry to trouble you.
+M200(1)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:M200 hoists QBU-88 onto her back and starts making her way back to base, leaving OTs-14 and M16 to deal with the situation.
+M200(1)<Speaker>M200</Speaker>||<BGM>BGM_Sad</BGM>:<color=#A9A9A9>Fighting... There's no end to it.</color> +<color=#A9A9A9>I have to rely on others just to protect the friend that came with me... Do I have no value at all apart from fighting?</color>
+M200(1)<Speaker></Speaker>||:The gunfire coming from behind fades into the distance, and M200 gradually slows her pace. +With QBU-88 on her back, she takes in this desolate battlefield dejectedly. +Then all of a sudden, she catches sight of a dash of vivid blue. +Right by the road not far from the battlefield is a bush full of blue roses.
+M200(1)<Speaker>M200</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:A blue...miracle. +If I had run away just now, this place would've been destroyed... +... +Thank goodness.
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN>:... +A few days later, on the day of the party.
+M200(0)<Speaker>M200</Speaker>||<BGM>BGM_Hello</BGM>:There, the editing is done. I have no idea why a simple party requires such a formal opening, but this kind of production value should be adequate! +... +<color=#A9A9A9>I haven't seen 88 ever since we came back days ago... I wonder how she's doing.</color>
+M200(0)<Speaker></Speaker>||:M200 sits in silence for a while before finally closing her editing software.
+M200(0)<Speaker>M200</Speaker>||:<color=#A9A9A9>She's probably at the venue by now. Those Chinese Dolls all love lively occasions and are team players... Or she wouldn't have bothered offering her help to a casual acquaintance like me.</color> +<color=#A9A9A9>...Should I go to the party after all? I already participated as a photographer, right?</color> +<color=#A9A9A9>I really want to tell her the conclusion I've come to after days of thinking...</color>
+M200(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Incoming transmission request.</color>
+M200(0)<Speaker>M200</Speaker>||:Hm? +Hello, M200 speaking.
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>M200, come to the banquet with me!</color>
+()<Speaker>M200</Speaker>||:..."Banquet"?
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>I've sewn a dress for you. Try it on!</color>
+()<Speaker>M200</Speaker>||:But...
+()<Speaker>QBU-88</Speaker>||<SE1>AVG_doorknock_wood</SE1>:<color=#00CCFF>I'm outside your door already. Open up!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:This unexpected turn of events leaves M200 totally disoriented. +She opens the door, and QBU-88 comes rushing in with a dress.
+QBU88(6)<Speaker>QBU-88</Speaker>||:Try it! I made it just for you.
+M200(0)<Speaker>M200</Speaker>||<黑点1>:Oh... Uh... Okay.
+M200(3)<Speaker>M200</Speaker>||:What do you think? +I personally think it suits me.
+QBU88(6)<Speaker>QBU-88</Speaker>||:Eh, it'll do.
+M200(3)<Speaker>M200</Speaker>||:"Eh"? You're not happy with it?
+QBU88(6)<Speaker>QBU-88</Speaker>||:I was just being modest. What I mean is, "Yes, it's perfect!" +It's decided, then. You'd better come tonight.
+()<Speaker></Speaker>||:With that, QBU-88 takes her leave. +M200 stares at her reflection in the mirror and fiddles with her skirts bashfully.
+M200(3)<Speaker>M200</Speaker>||<黑屏1>:Oh... I forgot to tell her... But I'll have the chance tonight. +I'll include it as the opening dedication in my documentary... Uh, maybe I'll edit it right now.
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:...
+()<Speaker>M200</Speaker>||<黑屏1>:This short film is dedicated to all my comrades-in-arms and a special friend. +War isn't just about destruction; there is meaning to our fight. +We will put an end to strife, so that new flowers will bloom in the ruins... +Real peace will be upon us some day, but for now, let us raise a glass to this brief moment of respite!

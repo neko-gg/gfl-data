@@ -1,0 +1,15 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Hello</BGM>:...At the Griffin base. +In the command room.
+()<Speaker></Speaker>||:As I enter the command room, Kalina also jogs in with a stack of documents in her arms.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:There you are, Commander. I was just about to inform you of a new mission.
+NPC-Kalin(1)<Speaker>Commander</Speaker>||:Huh? A new mission... I hope 16Lab isn't asking us to train against some scary enemies again...
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Nope, it's a mission to take care of the remaining enemies.
+NPC-Kalin(3)<Speaker>Commander</Speaker>||:You mean Sangvis Ferri?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Bingo! But not just them – there are also some Military and Paradeus remnants. +We've already scouted a few of their current footholds, and we can catch them all with Griffin's newly acquired technology!
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Hmm, catch them all, huh... Wait, what? You mean we now have the means to capture Sangvis units?
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Heheh, didn't see that coming, did you? This is the fruits of everyone's labor!
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Still, once we snatch these enemy units, do we just keep them in the base? Won't they riot or something?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Heheh, don't you worry about that, we've made all the necessary arrangements! +A new facility has been built in the base. It's called the Protocol Control Center, and the staff is already in position.
+NPC-Kalin(0)<Speaker>Commander</Speaker>||:Now that you mention it, I did notice the construction work that's been going on a while ago... +Alright then, so this is our new mission, yeah? Let's go check it out.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||<黑点1>:Yep, time to commence our capture operation! +Lead Griffin and show these lost lambs to the light, Commander!
+()||<黑点2><BIN>10</BIN>:

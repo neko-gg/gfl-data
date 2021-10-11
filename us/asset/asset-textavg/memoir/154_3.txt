@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+m500(0)<Speaker>M500</Speaker>||<BGM>BGM_Room</BGM><BIN>99</BIN><黑屏2>:(Groans) This is bad.
+NPC-Soldier(0)<Speaker>Soldier A</Speaker>||:Hold it right there!
+m500(0)<Speaker>M500</Speaker>||:It's not like I can stop here, can I?!
+()||<SE1>AVG_rifle_finalshot_n</SE1>:Bang!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awoo!
+NPC-Soldier(0)<Speaker>Soldier A</Speaker>||:Ow ow ow... Let go of me, you mangy mutt!
+m500(0)<Speaker>M500</Speaker>||:Well done, buddy!
+()||<SE1>AVG_pistol_finalshot_n</SE1>:Bang!
+m500(0)<Speaker>M500</Speaker>||:(Pants heavily) + Let's go, we need to get out of here ASAP. That gunshot is going to draw more people.
+m500Mod(3)<Speaker>Dowel</Speaker>||:Grrrr...
+m500(0)<Speaker>M500</Speaker>||:Oh, don't menace the corpse. +That was close... They'd have scrapped me if it hadn't been for you. +Well done!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf!
+m500(0)<Speaker>M500</Speaker>||<黑屏1>:You have really come a long way since back then!
+()||<BGM>BGM_Empty</BGM><BIN>73</BIN><黑屏2>:In the Griffin base.
+m500(0)<Speaker>M500</Speaker>||<BGM>BGM_Hello</BGM>:Jump, Dowel! Jump!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awooooo...
+M590(0)<Speaker>M590</Speaker>||:Maybe you're pushing him too hard? This obstacle is too high.
+m500(0)<Speaker>M500</Speaker>||:But if even this is too much for him, we won't be able to join the competition.
+M590(0)<Speaker>M590</Speaker>||:Personally, I think Dowel is pretty gifted... Did you see how high he jumped just now? +Not long ago, he was just a bag of bones on the verge of starving to death.
+m500(0)<Speaker>M500</Speaker>||:Hmm... I guess I was too hard on you, huh...
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awoo!
+m500(0)<Speaker>M500</Speaker>||:Alright! Time for a break!
+M590(0)<Speaker>M590</Speaker>||:The standards are high, but your teaching method is so lax... +Are you serious about training him?
+m500(0)<Speaker>M500</Speaker>||:It's alright, it's alright... You don't need to push yourself too hard, Dowel.
+M590(0)<Speaker>M590</Speaker>||:Say... +Don't tell me you just want Dowel to make up numbers? +As in, you'll handle the competition by yourself once he qualifies for it?
+()||:M500, who has bent down to pat Dowel, flinches very unnaturally.
+m500(0)<Speaker>M500</Speaker>||:J-jeez... You're such a kidder, 590...
+M590(0)<Speaker>M590</Speaker>||:I'm right, aren't I?
+()||:M590 questions M500 in a slightly baleful tone.
+m500(0)<Speaker>M500</Speaker>||:I'm sorry...
+M590(0)<Speaker>M590</Speaker>||:Goodness... You're the one taking part in the competition, and I'm also an amateur at this.+So I'm not really in any position to lecture you.+But I think what you're doing is very unfair to Dowel, 500.
+m500(0)<Speaker>M500</Speaker>||:It'll be fine, Dowel's just small for now.+Besides, I don't actually expect him to make himself useful; all he has to do is tag along while I win the championship!+That way Dowel will be happy too! Am I right, Dowel?
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awoo...
+M590(0)<Speaker>M590</Speaker>||:You... +...I'll admit, you're a more capable hunter than I am.+But even an amateur like me knows that all rules exist for a reason. +For instance, looking down on the opposition might come back to bite you in the ass later on.
+m500(0)<Speaker>M500</Speaker>||:No, it won't! I'm really good at this!
+M590(0)<Speaker>M590</Speaker>||:Honestly...you're not listening at all.+Still, that's just the way you are.
+PDW(0)<Speaker>Honey Badger</Speaker>||:Oh, looks like the training is going well.
+M590(0)<Speaker>M590</Speaker>||:Ah, Miss Honey Badger.
+PDW(0)<Speaker>Honey Badger</Speaker>||:I've come to see how things are going. After all, M500 is a pretty popular contestant among us.+Is that military dog your partner?+He looks a little skinny, but there's a lot of spirit in his eyes.+Isn't that right, Pett?
+M590(0)<Speaker>M590</Speaker>||:Well, you call him a military dog...but he's just the stray you saw last time.
+PDW(0)<Speaker>Honey Badger</Speaker>||:Ehhhh? Seriously? He looks completely different!
+M590(0)<Speaker>M590</Speaker>||:Does he look so different to you?
+PDW(0)<Speaker>Honey Badger</Speaker>||:Maybe you've been watching as he grew every day, that's why you don't notice the change. +To me, he looks like a completely different dog.
+M590(0)<Speaker>M590</Speaker>||:Hm... It seems you've been working harder than I imagined, Dowel.
+PDW(0)<Speaker>Honey Badger</Speaker>||:That said, Pett and I won't lose.+It's plain to see there's no coordination between M500 and her partner.+If a hunter and her hound don't work as one, their prey is going to run circles around them.
+M590(0)<Speaker>M590</Speaker>||:So even a pro like you agrees, huh? +500 isn't the least bit serious about making Dowel her partner. She's planning to win by herself.+Don't you think she's taking the whole thing too lightly?
+PDW(0)<Speaker>Honey Badger</Speaker>||:Absolutely.+As I've said before, she might be a pro, but she's merely working off her hunter's instincts...+Let's put it another way - imagine M500 were on the battlefield and she said, "I don't need M590 or the Commander, I can handle the mission all by myself."+What would you think, Miss M590?
+PDW(0)<Speaker>Honey Badger</Speaker>||:She'll understand once she starts struggling during the competition.+Being a hunter is a lot more difficult than she thinks.
+M590(0)<Speaker>M590</Speaker>||:Do you want to see her struggle that badly, Miss Honey Badger?
+PDW(0)<Speaker>Honey Badger</Speaker>||:No, that's not what I meant, so don't get all serious on me! Honestly, you dote on her too much.+I'm just saying that it would do her good if she could see her shortcomings during training.+Also...
+m500(0)<Speaker>M500</Speaker>||:Dowel! Arf!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf!
+PDW(0)<Speaker>Honey Badger</Speaker>||<黑屏1>:...I might sound like a big shot, but even I have to admit...+M500 is the greatest hunter I've ever seen.+Which is precisely why...I must put in everything I have.+And I'll think of a way to make her even better too.

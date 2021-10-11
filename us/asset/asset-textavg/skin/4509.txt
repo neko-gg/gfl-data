@@ -1,0 +1,133 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:Are you sure you're not attending the ball? +It's a rare opportunity to leave your work behind and experience something new.
+DP12(0)<Speaker>DP-12</Speaker><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They really can't spare me at Logistics. Besides, your evening dresses have already been made. It's too late for me to start preparing for it.</color> +<color=#00CCFF>Oh right, your dress has just arrived. I've put it in your room. Remember to try it on when you have time.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Hm. +Are you sure...that's my size? +I can't possibly fit in that.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Did you send the wrong measurements?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I couldn't have. I sent them my default factory specs. +I wonder if there's still time for alterations. 
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>The ball is in two days, right?</color> +<color=#00CCFF>I think the Commander ordered all the fabric in bulk.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Yes, I also heard that QBU-88 had just enough to finish all the dresses, so she probably can't make another one for me... +What should I do? I really can't fit into that dress, but everyone will be in formal dress that day...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Is there any other way?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I don't have another evening dress. I doubt anyone else would have one lying around either. +I would be a party pooper for showing up in my usual clothes, wouldn't I?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Don't you have a smaller body in the depot?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I do, but I've switched back to my old body because that size wasn't practical for the recent battles.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Maybe give that a go? It could come in useful now.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I suppose that's the only possible solution.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Don't worry, I'm sure it'll work out.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Huh?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:<color=#00CCFF>Nothing. Just try on the dress with that body. I'll wait for your good news.</color>
+KSVK(9)<Speaker>KSVK</Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:It's a perfect fit. +Could this be divine grace? So God does listen to prayers every now and then.
+KSVK(9)<Speaker></Speaker>||<BGM>BGM_Room</BGM>:She closes the door of the depot carefully, then she hears a set of footsteps coming her way.
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:Who's there?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Huh...?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:Uh, since the alarm didn't go off, you must have been granted clearance.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>AR-15 can't tell it's me?</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:You look familiar.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Do I?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:You remind me of KSVK...
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:...That's only natural.
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:Are you from the same line? +Like a sister model?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:...May I ask who you are, Miss?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:I'm ST AR-15, a colleague of KSVK's. Are you looking for her?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Yes, please. I've never been here before, so I don't really know the way. +<color=#A9A9A9>I'm somehow enjoying this!</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:No problem. +Follow me to the reception room. This is the depot.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Thanks. +<color=#A9A9A9>She's so friendly! I didn't know there's such a side to AR-15. She never shows it...</color>
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:I'm going to call KSVK.
+AR15(3);KSVK(9)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:...Beep beep beep... +KSVK's communicator comes alive.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:...
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||<SE1>AVG_tele_disconnect</SE1>:... +Sister? +Ha.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:The photo studio is ready. Have you tried having your pictures taken?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:Don't change the subject.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Hm? I've placed a lot of props and decorated the space. It's perfect for taking artistic portraits. +I've even asked M200 for help. She's quite skilled in photography and is really good at taking extremely flattering photos without too much embellishment.
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:How does she do that?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:Probably something to do with the lenses, lighting, and presets. +Interested?
+AR15(3)<Speaker>ST AR-15</Speaker>;KSVK(9)||:I'll ask SOP-II and the others.
+KSVK(9)<Speaker></Speaker>||:ST AR-15 turns and leaves.
+KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:Portraiture will never fail to appeal to women. From charcoal sketches to photographs, the captured visage becomes eternal. +It's been quite a refreshing experience to prank people. +Do I usually give off an air of austerity that makes others difficult to relax around me? Now I'm curious... +This will probably make somebody upset, but I still want to go ahead and do it. +Ha, is that an evil thought? Interesting.
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:The lights in the banquet hall make the space as bright as day. +Music swirls through the air like a spring breeze.
+M200(3)<Speaker>M200</Speaker>||:K...SVK? When did you get a new body?
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:Oh, I was hoping I could fool you, but you saw right through me.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:I could see your signal ID when we talked. +Since my correspondence was KSVK, you're still KSVK even though you're in a different body.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:Huh, looks like I'll have to mask my signal. +Way to go, M200.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:...It's nothing worth mentioning. +So who are you trying to trick?
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:Nobody in particular. +Aren't you going to stop me?
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:Huh? I don't see the harm as long as you don't go overboard.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:Well...
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:Though someone will probably get angry.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:I derive joy from playing a trick while the victim experience exasperation. It's all about equivalent exchange. +I'll make sure to apologize afterwards.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:Good.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:But may I ask you for a favor?
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:Uh, sure. +You're still talking about taking pictures, right? I have my camera set up.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:Yes, but I'd like you to take a few extra ones for me, especially during my prank.
+M200(3)<Speaker>M200</Speaker>||<黑屏1>:I'll do my best.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:The bar is a great place for Dolls to mingle. +That also makes it the perfect place for a prank.
+KSVK(9)<Speaker>KSVK</Speaker>||:May I have a Rose in the Snow?
+KSVK(9)<Speaker>Bartender</Speaker>||:Of course. Any other special request?
+KSVK(9)<Speaker>KSVK</Speaker>||:No, just mix it your way. +A cocktail with such a name is bound to taste delightful.
+KSVK(9)<Speaker>???</Speaker><同时置暗>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:That voice? Are you new around here?
+Saiga12(2)<Speaker></Speaker>||:A Doll in a pure white dress walks up to her. +It's Saiga-12.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:H...Hello! Huh? What a beauty! And you look kinda familiar...
+KSVK(9)<Speaker>KSVK</Speaker>||:Me? +<color=#A9A9A9>She hasn't figured it out yet...</color>
+()<Speaker></Speaker>||<BIN>9</BIN>:The lights suddenly go out with a snap.
+()<Speaker>KSVK</Speaker>||:Ah! +<color=#A9A9A9>The others are probably getting ready for the first dance.</color>
+()<Speaker>Saiga-12</Speaker>||:Don't worry! This is part of the program. The dancing is going to start soon, so they're turning off the bright lights.
+()<Speaker>KSVK</Speaker>||:I see... Thanks.
+()<Speaker>Saiga-12</Speaker>||:Don't mention it. Say, have I seen you somewhere before?
+()<Speaker>KSVK</Speaker>||:I look like KSVK, don't I? She's my elder sister, so of course we resemble each other.
+()<Speaker>Saiga-12</Speaker>||:Huh?! Then...why did she leave you here all by yourself?
+()<Speaker>KSVK</Speaker>||:She's busy with work today so she gave the invitation to me. +You can just call me Dushevnaya.
+()<Speaker>Saiga-12</Speaker>||:Dushevnaya... What a pretty name.
+()<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>She fell for it so easily... Generally speaking, the more gullible a victim is, the angrier she will be when she finds out she's been tricked. How should I apologize afterwards?</color> +<color=#A9A9A9>Eh, I'll worry about that later.</color>
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:A mellow song starts playing, and the hall is once again illuminated.
+()<Speaker>Bartender</Speaker>||:Miss, here's your drink.
+KSVK(9)<Speaker>KSVK</Speaker>||:Thank you.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Aren't you going to dance?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:I'm sorry, but I don't dance.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Not dancing at a ball? Isn't that a shame?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:Some flowers stubbornly refuse to bloom even in spring. +Dancing isn't obligatory at every ball.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Some flowers do bloom in winter. +But if you don't give it a try, how do you know if you'll enjoy it?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:...Do you treat everyone with the same enthusiasm?
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Certainly not! +I...I'm your sister's colleague, so it's only right for me to look after you. +I'm not forcing you to dance just because everybody's dancing. I'm inviting you to dance simply because it's fun.
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:...To be completely honest, I don't know how to dance, not even the most basic round dance.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:I can teach you! +Round dance is one of the easiest dances to learn.
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:Is it really that easy? I saw some Dolls practicing it in a rehearsal room.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:It IS that easy. Just imagine yourself as a rose chasing after the moon and searching for moonlight in the wind. +When your dress swishes with you, you look just like a rose. +You'll truly be a Rose in the Snow.
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>What an interesting metaphor.</color> +<color=#A9A9A9>I know she is definitely going to be furious when she finds out, but I'm having too much fun to stop.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>82</BIN>:DP-12 puts down the supplies that she's been organizing and smiles at KSVK.
+DP12(0)<Speaker>DP-12</Speaker>||:What happened then?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||<BGM>m_avg_casual</BGM>:Then I went back to the banquet.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Do you like Saiga?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Huh? What makes you say that?
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:She invited you to dance. Just the two of you, outside. +You actually agreed...and you were raring to go. +If Zas hadn't exposed you...she would probably have stayed in the dark the whole night.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Well, with my new identity, I just had to try something new.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:That doesn't sound like you at all. +Your neural cloud seems to have changed along with your body.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...The physical change has probably brought out a hidden side in me. +I've never played any tricks before, and I certainly didn't know pranking people can be so much fun.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:Harmless pranks are the spice of life.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:You're exactly right, which is why I invited her to afternoon tea.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||<黑屏1>:Hm? That's an interesting turn of events. +But it's heartening to see you making new friends, Dushevnaya.
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:A hot cup of earl grey with cheesecake. What could be more relaxing than a nice afternoon tea?
+KSVK(0)<Speaker>KSVK</Speaker>||:You aren't angry at all?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:I can't possibly be angry with you.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Why?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Because it's you, KSVK. You're cute no matter what you do.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Cute? That's one word I never thought would ever be used to describe me. How unusual.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Huh, but you ARE cute. I just don't want you to dislike me.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Why would I? +<color=#A9A9A9>I actually think a Doll who doesn't get angry even after being pranked is even cuter. Even I would've lost my temper.</color>
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Then...can I lend you something very precious to me?
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:A photo magazine?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:That's right! This is my absolute favorite, and I'm only showing it to you. +Not even the Commander has seen this one...
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Why is this such a big deal to you?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Ha, looking at pretty girls together with a pretty girl – that's delightfully intimate, don't you think?
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:So we grow closer by doing that, and then we become friends?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Well, since I'm lending it to you, you're gonna have to return it... +That way we'll get to see each other again...
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Pffft, you don't have to make it so complicated. +Let's get together again next weekend.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Oh, that's awesome! +You didn't take the magazine, but somehow it feels like I've got myself a better deal!
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I was too uptight. +Being friendly isn't embarrassing at all – it's actually very endearing!
+Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:So we have an agreement on pretty girls?
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1>:Yeah, I guess you can say that.
+DP12(0)<Speaker>DP-12</Speaker><通讯框>||<黑屏2><BIN>82</BIN>:Back in the dorm, DP-12 calls KSVK again.
+DP12(0)<Speaker>DP-12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How did it go?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:It was fun, but I turned down a weird photo magazine.
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Sounds like you had a nice date.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Come to think of it, why would they make the dress to the wrong measurements? +And why did the dress fit a body that just so happens to be lying around? Helena... Don't tell me...
+DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>My, my, the ball was so long ago, why are you still thinking about that?</color> +<color=#00CCFF>By the way, M200 has sent over the photos.</color>
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:Oh, I'm going to back them up. +It was my one and only prank, but...I had so much fun!

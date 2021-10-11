@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+PDW(0)<Speaker>Honey Badger</Speaker>||<BGM>BGM_Room</BGM><BIN>7</BIN><黑屏2>:Got it! Well done, Pett!
+m500(0)<Speaker>M500</Speaker>||:Uwaaaaah! She pulled ahead again! What's going on!
+PDW(0)<Speaker>Honey Badger</Speaker>||:How many times have I told you... Don't just rely on yourself.+You'll never be a good hunter if you can't even trust your partner!
+m500(0)<Speaker>M500</Speaker>||:Dammit... +At this rate, she'll leave us in the dust!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awoo...
+()||:In the intense battle between M500 and Honey Badger, in stark contrast to the seamless coordination displayed by Honey Badger and Pett... +Dowel is having a hard time just keeping up with M500.
+m500(0)<Speaker>M500</Speaker>||:I need to think of something...
+()||:M500 has the highest qualifications to be a hunter.+Her sense of smell, her agility, her patience, all of them are on the level of a top-class hunter.
+m500(0)<Speaker>M500</Speaker>||:It can't be helped!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf! Arf!
+PDW(0)<Speaker>Honey Badger</Speaker>||:W-wait a minute! That's too far in! You can't go in there!
+m500(0)<Speaker>M500</Speaker>||:But that's where the big prey are—
+PDW(0)<Speaker>Honey Badger</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Heyyy—
+()||<SE1>AVG_wind_grass</SE1><BIN>99</BIN><睁眼>:...
+()<Speaker>???</Speaker>||<BGM>BGM_Battle</BGM>:Awoo...
+m500(1)<Speaker>M500</Speaker>||:Ugh.. Oh...I must have passed out...
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf!
+m500(1)<Speaker>M500</Speaker>||:Ah... I was dreaming about the past.
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf, arf!
+m500(1)<Speaker>M500</Speaker>||:Sorry...lend me a hand...+Ugh!
+()||:M500 rises shakily to her feet from behind a log and carefully peers towards the other side.+Masking her presence from the alert senses of her prey is a basic skill for a hunter.+She watches the armored troopers, who are still trying to locate her, and silently counts them.
+m500(1)<Speaker>M500</Speaker>||:Five...six...+There's seven more of them...
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf!
+m500(1)<Speaker>M500</Speaker>||:Shh.
+()||:M500 tenderly pats her beloved hound on the head.
+m500(1)<Speaker>M500</Speaker>||:Comms are down, I can't contact the others...+I wonder if 590 managed to retreat...
+()||:Her ammunition is almost depleted and her body is in bad shape.+As a member of the covering party, M500's job is to make sure the other team members manage to successfully evacuate.+But at this point, she's having a hard time just keeping herself safe.
+m500(1)<Speaker>M500</Speaker>||:Listen to me, Dowel.
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf?
+m500(1)<Speaker>M500</Speaker>||:I don't think I'll be able to make it back... I'm going to think of a way to take care of the seven of them.+You need to run back, got it?
+m500Mod(3)<Speaker>Dowel</Speaker>||:Arf—!
+m500(1)<Speaker>M500</Speaker>||:Listen!
+()||:M500 takes a deep breath.
+m500(1)<Speaker>M500</Speaker>||:Before the battle started...our neural clouds were all backed up with Miss Dandelion, so it doesn't matter if I die here.+But you're not the same, Dowel. If you die... +I'll be without a partner forever.
+m500Mod(3)<Speaker>Dowel</Speaker>||:Awoo...
+m500(1)<Speaker>M500</Speaker>||:...Do you remember that hunting competition?+I went too far in and ended up falling into a crevasse.+The Commander couldn't find me, and if you hadn't brought the others along, I'd have been doomed for sure.
+m500Mod(3)<Speaker>Dowel</Speaker>||:Au?
+m500(1)<Speaker>M500</Speaker>||:You are a precious friend.
+()||:M500 hugs Dowel, now a mighty military dog, and breaks into a smile
+m500(1)<Speaker>M500</Speaker>||:...So when you go back and see "me", make sure you tell her everything we did on the battlefield.
+m500Mod(3)<Speaker>Dowel</Speaker>||:...Arf!
+()||:Dowel licks the dust off M500's face, his tail sweeping the ground.+He runs two circles around M500 and rubs up against M500's legs.+He simply refuses to leave.
+m500(1)<Speaker>M500</Speaker>||:...
+()||<SE1>AVG_weapon_reload</SE1>:M500 cocks her weapon. Then with her back pressed against her cover, she sits down.
+m500(1)<Speaker>M500</Speaker>||:Go! NOW!
+m500Mod(3)<Speaker>Dowel</Speaker>||:Oo...au!
+()||:M500's anger makes Dowel flinch. He shakes his head as he looks at his mistress.+In the end, he reluctantly turns away and runs to the other end of the battlefield.
+m500(1)<Speaker>M500</Speaker>||:...Only a hunter who knows works as one with their partner can be considered a good hunter.+The way you've scattered yourselves makes you nothing but prey.
+()||:—And a good hunter will always trust her partner.
+m500(1)<Speaker>M500</Speaker>||:Commander, Dowel, 590, we're going to win!
+()||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM><黑屏1>:Bang—!
+()||<BIN>9</BIN><黑屏2>:... +...
+()<Speaker>Dowel</Speaker>||<黑屏1>:Arf!
+()<Speaker>Dowel</Speaker>||<BGM>BGM_Hello</BGM><BIN>82</BIN><黑屏2>:Arf! Arf!
+M590(0)<Speaker>M590</Speaker>||:Dowel? Dowel?+Now where did he run off to...
+()<Speaker>M500</Speaker>||:Quit licking my face— It's really ticklish! Hahahaha—!
+M590(0)<Speaker>M590</Speaker>||<黑点1>:...Ah, there you are.
+M590(0)<Speaker>M590</Speaker>||<黑点2>:So that's where you've been hiding.+I couldn't find you at the training ground, I was wondering what happened to you.
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:Heh, we went a bit too far. Sorry, 590.+I haven't had so much fun in a while.
+m500Mod(1)<Speaker>Dowel</Speaker><Position>0,250</Position><Position>0,250</Position>||:Arf! Awoooo!
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:There, good boy, goooood boy.+You're all grown up now.
+M590(0)<Speaker>M590</Speaker>||:And he's become very close to you.
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:That's hardly surprising. +We're partners, after all.+Am I right, Dowel?!
+m500Mod(1)<Speaker>Dowel</Speaker><Position>0,250</Position>||:Awooo!
+M590(0)<Speaker>M590</Speaker>||:He's all grown up, huh...+That's true.+And it isn't just Dowel, you've grown a lot too, 500.
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:Of course!+There's no prey we can't catch as long as we're together—+We're the best team, after all!
+m500Mod(1)<Speaker>Dowel</Speaker><Position>0,250</Position>||:Au!
+m500Mod(1)<Speaker>M500</Speaker><Position>0,250</Position>||:Right, let's go, Dowel! Let's go practice again!+This time, we'll win for sure!
+M590(0)<Speaker>M590</Speaker>||:Wait, wait a minute...+Ah...she's gone.
+M590(0)<Speaker>M590</Speaker>||:She's always running around and making a fuss like that.+Though it's not a bad thing, right...?+(Sighs) Forget it, then.+In any case, it's good to see 500 being her usual self.+It makes you feel like everything's going back to normal.+Isn't that right, Dowel?
+m500Mod(3)<Speaker>Dowel</Speaker>||<黑屏1>:Awooooooo—

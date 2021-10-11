@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:In the Griffin base.
+OTs14(0)<Speaker>OTs-14</Speaker>||:The Commander is absent today, so I'll be assisting Miss Kalina in chairing the regular meeting. 
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Yay!
+OTs14(0)<Speaker>OTs-14</Speaker>||:First of all, let's follow up on the progress of our latest assignments. +Since we haven't been assigned any combat duties, we will only be covering the tasks pertaining to the daily operations of the base. We'll start with me.
+OTs14(0)<Speaker></Speaker>||:Groza begins her succinct report. She has every single task committed to memory and has no need for any notes, which enables her to observe all the attendees of the meeting.
+OTs14(0)<Speaker>OTs-14</Speaker>||:Regarding the upcoming security mission, we need several T-Dolls with experience in corporate security to oversee...
+()<Speaker></Speaker>||:All members of the AR Team are listening intently. M200 is also making notes.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:As for the recent budget overrun in the Logistics Department, after some discussion with Miss Springfield, we are now proposing the following solutions... 
+()<Speaker></Speaker>||:KSVK, QBU-88, and Zas M76 read through their own notes as they listen and await their turn to make their report.
+OTs14(0)<Speaker>OTs-14</Speaker>||:Now, moving onto the duty roster...
+()<Speaker></Speaker>||:While M1911 and Saiga...
+OTs14(0)<Speaker>OTs-14</Speaker>||:M1911, do you have any questions regarding the arrangement?
+M1911(0)<Speaker>M1911</Speaker>||:I...
+OTs14(0)<Speaker>OTs-14</Speaker>||:Yes?
+M1911(0)<Speaker>M1911</Speaker>||<震屏>:I CAN'T TAKE IT ANYMORE!!!!!
+()<Speaker></Speaker>||:All the T-Dolls jump in unison and exchange glances with each other.
+M1911(0)<Speaker>M1911</Speaker>||:Overtime! Overtime! Overtime! +We've all been working overtime these days! I may as well be working for a logistics company! +The slumber party got canceled! So did the team-building trip! Even the eating contest fell through! +We've had no entertainment AT ALL! How are we supposed to keep going like this?!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Uh... But isn't it a good thing that there hasn't been any fighting...?
+M1911(0)<Speaker>M1911</Speaker>||:Things are so damn peaceful! If we don't get any events or activities, I'ma dismantle my own neural cloud right here!!!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Calm down!!!
+M1911(0)<Speaker></Speaker>||:M1911 suddenly feels a jerk. She looks to her side and sees Saiga-12, her features stern and her back rim-rod straight. +Saiga-12 smiles at M1911 and gives her hand a light squeeze.
+M1911(0)<Speaker>M1911</Speaker>||:...
+OTs14(0)<Speaker>OTs-14</Speaker>||:I understand your desire to express your dissatisfaction. +However, such inattentiveness and raucous behavior at a meeting is unacceptable. +It shall not happen again.
+M1911(0)<Speaker>M1911</Speaker>||:...What a drag.
+()<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:M1911 sits down again. +After the commotion, the meeting resumes in an orderly manner and finally comes to an end.
+()<Speaker></Speaker>||<黑点2><BGM>m_avg_casual</BGM>:Two minutes later, Saiga-12 appears outside the meeting room.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:Saiga-12 here.
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Enter. Do you know why I have summoned you?
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:No, I do not.
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Are you sure? I'm giving you one more chance.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:Uh... Because I was gaming on my neural cloud during the meeting.
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:You're an elite, so I did not expose you in front of the others. Now it's time you returned the favor.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:You mean...
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:I do understand everyone's frustrations. +The recent conflict has subsided so we've only been doing inconsequential chores such as cleaning up the battlefield. It does feel rather tedious.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:That's certainly true.
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:I'm planning to throw a party, and I want you to help me organize it.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:Oh... I knew it. +A party, eh? Then we'll need food, beverages, and some good old fun. We must prepare a wide variety of food so that everyone will find something they like...
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:And to prevent any disputes caused by different feeding habits.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:<Size=25>Feeding habits? Is she talking about wildlife...?</Size>
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:I heard that. I was just making a generalization. Don't think too much of it.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:Right, so we need different areas for different foods. We should also come up with a list of rules – no littering, store all leftovers properly in one place...
+Saiga12(0);OTs14(0)<Speaker>OTs-14</Speaker>||:We do need rules. +Also, there should be a complete rundown for the party. I'll gather the others later and we'll handle the rest.
+Saiga12(0)<Speaker>Saiga-12</Speaker>;OTs14(0)||:You're getting everyone involved?
+OTs14(0)<Speaker>OTs-14</Speaker>||:Otherwise what would be the point?
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:The two Dolls lay the groundwork for the party-planning and proceed to send out the event's rough rundown and guidelines.
+()<Speaker>OTs-14</Speaker>||<BIN>72</BIN><黑屏2><BGM>GF_20HW_Scene_BPM82_loop</BGM>:I am planning to organize a party, and this is the rough rundown for the event. +Would anybody like to help? All organizers will receive a special souvenir after the party.
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>A present? Count me in! I can handle all kinds of tasks!</color>
+()<Speaker>Zas M76</Speaker>||:<color=#00CCFF>I can take charge of planning the rundown in more detail.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>What a nice way of celebrating peace. Count me in too.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Then I'm in as well!</color>
+()<Speaker></Speaker>||:... +Quite a few Dolls stationed at the base have answered the call. +Under Groza's guidance, a basic framework is soon established and the Dolls all get to work.
+()<Speaker>M200</Speaker>||:<color=#00CCFF>A date has already been set for the party?</color> +<color=#00CCFF>Sorry, it clashes with one of my assignments... I hope you all have fun.</color>
+()<Speaker></Speaker>||:Groza gazes at M200's text for a while, then she opens a chat window with QBU-88.
+()<Speaker>OTs-14</Speaker>||:QBU-88, are you there? +I would like to ask you for a favor.
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>I'm free, what can I do for you? Is this about the party décor?</color>
+()<Speaker>OTs-14</Speaker>||:No. M200 doesn't seem like her usual self today. Could you please talk to her and see if everything is alright?
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>But I don't know her too well... Is that okay?</color>
+()<Speaker>OTs-14</Speaker>||:Appearance-wise, you two look similar in age. You also strike me as someone who values teamwork, which makes you the perfect candidate for handling this.
+()<Speaker>QBU-88</Speaker>||:<color=#00CCFF>Well, you have a point...</color> +<color=#00CCFF>Then I'll give it a shot. A party is only good if everyone joins in on the fun.</color>
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>Call ended.</color>
+OTs14(0)<Speaker>OTs-14</Speaker>||<黑屏2><BIN>82</BIN>:The next step would be to go into more detailed planning... +I'll have to make a report when the Commander returns. I'll also need to fill Miss Kalina in... There is still a lot to be done.
+()<Speaker></Speaker>||<黑屏1>:Groza puts down her pen and decides to have a look at the party venue.
+()<Speaker></Speaker>||<BIN>138</BIN><黑屏2>:A lot of Dolls have already gathered on site. M1911 and Zas M76 are discussing their plans while KSVK is sectioning the area next to the main aisle, probably to set up something. +Groza takes a walk around and starts consulting the others about the details. 
+RO635(0)<Speaker>RO635</Speaker>||:...Then we have the final version of the entry guidelines.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:It's already gone dark before we knew it... Let's call it a day.
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Sure. Thanks for the hard work. I'll see you tomorrow.
+RO635(0)<Speaker>RO635</Speaker>;OTs14(0)||:See you.
+OTs14(0)<Speaker>OTs-14</Speaker>||:Aren't you going back to the dorm, M16?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:I've gotten used to taking the night shift. If nobody keeps an eye on this place, something will go wrong.
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:How diligent of you.
+OTs14(0)<Speaker></Speaker>||:<color=#00CCFF>Incoming transmission request.</color>
+OTs14(0)<Speaker>OTs-14</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:What is it, M200? The party...
+M200(0)<Speaker>M200</Speaker><通讯框>;OTs14(0)||<BGM>BGM_Danger</BGM><震屏>:<color=#00CCFF>Miss Groza, we need help!!!</color>
+M200(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Calm down, M200. What is the matter?
+M200(0);OTs14(0)<Speaker></Speaker><同时置暗>||:M16A1 tilts her head as she listens to the conversation.
+M200(0)<Speaker>M200</Speaker>;OTs14(0)||:<color=#00CCFF>We've encountered numerous abandoned mechs in Theater No. 3, some of them still have intact firing modules, and they've captured QBU-88!</color> +<color=#00CCFF>I've sent you our coordinates... Please get here ASAP! Thank you very much!</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||<SE1>AVG_tele_disconnect</SE1>:See? I told you there'd be trouble.
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Then I'll leave you to guard this place...
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:No, I'm coming too. +You need someone speedy and reliable with you to clear out the battlefield.
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||<黑屏1>:Fair enough. Then let's go!
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2><SE1>AVG_rifle_finalshot_h</SE1>:...
+QBU88(0)<Speaker>QBU-88</Speaker>||:It-it's leaving... Help! Where is it taking me?
+M200(1)<Speaker>M200</Speaker>||:I'm going to shoot its joint again... Crap... I'm out of ammo!
+OTs14(0)<Speaker>OTs-14</Speaker>||:I see it!
+()<Speaker></Speaker>||:M200 is in a bad position. A mech is limping forward on one leg while the others are blocking her off. +Groza and M16A1 exchange a glance, and the latter fishes out a flashbang.
+OTs14(0)<Speaker>OTs-14</Speaker>||:M200, close your eyes!
+M200(1)<Speaker>M200</Speaker>||<白屏1>:...!
+()<Speaker></Speaker>||<白屏2><BIN>98</BIN><BGM>BGM_Empty</BGM>:M200 obeys without question.
+OTs14(0)<Speaker>OTs-14</Speaker>||<BGM>BGM_Sunshine</BGM>:Are you okay, M200?
+M200(1)<Speaker>M200</Speaker>;OTs14(0)||:I'm fine... QBU-88...
+M200(1);QBU88(1)<Speaker>QBU-88</Speaker>||:I...fuh...duh...
+M200(1)<Speaker>M200</Speaker>||:Some of her modules must've been damaged...
+()<Speaker></Speaker>||:M16A1 gestures at Groza and gives her a look. +Thanks to her intuition as a fellow leader, Groza catches the drift immediately from M16A1's furrowed brow.
+OTs14(0)<Speaker>OTs-14</Speaker>||:You two, retreat back to base.
+M200(1)<Speaker>M200</Speaker>;OTs14(0)||:There are way too many mechs. Will our reinforcements...
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:We'll handle it just fine. Get her out of here.
+M200(1)<Speaker>M200</Speaker>;OTs14(0)||:...Okay. Sorry to trouble you.
+OTs14(0)<Speaker></Speaker>||:M200 leaves the scene with QBU-88. +Groza shifts her gaze back to the desolate battlefield.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:This will take a while...
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Can't be helped. Looks like we weren't thorough enough during the previous clean-up. +Let's notify the Commander and start searching from here.
+()<Speaker></Speaker>||:... +Dawn turns to dusk, and back to dawn again. +When the central cortex of the final mech is completely crushed, Groza straightens up with the setting sun behind her back and gestures at M16A1 that all is clear.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:This has dragged on for longer than I thought.
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Who would've thought this would take days? I didn't expect we'd have to run so far after these mechs. +Good thing we had informed the Commander before we set off, but by now...the party has probably started without us.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:Were you looking forward to the party?
+M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Sure. Everyone having fun eating, chatting, and enjoying the peace and quiet... +Doesn't that beat firing a gun?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:You're right. I hope they have booze at the party... Come. If we hurry, we might still make it before they wrap things up.
+M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||<黑屏1>:Groza nods. The two Dolls board the chopper that has come to transport them back to base.
+()<Speaker></Speaker>||<黑屏2><BIN>83</BIN><BGM>BGM_Empty</BGM>:When they arrive, they are greeted by an astonishing turn of events.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Welcome back, Groza and M16!</color> +<color=#00CCFF>The banquet is almost over, please put on the evening dresses that the Commander has prepared for you before you make your entrance~</color>
+NPC-Kalin(0);OTs14(0)<Speaker>OTs-14</Speaker>||<BGM>BGM_Hello</BGM>:"Banquet"?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;OTs14(0)||:Huh? Wasn't it your idea to organize a banquet to begin with?
+NPC-Kalin(0);OTs14(0)<Speaker>OTs-14</Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:I did receive an update from the Commander halfway through the mission, but I certainly didn't foresee that it has grown so much in scale. +But there's nothing wrong with that.
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><BGM>BGM_Empty</BGM>:By the time they're properly dressed, the banquet is already at its end. +The stereo system starts playing a relaxing piece, signifying the start of the ball. +Groza slips into the venue discreetly through the side door. She fetches a glass of champagne and silently observes the other Dolls' merrymaking by the dance floor.
+OTs14(6)<Speaker>OTs-14</Speaker>||<BGM>BGM_Moon</BGM>:Champagne, music, calm. +All I need is a dance partner and the night would be perfect.
+OTs14(6)<Speaker></Speaker>||:She mutters to herself as she shifts her gaze to the center of the dance floor. +Under the spotlight, the Commander is dancing with M16A1. +Groza smiles and continues to sip her champagne contently. +Song after song is played, different Dolls come and go on the dance floor. +At last, the ball is coming to an end.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Now, may I have everyone's attention, please? +Did you have fun tonight?
+NPC-Kalin(1)<Speaker>T-Dolls</Speaker>||:Yes!
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Then let's begin the final activity for our celebration – a photography exhibition just for tonight! +Our photographers KSVK and M200 have documented many special moments throughout this event with their camera lenses, from preparation to present! Will you be able to spot yourselves in the photos? +While you admire their work, don't forget to vote for your favorite picture~
+OTs14(6)<Speaker>OTs-14</Speaker>||:What an interesting activity they've come up with.
+OTs14(6)<Speaker></Speaker>||:Groza looks up. +All the photographs are projected onto the wall – roses on the battlefield, a bird's eye view of the ball, etc.
+OTs14(6)<Speaker>OTs-14</Speaker>||:Such... Hm? The photo that's receiving an influx of votes...
+()<Speaker></Speaker>||:A photo that's growing rapidly in size due to its popularity draws her attention. +It's a photo of her sitting by the dance floor. It shows her lightly swirling her champagne flute and smiling at something on the dance floor.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Ooooh, looks like we have two potential winners! +Now who will take first place, "Ruler of the Banquet" or "Blazer of the Trail"? +Please look forward to the result announcement!
+OTs14(6)<Speaker>OTs-14</Speaker>||:...Ha. They've really put a lot of thought into this.
+OTs14(6)<Speaker></Speaker>||:She chuckles and looks away. +The faint sense of melancholy still lingers in her heart, but it doesn't matter whose photo ends up winning tonight. +She rises to her feet and walks up to M200, who is still clutching her camera, and the rest of the Dolls.
+M200(3)<Speaker>M200</Speaker>||:Oh, Groza!
+M1911(2)<Speaker>M1911</Speaker>||:Ah, I was just looking for you! Welcome back!
+OTs14(6)<Speaker>OTs-14</Speaker>||:Yes, I'm back.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||<黑屏1>:Voting is now closed! +And the final winner is—

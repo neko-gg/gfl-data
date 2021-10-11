@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>m_avg_casual</BGM>:...In the Griffin Command Center.
+MAB38(0)<Speaker>M38</Speaker>||:Here, Commander, this is the report for our mission.
+MAB38(0)<Speaker>Commander</Speaker>||:Yes, I've finished reading it.
+MAB38(0)<Speaker>M38</Speaker>||:In that case...is there a problem? +Because you never ask to see me on my own, Commander.
+MAB38(0)<Speaker>Commander</Speaker>||:...You're right. You see, this problem has come up many times already.
+MAB38(0)<Speaker>M38</Speaker>||:M-many times...?
+MAB38(0)<Speaker>Commander</Speaker>||:Yes. During the recent on-site rescue mission...+A human told you about security work at a nearby facility and I am told that you refused him?
+MAB38(0)<Speaker>M38</Speaker>||:Yes...that's because I simply can't handle any tasks besides logistics...
+MAB38(0)<Speaker>Commander</Speaker>||:You ought to have more faith in yourself. Given your abilities, you should be fully capable of handling security missions.+Also, it'll give everyone a better impression of Griffin if you can help do extra work...+Which means we'll get more job contracts.
+MAB38(0)<Speaker>M38</Speaker>||:I'm...I'm very sorry, Commander.
+MAB38(0)<Speaker>Commander</Speaker>||:There's no need to apologize. This is just a suggestion.
+MAB38(0)<Speaker>M38</Speaker>||:No...+What I mean is... I can't...
+()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:M38 suddenly looks down.
+MAB38(0)<Speaker>M38</Speaker>||:Commander...
+()<Speaker>M38</Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:I... I... wfz@x%zZ#rW*qfGw
+()<Speaker>Commander</Speaker>||<BIN>9</BIN><黑屏2>:What's wrong, M38? +M38?! M38!
+()<Speaker>M38</Speaker>||<黑屏1>:...+<color=#A9A9A9>Later on, I heard from the others that I'd crashed right there...</color>
+()||<黑屏2><BIN>82</BIN>:...Inside the Doll dorms.
+()<Speaker>???</Speaker>||<BGM>BGM_Hello</BGM>:Ciao!+Are you alright?
+()<Speaker>M38</Speaker>||:...Miss Kalina?
+()<Speaker>???</Speaker>||:Looks like your visual modules have mistaken me for someone else.
+AR70(0)<Speaker>AR70</Speaker>||:Allow me to introduce myself.+I am AR70, and from today onwards, I'll be your—
+()||<SE1>ClothingUp</SE1>:Before AR70 can even finish, M38 is already rubbing her eyes and getting out of bed.
+MAB38(0)<Speaker>M38</Speaker>||:You're here to assess me, right...?+And if I don't make the grade, they're going to sell me off?
+()||:AR70 sighs.
+AR70(0)<Speaker>AR70</Speaker>||:You know, you look pretty reliable, so why is your neural cloud so timid?+At this rate, the assessment's not going to go well, you know.
+MAB38(0)<Speaker>M38</Speaker>||:...+Yes, it IS laughable, isn't it?+I only LOOK dependable, so if I go in for assessment...
+AR70(0)<Speaker>AR70</Speaker>||:Pfffhahaha. +Hold on a minute, I was just kidding.
+MAB38(0)<Speaker>M38</Speaker>||:Huh?
+AR70(0)<Speaker></Speaker>;MAB38(0)||:AR70 walks up to M38.
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||:It was a joke. Just. A. Joke. +Who would make someone evaluate their friend to see if they were fit for work? I'm pretty sure that sort of thing doesn't happen in Griffin.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||:Really? +Then why did they send you here? I've always been alone...
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||:That's why I'm here.+We checked your neural cloud several times after that crash of yours, but we haven't been able to identify the cause.+I've been sent over to prevent any problems from coming up on future missions.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||:...+<color=#A9A9A9>I know why I crashed...</color>+<color=#A9A9A9>But...</color>
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||:In any case, I hope we can get along in the future, M38.
+AR70(0);MAB38(0)<Speaker></Speaker>||:After a brief pause, M38 slowly lifts her head to look at AR70.
+MAB38(0)<Speaker>M38</Speaker>||:I see. I understand, and I'll place myself in your care.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Since the two of you already know each other, why don't we start you on a new mission right away?
+AR70(0)<Speaker>AR70</Speaker>;NPC-Kalin(0)||:Whoa, what are you doing here?+No, more like - why are you here to eavesdrop on us?
+AR70(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hehe, c'mon, we're all girls, so this is hardly eavesdropping, right?
+MAB38(0)<Speaker>M38</Speaker>;NPC-Kalin(0)||:I knew it - I wasn't seeing things. You were hiding in the—
+MAB38(0);NPC-Kalin(5)<Speaker>Kalina</Speaker>||:Wait a minute, let's leave that as a secret between us ladies. Don't say it out loud!
+MAB38(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Anyway, I'm here to hand out a mission - eliminating S.F. remnants from a forward observation post.+I've already sent the mission details to your data terminals.
+AR70(0)<Speaker>AR70</Speaker>;NPC-Kalin(0)||:Well, I'll let it slide, since missions come first.+Still...logistics again?
+MAB38(0)<Speaker>M38</Speaker>;NPC-Kalin(0)||:...Understood.+But where is the Commander, Miss Kalina? It's usually the Commander who issues my assignments.
+MAB38(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:The Commander's preparing for some kind of operation, so they're not free to come over for the time being.
+MAB38(0)<Speaker>M38</Speaker>;NPC-Kalin(0)||:I see. I hope I didn't give the Commander too much trouble back then.
+MAB38(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:<color=#A9A9A9>So it really IS bothering M38. I can't tell her that the Commander is wondering if they did the right thing.</color>+Well, don't worry about it. The Commander can take care of any problems which come up with one hand while sipping a cappuccino with the other.
+MAB38(0)<Speaker>M38</Speaker>;NPC-Kalin(0)||:Huh? Are they really drinking a cappuccino right now?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Well, it's our Commander we're talking about. I wouldn't be surprised.+Alright, M38 - let's get ready to move out.
+MAB38(0)<Speaker>M38</Speaker>||<黑屏1>:Understood, beginning preparations immediately.

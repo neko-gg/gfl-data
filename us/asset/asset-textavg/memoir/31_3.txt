@@ -1,0 +1,56 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>83</BIN><黑屏2><Night><BGM>BGM_Moon</BGM>:Under AR70's unrelenting questioning, M38 finally reveals her past...
+MAB38(0)<Speaker>M38</Speaker>||:Once...I used to be a civilian Doll working in the security sector. +But during my career, I'd made a lot of unforgivable mistakes...
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Hm...so that's how you ended up in Griffin?
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:Yes. I was...defective, no longer needed.+Even while I'm here, I always worry about whether I'd make mistakes again.+If I only screwed up in logistics, I probably wouldn't be sold off...+It's embarrassing, huh, running away from my responsibilities like that.
+MAB38(0);AR70(0)<Speaker></Speaker>||:Doink— + AR70 lightly thumps M38 on the head with her buttstock.
+MAB38(0)<Speaker>M38</Speaker>||:Ack!
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||<震屏>:You dummy! Haven't you changed already?
+MAB38(0)<Speaker>M38</Speaker><Shake>;AR70(0)||:(Whimpers) What did you say? I couldn't hear you 'cause I'm all dizzy.
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:<size=50>I said, haven't you changed already?!</size>
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:But I'm still trying to dodge my official assignments issued by the Commander...+Oh yeah, did you leave out a few words when you repeated yourself?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:You don't know yourself at all, do you? +Leave the rest to me, I'll give you a push in the right direction.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:But how...
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Just do as I tell you.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||:Alright, I believe in you. +Also, it's kind of bothering me - what DID you leave out just now?
+MAB38(0);AR70(0)<Speaker>AR70</Speaker>||:Don't ask. I was praising you.
+MAB38(0)<Speaker>M38</Speaker>;AR70(0)||<黑屏1>:Really...? Thanks...
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Two hours later, AR70 drags M38 to the Commander's office.
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>m_avg_casual</BGM>:At the sight of the two Dolls entering in a rush, the Commander quickly puts down the cup of coffee.
+()<Speaker>Commander</Speaker>||:So, did you complete the mission?
+AR70(0)<Speaker>AR70</Speaker>||:Yup, and we handed the mission log to Kalina.
+AR70(0)<Speaker>Commander</Speaker>||:So why are you here?
+AR70(0)<Speaker>AR70</Speaker>||:Commander!
+AR70(0)<Speaker>Commander</Speaker>||:Hm?!
+AR70(0)<Speaker>AR70</Speaker>||:We, AR70 and M38, would like to request permission to take part in frontline operation ■■■.
+AR70(0)<Speaker>Commander</Speaker>||:... +That's not a simple mission. Have you thought this through?
+AR70(0)<Speaker></Speaker>;MAB38(0)||:Just then, AR70 shoves M38 forward.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||:I-I'll manage!
+MAB38(0)<Speaker>Commander</Speaker>||:M38, this op is definitely not going to be logistics work... +Are you sure you can you handle it?
+MAB38(0)<Speaker>M38</Speaker>||<黑屏1>:I...
+AR70(0)<Speaker>AR70</Speaker>||<黑屏2><边框>2</边框><BIN>83</BIN><Night>:Listen, the fact that you've realized that you've been running away is a sign that you've begun to change.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:But I can't handle proper missions... I might even end up crashing.
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||<边框>2</边框><BIN>83</BIN><Night>:Your neural cloud's been damaged from your past experiences. +Therefore, you need to make new memories to overwrite the ones that make you freeze up.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:I understand what you mean... But how should I take the first step?
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||<边框>2</边框><BIN>83</BIN><Night>:Before we head back, clear your cache and record what I'm about to say.+After that, stop reading the records in your memory module for a while.+Your biggest obstacle is the fact that you crash whenever you "accept an official mission"...+So if you can overcome that just once, your neural cloud will automatically rectify itself.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:That sounds really complicated, can I really do it?
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||<边框>2</边框><BIN>83</BIN><Night>:It's doesn't matter even if you fail. You can just start over again.+The only thing is that next time, I won't be with you.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:Eh?!
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||<边框>2</边框><BIN>83</BIN><Night>:There's a big operation coming up soon, and I'm going to use it to get myself promoted.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<边框>2</边框>:I see... I really envy you, AR70.
+AR70(0)<Speaker>AR70</Speaker>;MAB38(0)||<边框>2</边框><BIN>83</BIN><Night>:If you envy me, then catch up quickly. Come with me and return victorious for the Commander's sake.
+AR70(0);MAB38(0)<Speaker>M38</Speaker>||<黑屏1><边框>2</边框>:...I understand. +I'll do my best!
+MAB38(0)<Speaker>M38</Speaker>||<BIN>8</BIN><黑屏2><关闭蒙版>:I...I want to... +Go with AR70...
+MAB38(0)<Speaker>Commander</Speaker>||:Are you sure, M38? +There's a high chance this mission might bring you into contact with humans, and they...
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:Upon hearing the word "humans", M38 involuntarily accesses her past memories. +All she can see now is darkness...
+()<Speaker>M38</Speaker>||<回忆><BIN>9</BIN><黑屏2>:<color=#A9A9A9>Humans...</color>
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:How could you screw up such a simple job?
+MAB38(0)<Speaker>M38</Speaker>||:I-I'm sorry... It's because I haven't cleared my cache for 24 hours...
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:Quit trying to make excuses! Who do you think you are, a human? +You're nothing but a cog, and a broken one at that! +Now what are we going to do? All our money's gone!
+MAB38(0)<Speaker>M38</Speaker>||:I-I'm sorry...
+NPC-Bodyguard2(0)<Speaker>Human Male</Speaker>||:What? You think apologizing is enough? You think it'll bring the money back?
+MAB38(0)<Speaker>M38</Speaker>||:No...I wasn't thinking that...
+()<Speaker>M38</Speaker>||:<color=#A9A9A9>Back then...my neural cloud was no longer capable of speech... All I could do was keep apologizing... </color>+<color=#A9A9A9>And I heard my employer sigh over and over again in exasperation with my incompetence. </color>+<color=#A9A9A9>How can I make up for my past mistakes? </color>
+()<Speaker>M38</Speaker>||<关闭蒙版><黑屏1>:...
+()<Speaker>Commander</Speaker>||<BIN>8</BIN><黑屏2>:M38? +M38!
+()||<黑屏1>:...

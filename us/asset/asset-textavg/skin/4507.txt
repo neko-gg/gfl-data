@@ -1,0 +1,219 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN><Night><BGM>m_avg_casual</BGM>:...In the dark dorm room.
+()<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:RO, I'm all dressed and ready! Let's go!
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Where is everybody...?
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II turns on her communicator and finally finds the message that RO has left her.
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>M4 and I have gone on to the venue to help out with the preparations.</color> +<color=#00CCFF>Come and join us once you've collected your dress.</color> +<color=#00CCFF>It's getting busy, so see you later.</color>
+()<Speaker></Speaker>||:Playback over.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Huh...
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II looks down at the two wine glasses in her hands.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:I was going to have a drink with you before we set off... +But now...nobody's bossing me around! Ehehe...
+()<Speaker>RO635</Speaker>||<黑点1>:She bounds happily onto RO's bed then leaps over onto M4's bed... +The dark dorm echoes with SOP-II's laughter...
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:A few minutes later, there is a polite knock on the door.
+()<Speaker>???</Speaker>||:Hello? We have a delivery for you.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:...Who's that?
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II gets off M4's bed and walks over to answer the door.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:What kind of delivery?
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||:Hello, Miss SOP-II. Is Miss M4 in?
+MG34(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Nope, I'm the only one here at the moment.
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||:I see... +Then could you please accept this delivery on her behalf? It seems to be an urgent order.
+MG34(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Sure!
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II gladly signs for the delivery.
+MG34(0)<Speaker>MG34</Speaker>;M4 SOPMOD II(1)||<黑点1>:Thanks! +Don't forget to leave us a review!
+()||<黑点2><BIN>82</BIN><BGM>BGM_Empty</BGM>:SOP-II hauls M4's package into the dorm.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:...It's kinda heavy. What can it be?
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:SOP-II glances at M4's bed. A cushion stares back silently.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:I-I'll just take one peek... I won't mess anything up!
+M4 SOPMOD II(1)<Speaker></Speaker>||:She opens the lid carefully. +A piece of paper comes into view.
+()<Speaker>Paper Note</Speaker>||:<Size=55>SOP-II, DO NOT OPEN!!!</Size>
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:...
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II closes up the lid indignantly and looks towards M4's bed again.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Humph, you think I'd let a single note stop me, M4?
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II flings the lid open once more and tosses away the note.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Whoa! She bought so many bottles of liquor! +Different kinds, too... +This looks like something fancy...
+M4 SOPMOD II(1)<Speaker></Speaker>||:She holds up one of the bottles. +It comes with an eye-catching label.
+()<Speaker>Label</Speaker>||:I beg you, SOP-II. You can do whatever you want with the others, just leave this one alone.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:... +How could she tell I'd be curious about THIS one?! +Argh, forget it. Since she said I could do anything I want with the other bottles, I'm gonna do just that. Hehehe...
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II gleefully trawls through the rest of the package until a pink bottle catches her eye.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:What's this? The color goes really well with my dress... +Hm... What's this cherry brandy? +"Know your limit. Excessive consumption of this beverage may cause hallucinations..." +Heheh, who cares? I'm gonna taste it!
+()<Speaker></Speaker>||:She pops open the bottle and chugs it eagerly. +The strong aroma of cherry blossom washes over her throat, then comes the pronounced flavor of black cherries mixed with a tinge of citrus. +Soon after that, the rich taste of cocoa interlaced with a hint of smokiness seeps through slowly. +At the same time, there is also a milky sweetness and the zestiness of grapefruit...
+()<Speaker>M4 SOPMOD II</Speaker>||:This tastes amazing... +I could lose myself in this coziness...
+()<Speaker></Speaker>||<黑点1>:SOP-II starts taking gulp after gulp...
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Moon</BGM>:SOP-II loses count of how much she has drunk, all she knows is that her body is getting lighter and lighter, until she's practically floating...
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:Huh... Where am I floating to...?
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:Hehehehe... I'm so happy...
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:The whole world is beautiful...
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:I'm flying...
+()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Empty</BGM>:...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:Huh, where am I? +Why is there a sea of flowers? I thought I was at the banquet venue... +I'm wearing a different dress?
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:There you are, Princess SOP-II.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;RO635(11)||:I... What are you talking about, RO? And what are you wearing?
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:Is something the matter, Your Highness? Are you hungry?
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;RO635(11)||:Huh...?
+M4 SOPMOD II(5);RO635(11)<Speaker>RO635</Speaker>||:I have prepared some snacks. Please enjoy.
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II rubs her eyes.
+RO635(8)<Speaker>RO635</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:...SOP-II! SOP-II, stop spacing out!
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:SOP-II finally snaps out of it and finds herself at the bustling banquet hall. +Glamorously dressed Dolls are chatting and dancing all around her... +And a scowling RO is shaking her.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Huh, you've changed again, RO?
+M4 SOPMOD II(1);RO635(8)<Speaker></Speaker>||:RO shoves a plate of pastries into SOP-II's hands.
+M4 SOPMOD II(1);RO635(8)<Speaker>RO635</Speaker>||:What nonsense are you talking about? I've been wearing the same thing and helping out at the venue the whole time. +Take this. I saved you some pastries. I quite literally guarded them with my life. They wouldn't have survived much longer if you hadn't shown up.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(8)||:Heheh, thanks. But why aren't you calling me "Your Highness" anymore?
+M4 SOPMOD II(1);RO635(8)<Speaker>RO635</Speaker>||:...What Highness? +Never mind, I don't have time for chit-chat. I need to get back to work. Stay out of trouble, okay?
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(8)||:Sure, gotcha!
+M4 SOPMOD II(1)<Speaker></Speaker>||:RO rushes off in a hurry.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Why didn't RO remember anything...? +Or did I actually imagine the whole thing?
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II holds her plate of pastries in one hand and takes another swig from her bottle.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BIN>262</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:Hm? Where am I? +I thought I was at the banquet!
+M4 SOPMOD II(5)<Speaker></Speaker>||:She takes in the tranquil lakeside, dumbfounded. The Dolls that were all impeccably dressed just a second ago have suddenly sprouted bunny ears and look as if they've walked right out of a fairy tale. +SOP-II approaches the crowd curiously. She notices a familiar Doll walking slowly into the distance with a big bunch of balloons in her hand.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:M4! M4, you're here, too!
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:Where did you get so many balloons?
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:I'm leaving, SOP-II.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:Where are you going?
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:I'm going somewhere far, far away...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;M4A1(4)<Position>0,+200</Position>||:Then I'm coming with you.
+M4 SOPMOD II(5);M4A1(4)<Speaker>M4A1</Speaker><Position>0,+200</Position>||:It's a long way from here... +We must say our goodbyes here.
+M4 SOPMOD II(5);M4A1(4)<Speaker></Speaker><Position>0,+400</Position>||:The balloons gradually lift M4 off the ground.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker><Shake>;M4A1(4)<Position>0,+400</Position>||:Don't go! I won't let you go!
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<快跑><SE1>RunStep</SE1>:SOP-II lunges at M4 and refuses to let go...
+M4A1(7)<Speaker>M4A1</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:...SOP-II! Let go of me!
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||<BGM>BGM_Hello</BGM>:Huh? +Where are your balloons?
+M4 SOPMOD II(1)<Speaker></Speaker>;M4A1(7)||:SOP-II, utterly confused, releases M4.
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:Phew I can finally breathe... +What happened, SOP-II? Why did you suddenly charge at me?
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:You just told me you were leaving...
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:Where would I go?
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:I don't know, but you said you were going somewhere far, far away. +A place so far that I'll never find you...
+M4 SOPMOD II(1);M4A1(7)<Speaker>M4A1</Speaker>||:... +That's not going to happen. I'm right here.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;M4A1(7)||:...Okay!
+M4A1(7)<Speaker>M4A1</Speaker>||:Is everything alright, then? I've got something to do, so I'll be heading off to find 15 and the others.
+()<Speaker></Speaker>||:M4 peers anxiously at SOP-II again before making her way to the photo studio.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:What is going on? +Why do I keep seeing strange things...?
+M4 SOPMOD II(1)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:SOP-II takes another sip from her bottle to calm her nerves.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BIN>269</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:I'm back again?! +... +Doesn't really matter...as long as everyone is still here. +M4 has become...a balloon vendor here, hehehe... +RO's also got bunny ears! I wonder what 15 and 16 look like?
+M4 SOPMOD II(5)<Speaker></Speaker>||:She giggles giddily as she walks into the crowd.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:You're all so cute! Can I have a hug?!
+()<Speaker>T-Doll</Speaker>||:Uh...sure...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:Hehehe...
+M4 SOPMOD II(5)<Speaker></Speaker>||:She flits through the flowerbeds and enfolds every Doll she encounters in a bear hug. 
+AR15(6)<Speaker>ST AR-15</Speaker>||:...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:15, there you are!
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:SOP-II, can you take this bouquet and give it to M4?
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:Sure, but where are you going?
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:... +I'm doing what must be done.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:...
+M4 SOPMOD II(5);AR15(6)<Speaker>ST AR-15</Speaker>||:Hurry, SOP-II. +M4 is still waiting for you. Protect her. I'm counting on you...
+M4 SOPMOD II(5)<Speaker></Speaker>;AR15(6)||:This nightmarish scene starts playing in SOP-II's mind.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>;AR15(6)||:NO! NO, NO, NO, NO! +I'm not letting you go this time!
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II grabs ST AR-15 by the collar...
+AR15(3)<Speaker>ST AR-15</Speaker>||<BIN>96</BIN><BGM>BGM_Empty</BGM>:...What's gotten into you, SOP-II?
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||<BGM>BGM_Hello</BGM>:(Sobs) 15...
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:A-Are you okay? +What happened? Did someone bully you?
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:You were leaving me behind again...
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:No, I wasn't.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:I saw you!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:... +Your memory is all jumbled. Here, have a drink to cool your head.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Okay.
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:SOP-II passes her bottle to ST AR-15.
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:Let's drink together and chase away the bad memories.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Then be prepared to down a few glasses. I was devastated...
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:... +Alright, alright, I'll drink a few with you.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Hehe, M4 bought this! It tastes really good!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker><Shake>||:What? You opened M4's—
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:Exploiting ST AR-15's momentary shock, SOP-II grabs her chin and pours the contents of the bottle into her mouth.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Good, drink up!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:(Gargles)
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:The bottle is soon empty. SOP-II lets go of ST AR-15.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:Hehe... Now have a pastry! RO saved them for me! +I'll let you have two... No, I'll let you have one!
+M4 SOPMOD II(1);AR15(3)<Speaker>ST AR-15</Speaker>||:...
+M4 SOPMOD II(1);AR15(3)<Speaker></Speaker>||:ST AR-15 slumps onto the floor in a daze.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;AR15(3)||:You don't want it? Then they're all mine!
+M4 SOPMOD II(1)<Speaker></Speaker>;AR15(3)||:SOP-II gobbles up a mint-flavored cookie.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:(Munches) +How refreshing... I-I'm floating again!
+()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Boss</BGM>:She starts running against the strong breeze blowing into her face. +The branches and leaves rustle as she passes by, and petals dance in the air...
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:MUAHAHAHAHAHA! I'm as fast as the wind!
+()<Speaker>ST AR-15's Voice</Speaker>||:Wait, SOP-II!
+M4 SOPMOD II(5)<Speaker></Speaker>||:ST AR-15's shout is left in the dust.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:I'm flying! I'm flying!!!
+()<Speaker>Panicking Doll</Speaker>||:Oh my goodness, what is she doing?!
+M4 SOPMOD II(5)<Speaker></Speaker>||:The gust SOP-II kicked up sends the Dolls' skirts flying, causing a series of shrieks.
+()<Speaker>Calm Doll</Speaker>||:Stop her!
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:HAHAHAHAHAHAHAHA! +Nobody can catch me!
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II darts nimbly into a bush of flowers.
+()<Speaker>Panicking Doll</Speaker>||:She's gone! Can anyone spot her?
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Hehehe. Now which cookie should I try?
+M4 SOPMOD II(5)<Speaker></Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:She picks out a raspberry-flavored cookie and pops it into her mouth.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:(Munches) +... +I'm...brimming with power...!
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II crawls out from the bush and brushes right past a knightly white rabbit.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:M16!
+M16A1(2)<Speaker>M16A1</Speaker>||:SOP-II, what are you doing here?
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:Where are you going?
+M16A1(2)<Speaker></Speaker>;M4 SOPMOD II(5)||:M16 is caught off-guard for a moment, but she quickly hides her surprise with a dashing smile.
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:I was just grabbing something for M4.
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:I'll do it! No one runs faster than me!
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:Haha, but M4 assigned the mission to me.
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:Why...
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:Don't worry, you'll have your answers eventually.
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:...
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:Stick together with RO, got that?
+M16A1(2)<Speaker></Speaker>;M4 SOPMOD II(5)||:M16 smiles at SOP-II and pats her on the head, then she turns to leave.
+M16A1(2);M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:... +Don't go.
+M16A1(2)<Speaker>M16A1</Speaker>;M4 SOPMOD II(5)||:What?
+M16A1(2)<Speaker></Speaker>||<快跑><SE1>RunStep</SE1>:SOP-II dashes towards M16 at full speed...
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:HAAAAAAAAGH!
+M4 SOPMOD II(1)<Speaker></Speaker>||:SOP-II throws her arms tightly around M16's waist and lifts her right up.
+M16A1(0)<Speaker>M16A1</Speaker><Position>0,+100</Position>;M4 SOPMOD II(1)||<BGM>BGM_Empty</BGM>:What the hell?! +SOP-II, what are you doing?
+M16A1(0)<Position>0,+100</Position>;M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||<BGM>m_avg_casual</BGM>:I won't let you— Huh? You're back...
+M4A1(7)<Speaker>M4A1</Speaker>;M4 SOPMOD II(1)||:SOP-II what are you doing?!
+M16A1(0)<Speaker>M16A1</Speaker><Position>0,+100</Position>;M4 SOPMOD II(1)||:It's okay, M4.
+M16A1(0)<Speaker></Speaker>;M4 SOPMOD II(1)||:SOP-II puts M16 back down in a daze. M4 walk up to them, her face filled with worry.
+M4A1(7)<Speaker>M4A1</Speaker>;M4 SOPMOD II(1)||:Are you okay, SOP-II?
+M4A1(7);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:...I'm fine! Never been better!
+M16A1(0)<Speaker>M16A1</Speaker>;M4 SOPMOD II(1)||:You've been drinking quite a bit, haven't you?
+M16A1(0);M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>||:Hehe... Nope...
+M4 SOPMOD II(1)<Speaker></Speaker>||:Before M4 and M16 can stop her, she shoves another green cookie into her mouth and runs off.
+M4A1(7)<Speaker>M4A1</Speaker>||:SOP-II!
+M16A1(0)<Speaker>M16A1</Speaker>||:Don't worry, M4. Someone will go after her.
+M16A1(0)<Speaker></Speaker>||<黑屏1>:M16, the very picture of self-assurance, grins as she spots the Doll running in this direction.
+()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><BGM>BGM_Empty</BGM>:...Unlike the lively sea of flowers, right now the lakeside is completely quiet and deserted.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:I'm back again...
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II wades into the glistening lake and sends the water splashing.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:Where did everybody go?
+M4 SOPMOD II(5)<Speaker></Speaker>||:On the silent lake, the rippling water is all she can hear. +SOP-II comes to a halt. She stares at the surface of the lake, which she has disturbed. +A strange feeling threatens to overwhelm her.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:...Hm, I'm bored. +I wonder what RO and the others are doing...
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II sits down on the shore with her feet still submerged in the water.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:... +I miss them... +Why haven't they come?
+M4 SOPMOD II(5)<Speaker></Speaker>||:The lake offers her no answer.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:I don't like this place. +The view is a lot nicer than at the base and the Dolls here have bunny ears... +But my friends aren't here. +... +I miss them. I'm going to find them!
+M4 SOPMOD II(5)<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:Suddenly burning with purpose, she rises to her feet.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO—! +M4—! +15—! 16—!
+M4 SOPMOD II(5)<Speaker></Speaker>||:The echoes drift away like ripples on the lake.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO... M4... 15... 16... +(Sobs) +Where are you?
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II's voice starts shaking uncontrollably.
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:Don't leave me behind... +I don't want to be alone...
+M4 SOPMOD II(5)<Speaker>RO635's Voice</Speaker>||:SOP-II!
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO? It's RO! +RO, I'm here!
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II wipes away her tears immediately and shouts back at RO, who's running towards her.
+RO635(11)<Speaker>RO635</Speaker>||:SOP-II—!
+M4 SOPMOD II(5)<Speaker>M4 SOPMOD II</Speaker>||:RO—!
+M4 SOPMOD II(5)<Speaker></Speaker>||:SOP-II flings her arms wide open, ready to catch RO. +But the moment RO comes into contact, she restrains SOP-II with practiced ease and handcuffs her.
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker><Position>0,-200</Position>||:Huh?
+RO635(11)<Speaker>RO635</Speaker>||<SE1>AVG_bigglassbreak</SE1>:Now, count up your sins!!!
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker><Position>0,-200</Position>||<黑屏1><BGM>BGM_Empty</BGM>:The world recedes rapidly around SOP-II.
+()<Speaker></Speaker>||<睁眼><BIN>83</BIN><BGM>BGM_Moon</BGM>:When she finally recovers, she finds herself sitting in the fountain outside the banquet venue.
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:...How did I get here?
+RO635(8)<Speaker>RO635</Speaker>||:... +Finally awake? +You drank too much and your neural cloud was a wreck.
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:Oh... Did I get into trouble?
+RO635(8)<Speaker>RO635</Speaker>||:You need to ask? M4 and the others are sorting things out for you.
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:Uh... Sorry...
+RO635(8)<Speaker>RO635</Speaker>||:RO wrings the water out of her dress impassively. Then she takes a handkerchief out of her handbag and dries SOP-II's face.
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:RO!
+RO635(7)<Speaker>RO635</Speaker>||:What?
+M4 SOPMOD II(6)<Speaker>M4 SOPMOD II</Speaker>||:Are you angry with me?
+RO635(7)<Speaker>RO635</Speaker>||:...No.
+RO635(7)<Speaker></Speaker>||:RO sighs. She drags SOP-II out of the fountain and wrings her dress for her.
+RO635(7)<Speaker>RO635</Speaker>||:Let's go and get you out of the wet clothes.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(7)||:Yay!
+M4 SOPMOD II(1);RO635(7)<Speaker>RO635</Speaker>||:You're not allowed to drink from now on.
+M4 SOPMOD II(1)<Speaker>M4 SOPMOD II</Speaker>;RO635(7)||:Huh? Oh, c'mon!
+M4 SOPMOD II(1);RO635(7)<Speaker>RO635</Speaker>||:Don't you "c'mon" me! I will not give in!
+M4 SOPMOD II(1);RO635(7)<Speaker></Speaker>||<黑屏1>:The two Dolls bicker the whole way back to the dorm. +Despite being soaking wet and missing out on the banquet... +SOP-II has never been happier today.

@@ -1,0 +1,109 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+M1911(0)<Speaker>M1911</Speaker>||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:Enough!
+()||:A furious bellow explodes from within the office.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...I don't understand. Why are you suddenly making such a fuss?
+M1911(0)<Speaker>M1911</Speaker>||:What is there that's so difficult to understand?! You've been making trouble for me the whole time! +I only brought you onboard to design the entertainment program out of the kindness of my heart! +Do you have a problem with me or what?!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...What? +I was just voicing my very justifiable opinions.
+M1911(0)<Speaker>M1911</Speaker>||:You were arguing for arguing's sake! +Forget it! I'm doing this myself! You can get lost!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:No, since I've agreed to help, I have to do my part. +I will not jump ship halfway through.
+M1911(0)<Speaker>M1911</Speaker>||:Whatever, but I won't be working with you! +Fine. We'll each work on our own proposal, and Miss Kalina will decide who's more suited for the job!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...Alright.
+()||:M1911 storms out of the office, leaving Zas M76 alone in the room.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...Did I sound like I was looking for a fight?
+()||:Zas M76 is genuinely puzzled – no one has ever had a problem with her. She doesn't believe M1911's misgivings are justified, but she still reflects on herself.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:If I really offended her...maybe I should apologize. +She is a senior, after all.
+()||:But...
+ZasM76(0)<Speaker>Zas M76</Speaker>||:But...I won't admit defeat. +Since we're working on our own proposals, that makes it a competition, right? +It doesn't matter if it's against SVD or someone else, I will NOT lose.
+()||:If she puts her mind to doing something, it has to be done to the highest standard. If it is a competition, she has to come out on top. +This has always been Zas M76's motto.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Now then...
+()||<黑点1>:...
+()||<黑点2><BIN>8</BIN>:Soon afterwards.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Right, I've got your proposal...
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Actually, why are there two proposals?
+M1911(0)<Speaker>M1911</Speaker>||:Humph!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Let me explain, Miss Kalina. +We had some disagreements during our discussion, so we decided to split up and develop our own ideas. +Which proposal do you think is better?
+NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Hm... Now that's the problem. +I think both proposals have their own merits, I can't really say which is definitively better. +Actually, it will be perfect if we can combine them! +Oh, I especially love your idea, M76!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:What?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:The ball!
+M1911(0)<Speaker>M1911</Speaker>||:A b-ball?! +Y-You mean like a ball with social dancing?!
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...Yes. +Since everyone will be attending the event in beautiful evening dresses... +I believe it would be a waste if we didn't make it a ball.
+NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Hm, agreed! We'll make it so! I'll inform the Commander right away! +I'm sure the Commander would also be happy to participate.
+M1911(0)<Speaker>M1911</Speaker>||:This...This won't do... I need to think of a way to get my darling to dance with me... +Oh!
+()||:M1911 mutters to herself, then as if struck by a sudden thought, she dashes off in a hurry. +After her departure, Zas M76 looks back at Kalina, who has already started working on combining the proposals.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Miss Kalina, may I have a look at the final version of the proposal?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hm? Sure thing. I was going to give you both a copy. +M1911 sure does run like the wind...
+ZasM76(0)<Speaker>Zas M76</Speaker>||:...
+NPC-Kalin(2)<Speaker>Kalina</Speaker>||:What's wrong, M76? You look like you've seen a ghost. 
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Miss Kalina... You've taken one more suggestion from M1911's proposal than from mine.
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Huh? Have I? I wasn't really counting. +Both proposals are very well done, but we can only have so much time for entertainment on the night. Besides, the ball, which was your idea, will be the centerpiece.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Am I.... not even a match for M1911...? +She does have seniority...but she's just an old model... +SVD wouldn't have lost to her, would she...?
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:M76? +Don't be so hung up on that. +Oh right, M1911 was just talking about inviting the Commander to dance with her, wasn't she? +What about you? Do you have a dance partner in mind? +You might want to start preparing for it while you still have time.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Dance...
+()||:Zas M76 recalls M1911's fervent look just before she left, and her dejection evaporates.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Yes... My proposal was defeated. +But the ball hasn't started yet! I will do better than M1911!
+NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Uh...M76?
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Sorry, Miss Kalina, I've got to go. +You're right, I need to practice while there's still time.
+NPC-Kalin(5)<Speaker>Kalina</Speaker>||:That's not what I meant... Oh! +...They both ran off just like that?! +Now who's going to handle the rest of the planning?!
+()||<黑点1><BGM>BGM_Empty</BGM>:...
+ZasM76(2)<Speaker>Zas M76</Speaker>||<黑点2><BGM>BGM_Moon</BGM><BIN>97</BIN>:Let's do it here...
+()||:Zas M76 makes her way toward the empty courtyard and looks around. After making sure that she's completely alone, she starts browsing through everything she knows about social dancing in her neural cloud.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Tat... Tat-tat... Tat-tat-tat...
+()||:She starts counting the beat and executing the steps a bit clumsily. +Her archenemy is SVD, but before their final showdown, she cannot lose to anyone else. +Call her petty or stubborn, but since she was humiliated by M1911, she has to avenge herself by defeating M1911. +Otherwise, she would not have the pride to issue SVD a challenge the next time they cross paths.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...
+()||:Isn't it tiring to live like this?
+()||:She bends her slender arm slightly. Her bionic limbs are thankfully capable of achieving a graceful arc.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...If I am not competitive, if I can't express myself... +I will never know what makes me distinctive as a Doll.
+()||:As Zas M76 mutters to herself, her steps grow more and more certain. +Unlike humans, who have to practice for months and years to achieve mastery, Dolls can learn to mimic movements in a very short period of time once they have analyzed the steps. +The level of proficiency depends on the capacity of the individual Doll's neural cloud, and Zas M76 just so happens to be an expert in imitation.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:<color=#A9A9A9>But...what constitutes a good or bad dancer to humans?</color> +<color=#A9A9A9>Is it enough to just mimic the steps...? Compared to these top dancers in the database, I feel like I'm missing something...</color>
+()||:Rustle...
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Hm?
+()||:An unusual sound interrupts her concentration. Zas M76 stops in her tracks and looks toward the hallway leading into the courtyard.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Was it just my imagination...?
+()||:Seeing nothing, she shakes her head and returns to her practice.
+()||<黑点1>:...
+ZasM76(2)<Speaker>Zas M76</Speaker>||<黑点2><BIN>97</BIN><Night>:Tat... Tat-tat... Tat-tat-tat... Tat...
+()||:She is so engrossed that she remains totally oblivious as her surroundings turn dark. +The sun has set, and the moon has risen. The clear moonlight illuminates the lonely dancer in the courtyard like a spotlight.
+()||:Clap clap clap. +After practicing the same segment for dozens of times, Zas M76 suddenly hears clapping coming from behind.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Hm? C-Commander?! +Huh? It's night already?! What time is it?!
+(0)<Speaker>Commander</Speaker>||:Absolutely brilliant, M76.
+()||:Instead of answering her questions, the Commander merely smiles and lets the clapping trail off.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Is the ball...over?
+()||:Zas M76 is devastated the moment she realizes that she has completely missed the ball. +...But at the same time, she feels a sense of relief wash over her.
+(0)<Speaker>Commander</Speaker>||:It was M1911 that brought me here.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:M1911... +So she did dance with you.
+(0)<Speaker>Commander</Speaker>||:She's worried about you.
+()||:The Commander smiles at the gloomy Zas M76. They walk up to her and offer her a hand.
+(0)<Speaker>Commander</Speaker>||:The ball is over. +But would you dance with me regardless?
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...
+()||:This must be why M1911 has led the the Commander here. +So...it wasn't her imagination during the day. M1911 did see her when she was practicing. +And kind as she is, of course she'd interfere. +And the Commander...the caring Commander would never ignore a Doll's good intentions.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...Thank you.
+()||:Zas M76 takes the Commander's hand.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:I've been practicing here because I didn't want to lose to M1911. +But she never thought of me as a rival. I really was just looking for a fight where there was none. +I ended up missing the ball, and now I'm accepting her help. +I'm hopeless, aren't I?
+(0)<Speaker>Commander</Speaker>||:Zas M76...
+()||:The Commander pauses and shakes their head.
+(0)<Speaker>Commander</Speaker>||:You are a very proud Doll, but your dignity does not have to suffer for graciously accepting your friends' kindness.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Right, I see what you mean.
+()||:Zas M76 smiles.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Well...I suppose I can't let M1911's thoughtfulness go to waste. +My proposal lost out to hers, but I will prove myself next time. +I missed the ball...but I'll beat her to asking you for a dance next time.
+(0)<Speaker>Commander</Speaker>||:Good.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Next time you see me in a pretty dress again, I will show you some even better moves.
+(0)<Speaker>Commander</Speaker>||:I'll look forward to it.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...Thank you.
+()||:Zas M76 starts dancing for the Commander again in the moonlight. +The Commander just watches her silently, without saying a word.
+()||<黑点1><BGM>BGM_Empty</BGM>:...
+()||<黑点2><BIN>80</BIN><BGM>BGM_Hello</BGM><关闭蒙版>:The next day. +At the Café.
+M1911(2)<Speaker>M1911</Speaker>||:I'VE HAD ENOUGH!!!
+()||:M1911 slams her hands on the table in exasperation.
+M1911(2)<Speaker>M1911</Speaker>||:I came here with a present to make up with you!! What kind of attitude is that?!!
+ZasM76(2)<Speaker>Zas M76</Speaker>||:I appreciate and accept the gesture. +I simply don't understand why you must cut the cake in eight pieces when there are only two of us here.
+M1911(2)<Speaker>M1911</Speaker>||:It's how cake is supposed to be cut! Cake that isn't cut in eight pieces isn't cake at all! +Besides, I brought the cake! I can cut it however I want!
+ZasM76(2)<Speaker>Zas M76</Speaker>||:But it's a present for me, isn't it? I think I also have a say in the matter.
+M1911(2)<Speaker>M1911</Speaker>||:ARGHHHHHHHH!!!!
+ZasM76(2)<Speaker>Zas M76</Speaker>||:...
+()||:Seeing M1911 so driven up the wall, Zas M76 can't help but laugh out loud.
+M1911(2)<Speaker>M1911</Speaker>||:What are you laughing at?!
+ZasM76(2)<Speaker>Zas M76</Speaker>||:Nothing. I was just thinking how you don't look like an esteemed veteran at all.
+M1911(2)<Speaker>M1911</Speaker>||:That's it! I challenge you to a duel! We'll settle this at the shooting range!
+ZasM76(2)<Speaker>Zas M76</Speaker>||:No, I want to have cake.
+M1911(2)<Speaker>M1911</Speaker>||:I told you, I brought the cake!!
+()||<黑屏1>:...It's another peaceful day at Griffin. +And so the new day begins.

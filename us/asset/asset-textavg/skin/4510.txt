@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...In a hallway inside Griffin's base.
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:Several days have passed since the general meeting, and preparations for the banquet are in full swing.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:(Sighs) It's such a waste of all the pretty girls' beauty if it's just a simple gathering.
+Saiga12(0)<Speaker></Speaker>||:A familiar figure suddenly appears.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:Commander, it's been a while!
+Saiga12(0)<Speaker>Commander</Speaker>||:Good morning! The base seems pretty empty today. What is everybody up to?
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:Oh, you haven't heard, have you? We're planning to organize a huge party!
+Saiga12(0)<Speaker>Commander</Speaker>||:Huh? +I have been negligent... Then as always, I'll buy some drinks and snacks for everyone.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:... +Oh? But this is no ordinary party.
+Saiga12(0)<Speaker>Commander</Speaker>||:No ordinary party?
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:It's a rare opportunity for us to relax. Do you expect us to eat with guns in our hands?
+Saiga12(0)<Speaker>Commander</Speaker>||:Well...you're T-Dolls, after all...
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:The issue is with our clothes! +Think about it, Commander. A cook wears a cook's uniform when working in the kitchen, but he changes into something casual when he gets off work. +Clothes are a symbol of one's identity.
+Saiga12(0)<Speaker>Commander</Speaker>||:...You have a point. So if our Dolls have to attend the party wearing something different, they can all leave their work behind. +Since it's a party, everyone should relax and enjoy themselves.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:Exactly. We should make the dress code something special – something we don't usually wear. +Come to think of it, most of us don't even own that many dresses since it's not practical for work.
+Saiga12(0)<Speaker>Commander</Speaker>||:Then let's make it a formal dress event, and everyone has to wear an evening dress. I'll go and order some fabric... I'll leave the details to M200 and QBU-88.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:Yay, you are the best, Commander! +But are we still only having a simple feast when everyone's gonna be all dressed up?
+Saiga12(0)<Speaker>Commander</Speaker>||:Since it's formal dress, there's got to be dancing. I'll tell Groza to make the appropriate arrangements.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:You really are the best Commander in the entire world!
+Saiga12(0)<Speaker></Speaker>||:The Commander hurries off, probably to sort out the evening dresses.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Hehehehehe, the Commander fell hook, line, and sinker for it! +Now I get to feast my eyes on pretty girls in pretty dresses! Hm, I'm gonna suggest a bikini party next time!
+()<Speaker></Speaker>||<黑屏2><BIN>73</BIN><BGM>m_avg_casual</BGM>:In the rehearsal room. +Since news spread about the ball, more Dolls have been frequenting the rehearsal room.
+ZasM76(0)<Speaker>Zas M76</Speaker>||:Having a ball is a fantastic idea. I'm not going to lose to SVD this time!
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:Why are you getting competitive over that? How often do you find yourself wearing an evening dress? You should have some pictures taken to commemorate this occasion instead.
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:There's no competition in having your picture taken, I really can't be bothered. +A true T-Doll has to come first, even in dancing!
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:I don't know what to say to that... I'm getting stressed out just being here with you. +I think I'm gonna head back to my dorm and look at my photo magazines.
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:Who are you going to give your magazine this time? +Practically everyone at the base has one already.
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:That's not true... KSVK didn't take it. Argh, I might have offended her.
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:What on earth did you do?
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:...Just the usual – chatting her up, getting a date, and giving her a magazine.
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:We always adjust the intensity of our training depending on our condition, so why do you keep using the same old trick when trying to make friends?
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:... +I feel pretty defeated, not gonna lie.
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:Some word of advice – you'll never build any genuine connections if you use the same routine on everyone.
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:Nonsense! I'm genuine to everybody!
+ZasM76(0)<Speaker>Zas M76</Speaker>;Saiga12(0)||:Then why do you give everyone the same gift?
+ZasM76(0);Saiga12(0)<Speaker>Saiga-12</Speaker>||:Because nobody could possibly say no to photo magazines! +Especially photo magazines of pretty girls!
+ZasM76(0)<Speaker>Zas M76</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...Forget it. You'll understand one day.
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:Night time comes, so does the ball begin. +Many familiar faces enter the venue, meticulously dressed.
+ZasM76(2)<Speaker>Zas M76</Speaker>||:White suits you.
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:Hehe, the Commander is so thoughtful. Stains have no place on this pure color. +Say, you're also super cute today! Can I dance with you?
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:...No, I need to focus entirely on the dance itself, or I'll lose. Also, having you as a partner will bring down my performance.
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:So cold! +But heartless girls are also cute. +Everyone has put a lot of effort in their looks today, what a wonderful sight to behold!
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:Ogle all you want. I'm going to warm up.
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:Alright, I'm gonna find myself a dancing partner, just you wait and see.
+Saiga12(2)<Speaker></Speaker>||:All the lights in the banquet hall are on maximum brightness and dazzling to the eye.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:Humph, it's true that we all know each other, but since we're all wearing something new, can't we at least pretend we're all unfamiliar pretty girls?
+Saiga12(2)<Speaker></Speaker>||:Saiga-12 circles around the banquet hall glumly, unable to find a suitable dance partner. +She's just about to order a drink from the bartender to lift her spirits when she hears a lilting voice right next to her.
+Saiga12(2)<Speaker>???</Speaker><同时置暗>||:May I have a Rose in the Snow?
+Saiga12(2)<Speaker>Bartender</Speaker><同时置暗>||:Of course. Any other special request?
+Saiga12(2)<Speaker>???</Speaker><同时置暗>||:No, just mix it your way. +A cocktail with such a name is bound to taste delightful.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:That voice? Are you new around here? +H...Hello! Huh? What a beauty! And you look kinda familiar...
+KSVK(9)<Speaker>???</Speaker>||:Me?
+()<Speaker></Speaker>||:The young girl points at herself, her eyes filled with confusion.
+()<Speaker></Speaker>||:Saiga-12 opens her mouth to explain—
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:The lights go off.
+()<Speaker>???</Speaker>||<BGM>BGM_Moon</BGM><SE1>Heartbeat</SE1>:Ah!
+()<Speaker>Saiga-12</Speaker>||:Don't worry! This is part of the program. The dancing is going to start soon, so they're turning off the bright lights.
+()<Speaker>???</Speaker>||:I see... Thanks.
+()<Speaker>Saiga-12</Speaker>||:Don't mention it. Say, have I seen you somewhere before?
+()<Speaker>???</Speaker>||:I look like KSVK, don't I? She's my elder sister, so of course we resemble each other.
+()<Speaker>Saiga-12</Speaker>||:Huh?! Then...why did she leave you here all by yourself?
+()<Speaker>???</Speaker>||:She's busy with work today so she gave the invitation to me. +You can just call me Dushevnaya.
+()<Speaker>Saiga-12</Speaker>||<BGM>BGM_Empty</BGM>:Dushevnaya... What a pretty name.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>GF_20HW_Scene_BPM82_loop</BGM>:A mellow song starts playing, and the hall is once again illuminated.
+()<Speaker>Bartender</Speaker>||:Miss, here's your drink.
+KSVK(9)<Speaker>Dushevnaya</Speaker>||:Thank you.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Aren't you going to dance?
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:I'm sorry, but I don't dance.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Not dancing at a ball? Isn't that a shame?
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:Some flowers stubbornly refuse to bloom even in spring. +Dancing isn't obligatory at every ball.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Some flowers do bloom in winter. +But if you don't give it a try, how do you know if you'll enjoy it?
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:...Do you treat everyone with the same enthusiasm?
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Certainly not! +I...I'm your sister's colleague, so it's only right for me to look after you. +I'm not forcing you to dance just because everybody's dancing. I'm inviting you to dance simply because it's fun.
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:...To be completely honest, I don't know how to dance, not even the most basic round dance.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:I can teach you! +Round dance is one of the easiest dances to learn.
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:Is it really that easy? I saw some Dolls practicing it in a rehearsal room.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:It IS that easy. Just imagine yourself as a rose chasing after the moon and searching for moonlight in the wind. +When your dress swishes with you, you look just like a rose. +You'll truly be a Rose in the Snow.
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:Alright, you've stoked my courage. I'll give it a try. +But there are too many people here, and that makes me extra nervous.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:Then let's practice somewhere more deserted?
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:...Huh?
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||:There's a rehearsal room nearby.
+Saiga12(2);KSVK(9)<Speaker>Dushevnaya</Speaker>||:Pfft, but YOU will still see if I mess up.
+Saiga12(2)<Speaker>Saiga-12</Speaker>;KSVK(9)||<黑屏1>:No, I won't. +While you're busy chasing after your moon, I'll be busy searching for mine.
+()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2>:Finally convinced, Dushevnaya follows Saiga-12 quietly out of the banquet hall. +Saiga-12 is both thrilled and nervous. The prospect of dancing with Dushevnaya in the moonlight fills her with excitement. +Dushevnaya doesn't say much, but she seems quite pleased judging by the upturned corners of her lips.
+ZasM76(2)<Speaker>Zas M76</Speaker>||<BGM>BGM_Empty</BGM>:What are you doing?
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||<BGM>BGM_Sneak</BGM>:You scared the crap out of me! What are YOU doing here?
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:I'm practicing. +...Why are you dragging KSVK around so secretively, Saiga?
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:You're mistaken. This is Dushevnaya, KSVK's little sister.
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:Little sister? Are you mistaken or am I mistaken?
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:Did I stutter? This. Is. KSVK's. Little. Sister.
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:She's just changed into a younger-looking body. Her ID still reads KSVK on my visual display. +So how many Dolls have fallen for it?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Oops, busted. +Not too many, Saiga was the 13th.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:Huh?
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:Did SVD see through it as well? How long did it take for her to figure it out?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:She did. It took her around the same time as it did you.
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:Pity. Then it will be a dance-off after all.
+ZasM76(2);Saiga12(2)<Speaker>Saiga-12</Speaker>||:KSVK... Did you...just pull a prank on me?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:So I did. Pranks pulled by people who never pull pranks tend to work out pretty well, no?
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:Then...our dance...
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Haha, since the cat is already out of the bag, there's no point in keeping up the charade.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:R...Right.
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Shall we call it a day then?
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:S...Sure.
+Saiga12(2)<Speaker></Speaker>||:KSVK smiles as she excuses herself. The smile does look exactly like KSVK's.
+ZasM76(2)<Speaker>Zas M76</Speaker>;Saiga12(2)||:Let me go back to practicing my moves.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...Okay. I...I want to be alone with my thoughts anyway.
+()<Speaker>Saiga-12</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Wake</BGM>:I was the 13th? +That makes me kinda sad for some reason. +I probably wouldn't be so upset if I'd been the only one to have fallen for her trick. +Oh dear. I suppose I want to be special to her, even if it's just as a victim of her prank?
+()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2>:After the end of the ball, Saiga-12 catches sight of the Doll she has been trying to find.
+Saiga12(2)<Speaker>Saiga-12</Speaker>||:Can we talk?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Of course. +I don't mind if you want to pull a prank on me in return. If you can, that is.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:...I wasn't planning on that. +I just want to apologize.
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Pardon? +You're the one who was deceived, so why are you apologizing to me?
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:I'm not apologizing for what happened tonight, but for my behavior when we first met. +It was very rude of me to force that photo magazine on you out of the blue.
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Hm, it did shock me for a bit. +Nobody had ever given me something like that, so that was interesting.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:I'm really sorry if I left a bad impression. +I...I was only trying to be friendly, and I wanted you to be nice to me. +But I might have gone about it the wrong way. +Sorry.
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:...If you want people to be nice to you, be the person who shows kindness first, huh? +That's actually a very good attitude to have.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||:But I was also too pushy and inconsiderate. +People might not appreciate my gesture. I don't really know them, after all.
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||<BGM>BGM_Empty</BGM>:Then let's start all over again.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||<BGM>BGM_Sunshine</BGM>:Huh?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:2pm tomorrow. I'll be waiting at the Café.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker><Shake>||:What?
+KSVK(9)<Speaker>KSVK</Speaker>;Saiga12(2)||:Save your apology for now. Even the Fox has to wait to meet the Little Prince. +Think of it as our first encounter tomorrow. +Making a ceremony out of it really does fill me with the greatest of anticipation.
+KSVK(9);Saiga12(2)<Speaker>Saiga-12</Speaker>||<黑屏1>:...I-I'll be there on time!

@@ -1,0 +1,82 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN>:GSh-18 jumps up from her chair with a shout.
+gsh18(0)<Speaker>GSh-18</Speaker>||<BGM>m_avg_casual</BGM>游刃有余的日常任务:Aaaaahhhhhhh— +Wait, what...am I doing here?
+()||:The chat window on the computer buzzes furiously, as though it is venting its anger.
+()<Speaker>Manga Editor</Speaker>||<震屏>:Why haven't you submitted your manuscript yet!!!+<size=45>Are you pretending you didn't see this again!?</size>+<size=50><color=#FF0000>ANSWER ME RIGHT NOW!!!!!</color></size>
+gsh18(0)<Speaker>GSh-18</Speaker>||:Wait a minute... What time is it?
+()<Speaker>Computer Assistant</Speaker>||:The time now is 0700, December 1st. Your manuscript submission deadline has been delayed to December 3rd.
+gsh18(0)<Speaker>GSh-18</Speaker>||:How did this happen? I remember it was night-time...
+()||:GSh-18 opens her sketchbook. The date reads November.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Did I...travel back in time?
+()<Speaker>Computer Assistant</Speaker>||:Darling, I think you've accumulated too much stress from extended manga drawing. I recommend you perform several sets of push-ups...
+()||<黑屏1>:GSh-18 ignores the prompt and runs straight to the forward basecamp.
+()||<黑屏2><BIN>1</BIN><边框>2</边框>:The real-time relay terminal's screen displays the familiar forms of AK-47, P7, FF FN49, and SPAS-12.
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框>:J-judging by the ingredients here, I could make some deep-fried skewers, I guess...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框>:Deep-fried...skewers?!
+AK47(0)<Speaker>AK-47</Speaker>||<边框>2</边框>:Hahaha, skewers with vodka are heavenly!
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框><黑点1>:Let's just take a break here for now, we've walked a long way today, after all.+<color=#A9A9A9>Hehe, at last, it's time to prank someone!</color>
+()||<黑点2><BIN>97</BIN>:A dialogue box suddenly appears on the screen.+<color=#FFFF00>Please select P7's pranks from the following - </color>+<color=#FFFF00>A) Swap the vodka and the cooking wine.  B) Sneak super-hot spices into the deep-fried skewers.  C) All of the above.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||:... +So I DID start all over again... +Thank goodness, I can get a happy ending now.+Surely an ordinary choice like this won't affect the ending, right?+It should be okay as long as I don't mess up at a key moment...
+()||<黑点1>:GSh-18 presses Option B.
+()||<黑点2><边框>2</边框><BIN>1</BIN>:P7 takes advantage of everyone's lack of attention to pour the sachet of red powder she's brought along into the ingredients.
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框><黑点1>:<color=#A9A9A9>Heehee, now who's going to fall for it first?</color>
+()||<黑点2><BIN>97</BIN>:A dialog box appears on the terminal screen.+<color=#FFFF00>Please select the victim of P7's pranks from the following -</color>+<color=#FFFF00>A) FF FN49. B) AK-47. C) SPAS-12.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||:No matter how you look at it, it's got to be SPAS...
+()||<黑点1>:GSh-18 picks Option C.
+()||<黑点2><边框>2</边框><BIN>1</BIN>:SPAS-12 eagerly picks up a cooked skewer.
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框>:(Coughs) This taste...+This burning chili spirit...+It's punching straight through my neural cloud...
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框>:Huh...but I didn't put chili in... What's going on?
+AK47(0)<Speaker>AK-47</Speaker>||<边框>2</边框>:P7 was obviously up to something.
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框>:I didn't! I've been helping FF FN49 cook all this time. +Isn't that right?
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框>:Er...y-yes...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框><黑点1>:In any case...(pants) +Get me...some milk...
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点2><BIN>97</BIN><黑点1>:The script has changed... +Although I'm not sure if it'll affect things further down the road, at least I can now be sure that I can change the plot development.
+()||<黑点2><边框>2</边框><BIN>7</BIN><Night><BGM>BGM_Empty</BGM>:Several hours later.
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框><BGM>BGM_Moon</BGM>:But...we still have a long way to go...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框>:Yeah...
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框>:Expeditions are tiring...
+AK47(0)<Speaker>AK-47</Speaker>||<边框>2</边框><黑点1>:Actually, I know a shortcut...
+()||<黑点2><BIN>97</BIN><Night>:A dialogue box appears on the terminal screen.+<color=#FFFF00>Please select the route which the expedition will follow from the following options -</color>+<color=#FFFF00>A) Stick to the prescribed route. B) Take AK-47's shortcut.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||:This is it! This is the choice! +If I just pick A here, the following disaster won't happen!
+()||<黑点1>:GSh-18 immediately presses A.
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框><黑点2><BIN>6</BIN><Night>:But...Miss Kalina told us to stick closely to the route for this expedition... +Apparently a previous expedition team strayed from the path and terrible things happened to them...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框>:Yeah, I think I heard about that too.
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框>:Let's not do anything which would scare FF FN49.
+AK47(0)<Speaker>AK-47</Speaker>||<边框>2</边框>:Alright then.
+()||<黑点1><边框>2</边框>:AK-47 shrugs nonchalantly, then takes out a vodka bottle from her pocket and knocks back a few mouthfuls.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点2><BIN>97</BIN><Night>:Wait a minute, did AK-47 take a swig before at this point? +If I remember correctly, I don't think she did? So ever since... +P7 switched the cooking wine and the vodka...AK-47 hadn't drunk again...+Could it be that P7's prank was also a key choice?
+()||<BGM>BGM_Empty</BGM>:A dialogue box appears on the terminal screen.+<color=#FFFF00>There is an upcoming quick-time event. Please press the appropriate button in time. Failing more than three times will result in mission failure. </color>+<color=#FFFF00>The quick-time event will begin in 3, 2, 1...</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||<BGM>10065</BGM>:Hey, wait a minute! What the hell is this now?+This didn't show up before...
+()||:The A Button appears in the center of the screen, and it quickly vanishes after 2 seconds.+A new notification appears on the upper left corner of the screen.+<color=#FF0000>Failure count - 1.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点1>:No...wait...
+()||<黑点2><边框>2</边框><BIN>6</BIN><Night>:AK-47 empties the vodka bottle and follows her teammates away from the frozen lake.+In high spirits from her drink, she prances around and sings gleefully.
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框>:What are you doing, AK-47?
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框>:Miss AK-47, the ground here is slippery, please be careful...
+()||<黑点1><边框>2</边框>:Before she can finish, AK-47 slips and slides down the slope onto the frozen lake.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点2><BIN>97</BIN><Night>:So they're using quick-time events to control the plot now?! God dammit...
+()||:The B button appears in the middle of the screen, and GSh-18 immediately hits it.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Whew... Fail three times? Not on my watch...
+()||:An E button appears on the screen, but before GSh-18 can press it, a Q button appears as well.
+gsh18(0)<Speaker>GSh-18</Speaker>||:It's speeding up! I can only press one... +If I miss another one...
+()||:More buttons appear on the screen in rapid succession, and they vanish before GSh-18 can decide which one to press.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点1>:No...
+SPAS12(0)<Speaker>SPAS-12</Speaker>||<边框>2</边框><黑点2><BIN>6</BIN><Night>:Hang on to me and climb back up, AK-47.
+AK47(0)<Speaker>AK-47</Speaker>||<边框>2</边框>:It's a frozen lake! I haven't gone skating with my friends in so long...
+()||<边框>2</边框>:AK-47 ignores the hand SPAS is extending to her and skates to the center of the lake by herself.
+P7(0)<Speaker>P7</Speaker>||<边框>2</边框>:Hey! It's dangerous!
+FN49Mod(0)<Speaker>FF FN49</Speaker>||<边框>2</边框><黑点1>:Miss AK-47...wait for us!
+()||<黑点2><BIN>97</BIN><Night><BGM>BGM_Empty</BGM>:... +GSh-18 can only watch as the expedition team vanishes below the ice once more...
+gsh18(0)<Speaker>GSh-18</Speaker>||:...Dammit! I'll be back!
+()||<黑屏1>:A dialogue box appears on the terminal screen.+<color=#FF0000>BAD END.</color>+<color=#FFFF00>Do you wish to start over from the beginning? Note - starting again will expend a page of manga sketches.</color>+<color=#FFFF00>A) Start again. B) Continue.</color>+GSh-18 savagely presses Option A.
+()||<黑屏2><BIN>82</BIN><BGM>10082</BGM>:GSh-18 jumps up from her chair with a shout.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点1>:Aaaaahhhhhhh!!!+I have to succeed this time...+Whether it's saving the expedition team or handing in my submission before the deadline!
+()||<黑点2><BIN>97</BIN><Night>:...+A dialogue box appears on the terminal screen.+<color=#FFFF00>There is an upcoming quick-time event. Please press the appropriate button in time. Failing more than three times will result in mission failure. </color>+<color=#FFFF00>The quick-time event will begin in 3, 2, 1...</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||:This again? Looks like I can't skip this event no matter what... +Time to get serious, my hands are pretty damn fast, you know!
+()||:One minute later.+A dialogue box appears on the terminal screen.+<color=#FF0000>BAD END.</color>+<color=#FFFF00>Do you wish to start over from the beginning? Note - starting again will expend a page of manga sketches.</color>+<color=#FFFF00>A) Start again. B) Continue.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑屏1>:Dammit! Again!
+()||<黑屏2><BIN>82</BIN>:GSh-18 jumps up from her chair with a shout.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑屏1>:Wait for me... I'll save you...
+()||<黑屏2><BIN>9</BIN>:...+<color=#FF0000>BAD END.</color>+<color=#FFFF00>Do you wish to start over from the beginning? Note - starting again will expend a page of manga sketches.</color>+<color=#FFFF00>A) Start again. B) Continue.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑屏1>:I can't pass this quick-time event no matter what, is that it?!
+()||<黑屏2>:......+<color=#FF0000>BAD END.</color>+<size=50><color=#FF0000>BAD END.</color></size>+<size=60><color=#FF0000>BAD END.</color></size>+...+GSh-18's sketchbook is almost empty.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑屏1>:... +Am I STILL not fast enough for this?! +Wait a minute, I've got an idea...

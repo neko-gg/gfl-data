@@ -1,0 +1,43 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:December 1st, in the Griffin dorms.
+gsh18(0)<Speaker>GSh-18</Speaker>||:It's here at last.
+()||:The chat window on the computer buzzes furiously, as though it is venting its anger.
+()<Speaker>Manga Editor</Speaker>||<震屏>:Why haven't you submitted your manuscript yet?!!!
+gsh18(0)<Speaker>GSh-18</Speaker>||:I'm just going to pretend I'm working hard on the manuscript and didn't see this message, like last time.
+()<Speaker>Manga Editor</Speaker>||<震屏>:<size=45>Are you pretending you didn't see this again?!</size>
+gsh18(0)<Speaker>GSh-18</Speaker>||:...
+()<Speaker>Manga Editor</Speaker>||<震屏>:<size=50><color=#FF0000>ANSWER ME RIGHT NOW!!!!!</color></size>
+gsh18(0)<Speaker>GSh-18</Speaker>||:...+I'm doing it, I'm doing it!
+()<Speaker>Manga Editor</Speaker>||:Can't you be more like the author of "Is That Cute and Cool Angel Really My Commander" and not make me have to worry so much about you? +You have three more days, I'll let you imagine what's going to happen if I don't get a submission by then.
+()||:The editor's icon goes gray.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Why do you keep comparing me to that shoujo manga artist? We're working on completely different genres...+Argh, only three days left... Looks like I need to decide on my theme by today!+In any case, it's got to be more entertaining than  "Is That Cute and Cool Angel Really My Commander"...+I've used up all my notes from before and if I keep recycling old gags, the manga will become as stale as bubblegum you've chewed all day.+I need to collect new material, but I haven't had the chance to go on logistics recently...
+()||<黑屏1><BGM>BGM_Empty</BGM>:GSh-18 steps out of the dorm and wanders aimlessly through the base.
+()||<黑屏2><BIN>80</BIN><BGM>GF_café</BGM>:At the café.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Ah, are you practicing how to brew English tea again, NTW?
+NTW20(4)<Speaker>NTW-20</Speaker>||:!!!
+()||:Alarmed, NTW-20 picks up the tea set and swiftly leaves the scene.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑点1>:... +I guess she's still bothered by what happened last time, huh... +But mixing mustard into the tea would have neutralized the spicy taste...right?
+()||<黑点2>:GSh-18 stealthily approaches PP-19-01 as the latter is focused on her book.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Huh? What are you reading now, PP-19-01?+An 1836 edition of Balzac's "Lily of the Valley"...+That looks pretty interesting, may I take a look?
+pp1901(0)<Speaker>PP-19-01</Speaker>||:No! I spent a long time looking for this book...+And I still remember how you doodled all over my book the last time, I haven't settled the score with you yet!
+gsh18(0)<Speaker>GSh-18</Speaker>||:Oh, so that's the kind of book it is. I understand, keep reading, then.+I have things to do so I need to head off now.
+pp1901(0)<Speaker>PP-19-01</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Hey! Get back here!
+()||<黑屏2><BIN>73</BIN><BGM>BGM_Hello</BGM>:At the training ground.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Serdyukov! MP-443! Are you training? +I just picked up a really shiny rock, MP-443!
+mp443(0)<Speaker>MP-443</Speaker>||:What rock - mppphh!
+SPS(0)<Speaker>Serdyukov</Speaker>||:<size=25>Shhhh—</size>+<size=25>Have you forgotten what happened during our last training exercise, when you hit that Goliath with the rock you carved and we had to run for god knows how far?</size>+<size=25>Have you forgotten how long we had to spend in the repair tanks?</size>
+()||:MP-443 manages to shake her head vigorously despite the hand covering her mouth.
+SPS(0)<Speaker>Serdyukov</Speaker>||:<size=25>Now do you remember who gave you that rock?</size>
+mp443(0)<Speaker>MP-443</Speaker>||:......+<size=25>...What should we do, Serdyukov?</size>
+SPS(0)<Speaker>Serdyukov</Speaker>||:<size=25>...GSh-18 with an impending deadline sighted, activating Class Two emergency plan - we retreat!</size>
+()||:Serdyukov and MP-443 stealthily leave the training ground.
+gsh18(0)<Speaker>GSh-18</Speaker>||<黑屏1>:Huh? I thought I saw the two of them here just now?
+()||<BIN>97</BIN><黑屏2>:Outside the forward basecamp.
+gsh18(0)<Speaker>GSh-18</Speaker>||:...Why is everyone avoiding me?+I was planning to <color=#FF0000>manufacture</color> some new material, but I guess that's not working out. +If only I could order everyone to obey my orders like in mangas...
+()||:GSh-18's gaze falls upon the real-time relay terminal.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Another batch of Dolls has gone out on expedition, unfortunately I'm not among the favored Dolls this week...+P7, AK-47, SPAS-12, FF FN49...+So we have a prankster, an drunkard, a glutton and a kitchen wench... That's a pretty interesting team composition!
+()||:GSh-18 pulls up a small stool and sits in front of the terminal. +Suddenly, a dialogue box appears on the screen. +<color=#FFFF00>Do you wish to decide their destiny?</color>+<color=#FFFF00>A) Yes. B) No.</color>
+gsh18(0)<Speaker>GSh-18</Speaker>||:What kind of cringy nonsense is this? Deciding other people's destinies?+If people are going to do as I tell them, then I'll just give them half-assed orders...+Deciding the destiny of the characters in my own manga is hard enough, and now you want me to decide the destinies of people in real life...+Forget it...
+()||:GSh-18's finger hovers over Option B.
+gsh18(0)<Speaker>GSh-18</Speaker>||:Then again, if I CAN decide their destinies, I might be able to make them do more interesting things...+Which means I might get more amusing material for my manga...
+()||<黑屏1>:GSh-18's finger moves to Option A and presses down.
