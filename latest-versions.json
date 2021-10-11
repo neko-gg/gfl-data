@@ -6,6 +6,12 @@
         "clientVersion": "20700"
     },
     {
+        "region": "us",
+        "dataVersion": "61b67e8bcc55e31c13de11f517b3eebc",
+        "abVersion": "2021092819",
+        "clientVersion": "20702"
+    },
+    {
         "region": "kr",
         "dataVersion": "c0938b0256e4cd2fc5a0e8c74588e8dd",
         "abVersion": "0",
@@ -16,11 +22,5 @@
         "dataVersion": "e59b5e751e6edb7bcae6fcd6b3401bf1",
         "abVersion": "0",
         "clientVersion": "20799"
-    },
-    {
-        "region": "us",
-        "dataVersion": "61b67e8bcc55e31c13de11f517b3eebc",
-        "abVersion": "2021092819",
-        "clientVersion": "20702"
     }
 ]
