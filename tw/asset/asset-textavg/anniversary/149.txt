@@ -1,0 +1,7 @@
+AEK999(0)<Speaker>AEK999</Speaker>||<BIN>96</BIN>:好好戴上吧！
+()<Speaker>指揮官</Speaker>||:這是……VR頭盔？
+AEK999(0)<Speaker>AEK999</Speaker>||:沒錯。
+()<Speaker>指揮官</Speaker>||:那這個地毯是幹什麼的？
+AEK999(0)<Speaker>AEK999</Speaker>||:當然是跳舞的啦！+來，指揮官——前奏開始了。
+()<Speaker>指揮官</Speaker>||:嗯？！太快了吧！+說起來我們不是還有晚會要參加嗎？會不會來不及？
+AEK999(0)<Speaker>AEK999</Speaker>||<黑屏1>:沒事沒事，都交給我吧！+<color=#A9A9A9>我可說不出那些害羞的話啦。</color>+<color=#A9A9A9>所以，我就把自己的感情融入到音樂中。</color>+<color=#A9A9A9>指揮官，我可一直都惦記著。</color>+<color=#A9A9A9>那時候大家一起玩的那款音樂遊戲……正是你們五彩斑斕的靈魂讓我保持住了自我……謝謝啦！</color>

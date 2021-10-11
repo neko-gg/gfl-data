@@ -1,0 +1,9 @@
+CZ75(0)<Speaker>CZ75</Speaker>||<BIN>85</BIN>:指揮官是不是在這？
+()<Speaker>指揮官</Speaker>||:75，進來的時候要敲門。
+CZ75(0)<Speaker>CZ75</Speaker>||:怎麼Spitfire也在這？你們在幹嘛？
+()<Speaker>指揮官</Speaker>||:突然有任務報告，我們在檢查……
+CZ75(0)<Speaker>CZ75</Speaker>||:欸，那我也來幫忙。+……上面每個字我都認識，但連在一起卻看不懂了。
+()<Speaker>指揮官</Speaker>||:沒關係，CZ75先去晚會廳吧，我們馬上過來。
+CZ75(0)<Speaker>CZ75</Speaker>||:不行，那樣我不就虧了嗎！
+()<Speaker>指揮官</Speaker>||:你虧了什麼？
+CZ75(0)<Speaker>CZ75</Speaker>||<黑屏1>:怎麼能告訴指揮官呢？+總之我要留在這，等會兒一起去就是了。

@@ -1,0 +1,5 @@
+Webley(0)<Speaker>韋伯利</Speaker>||<BIN>97</BIN>:指揮官，您遲到了15分鐘呢。
+()<Speaker>指揮官</Speaker>||:哈哈……今天事有點多。
+Webley(0)<Speaker>韋伯利</Speaker>||:不成熟的藉口。+但是沒關係，只要您來了就好。
+()||:韋伯利遞過來一個看起來很高級的禮物袋。
+Webley(0)<Speaker>韋伯利</Speaker>||<黑屏1>:這是我為您訂制的西裝，穿上它……+然後和我一起參加晚會吧。

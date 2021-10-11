@@ -1,0 +1,11 @@
+CR21(0)<Speaker>CR21</Speaker>||<BIN>73</BIN>:喔喔——！+指揮官，很不錯嘛。
+()<Speaker>指揮官</Speaker>||:哈……哈……
+CR21(0)<Speaker>CR21</Speaker>||:加油，再加把勁。
+()<Speaker>指揮官</Speaker>||:呃……！
+CR21(0)<Speaker>CR21</Speaker>||:OK，第一套動作完成了，開始第二套。
+()<Speaker>指揮官</Speaker>||:CR21……這套訓練太可怕了，我只是個普通人，真的要在今天做完230個伏地挺身嗎？
+CR21(0)<Speaker>CR21</Speaker>||:當然了！+並且還有30分鐘的姿態矯正訓練。
+()<Speaker>指揮官</Speaker>||:……
+CR21(0)<Speaker>CR21</Speaker>||:哼哼，看指揮官的表情很不滿嘛，不過我可不會讓步。+您平時駝背太嚴重了，都是長期盯著螢幕造成的。+而今天代表著新的開始，請您從今天開始好好運動，改善自己的身體吧！
+()<Speaker>指揮官</Speaker>||:好吧……
+CR21(0)<Speaker>CR21</Speaker>||<黑屏1>:嗯！+<color=#A9A9A9>希望今後我也能像今天這樣陪著您，訓練您……</color>

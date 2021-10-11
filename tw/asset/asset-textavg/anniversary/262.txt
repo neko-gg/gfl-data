@@ -1,0 +1,4 @@
+em2(0)<Speaker>EM2</Speaker>||<BIN>96</BIN>:五周年快樂！指揮官！
+em2(0)<Speaker>EM2</Speaker>||:一轉眼時間已經過去那麼久了，真是讓人心情複雜呢。
+em2(0)<Speaker>EM2</Speaker>||:這樣下去，等到您入職60-1周年的時候，我該怎麼回絕參加慶祝活動才好呢……
+em2(0)<Speaker>EM2</Speaker>||<黑屏1>:欸？想得太遠了？

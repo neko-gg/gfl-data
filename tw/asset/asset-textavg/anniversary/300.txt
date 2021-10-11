@@ -1,0 +1,3 @@
+CAR(0)<Speaker>CAR</Speaker>||<BIN>96</BIN>:指揮官……今天就讓我來負責您的安、安全吧！+滅火器也已經準備好了！
+()<Speaker>指揮官</Speaker>||:我想……這裡應該不太可能起火。
+CAR(0)<Speaker>CAR</Speaker>||<黑屏1>:不行不行，火災可是最危險的災難！+<color=#A9A9A9>我要做的事只有一件，那就是竭盡全力保護指揮官！</color>

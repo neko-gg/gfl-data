@@ -1,0 +1,2 @@
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||<BIN>89</BIN>:指揮官，您怎麼不去慶典，反倒跑來倉庫了？+我只是看最近基地來了很多包裹，拆下來的包裝紙卻就這樣扔了，實在太浪費了。
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||<黑屏1>:請不要叫別人來幫忙，我一個人沒問題的。

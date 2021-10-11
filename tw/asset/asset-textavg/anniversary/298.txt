@@ -1,0 +1,7 @@
+VEPR(0)<Speaker>VEPR</Speaker>||<BIN>8</BIN>:指揮官，您在這裡啊。
+()<Speaker>指揮官</Speaker>||:怎麼了，有事找我嗎？
+VEPR(0)<Speaker>VEPR</Speaker>||:是的，有一份申請需要您批准。
+()<Speaker>指揮官</Speaker>||:好，這份申請還挺厚的……我看看……+在指揮室外構建保護牆？！
+VEPR(0)<Speaker>VEPR</Speaker>||:沒錯，格里芬成立了那麼多年，我發現它禦敵能力實在太弱了。+就讓我利用野豬保護協會會長的力量來協助您吧！
+()<Speaker>指揮官</Speaker>||:……這樣好嗎？申請書上的撥款單位是野豬保護協會，也就是說Vepr準備自己出資吧？
+VEPR(0)<Speaker>VEPR</Speaker>||<黑屏1>:被發現了……+當然了，畢竟保護您對我來說也十分重要！

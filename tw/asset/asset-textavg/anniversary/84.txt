@@ -1,0 +1,3 @@
+RPD(0)<Speaker>RPD</Speaker>||<BIN>96</BIN>:指揮官，今天的任務呢？我的狀態很好，隨時可以行動。
+RPD(0)<Speaker>RPD</Speaker>||:……五周年紀念日？+……+……糟了，我忘記了。
+RPD(0)<Speaker>RPD</Speaker>||<黑屏1>:呃……我這裡有塊泡泡糖，能請您收下嗎？

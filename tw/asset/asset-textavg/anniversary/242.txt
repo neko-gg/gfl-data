@@ -1,0 +1,2 @@
+P22(0)<Speaker>P22</Speaker><通讯框>||<BIN>88</BIN>:<color=#00CCFF>那麼就和過去的自己通次話吧。</color>+<color=#00CCFF>告知一下過去的我，我已經在未來待了不少日子了。</color>+<color=#00CCFF>我現在仍然會看人類的書籍，仍然會去關心最新的潮流。</color>+<color=#00CCFF>然後放心吧，我對未來充滿了信心。</color>+<color=#00CCFF>因為那位指揮官啊……</color>+<color=#00CCFF>哎呀，這段通話被竊聽了，我們就說到這吧。</color>
+P22(0)<Speaker>P22</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>May happiness be with you forever!</color>

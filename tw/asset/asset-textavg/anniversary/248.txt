@@ -1,0 +1,4 @@
+Jericho(0)<Speaker>杰里科</Speaker>||<BIN>96</BIN>:到了今年的問答環節呢。+指揮官，如果現在你陷入絕境，看似無法翻盤，你會怎麼做？
+()<Speaker>指揮官</Speaker>||:……<c>說出自己的回答。
+Jericho(0)<Speaker>杰里科</Speaker>||:感覺和去年的問題相差無幾，但你很清楚差別吧。+我想，你會用行動證明答案的。
+Jericho(0)<Speaker>杰里科</Speaker>||<黑屏1>:不要忘記我的槍，我總是與你同在的。

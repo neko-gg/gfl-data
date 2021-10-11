@@ -1,0 +1,3 @@
+ASVALMod(0)<Speaker>AS VAL</Speaker>||<BIN>96</BIN>:五周年快樂，指揮官。
+ASVALMod(0)<Speaker>AS VAL</Speaker>||:唔……對不起，我和小熊都想要再更大聲一點對您道賀的，但是，聲音就是大不起來……
+ASVALMod(0)<Speaker>AS VAL</Speaker>||<黑屏1>:這麼久以來，都多虧您的照顧，我和小熊都非常感謝……今後，也請跟我們一起加油吧。

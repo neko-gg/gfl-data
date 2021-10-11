@@ -1,0 +1,4 @@
+()<Speaker>指揮官</Speaker>||<BIN>97</BIN>:MAT49，我聽說你不準備參加晚會了？
+MAT49(0)<Speaker>MAT49</Speaker>||:是的。
+()<Speaker>指揮官</Speaker>||:發生了什麼事嗎？
+MAT49(0)<Speaker>MAT49</Speaker>||<黑屏1>:指揮官，您誤會了，我只是想為您站崗而已。+我想要成為您的依靠，一個讓您能安下心的依靠。+所以不用擔心我，今天就放下一切好好享受吧。

@@ -1,0 +1,4 @@
+ColtDefender(0)<Speaker>防衛者</Speaker>||<BIN>96</BIN>:您好，指揮官。
+ColtDefender(0)<Speaker>防衛者</Speaker>||:我聽說了，今天是您入職五周年的慶典吧。
+ColtDefender(0)<Speaker>防衛者</Speaker>||:真是糟糕……明明才報到沒多久，卻厚著臉皮參與這麼有意義的活動。+真希望不會敗壞到大家的心情。+要是在這種日子不小心暴走的話，實在是萬死也難辭其咎……
+ColtDefender(0)<Speaker>防衛者</Speaker>||<黑屏1>:唔，對不起，說了好多不中聽的話。+祝您五周年快樂，指揮官——希望明年，我們可以堂堂正正地向您道賀，我會和解放者一起來的。

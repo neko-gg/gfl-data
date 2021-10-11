@@ -1,0 +1,5 @@
+SV98Mod(0)<Speaker>SV98</Speaker>||<BIN>96</BIN>:五周年快樂，指揮官。+感謝這五年來您陪我們一起度過的風風雨雨。+在這個特別的日子裡，我將謹以此表達我對您的感激之情……
+SV98Mod(0)<Speaker>SV98</Speaker>||:……呃，怎麼有這麼多頁？
+SV98Mod(0)<Speaker>SV98</Speaker>||:算啦，就不按發言稿來說了，那我再說一次吧。
+SV98Mod(0)<Speaker>SV98</Speaker>||:五周年快樂！指揮官！
+SV98Mod(0)<Speaker>SV98</Speaker>||<黑屏1>:嘿嘿，不要太高興喔，雖然是來自我的道賀，但也要稍微控制一下。+畢竟今後還會有很多次聽到的機會嘛！

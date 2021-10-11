@@ -1,0 +1,7 @@
+HowaType89(0)<Speaker>89式自</Speaker>||<BIN>82</BIN>:指揮官，我飯煮好啦！
+()<Speaker>指揮官</Speaker>||:這次應該不止是白米飯了吧……畢竟那麼重要的日子。
+HowaType89(0)<Speaker>89式自</Speaker>||:當然啦！這次會淋上特製醬油！
+()<Speaker>指揮官</Speaker>||:……
+HowaType89(0)<Speaker>89式自</Speaker>||:很好很好，感動得說不出話了嗎？
+()<Speaker>指揮官</Speaker>||:不，我是因為你……
+HowaType89(0)<Speaker>89式自</Speaker>||<黑屏1>:等等，等等，可別說出來啦。+我們，吃飯吧！+<color=#A9A9A9>對不起指揮官，在那麼重要的日子，讓你看到了我不斷流淚的一面……</color>+<color=#A9A9A9>沒有戰鬥的日子，原來是那麼開心的啊。</color>

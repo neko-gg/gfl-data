@@ -1,0 +1,1 @@
+AK15(0)<Speaker>AK15</Speaker><通讯框>||<BIN>85</BIN><黑屏1>:<color=#00CCFF>聽得到嗎，指揮官？這裡是AK15。</color>+<color=#00CCFF>現在的局勢不容樂觀，我們需要盡力保證己方存活並設法匯合。</color>+<color=#00CCFF>以及，恭喜您就職格里芬第五周年。</color>+<color=#00CCFF>……這是我去年學到的，現在也許沒什麼意義了。</color>

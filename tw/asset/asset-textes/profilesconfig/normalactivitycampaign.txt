@@ -1,0 +1,20 @@
+//campaignid-Order-标题-章节名称-背景图名称-(背景颜色,遮罩颜色,横条颜色,字体颜色)-章节简介 - 3D跳转使用图片
+-2|EP.|7.5|失溫症|狼獾成災|active_hypothermia|#FFFFFFC7,#FFFFFF19,#B43939FF,#323232FF|活動時間:2017.11.17-12.15|
+-3|EP.|7.5|失溫症|燈火管制|active_hypothermia|#FFFFFFC7,#FFFFFF19,#B43939FF,#323232FF|活動時間:2017.11.17-12.15|
+-4|EP.|7.5|失溫症|歸鄉行動|active_hypothermia|#FFFFFFC7,#FFFFFF19,#B43939FF,#323232FF|活動時間:2017.11.17-12.15|
+-5|EP.|7.5|失溫症|墜入兔洞|active_hypothermia|#FFFFFFC7,#FFFFFF19,#B43939FF,#323232FF|活動時間:2017.11.17-12.15|
+-6|EP.|5.5|魔方行動+|魔方行動|active_cube|#000000C7,#00253A66,#114C67FF,#FFFFFFFF|活動時間:2017.03.30-04.20|
+-7|EP.|5.5|魔方行動+|盲拆法則|active_cube|#000000C7,#00253A66,#114C67FF,#FFFFFFFF|活動時間:2017.03.30-04.20|
+-10|EP.|8.5|深層映射|認知迷雲|active_depthmap|#000000C7,#00000033,#A3BD13FF,#FFFFFFFF|活動時間:2017.07.28-08.25|
+-11|EP.|8.5|深層映射|雙曲函數|active_depthmap|#000000C7,#00000033,#A3BD13FF,#FFFFFFFF|活動時間:2017.07.28-08.25|
+-12|EP.|8.5|深層映射|相對行為|active_depthmap|#000000C7,#00000033,#A3BD13FF,#FFFFFFFF|活動時間:2017.07.28-08.25|
+-13|EP.|8.5|深層映射|虛數迷宮|active_depthmap|#000000C7,#00000033,#A3BD13FF,#FFFFFFFF|活動時間:2017.07.28-08.25|
+-16|EP.|10.5|塌縮點|大撤退|active_collapse|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2018.03.20-04.17|activitylogo
+-17|EP.|10.5|塌縮點|第二輪月亮|active_collapse|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2018.03.20-04.17|activitylogo
+-18|EP.|10.5|塌縮點|終局|active_collapse|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2018.03.20-04.17|activitylogo
+-24|EP.|10.75|有序紊流|彼岸破曉|active_orderly|#000000C7,#3D415166,#FF5200,#FFFFFFFF|活動時間:2018.08.24-09.21|continuumturbulencelogo
+-25|EP.|10.75|有序紊流|殊途同歸|active_orderly|#000000C7,#3D415166,#FF5200,#FFFFFFFF|活動時間:2018.08.24-09.21|continuumturbulencelogo
+-26|EP.|10.75|有序紊流|跨越末日|active_orderly|#000000C7,#3D415166,#FF5200,#FFFFFFFF|活動時間:2018.08.24-09.21|continuumturbulencelogo
+-28|EP.|10.75|有序紊流|隱藏劇情|active_orderly|#000000C7,#3D415166,#FF5200,#FFFFFFFF|活動時間:2018.08.24-09.21|continuumturbulencelogo
+-31|EP.|11.5|異構體|異構體|active_isomer|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2019.02.01-03.01|isomerlogo
+-33|EP.|11.75|裂變鏈接|裂變鏈接|active_Reversible|#000000C7,#3D415166,#2B9487,#FFFFFFFF|活動時間:2019.08.16-09.13|Reversiblelogo

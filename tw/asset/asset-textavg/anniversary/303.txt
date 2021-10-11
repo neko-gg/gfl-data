@@ -1,0 +1,4 @@
+BrowningHP(0)<Speaker>HP-35</Speaker>||<BIN>8</BIN>:晨安，指揮官。
+BrowningHP(0)<Speaker>HP-35</Speaker>||:看您的樣子，還真是沒有防備……今天可是會很累的喔？您做好準備了嗎？+嗯，真是白問了，您的話，肯定時時刻刻都是準備完畢的狀態吧。
+BrowningHP(0)<Speaker>HP-35</Speaker>||:啊，您的衣服皺了，請不要動，我來為您拍平它——尤其是今天，不注意儀態可不行啊。
+BrowningHP(0)<Speaker>HP-35</Speaker>||<黑屏1>:如果累了的話，我就在外頭，隨時都可以帶您去兜風的喔。+祝您五周年愉快。

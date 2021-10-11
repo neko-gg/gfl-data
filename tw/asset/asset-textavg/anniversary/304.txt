@@ -1,0 +1,5 @@
+SAF(0)<Speaker>SAF</Speaker>||<BIN>8</BIN>:早上好！指揮官！雖然有些突然，但是請給我一個擁抱吧！
+SAF(0)<Speaker>SAF</Speaker>||:嗅……嗯，還來得及，指揮官的味道還是好聞的狀態。
+SAF(0)<Speaker>SAF</Speaker>||:——因為今天是指揮官入職五周年的紀念嘛，所以就想會不會接見很多人形，到時候氣味都會變得怪怪的了。
+SAF(0)<Speaker>SAF</Speaker>||:唔……總覺得擁抱還不夠滿足，能不能再給我一個舉高高呢？+快一點啦，待會G36小姐就要來了。
+SAF(0)<Speaker>SAF</Speaker>||<黑屏1>:嗯，以及，五周年快樂喔？

@@ -1,0 +1,5 @@
+ACR(0)<Speaker>ACR</Speaker>||<BIN>8</BIN>:指揮官，還有我能做的事嗎？
+()<Speaker>指揮官</Speaker>||:沒有了，去享受今天的晚會吧。
+ACR(0)<Speaker>ACR</Speaker>||:那您不準備去嗎？
+()<Speaker>指揮官</Speaker>||:等處理完剩下的幾份報告就去了。
+ACR(0)<Speaker>ACR</Speaker>||<黑屏1>:那麼請讓我等您吧……難得沒有戰鬥的日子我想和您待在一起。

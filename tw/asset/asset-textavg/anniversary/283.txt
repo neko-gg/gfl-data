@@ -1,0 +1,5 @@
+Liberator(0)<Speaker>解放者</Speaker>||<BIN>96</BIN>:嘻嘻，這裡的炸雞很不錯吧？
+()<Speaker>指揮官</Speaker>||:嗯，表面炸的很酥脆，一咬就會流汁。+想不到這個時代也能吃到這麼美味的炸雞。
+Liberator(0)<Speaker>解放者</Speaker>||:這都多虧了您哦。
+()<Speaker>指揮官</Speaker>||:欸？
+Liberator(0)<Speaker>解放者</Speaker>||<黑屏1>:您知道嗎，這個管轄區曾經的名字是——S09。
