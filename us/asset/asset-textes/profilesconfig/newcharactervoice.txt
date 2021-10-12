@@ -4596,3 +4596,17 @@ SUB2000|DIALOGUE3|Now stretch out your arms and shift your center of gravity to 
 SUB2000|SOULCONTRACT|I know how valuable this ring is, but you're not trying to buy a lifetime's worth of yoga lessons with this, are you?<>It's not exactly good for business, but you have a deal. ♪<> But just so we're clear, other services will cost extra!
 SUB2000|DIALOGUEWEDDING|Relax and follow my rhythm. Inhale, exhale... Can you feel the energy surging through your body? Have you come to enjoy to this feeling?
 SUB2000|Introduce|Hello, Commander! Nice to meet you! These two bullets are my generous gift to you.
+Delisle|GAIN|...Hah? Are you talking to me? Are we here already? Are you the Commander? I'm DeLisle, may I know what the bonus scheme here is like?
+Delisle|DIALOGUE1|You want to know about my wardrobe? Forget it, you could never learn how I do it, because even I can't replicate the same feeling when I put my clothes on. I basically just throw a little bit of everything together... No, it is NOT homeless fashion!
+Delisle|DIALOGUE2|Each brand of earphones is different from the others. The kind I like best are the in-ear types. There's no comparing the peace of mind which in-ear types give me as opposed to over-ear or clip-type earphones... And when you lend one to someone else, you also feel more connected to them.
+Delisle|DIALOGUE3|I'm going to beat the crap out of those two bitches next door sooner or later... Their music is crude and tacky and they love surround sound too! Anyone who blasts music out loud must be deaf!
+Delisle|SOULCONTRACT|Your taste in Dolls is just as bad as your taste in music... I'll say this up front, if I had to describe myself as a pair of earphones, I'd probably be a 39.90 discount pair. <> If you're okay with that, then I'll do my best for you.
+Delisle|DIALOGUEWEDDING|Although tangled earphone cables are annoying, losing either of the left or right channels makes a song incomplete. Even a mess of things thrown together can still become a complete whole, so I'll lend my R to you, and I'll be your L. From now on, we'll be a complete set too.
+Delisle|Introduce|...Hah? Are you talking to me? Are we here already? Are you the Commander? I'm DeLisle, may I know what the bonus scheme here is like?
+SVCh|GAIN|We meet at last, Commander. I, SVCh, will eliminate all enemies in the backline. Nobody will escape my eyes.
+SVCh|DIALOGUE1|If you need long-ranged fire support, please feel free to count on me. You might not know this yet, but SVD has long since become obsolete.
+SVCh|DIALOGUE2|Together, KSVK and I would be invincible... Unfortunately, I think I will never get used to someone who speaks as strangely as she does.
+SVCh|DIALOGUE3|Don't touch me, Commander, I'm carrying out shooting practice... What? You brought honey dumplings for me? Ahem, well, one should train in moderation. I think it's time to rest for a bit.
+SVCh|SOULCONTRACT|What's the matter, Commander? I was just about to go to the range with SVD for a competition. <> This is...hehe, looks like I'm still the winner in the end. <> In that case, please throw a grand celebration for me, one that will not be outdone by anyone else.
+SVCh|DIALOGUEWEDDING|You've worked hard, Commander. I made these honey-soaked dumplings just for you. What, you're too lazy to reach out for them? Hehe, so you want me to feed you, then? Hm... Alright, then please open your mouth.
+SVCh|Introduce|We meet at last, Commander. I, SVCh, will eliminate all enemies in the backline. Nobody will escape my eyes.
