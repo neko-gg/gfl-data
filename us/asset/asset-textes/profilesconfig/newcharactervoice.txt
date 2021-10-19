@@ -352,6 +352,47 @@ BM59|Introduce|VM59, reporting in. Having been through numerous upgrades, I will
 BM59|ALLHALLOWS|Only on an evening like this can I think about nothing other than dolling myself up. Care to pick a dress for me, Commander?
 BM59|DIALOGUEWEDDING|You like my accessories today, Commander? Training goes without saying, but I can't slack off on my appearance either...since what I do reflects on you.
 BM59|GAIN|VM59, reporting in. Having been through numerous upgrades, I will definitely not let you down, Commander.
+BossArchitect|ACCEPT|Yep yep!
+BossArchitect|AGREE|That's right!
+BossArchitect|APPRECIATE|Wow!
+BossArchitect|ATTACK|How pathetically weak! Let's smash them all!
+BossArchitect|BLACKACTION|I want to work alone! Don't worry, I'm really strong!
+BossArchitect|BREAKTHROUGH01|I feel different... I think I've become cooler?
+BossArchitect|BREAKTHROUGH02|Look! Not only have I grown stronger, I also look a lot cooler!
+BossArchitect|DEAD01|Huh? Is it...over already...?
+BossArchitect|DEAD02|This world...isn't so bad...
+BossArchitect|DEFENSE|That's some impressive firepower. Then let's switch formation!
+BossArchitect|DIALOGUE01|You keep staring at me. Is there something interesting that you wanna tell me?
+BossArchitect|DIALOGUE02|Hey, let's go out and do something fun! It's so boring in here...
+BossArchitect|DIALOGUE03|Alright, alright, I promise I'll be good and won't run off, so can you bring me along on a mission?
+BossArchitect|DIALOGUEWEDDING|Commander, can you tell what's different about me today? Jeez, don't just brush me off. You have to close your eyes and feel it properly...
+BossArchitect|FEED01|This power is so cool! I love it!
+BossArchitect|FEED02|Hey, don't you think I've become even stronger?
+BossArchitect|FEELING|Hmm~
+BossArchitect|FIX|Hey, gently! Owwww!
+BossArchitect|FORMATION01|Humph, you should've let me handle this sooner!
+BossArchitect|FORMATION02|I knooooow! It's just winning – that's my forte!
+BossArchitect|FORMATION03|Right-eo! Girls, let's all work hard together!
+BossArchitect|GAIN01|Architect of Sangvis Ferri joining you officially! You're the Commander, yeah? I'm sooooo lucky!
+BossArchitect|GAIN02|Heheh, we meet again, Commander! Now I'm doubly lucky!
+BossArchitect|GOATTACK|Here we go, girls!
+BossArchitect|HELLO|There you are! I'm almost bored to death!
+BossArchitect|LOADING|Commander, where are we gonna play today... Uh, I mean, where will our mission take us?
+BossArchitect|LOWMOOD|Humph!
+BossArchitect|MEET|Oh? We've run into some interesting folks!
+BossArchitect|MOOD1|Haha!
+BossArchitect|MOOD2|Huh?
+BossArchitect|PHRASE|Boooring!
+BossArchitect|RETREAT|How did this happen...? I don't believe it...
+BossArchitect|SKILL01|Right! Here comes my counterattack!
+BossArchitect|SKILL02|Get ready for some explosive action!
+BossArchitect|SKILL03|Prepare to die, trash!
+BossArchitect|SOULCONTRACT|Commander, what's this shiny small hoop? I've seen some Griffin Dolls equipped with this...<>Is it something very valuable? They're all very careful with theirs... What?! Is that so...<>So you'll always come and play with me from now on, Commander? Then we'll be together forever and ever!
+BossArchitect|TIP|Come and look at my new mortar! Isn't it cool?
+BossArchitect|TITLECALL|Girls' Frontline
+BossArchitect|UPGRADE01|Huh? For me?! Yayyy!
+BossArchitect|UPGRADE02|Wooooow! Thanks! I've always wanted this!
+BossArchitect|WIN|Haha, aren't I a bit too good at this?
 BrenMK|DIALOGUE1|Is there a problem? Make it short.
 BrenMK|DIALOGUE2|Come on. How about you quit spacing out and go do some training?
 BrenMK|DIALOGUE3|W-What are you trying to do?!
@@ -3908,7 +3949,7 @@ Guard|DIALOGUE02|(￣▽￣～)(～￣▽￣)
 Guard|DIALOGUE03|.../..../.././.-../-..
 Guard_SWAP|DIALOGUE01|.../..../.././.-../-..
 Guard_SWAP|DIALOGUE02|-..././..../../-./-..
-Guard_SWAP|DIALOGUE03|
+Guard_SWAP|DIALOGUE03|(O_o)
 Jaeger|DIALOGUE01|Slam, bang! Slam, bang!
 Jaeger|DIALOGUE02|☆（>○<）
 Jaeger|DIALOGUE03|...././.-/-..
@@ -4610,3 +4651,9 @@ SVCh|DIALOGUE3|Don't touch me, Commander, I'm carrying out shooting practice... 
 SVCh|SOULCONTRACT|What's the matter, Commander? I was just about to go to the range with SVD for a competition. <> This is...hehe, looks like I'm still the winner in the end. <> In that case, please throw a grand celebration for me, one that will not be outdone by anyone else.
 SVCh|DIALOGUEWEDDING|You've worked hard, Commander. I made these honey-soaked dumplings just for you. What, you're too lazy to reach out for them? Hehe, so you want me to feed you, then? Hm... Alright, then please open your mouth.
 SVCh|Introduce|We meet at last, Commander. I, SVCh, will eliminate all enemies in the backline. Nobody will escape my eyes.
+Ripper|DIALOGUE01|Dun-dun, dun-dun-dun, dun-dun-dun-dun!
+Ripper|DIALOGUE02|╰╮o(￣皿￣///)
+Ripper|DIALOGUE03| -../../.
+Ripper_SWAP|DIALOGUE01|-.-./.-./../--/.
+Ripper_SWAP|DIALOGUE02|.-/-./-..
+Ripper_SWAP|DIALOGUE03|.--././-./.-/.-../-/-.--
