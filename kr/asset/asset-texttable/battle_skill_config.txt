@@ -66731,3 +66731,768 @@ battle_skill_config-575901201,
 battle_skill_config-275901201,
 battle_skill_config-375901201,
 battle_skill_config-475901201,
+battle_skill_config-180400101,선혈의 파도
+battle_skill_config-580400101,
+battle_skill_config-280400101,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 18% 상승시킨다//c 지속시간 3초.
+battle_skill_config-380400101,쿨타임:20초//c화력 상승치:18%//c명중 상승치:18%//c사속 상승치:18%//c지속시간:3초
+battle_skill_config-480400101,
+battle_skill_config-180400102,선혈의 파도
+battle_skill_config-580400102,
+battle_skill_config-280400102,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 19% 상승시킨다//c 지속시간 3.2초.
+battle_skill_config-380400102,쿨타임:19.6초//c화력 상승치:19%//c명중 상승치:19%//c사속 상승치:19%//c지속시간:3.2초
+battle_skill_config-480400102,
+battle_skill_config-180400103,선혈의 파도
+battle_skill_config-580400103,
+battle_skill_config-280400103,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 21% 상승시킨다//c 지속시간 3.4초.
+battle_skill_config-380400103,쿨타임:19.1초//c화력 상승치:21%//c명중 상승치:21%//c사속 상승치:21%//c지속시간:3.4초
+battle_skill_config-480400103,
+battle_skill_config-180400104,선혈의 파도
+battle_skill_config-580400104,
+battle_skill_config-280400104,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 22% 상승시킨다//c 지속시간 3.7초.
+battle_skill_config-380400104,쿨타임:18.7초//c화력 상승치:22%//c명중 상승치:22%//c사속 상승치:22%//c지속시간:3.7초
+battle_skill_config-480400104,
+battle_skill_config-180400105,선혈의 파도
+battle_skill_config-580400105,
+battle_skill_config-280400105,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 23% 상승시킨다//c 지속시간 3.9초.
+battle_skill_config-380400105,쿨타임:18.2초//c화력 상승치:23%//c명중 상승치:23%//c사속 상승치:23%//c지속시간:3.9초
+battle_skill_config-480400105,
+battle_skill_config-180400106,선혈의 파도
+battle_skill_config-580400106,
+battle_skill_config-280400106,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 25% 상승시킨다//c 지속시간 4.1초.
+battle_skill_config-380400106,쿨타임:17.8초//c화력 상승치:25%//c명중 상승치:25%//c사속 상승치:25%//c지속시간:4.1초
+battle_skill_config-480400106,
+battle_skill_config-180400107,선혈의 파도
+battle_skill_config-580400107,
+battle_skill_config-280400107,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 26% 상승시킨다//c 지속시간 4.3초.
+battle_skill_config-380400107,쿨타임:17.3초//c화력 상승치:26%//c명중 상승치:26%//c사속 상승치:26%//c지속시간:4.3초
+battle_skill_config-480400107,
+battle_skill_config-180400108,선혈의 파도
+battle_skill_config-580400108,
+battle_skill_config-280400108,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 27% 상승시킨다//c 지속시간 4.6초.
+battle_skill_config-380400108,쿨타임:16.9초//c화력 상승치:27%//c명중 상승치:27%//c사속 상승치:27%//c지속시간:4.6초
+battle_skill_config-480400108,
+battle_skill_config-180400109,선혈의 파도
+battle_skill_config-580400109,
+battle_skill_config-280400109,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 29% 상승시킨다//c 지속시간 4.8초.
+battle_skill_config-380400109,쿨타임:16.4초//c화력 상승치:29%//c명중 상승치:29%//c사속 상승치:29%//c지속시간:4.8초
+battle_skill_config-480400109,
+battle_skill_config-180400110,선혈의 파도
+battle_skill_config-580400110,
+battle_skill_config-280400110,발동 시 자신 버프칸 위 아군 인형의 화력//c 사속//c 명중을 30% 상승시킨다//c 지속시간 5초.
+battle_skill_config-380400110,쿨타임:16초//c화력 상승치:30%//c명중 상승치:30%//c사속 상승치:30%//c지속시간:5초
+battle_skill_config-480400110,
+battle_skill_config-180400201,기계의 맥박
+battle_skill_config-580400201,
+battle_skill_config-280400201,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 5% 상승//c 기관단총의 회피와 피해 차감량 10% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400201,화력 상승치:5%//c명중 상승치:5%//c회피 상승치:10%//c피해 차감:10%
+battle_skill_config-480400201,
+battle_skill_config-180400202,기계의 맥박
+battle_skill_config-580400202,
+battle_skill_config-280400202,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 5.6% 상승//c 기관단총의 회피와 피해 차감량 10.6% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400202,화력 상승치:5.6%//c명중 상승치:5.6%//c회피 상승치:10.6%//c피해 차감:10.6%
+battle_skill_config-480400202,
+battle_skill_config-180400203,기계의 맥박
+battle_skill_config-580400203,
+battle_skill_config-280400203,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 6.1% 상승//c 기관단총의 회피와 피해 차감량 11.1% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400203,화력 상승치:6.1%//c명중 상승치:6.1%//c회피 상승치:11.1%//c피해 차감:11.1%
+battle_skill_config-480400203,
+battle_skill_config-180400204,기계의 맥박
+battle_skill_config-580400204,
+battle_skill_config-280400204,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 6.7% 상승//c 기관단총의 회피와 피해 차감량 11.7% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400204,화력 상승치:6.7%//c명중 상승치:6.7%//c회피 상승치:11.7%//c피해 차감:11.7%
+battle_skill_config-480400204,
+battle_skill_config-180400205,기계의 맥박
+battle_skill_config-580400205,
+battle_skill_config-280400205,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 7.2% 상승//c 기관단총의 회피와 피해 차감량 12.2% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400205,화력 상승치:7.2%//c명중 상승치:7.2%//c회피 상승치:12.2%//c피해 차감:12.2%
+battle_skill_config-480400205,
+battle_skill_config-180400206,기계의 맥박
+battle_skill_config-580400206,
+battle_skill_config-280400206,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 7.8% 상승//c 기관단총의 회피와 피해 차감량 12.8% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400206,화력 상승치:7.8%//c명중 상승치:7.8%//c회피 상승치:12.8%//c피해 차감:12.8%
+battle_skill_config-480400206,
+battle_skill_config-180400207,기계의 맥박
+battle_skill_config-580400207,
+battle_skill_config-280400207,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 8.3% 상승//c 기관단총의 회피와 피해 차감량 13.3% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400207,화력 상승치:8.3%//c명중 상승치:8.3%//c회피 상승치:13.3%//c피해 차감:13.3%
+battle_skill_config-480400207,
+battle_skill_config-180400208,기계의 맥박
+battle_skill_config-580400208,
+battle_skill_config-280400208,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 8.9% 상승//c 기관단총의 회피와 피해 차감량 13.9% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400208,화력 상승치:8.9%//c명중 상승치:8.9%//c회피 상승치:13.9%//c피해 차감:13.9%
+battle_skill_config-480400208,
+battle_skill_config-180400209,기계의 맥박
+battle_skill_config-580400209,
+battle_skill_config-280400209,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 9.4% 상승//c 기관단총의 회피와 피해 차감량 14.4% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400209,화력 상승치:9.4%//c명중 상승치:9.4%//c회피 상승치:14.4%//c피해 차감:14.4%
+battle_skill_config-480400209,
+battle_skill_config-180400210,기계의 맥박
+battle_skill_config-580400210,
+battle_skill_config-280400210,"선혈의 파도" 발동 시//c 버프칸 위 아군 인형에게 "메아리" 효과를 부여한다.//n메아리: 돌격소총의 화력과 명중 10% 상승//c 기관단총의 회피와 피해 차감량 15% 상승//c 최대 3중첩. 메아리를 받은 유닛은 2초 후 자신 전후좌우로 인접한 인형에게 "메아리"를 부여한다. 메아리 지속시간 6초. 기타 인형의 패시브를 발동 안 함.
+battle_skill_config-380400210,화력 상승치:10%//c명중 상승치:10%//c회피 상승치:15%//c피해 차감:15%
+battle_skill_config-480400210,
+battle_skill_config-180400301,回响[*]1
+battle_skill_config-580400301,
+battle_skill_config-280400301,
+battle_skill_config-380400301,
+battle_skill_config-480400301,
+battle_skill_config-180400401,回响[*]2
+battle_skill_config-580400401,
+battle_skill_config-280400401,
+battle_skill_config-380400401,
+battle_skill_config-480400401,
+battle_skill_config-180400501,回响[*]3
+battle_skill_config-580400501,
+battle_skill_config-280400501,
+battle_skill_config-380400501,
+battle_skill_config-480400501,
+battle_skill_config-180400601,回响[*]4
+battle_skill_config-580400601,
+battle_skill_config-280400601,
+battle_skill_config-380400601,
+battle_skill_config-480400601,
+battle_skill_config-180400701,回响[*]5
+battle_skill_config-580400701,
+battle_skill_config-280400701,
+battle_skill_config-380400701,
+battle_skill_config-480400701,
+battle_skill_config-180400801,回响[*]6
+battle_skill_config-580400801,
+battle_skill_config-280400801,
+battle_skill_config-380400801,
+battle_skill_config-480400801,
+battle_skill_config-180400901,回响[*]7
+battle_skill_config-580400901,
+battle_skill_config-280400901,
+battle_skill_config-380400901,
+battle_skill_config-480400901,
+battle_skill_config-180401001,回响[*]8
+battle_skill_config-580401001,
+battle_skill_config-280401001,
+battle_skill_config-380401001,
+battle_skill_config-480401001,
+battle_skill_config-180401101,回响[*]9
+battle_skill_config-580401101,
+battle_skill_config-280401101,
+battle_skill_config-380401101,
+battle_skill_config-480401101,
+battle_skill_config-180401201,回响[*]10
+battle_skill_config-580401201,
+battle_skill_config-280401201,
+battle_skill_config-380401201,
+battle_skill_config-480401201,
+battle_skill_config-174000101,기선제압
+battle_skill_config-574000101,
+battle_skill_config-274000101,적 전체 화력을 16% 감소시킨다//c 지속시간 5초.
+battle_skill_config-374000101,쿨타임:15초//c화력 감소치:16%//c지속시간:5초
+battle_skill_config-474000101,
+battle_skill_config-174000102,기선제압
+battle_skill_config-574000102,
+battle_skill_config-274000102,적 전체 화력을 17% 감소시킨다//c 지속시간 6초.
+battle_skill_config-374000102,쿨타임:14.7초//c화력 감소치:17%//c지속시간:6초
+battle_skill_config-474000102,
+battle_skill_config-174000103,기선제압
+battle_skill_config-574000103,
+battle_skill_config-274000103,적 전체 화력을 19% 감소시킨다//c 지속시간 6초.
+battle_skill_config-374000103,쿨타임:14.3초//c화력 감소치:19%//c지속시간:6초
+battle_skill_config-474000103,
+battle_skill_config-174000104,기선제압
+battle_skill_config-574000104,
+battle_skill_config-274000104,적 전체 화력을 20% 감소시킨다//c 지속시간 6초.
+battle_skill_config-374000104,쿨타임:14초//c화력 감소치:20%//c지속시간:6초
+battle_skill_config-474000104,
+battle_skill_config-174000105,기선제압
+battle_skill_config-574000105,
+battle_skill_config-274000105,적 전체 화력을 21% 감소시킨다//c 지속시간 7초.
+battle_skill_config-374000105,쿨타임:13.7초//c화력 감소치:21%//c지속시간:7초
+battle_skill_config-474000105,
+battle_skill_config-174000106,기선제압
+battle_skill_config-574000106,
+battle_skill_config-274000106,적 전체 화력을 23% 감소시킨다//c 지속시간 7초.
+battle_skill_config-374000106,쿨타임:13.3초//c화력 감소치:23%//c지속시간:7초
+battle_skill_config-474000106,
+battle_skill_config-174000107,기선제압
+battle_skill_config-574000107,
+battle_skill_config-274000107,적 전체 화력을 24% 감소시킨다//c 지속시간 7초.
+battle_skill_config-374000107,쿨타임:13초//c화력 감소치:24%//c지속시간:7초
+battle_skill_config-474000107,
+battle_skill_config-174000108,기선제압
+battle_skill_config-574000108,
+battle_skill_config-274000108,적 전체 화력을 25% 감소시킨다//c 지속시간 8초.
+battle_skill_config-374000108,쿨타임:12.7초//c화력 감소치:25%//c지속시간:8초
+battle_skill_config-474000108,
+battle_skill_config-174000109,기선제압
+battle_skill_config-574000109,
+battle_skill_config-274000109,적 전체 화력을 27% 감소시킨다//c 지속시간 8초.
+battle_skill_config-374000109,쿨타임:12.3초//c화력 감소치:27%//c지속시간:8초
+battle_skill_config-474000109,
+battle_skill_config-174000110,기선제압
+battle_skill_config-574000110,
+battle_skill_config-274000110,적 전체 화력을 28% 감소시킨다//c 지속시간 8초.
+battle_skill_config-374000110,쿨타임:12초//c화력 감소치:28%//c지속시간:8초
+battle_skill_config-474000110,
+battle_skill_config-174000201,유성의 궤적
+battle_skill_config-574000201,
+battle_skill_config-274000201,기선제압 발동 시//c 버프칸 위 아군의 화력을 10% 상승시킨다//c 지속시간 2초.
+battle_skill_config-374000201,화력 상승치:10%//c지속시간:2초
+battle_skill_config-474000201,
+battle_skill_config-174000202,유성의 궤적
+battle_skill_config-574000202,
+battle_skill_config-274000202,기선제압 발동 시//c 버프칸 위 아군의 화력을 11% 상승시킨다//c 지속시간 2.2초.
+battle_skill_config-374000202,화력 상승치:11%//c지속시간:2.2초
+battle_skill_config-474000202,
+battle_skill_config-174000203,유성의 궤적
+battle_skill_config-574000203,
+battle_skill_config-274000203,기선제압 발동 시//c 버프칸 위 아군의 화력을 12% 상승시킨다//c 지속시간 2.4초.
+battle_skill_config-374000203,화력 상승치:12%//c지속시간:2.4초
+battle_skill_config-474000203,
+battle_skill_config-174000204,유성의 궤적
+battle_skill_config-574000204,
+battle_skill_config-274000204,기선제압 발동 시//c 버프칸 위 아군의 화력을 13% 상승시킨다//c 지속시간 2.7초.
+battle_skill_config-374000204,화력 상승치:13%//c지속시간:2.7초
+battle_skill_config-474000204,
+battle_skill_config-174000205,유성의 궤적
+battle_skill_config-574000205,
+battle_skill_config-274000205,기선제압 발동 시//c 버프칸 위 아군의 화력을 14% 상승시킨다//c 지속시간 2.9초.
+battle_skill_config-374000205,화력 상승치:14%//c지속시간:2.9초
+battle_skill_config-474000205,
+battle_skill_config-174000206,유성의 궤적
+battle_skill_config-574000206,
+battle_skill_config-274000206,기선제압 발동 시//c 버프칸 위 아군의 화력을 16% 상승시킨다//c 지속시간 3.1초.
+battle_skill_config-374000206,화력 상승치:16%//c지속시간:3.1초
+battle_skill_config-474000206,
+battle_skill_config-174000207,유성의 궤적
+battle_skill_config-574000207,
+battle_skill_config-274000207,기선제압 발동 시//c 버프칸 위 아군의 화력을 17% 상승시킨다//c 지속시간 3.3초.
+battle_skill_config-374000207,화력 상승치:17%//c지속시간:3.3초
+battle_skill_config-474000207,
+battle_skill_config-174000208,유성의 궤적
+battle_skill_config-574000208,
+battle_skill_config-274000208,기선제압 발동 시//c 버프칸 위 아군의 화력을 18% 상승시킨다//c 지속시간 3.6초.
+battle_skill_config-374000208,화력 상승치:18%//c지속시간:3.6초
+battle_skill_config-474000208,
+battle_skill_config-174000209,유성의 궤적
+battle_skill_config-574000209,
+battle_skill_config-274000209,기선제압 발동 시//c 버프칸 위 아군의 화력을 19% 상승시킨다//c 지속시간 3.8초.
+battle_skill_config-374000209,화력 상승치:19%//c지속시간:3.8초
+battle_skill_config-474000209,
+battle_skill_config-174000210,유성의 궤적
+battle_skill_config-574000210,
+battle_skill_config-274000210,기선제압 발동 시//c 버프칸 위 아군의 화력을 20% 상승시킨다//c 지속시간 4초.
+battle_skill_config-374000210,화력 상승치:20%//c지속시간:4초
+battle_skill_config-474000210,
+battle_skill_config-174000301,포스실드
+battle_skill_config-574000301,
+battle_skill_config-274000301,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 2초.
+battle_skill_config-374000301,쿨타임:20초//c지속시간:2초
+battle_skill_config-474000301,
+battle_skill_config-174000302,포스실드
+battle_skill_config-574000302,
+battle_skill_config-274000302,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 2.2초.
+battle_skill_config-374000302,쿨타임:19.6초//c지속시간:2.2초
+battle_skill_config-474000302,
+battle_skill_config-174000303,포스실드
+battle_skill_config-574000303,
+battle_skill_config-274000303,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 2.4초.
+battle_skill_config-374000303,쿨타임:19.1초//c지속시간:2.4초
+battle_skill_config-474000303,
+battle_skill_config-174000304,포스실드
+battle_skill_config-574000304,
+battle_skill_config-274000304,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 2.7초.
+battle_skill_config-374000304,쿨타임:18.7초//c지속시간:2.7초
+battle_skill_config-474000304,
+battle_skill_config-174000305,포스실드
+battle_skill_config-574000305,
+battle_skill_config-274000305,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 2.9초.
+battle_skill_config-374000305,쿨타임:18.2초//c지속시간:2.9초
+battle_skill_config-474000305,
+battle_skill_config-174000306,포스실드
+battle_skill_config-574000306,
+battle_skill_config-274000306,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 3.1초.
+battle_skill_config-374000306,쿨타임:17.8초//c지속시간:3.1초
+battle_skill_config-474000306,
+battle_skill_config-174000307,포스실드
+battle_skill_config-574000307,
+battle_skill_config-274000307,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 3.3초.
+battle_skill_config-374000307,쿨타임:17.3초//c지속시간:3.3초
+battle_skill_config-474000307,
+battle_skill_config-174000308,포스실드
+battle_skill_config-574000308,
+battle_skill_config-274000308,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 3.6초.
+battle_skill_config-374000308,쿨타임:16.9초//c지속시간:3.6초
+battle_skill_config-474000308,
+battle_skill_config-174000309,포스실드
+battle_skill_config-574000309,
+battle_skill_config-274000309,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 3.8초.
+battle_skill_config-374000309,쿨타임:16.4초//c지속시간:3.8초
+battle_skill_config-474000309,
+battle_skill_config-174000310,포스실드
+battle_skill_config-574000310,
+battle_skill_config-274000310,자신에게 피해를 막는 왜곡방벽을 9999점 생성하며 도발효과를 부여한다//c 지속시간 4초.
+battle_skill_config-374000310,쿨타임:16초//c지속시간:4초
+battle_skill_config-474000310,
+battle_skill_config-174000401,하나된 가호
+battle_skill_config-574000401,
+battle_skill_config-274000401,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000401,각 SMG AR가 제공하는 "가호" 시간:2초
+battle_skill_config-474000401,
+battle_skill_config-174000402,하나된 가호
+battle_skill_config-574000402,
+battle_skill_config-274000402,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.2초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000402,각 SMG AR가 제공하는 "가호" 시간:2.2초
+battle_skill_config-474000402,
+battle_skill_config-174000403,하나된 가호
+battle_skill_config-574000403,
+battle_skill_config-274000403,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.4초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000403,각 SMG AR가 제공하는 "가호" 시간:2.4초
+battle_skill_config-474000403,
+battle_skill_config-174000404,하나된 가호
+battle_skill_config-574000404,
+battle_skill_config-274000404,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.7초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000404,각 SMG AR가 제공하는 "가호" 시간:2.7초
+battle_skill_config-474000404,
+battle_skill_config-174000405,하나된 가호
+battle_skill_config-574000405,
+battle_skill_config-274000405,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.9초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000405,각 SMG AR가 제공하는 "가호" 시간:2.9초
+battle_skill_config-474000405,
+battle_skill_config-174000406,하나된 가호
+battle_skill_config-574000406,
+battle_skill_config-274000406,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.1초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000406,각 SMG AR가 제공하는 "가호" 시간:3.1초
+battle_skill_config-474000406,
+battle_skill_config-174000407,하나된 가호
+battle_skill_config-574000407,
+battle_skill_config-274000407,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.3초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000407,각 SMG AR가 제공하는 "가호" 시간:3.3초
+battle_skill_config-474000407,
+battle_skill_config-174000408,하나된 가호
+battle_skill_config-574000408,
+battle_skill_config-274000408,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.6초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000408,각 SMG AR가 제공하는 "가호" 시간:3.6초
+battle_skill_config-474000408,
+battle_skill_config-174000409,하나된 가호
+battle_skill_config-574000409,
+battle_skill_config-274000409,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.8초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000409,각 SMG AR가 제공하는 "가호" 시간:3.8초
+battle_skill_config-474000409,
+battle_skill_config-174000410,하나된 가호
+battle_skill_config-574000410,
+battle_skill_config-274000410,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 4초 제공한다.//n전역 전투에서 승리할 때마다//c "가호"의 지속시간이 20%씩 감소한다//c 최대 3중첩.
+battle_skill_config-374000410,각 SMG AR가 제공하는 "가호" 시간:4초
+battle_skill_config-474000410,
+battle_skill_config-174000501,不屈触发
+battle_skill_config-574000501,
+battle_skill_config-274000501,
+battle_skill_config-374000501,
+battle_skill_config-474000501,
+battle_skill_config-174000601,不屈前统计ar//csmg
+battle_skill_config-574000601,
+battle_skill_config-274000601,
+battle_skill_config-374000601,
+battle_skill_config-474000601,
+battle_skill_config-174000701,不屈前ar//csmg反馈技能
+battle_skill_config-574000701,
+battle_skill_config-274000701,
+battle_skill_config-374000701,
+battle_skill_config-474000701,
+battle_skill_config-174000801,확인사살
+battle_skill_config-574000801,
+battle_skill_config-274000801,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.1~3.2배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000801,쿨타임:13초//c최소 피해배율:2.1배//c최대 피해배율:3.2배
+battle_skill_config-474000801,
+battle_skill_config-174000802,확인사살
+battle_skill_config-574000802,
+battle_skill_config-274000802,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.2~3.6배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000802,쿨타임:12.6초//c최소 피해배율:2.2배//c최대 피해배율:3.6배
+battle_skill_config-474000802,
+battle_skill_config-174000803,확인사살
+battle_skill_config-574000803,
+battle_skill_config-274000803,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.3~4배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000803,쿨타임:12.1초//c최소 피해배율:2.3배//c최대 피해배율:4배
+battle_skill_config-474000803,
+battle_skill_config-174000804,확인사살
+battle_skill_config-574000804,
+battle_skill_config-274000804,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.4~4.5배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000804,쿨타임:11.7초//c최소 피해배율:2.4배//c최대 피해배율:4.5배
+battle_skill_config-474000804,
+battle_skill_config-174000805,확인사살
+battle_skill_config-574000805,
+battle_skill_config-274000805,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.5~4.9배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000805,쿨타임:11.2초//c최소 피해배율:2.5배//c최대 피해배율:4.9배
+battle_skill_config-474000805,
+battle_skill_config-174000806,확인사살
+battle_skill_config-574000806,
+battle_skill_config-274000806,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.7~5.3배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000806,쿨타임:10.8초//c최소 피해배율:2.7배//c최대 피해배율:5.3배
+battle_skill_config-474000806,
+battle_skill_config-174000807,확인사살
+battle_skill_config-574000807,
+battle_skill_config-274000807,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.8~5.7배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000807,쿨타임:10.3초//c최소 피해배율:2.8배//c최대 피해배율:5.7배
+battle_skill_config-474000807,
+battle_skill_config-174000808,확인사살
+battle_skill_config-574000808,
+battle_skill_config-274000808,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2.9~6.2배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000808,쿨타임:9.9초//c최소 피해배율:2.9배//c최대 피해배율:6.2배
+battle_skill_config-474000808,
+battle_skill_config-174000809,확인사살
+battle_skill_config-574000809,
+battle_skill_config-274000809,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 3~6.6배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000809,쿨타임:9.4초//c최소 피해배율:3배//c최대 피해배율:6.6배
+battle_skill_config-474000809,
+battle_skill_config-174000810,확인사살
+battle_skill_config-574000810,
+battle_skill_config-274000810,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 3.1~7배의 피해를 주고 충전을 해제한다.(보호막 관통)
+battle_skill_config-374000810,쿨타임:9초//c최소 피해배율:3.1배//c최대 피해배율:7배
+battle_skill_config-474000810,
+battle_skill_config-174000901,사신의 초대
+battle_skill_config-574000901,
+battle_skill_config-274000901,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 70% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000901,충전 중 화력 상승치:70%
+battle_skill_config-474000901,
+battle_skill_config-174000902,사신의 초대
+battle_skill_config-574000902,
+battle_skill_config-274000902,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 76% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000902,충전 중 화력 상승치:76%
+battle_skill_config-474000902,
+battle_skill_config-174000903,사신의 초대
+battle_skill_config-574000903,
+battle_skill_config-274000903,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 81% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000903,충전 중 화력 상승치:81%
+battle_skill_config-474000903,
+battle_skill_config-174000904,사신의 초대
+battle_skill_config-574000904,
+battle_skill_config-274000904,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 87% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000904,충전 중 화력 상승치:87%
+battle_skill_config-474000904,
+battle_skill_config-174000905,사신의 초대
+battle_skill_config-574000905,
+battle_skill_config-274000905,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 92% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000905,충전 중 화력 상승치:92%
+battle_skill_config-474000905,
+battle_skill_config-174000906,사신의 초대
+battle_skill_config-574000906,
+battle_skill_config-274000906,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 98% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000906,충전 중 화력 상승치:98%
+battle_skill_config-474000906,
+battle_skill_config-174000907,사신의 초대
+battle_skill_config-574000907,
+battle_skill_config-274000907,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 103% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000907,충전 중 화력 상승치:103%
+battle_skill_config-474000907,
+battle_skill_config-174000908,사신의 초대
+battle_skill_config-574000908,
+battle_skill_config-274000908,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 109% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000908,충전 중 화력 상승치:109%
+battle_skill_config-474000908,
+battle_skill_config-174000909,사신의 초대
+battle_skill_config-574000909,
+battle_skill_config-274000909,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 114% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000909,충전 중 화력 상승치:114%
+battle_skill_config-474000909,
+battle_skill_config-174000910,사신의 초대
+battle_skill_config-574000910,
+battle_skill_config-274000910,일반공격은 자신이 공격 안 한 대상을 우선 공격하고//c 모든 공격이 엘리트 이외 유닛에게 명중 시 상대에게 "<color=#FFA41D>사신 마크</color>"를 부여한다//c 지속시간 5초. 확인사살 충전 기간 자신의 화력이 120% 상승하고//c 사속이 30% 감소한다//c 확인사살 발동 후 해제.//n<color=#FFA41D>사신 마크</color>: 마크를 가진 유닛의 체력이 30% 미만이 되면 즉사 피해를 받는다.
+battle_skill_config-374000910,충전 중 화력 상승치:120%
+battle_skill_config-474000910,
+battle_skill_config-174001001,二技能开局标识
+battle_skill_config-574001001,
+battle_skill_config-274001001,
+battle_skill_config-374001001,
+battle_skill_config-474001001,
+battle_skill_config-174001002,二技能开局标识
+battle_skill_config-574001002,
+battle_skill_config-274001002,
+battle_skill_config-374001002,
+battle_skill_config-474001002,
+battle_skill_config-174001003,二技能开局标识
+battle_skill_config-574001003,
+battle_skill_config-274001003,
+battle_skill_config-374001003,
+battle_skill_config-474001003,
+battle_skill_config-174001004,二技能开局标识
+battle_skill_config-574001004,
+battle_skill_config-274001004,
+battle_skill_config-374001004,
+battle_skill_config-474001004,
+battle_skill_config-174001005,二技能开局标识
+battle_skill_config-574001005,
+battle_skill_config-274001005,
+battle_skill_config-374001005,
+battle_skill_config-474001005,
+battle_skill_config-174001006,二技能开局标识
+battle_skill_config-574001006,
+battle_skill_config-274001006,
+battle_skill_config-374001006,
+battle_skill_config-474001006,
+battle_skill_config-174001007,二技能开局标识
+battle_skill_config-574001007,
+battle_skill_config-274001007,
+battle_skill_config-374001007,
+battle_skill_config-474001007,
+battle_skill_config-174001008,二技能开局标识
+battle_skill_config-574001008,
+battle_skill_config-274001008,
+battle_skill_config-374001008,
+battle_skill_config-474001008,
+battle_skill_config-174001009,二技能开局标识
+battle_skill_config-574001009,
+battle_skill_config-274001009,
+battle_skill_config-374001009,
+battle_skill_config-474001009,
+battle_skill_config-174001010,二技能开局标识
+battle_skill_config-574001010,
+battle_skill_config-274001010,
+battle_skill_config-374001010,
+battle_skill_config-474001010,
+battle_skill_config-174001101,蓄力叠加猎豹
+battle_skill_config-574001101,
+battle_skill_config-274001101,
+battle_skill_config-374001101,
+battle_skill_config-474001101,
+battle_skill_config-174001102,蓄力叠加猎豹
+battle_skill_config-574001102,
+battle_skill_config-274001102,
+battle_skill_config-374001102,
+battle_skill_config-474001102,
+battle_skill_config-174001103,蓄力叠加猎豹
+battle_skill_config-574001103,
+battle_skill_config-274001103,
+battle_skill_config-374001103,
+battle_skill_config-474001103,
+battle_skill_config-174001104,蓄力叠加猎豹
+battle_skill_config-574001104,
+battle_skill_config-274001104,
+battle_skill_config-374001104,
+battle_skill_config-474001104,
+battle_skill_config-174001105,蓄力叠加猎豹
+battle_skill_config-574001105,
+battle_skill_config-274001105,
+battle_skill_config-374001105,
+battle_skill_config-474001105,
+battle_skill_config-174001106,蓄力叠加猎豹
+battle_skill_config-574001106,
+battle_skill_config-274001106,
+battle_skill_config-374001106,
+battle_skill_config-474001106,
+battle_skill_config-174001107,蓄力叠加猎豹
+battle_skill_config-574001107,
+battle_skill_config-274001107,
+battle_skill_config-374001107,
+battle_skill_config-474001107,
+battle_skill_config-174001108,蓄力叠加猎豹
+battle_skill_config-574001108,
+battle_skill_config-274001108,
+battle_skill_config-374001108,
+battle_skill_config-474001108,
+battle_skill_config-174001109,蓄力叠加猎豹
+battle_skill_config-574001109,
+battle_skill_config-274001109,
+battle_skill_config-374001109,
+battle_skill_config-474001109,
+battle_skill_config-174001110,蓄力叠加猎豹
+battle_skill_config-574001110,
+battle_skill_config-274001110,
+battle_skill_config-374001110,
+battle_skill_config-474001110,
+battle_skill_config-174001201,猎豹改普攻[*]
+battle_skill_config-574001201,
+battle_skill_config-274001201,步枪的普通攻击
+battle_skill_config-374001201,
+battle_skill_config-474001201,
+battle_skill_config-174001301,斩杀标记结算
+battle_skill_config-574001301,
+battle_skill_config-274001301,
+battle_skill_config-374001301,
+battle_skill_config-474001301,
+battle_skill_config-174001401,猎豹M1斩杀监视召唤物
+battle_skill_config-574001401,
+battle_skill_config-274001401,
+battle_skill_config-374001401,
+battle_skill_config-474001401,
+battle_skill_config-174001501,猎豹M1开局召唤物
+battle_skill_config-574001501,
+battle_skill_config-274001501,
+battle_skill_config-374001501,
+battle_skill_config-474001501,
+battle_skill_config-174001601,하나된 가호
+battle_skill_config-574001601,
+battle_skill_config-274001601,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001601,
+battle_skill_config-474001601,
+battle_skill_config-174001602,하나된 가호
+battle_skill_config-574001602,
+battle_skill_config-274001602,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001602,
+battle_skill_config-474001602,
+battle_skill_config-174001603,하나된 가호
+battle_skill_config-574001603,
+battle_skill_config-274001603,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001603,
+battle_skill_config-474001603,
+battle_skill_config-174001604,하나된 가호
+battle_skill_config-574001604,
+battle_skill_config-274001604,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.7초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001604,
+battle_skill_config-474001604,
+battle_skill_config-174001605,하나된 가호
+battle_skill_config-574001605,
+battle_skill_config-274001605,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.9초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001605,
+battle_skill_config-474001605,
+battle_skill_config-174001606,하나된 가호
+battle_skill_config-574001606,
+battle_skill_config-274001606,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.1초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001606,
+battle_skill_config-474001606,
+battle_skill_config-174001607,하나된 가호
+battle_skill_config-574001607,
+battle_skill_config-274001607,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.3초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001607,
+battle_skill_config-474001607,
+battle_skill_config-174001608,하나된 가호
+battle_skill_config-574001608,
+battle_skill_config-274001608,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.6초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001608,
+battle_skill_config-474001608,
+battle_skill_config-174001609,하나된 가호
+battle_skill_config-574001609,
+battle_skill_config-274001609,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.8초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001609,
+battle_skill_config-474001609,
+battle_skill_config-174001610,하나된 가호
+battle_skill_config-574001610,
+battle_skill_config-274001610,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001610,
+battle_skill_config-474001610,
+battle_skill_config-174001701,하나된 가호
+battle_skill_config-574001701,
+battle_skill_config-274001701,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001701,
+battle_skill_config-474001701,
+battle_skill_config-174001702,하나된 가호
+battle_skill_config-574001702,
+battle_skill_config-274001702,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001702,
+battle_skill_config-474001702,
+battle_skill_config-174001703,하나된 가호
+battle_skill_config-574001703,
+battle_skill_config-274001703,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001703,
+battle_skill_config-474001703,
+battle_skill_config-174001704,하나된 가호
+battle_skill_config-574001704,
+battle_skill_config-274001704,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.7초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001704,
+battle_skill_config-474001704,
+battle_skill_config-174001705,하나된 가호
+battle_skill_config-574001705,
+battle_skill_config-274001705,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.9초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001705,
+battle_skill_config-474001705,
+battle_skill_config-174001706,하나된 가호
+battle_skill_config-574001706,
+battle_skill_config-274001706,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.1초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001706,
+battle_skill_config-474001706,
+battle_skill_config-174001707,하나된 가호
+battle_skill_config-574001707,
+battle_skill_config-274001707,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.3초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001707,
+battle_skill_config-474001707,
+battle_skill_config-174001708,하나된 가호
+battle_skill_config-574001708,
+battle_skill_config-274001708,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.6초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001708,
+battle_skill_config-474001708,
+battle_skill_config-174001709,하나된 가호
+battle_skill_config-574001709,
+battle_skill_config-274001709,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.8초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001709,
+battle_skill_config-474001709,
+battle_skill_config-174001710,하나된 가호
+battle_skill_config-574001710,
+battle_skill_config-274001710,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001710,
+battle_skill_config-474001710,
+battle_skill_config-174001801,하나된 가호
+battle_skill_config-574001801,
+battle_skill_config-274001801,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001801,
+battle_skill_config-474001801,
+battle_skill_config-174001802,하나된 가호
+battle_skill_config-574001802,
+battle_skill_config-274001802,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.2초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001802,
+battle_skill_config-474001802,
+battle_skill_config-174001803,하나된 가호
+battle_skill_config-574001803,
+battle_skill_config-274001803,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001803,
+battle_skill_config-474001803,
+battle_skill_config-174001804,하나된 가호
+battle_skill_config-574001804,
+battle_skill_config-274001804,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.7초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001804,
+battle_skill_config-474001804,
+battle_skill_config-174001805,하나된 가호
+battle_skill_config-574001805,
+battle_skill_config-274001805,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 2.9초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001805,
+battle_skill_config-474001805,
+battle_skill_config-174001806,하나된 가호
+battle_skill_config-574001806,
+battle_skill_config-274001806,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.1초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001806,
+battle_skill_config-474001806,
+battle_skill_config-174001807,하나된 가호
+battle_skill_config-574001807,
+battle_skill_config-274001807,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.3초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001807,
+battle_skill_config-474001807,
+battle_skill_config-174001808,하나된 가호
+battle_skill_config-574001808,
+battle_skill_config-274001808,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.6초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001808,
+battle_skill_config-474001808,
+battle_skill_config-174001809,하나된 가호
+battle_skill_config-574001809,
+battle_skill_config-274001809,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 3.8초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001809,
+battle_skill_config-474001809,
+battle_skill_config-174001810,하나된 가호
+battle_skill_config-574001810,
+battle_skill_config-274001810,전투 개시 시//c 자신에게 피해를 50 주고 "가호" 효과를 얻어 지속시간 동안 편제수를 잃지 않는다.//n"가호"의 지속시간은 제대 중 AR과 SMG의 수로 정해진다: 자신을 포함한  AR//c SMG 하나마다 지속시간을 4초 제공한다. 대신 자신이 잃은 편제 수마다 지속시간이 10% 감소한다.
+battle_skill_config-374001810,
+battle_skill_config-474001810,
+battle_skill_config-174001901,胜利后单次触发
+battle_skill_config-574001901,
+battle_skill_config-274001901,
+battle_skill_config-374001901,
+battle_skill_config-474001901,
+battle_skill_config-174002001,0胜
+battle_skill_config-574002001,
+battle_skill_config-274002001,
+battle_skill_config-374002001,
+battle_skill_config-474002001,
+battle_skill_config-174002101,1胜
+battle_skill_config-574002101,
+battle_skill_config-274002101,
+battle_skill_config-374002101,
+battle_skill_config-474002101,
+battle_skill_config-174002201,2胜
+battle_skill_config-574002201,
+battle_skill_config-274002201,
+battle_skill_config-374002201,
+battle_skill_config-474002201,
+battle_skill_config-174002301,3胜
+battle_skill_config-574002301,
+battle_skill_config-274002301,
+battle_skill_config-374002301,
+battle_skill_config-474002301,
+battle_skill_config-174002401,G36C挂图标57帧
+battle_skill_config-574002401,
+battle_skill_config-274002401,
+battle_skill_config-374002401,
+battle_skill_config-474002401, 
