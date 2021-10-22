@@ -1,0 +1,2 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||:<color=#FFFF00>心智升級分析中…</color>+<color=#FFFF00>預計完成時間… 10月29日11:00</color>
