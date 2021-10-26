@@ -423,6 +423,41 @@ Bronya|SOULCONTRACT|Is there a special meaning about the gift of this precious t
 Bronya|Introduce|Anti-Entropy elite team leader, Bronya Zaychik, reporting for duty. I swear on my codename "Ural Silver Wolf" that no harm will come to you.
 Bronya|DIALOGUEWEDDING|Heartbeat acceleration, irregular breathing...cause...cannot be identified.
 Bronya|GAIN|Bronya Zaychik...activated. Loading Valkyrja system...
+C14|GAIN|Eliminating your targets in silence. C14 "Timberwolf" reporting for duty!
+C14|HELLO|You're quite punctual, Commander.
+C14|FORMATION|Everyone, don't panic, listen to my analysis of the battle plan.
+C14|FEED|Huaah — feels as comfortable as an outdoors breeze blowing by.
+C14|DIALOGUE1|Oh, I'm so glad you're here, Commander. Can we have a few more Dolls stand over here? I find it kinda hard to concentrate with too few people around.
+C14|DIALOGUE2|Do you like hunting? To set a trap and hold your breath...until your prey takes the bait and has its neck snapped. Hunting and tactics are quite similar in a way.
+C14|DIALOGUE3|I just mediated a dispute between some colleagues. It was a difficult process, but I managed in the end... If there are such rifts among us, people won't take Griffin seriously.
+C14|BUILDOVER|If new arrivals are joining us, they have to pass the test.
+C14|GOATTACK|Let's go tear the enemy to shreds!
+C14|MEET|We mustn't fear the enemy if they are many or underestimate them if they are few.
+C14|ATTACK|Time to close the net!
+C14|DEFENSE|The trap is set. Come.
+C14|BREAK|It can't be helped. Hurry up and retreat.
+C14|WIN|Everyone, well done!
+C14|RETREAT|This can't be helped either. We'll kill them next time.
+C14|NEWYEAR|Many Dolls have come back today. I like this peaceful and lively environment. Commander, have you prepared the red packets for your juniors?
+C14|VALENTINE|What a shame, I didn't make any chocolate for you, Commander. Things that we eat together should be made together, don't you think?
+C14|TANABATA|I knew it, I can only focus on making a wish when everyone's together... So what shall I write? I might as well draw a griffin to be a guardian spirit for us.
+C14|ALLHALLOWS|This is my field of expertise! Laying patient ambushes in the night, then catching and eating cute little kiddies one by one... haha, I'm just kidding.
+C14|CHRISTMAS|Merry Christmas~ Do you have a wish, Commander? If it's within my capabilities, I can be your personal Santa just this once.
+C14|SKILL1|Welcome the fangs of the hunter.
+C14|SKILL2|You're an eyesore.
+C14|SKILL3|You're ruining my mood!
+C14|OPERATIONBEGIN|Objective data summary complete, just wait for my good news.
+C14|OPERATIONOVER|I'm back, these are the items you wanted, right? Not a single thing is missing.
+C14|FIX|Next time, I'll rip the enemy who hurt me to shreds!
+C14|COMBINE|Is this a one-man forest?
+C14|BLACKACTION|Come, tonight C-14 "Timberwolf joins the hunt.
+C14|SOULCONTRACT|Ah, Commander, I'm still busy at the moment. Is something the matter? <>Oh, this... I see, so you want to make me your personal Doll with this? <>I'm not against it. Come on then. As of today, I am yours, forever.
+C14|TITLECALL|Girls' Frontline
+C14|PHRASE|How lively.
+C14|TIP|This looks interesting.
+C14|LOADING|Coming, coming, I'm running to get the door!
+C14|DIALOGUEWEDDING|Hmm? How does it feel to hold my waist? I'm pretty proud of it, you know.
+C14|Introduce|Eliminating your targets in silence. C14 "Timberwolf" reporting for duty!
 C96|DIALOGUE1|Are my clothes cute?
 C96|DIALOGUE2|You see my belly button? Heheh...
 C96|DIALOGUE3|Uh... It's so stuffy. Guess I'll take it off...
