@@ -2922,7 +2922,7 @@ mission-10010580,심야추적
 mission-20010580,
 mission-30010580,
 mission-40010580,
-mission-10010581,흉상종결
+mission-10010581,흉상종결|흉상종결：전자공간|흉상종결：현실
 mission-20010581,
 mission-30010581,
 mission-40010581,
@@ -2934,7 +2934,7 @@ mission-10010583,심야추적EX
 mission-20010583,
 mission-30010583,
 mission-40010583,
-mission-10010584,흉상종결EX
+mission-10010584,흉상종결EX|흉상종결EX：전자공간|흉상종결EX：현실
 mission-20010584,
 mission-30010584,
 mission-40010584,

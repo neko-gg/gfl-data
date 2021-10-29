@@ -67491,8 +67491,3 @@ battle_skill_config-574002301,
 battle_skill_config-274002301,
 battle_skill_config-374002301,
 battle_skill_config-474002301,
-battle_skill_config-174002401,G36C挂图标57帧
-battle_skill_config-574002401,
-battle_skill_config-274002401,
-battle_skill_config-374002401,
-battle_skill_config-474002401, 
