@@ -310,3 +310,6 @@ furniture_classes-30000098,集齊後宿舍內會出現意想不到的現象。
 furniture_classes-10000099,燃情篝火
 furniture_classes-20000099,以篝火晚會為主題的傢俱組合。在更大的歡喜或悲傷到來之前，盡情享受吧。
 furniture_classes-30000099,集齊後宿舍內會出現意想不到的現象。
+furniture_classes-10000100,鏡中新生
+furniture_classes-20000100,以理髮店為主題的傢俱組合。每一次改變造型，都是一個嶄新自我的誕生，在這裡，我們吻別昨日的回憶，亦贊頌新生的勇氣。
+furniture_classes-30000100,集齊後宿舍內會出現意想不到的現象。

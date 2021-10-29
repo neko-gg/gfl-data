@@ -2922,7 +2922,7 @@ mission-10010580,午夜追蹤
 mission-20010580,
 mission-30010580,
 mission-40010580,
-mission-10010581,凶象終止
+mission-10010581,凶象終止|凶象終止：電子|凶象終止：現實
 mission-20010581,
 mission-30010581,
 mission-40010581,
@@ -2934,7 +2934,7 @@ mission-10010583,午夜追蹤EX
 mission-20010583,
 mission-30010583,
 mission-40010583,
-mission-10010584,凶象終止EX
+mission-10010584,凶象終止EX|凶象終止EX：電子|凶象終止EX：現實
 mission-20010584,
 mission-30010584,
 mission-40010584,
