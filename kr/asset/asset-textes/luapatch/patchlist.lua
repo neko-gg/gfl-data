@@ -411,6 +411,7 @@ patch2080={
 "2080/CommonGetNewGunController",	
 "2080/GFCriServerWrapper",	
 "2080/SangvisCaptureController",	
+"2080/ShareController",
 }
 patch2081={}
 patch2090={}
