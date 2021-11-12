@@ -67654,11 +67654,6 @@ battle_skill_config-572103101,
 battle_skill_config-272103101,
 battle_skill_config-372103101,
 battle_skill_config-472103101,
-battle_skill_config-172104901,XXXH
-battle_skill_config-572104901,
-battle_skill_config-272104901,
-battle_skill_config-372104901,
-battle_skill_config-472104901,
 battle_skill_config-175012601,蠕行鬼霧
 battle_skill_config-575012601,
 battle_skill_config-275012601,向敵方梯隊釋放鬼霧//c使全體敵方命中下降30%//c附加易傷10%//c每秒受到0.1倍的編制傷害//c鬼霧持續6秒。//n召喚2組5編的萬聖兵蟻//c該單位繼承終幕魔女自身5%的最大生命//c10%的傷害//c100%的命中、迴避和射速//c存在10秒。//n萬聖兵蟻:每6次普通攻擊後//c將在單位位置處增援1編繼承該單位屬性100%的單位//c持續10秒。

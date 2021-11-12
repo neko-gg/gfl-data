@@ -15858,7 +15858,7 @@ Intruder_Halloween|FORMATION03|壓軸的高潮，由魔法與雷鳴來奏響！
 Intruder_Halloween|FEED01|您的目光與期望將成為我蛻變的基石，好好期待下一幕吧，指揮官。
 Intruder_Halloween|FEED02|何等美妙的饋贈，此將成為敵人最深刻的噩夢。
 Intruder_Halloween|BREAKTHROUGH01|靈感源源不斷地湧出，這樣一來，一定可以寫出充滿沖擊感的劇目！
-Intruder_Halloween|BREAKTHROUGH02|比黃昏更加昏暗，比鮮血更加鮮紅，在流逝的時光之下，唯有我的力量長存。破繭重生的全新幹擾者很榮幸為您服務，指揮官。
+Intruder_Halloween|BREAKTHROUGH02|比黃昏更加昏暗，比鮮血更加鮮紅，在流逝的時光之下，唯有我的力量長存。破繭重生的全新干擾者很榮幸為您服務，指揮官。
 Intruder_Halloween|UPGRADE01|嗯……原來是這種原理嗎？還真是讓人受益匪淺啊。
 Intruder_Halloween|UPGRADE02|魔法般神奇的劇本，何其美妙！
 Intruder_Halloween|DIALOGUE01|南瓜燈、糖果、小禮物、茶點……都準備好了，這下可以讓破壞者她們好好開心一下了。

@@ -412,7 +412,8 @@ patch2080={
 "2080/GFCriServerWrapper",	
 "2080/SangvisCaptureController",	
 "2080/ShareController",
-"2080/ResearchUnlockSlotController"	
+"2080/CommonBundleConfirmBoxController",
+"2080/ResearchUnlockSlotController"
 }
 patch2081={}
 patch2090={}
