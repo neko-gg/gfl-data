@@ -29,6 +29,26 @@ local ShowNewReward = function(self)
 		local mapMission = CS.GameData.listMissionMapInfo:GetDataById(self.missionInfo.mapped_mission_id);
 		if mapMission ~= nil then
 			local missionids = mapMission.missionids;
+			if missionids.Count == 2 then
+				local mission0 = CS.GameData.listMission:GetDataById(missionids[0]);
+				local mission1 = CS.GameData.listMission:GetDataById(missionids[1]);
+				if mission1 ~= nil and mission0 ~= nil and mission1.winCount == 0 then
+					mission1.mappedwincounter = 0;
+				end
+			end
+			if missionids.Count == 3 then
+				local mission0 = CS.GameData.listMission:GetDataById(missionids[0]);
+				local mission1 = CS.GameData.listMission:GetDataById(missionids[1]);
+				local mission2 = CS.GameData.listMission:GetDataById(missionids[2]);
+				if mission1 ~= nil and mission0 ~= nil and mission2 ~= nil then
+					if mission2.winCount == 0 then
+						mission2.mappedwincounter = 0;
+					end
+					if mission1.winCount == 0 and mission2.winCount == 0 then
+						mission1.mappedwincounter = 0;
+					end
+				end			
+			end
 			local index = missionids:IndexOf(self.missionInfo.id);
 			if index == 0 then
 				CS.GameData.listLanguageInfo[60048].content = CS.Data.GetLang(60291);
