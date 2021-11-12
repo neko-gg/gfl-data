@@ -2905,7 +2905,7 @@ Destroyer|TITLECALL|ドールズフロントライン
 Destroyer|UPGRADE01|この程度、サルでも分かるわよ！
 Destroyer|UPGRADE02|おおお！こんな使い方もあるんだ、なるほどね！
 Destroyer|WIN|な、何よ……あたしがいるんだから、このぐらい当たり前でしょう！
-Dinergate|DIALOGUE01|
+Dinergate|DIALOGUE01|わんわんわんっ！う～わんっ！
 Dinergate|DIALOGUE02|~(╬￣皿￣)！
 Dinergate|DIALOGUE03|.--/.-/-./--./.--/.-/-./--.
 Dorothy|DIALOGUE1|あたし、人を見るのが得意なんだ。どれどれ……ふむふむ、指揮官はきっと色んな大変なことに遭ってきたでしょう。それでも、指揮官はおせっかいな人で、今後ももっと面倒なことに巻き込まれるでしょう……それなら、このドロシーちゃんが慰めてあげよっか？
@@ -11750,7 +11750,7 @@ TAR21|TANABATA|指揮官、短冊を書いたらわたくしにください。�
 TAR21|TIP|いいことを教えてあげますわ。
 TAR21|VALENTINE|指揮官、いつもありがとうございます！わたくしからのお礼ですわ。
 TAR21|WIN|ごめんあそばせ。
-Tarantula|DIALOGUE01|
+Tarantula|DIALOGUE01|グィーン！グィーン！
 Tarantula|DIALOGUE02|乀（°皿°乀）
 Tarantula|DIALOGUE03|.--/---/---/..-.
 TavorTS12|GAIN|
