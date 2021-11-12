@@ -2797,3 +2797,7 @@ special_spot_config-10482518,【標記】布拉梅德
 special_spot_config-20482518,
 special_spot_config-10482519,【標記】丹德萊
 special_spot_config-20482519,
+special_spot_config-19322301,
+special_spot_config-29322301,
+special_spot_config-19322505,
+special_spot_config-29322505,

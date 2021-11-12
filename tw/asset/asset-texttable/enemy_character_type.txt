@@ -1567,6 +1567,9 @@ enemy_character_type-30900313,
 enemy_character_type-20900314,AA-02 負罪者
 enemy_character_type-10900314,裝甲//c支援//c弱化
 enemy_character_type-30900314,
+enemy_character_type-20900315,干擾者-終幕魔女
+enemy_character_type-10900315,干擾者
+enemy_character_type-30900315,
 enemy_character_type-20080001,盾牌娘
 enemy_character_type-10080001,
 enemy_character_type-30080001,
@@ -1705,6 +1708,12 @@ enemy_character_type-30910130,
 enemy_character_type-20910131,暴走難民
 enemy_character_type-10910131,訓練專用
 enemy_character_type-30910131,
+enemy_character_type-20910132,建築師
+enemy_character_type-10910132,
+enemy_character_type-30910132,
+enemy_character_type-20910133,建築師
+enemy_character_type-10910133,
+enemy_character_type-30910133,
 enemy_character_type-20990037,地獄火_Vector
 enemy_character_type-10990037,射擊//c投擲
 enemy_character_type-30990037,

@@ -1576,3 +1576,6 @@ manual_ui-30482509,讀取
 manual_ui-10482513,我方梯隊
 manual_ui-20482513,傳送節點
 manual_ui-30482513,傳送
+manual_ui-19322301,我方梯隊
+manual_ui-29322301,WA2000
+manual_ui-39322301,狙擊

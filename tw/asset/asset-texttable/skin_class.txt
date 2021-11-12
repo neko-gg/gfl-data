@@ -65,3 +65,4 @@ skin_class-10000064,狩獵波爾卡
 skin_class-10000065,野獸街區狂想曲
 skin_class-10000066,奇妙約會指南
 skin_class-10000067,漫步回魂夜
+skin_class-10000068,瓦爾哈拉之子

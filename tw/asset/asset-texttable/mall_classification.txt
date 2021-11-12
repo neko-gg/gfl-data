@@ -10,7 +10,7 @@ mall_classification-10005000,物品
 mall_classification-20005000,消耗品
 mall_classification-10001001,真核面具
 mall_classification-20001001,
-mall_classification-10001002,詭疫狂潮//n勳章兌換
+mall_classification-10001002,瓦爾哈拉//n勳章兌換
 mall_classification-20001002,
 mall_classification-10001003,繭中蝶影//n勳章兌換
 mall_classification-20001003,
