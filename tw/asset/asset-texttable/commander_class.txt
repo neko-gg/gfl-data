@@ -130,3 +130,7 @@ commander_class-10000041,先驅者的意志
 commander_class-20000041,無論歷史的車輪揚起怎樣的沙塵，終無法掩蓋他們的意志。
 commander_class-30000041,2021
 commander_class-40000041,踏月尋秋簽到活動獎勵
+commander_class-10000042,鋼鐵獅鷲
+commander_class-20000042,當機甲的轟鳴響徹天際，擋在無法戰鬥的人身前的，永遠是「獅鷲」的雙翼。
+commander_class-30000042,2021
+commander_class-40000042,

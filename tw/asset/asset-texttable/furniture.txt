@@ -976,6 +976,18 @@ furniture-10036405,MP-443-迷途引渡人
 furniture-20036405,MP-443的海報。
 furniture-10036406,LWMMG-拼湊者的獨白
 furniture-20036406,LWMMG的海報。
+furniture-10036501,沙漠之鷹-蒼穹的迦樓羅
+furniture-20036501,沙漠之鷹的海報
+furniture-10036502,SIG MCX-真紅隕星
+furniture-20036502,SIG MCX的海報
+furniture-10036503,漢陽造88式-純白流星負願而行
+furniture-20036503,漢陽造88式的海報
+furniture-10036504,MG36-蒼龍屹立09區之上
+furniture-20036504,MG36的海報
+furniture-10036505,HK416-子夜福音
+furniture-20036505,HK416的海報
+furniture-10036507,F1-荒漠的龍與詩
+furniture-20036507,F1的海報
 furniture-10003103,睡貨精靈
 furniture-20003103,軟綿綿的睡貨專用裝置，躺在上面感覺仿佛經驗值都上升了啊……才怪！別做夢了，快起來努力工作才有經驗拿！
 furniture-10003108,晚安琴架

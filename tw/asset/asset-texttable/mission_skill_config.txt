@@ -9154,3 +9154,6 @@ mission_skill_config-39322505,
 mission_skill_config-19321227,
 mission_skill_config-29321227,空域管制中。//n受影響的我方機場將不能再部署梯隊。
 mission_skill_config-39321227,
+mission_skill_config-16350001,【標記】行動點初始化
+mission_skill_config-26350001,
+mission_skill_config-36350001,
