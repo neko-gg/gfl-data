@@ -4894,3 +4894,85 @@ Weaver|TITLECALL|Girls' Frontline
 Weaver|UPGRADE01|Thank you for nurturing me. I shall show my gratitude through my result in battle.
 Weaver|UPGRADE02|My weapon is yours to wield.
 Weaver|WIN|You're fighting against me. It isn't shameful to lose.
+PP19Mod|TIP|I've got something to tell you.
+PP19Mod|PHRASE|Not bad!
+PP19Mod|OPERATIONOVER|Humph, I guess you could say it's done.
+PP19Mod|OPERATIONBEGIN|Oh, I'm fine, let's hurry up and move out.
+PP19Mod|LOADING|Could you give me a moment?
+PP19Mod|FIX|Tsk, got it, I'll be more careful next time.
+PP19Mod|COMBINE|Dummy-linking, hm... So you DO like me, don't you, Commander?
+PP19Mod|BLACKACTION|Even if this is just a reinforcement op, I won't fall behind!
+PP19Mod|GOATTACK|Run!
+ARMod|OPERATIONOVER|I'm back...and I forgot my tent again...
+ARMod|OPERATIONBEGIN|I'm heading out soon, better prepare my sleeping bag.
+ARMod|LOADING|Could you wait a bit?
+ARMod|FIX|Hm... I got a little careless... Why is this happening again...
+ARMod|COMBINE|So I've been dummy-linked, could you make me a little lighter?
+ARMod|BLACKACTION|For everyone's sake, I can't mess up here!
+ARMod|GOATTACK|Heading out!
+ARMod|GAIN|Commander, please continue taking care of me!
+ARMod|HELLO|Ehhh, you just arrived? I waited until I almost fell asleep...
+ARMod|FORMATION|Leave it to me!
+ARMod|FEED|...You want to know if I got heavier after being enhanced? I forbid you to asl!
+ARMod|DIALOGUE1|Haha, come take a look, Commander, I lost a lot of weight! ...What do you mean it only counts if both feet are on the weighing scale? Come on, as long as part of my body's on the scale it should count!
+ARMod|DIALOGUE2|Commander, something super funny happened today! Micro Uzi...hahahahaha... I'm sorry, whenever I think about it I can't help laughing hahahahahaha...
+ARMod|DIALOGUE3|Is work over, Commander? Want to have a drink together? Tavor's secret stash is pretty good...
+ARMod|BUILDOVER|There's a newcomer reporting!
+ARMod|MEET|All enemies blocking my path shall die!
+ARMod|ATTACK|All of you, come and die!
+ARMod|DEFENSE|Don't be careless!
+ARMod|BREAK|I guess I shouldn't have taken my weight lightly...
+ARMod|WIN|This was an expected outcome. 
+ARMod|RETREAT|Did we fail the mission...
+ARMod|SKILL1|Alright, prepare to attack!
+ARMod|SKILL2|This is the price of provoking me.
+ARMod|SKILL3|What's so great about being light, anyway!
+ARMod|DIALOGUEWEDDING|...I KNEW it!  You were hiding here to snack, Commander! You said we'd lose weight together but I could never find you after our training sessions! You're terrible! Now give me some too!
+ARMod|Introduce|Commander, please continue taking care of me!
+M1897Mod|GAIN|M1897 reporting, Commander. Make sure you're conscious of your hygiene and cleanliness at all times!
+M1897Mod|FEED|Yup, my movements are lighter and smoother now!
+M1897Mod|DIALOGUE1|I've been providing social services on my own recently. Of course, it's all security work.
+M1897Mod|DIALOGUE2|This...this feeling...! Has someone's been stuffing candy wrappers under the carpet again?!
+M1897Mod|DIALOGUE3|Commander, why are you patting my head... ah, I'm not tired, please don't worry!
+M1897Mod|BUILDOVER|A new Doll has arrived, I guess I should help clean up her dorm room for her.
+M1897Mod|GOATTACK|Let's go, time to clean up all the dirty things in our way!
+M1897Mod|MEET|Power cleaning mode, activate!
+M1897Mod|ATTACK|You're pretty stubborn, but we won't lose!
+M1897Mod|DEFENSE|Ugh, we need to keep our distance from dirty things!
+M1897Mod|BREAK|It's, it's so diiiirttyyyyyyy!
+M1897Mod|WIN|That cleaning went well, hehe!
+M1897Mod|RETREAT|I, I guess I should go prepare more before coming back...
+M1897Mod|SKILL2|Don't think you can run!
+M1897Mod|SKILL3|Are there any more dirty things still around?
+M1897Mod|DIALOGUEWEDDING|Commander, as I thought. you actually... <> Wait, youyouyou, you're giving this to me?! It, it's too expensive! <> Ah, no, it really is a proof of our bond that belongs to the two of us. Don't worry, I'll take good care of it and keep it spotless!
+M1897Mod|Introduce|M1897 reporting, Commander. Make sure you're conscious of hygiene and awareness at all times!
+M1897Mod|BLACKACTION|Everyone! Let's go on this cleanup operation together!
+M1897Mod|COMBINE|Wow! Is, is this another me?
+M1897Mod|FIX|(Sob) If Big Sis saw me like this...
+M1897Mod|LOADING|Is Big Sis...here too?
+M1897Mod|OPERATIONBEGIN|Is this our objective? Then let's head out!
+M1897Mod|OPERATIONOVER|Successfully returned to unit, Commander!
+M1897Mod|PHRASE|A-Alright, I understand.
+M1897Mod|TIP|Is...this the place?
+PP19Mod|GAIN|Yo, Commander, I've changed to a new body, how does it look?
+PP19Mod|HELLO|Morning! If you're still tired, want to do some aerobic exercises?
+PP19Mod|FORMATION|Let's go now! Time for a bull run!
+PP19Mod|FEED|I think I can do more delicate things than before!
+PP19Mod|DIALOGUE1|(Pants) It's so hot here... I should be okay if I only take off one piece of clothing, right?
+PP19Mod|DIALOGUE2|What are you looking at, Commander? Want to arm wrestle with me? I'll control my strength so you don't get hurt.
+PP19Mod|DIALOGUE3|Hehehe... Look, Commander, Shelley sent me another letter.
+PP19Mod|BUILDOVER|Who is it this time? Is it a familiar face?
+PP19Mod|MEET|Come on, I can hardly wait!
+PP19Mod|ATTACK|Charge! 
+PP19Mod|DEFENSE|Wait!
+PP19Mod|BREAK|Dammit... Don't think this is over!
+PP19Mod|WIN|We did it! Turns out using a little bit of strategy when fighting works pretty well.
+PP19Mod|RETREAT|Don't get cocky, next time I'll definitely...
+PP19Mod|SKILL2|Don't look down on me!
+PP19Mod|SKILL3|I know how to make use of the terrain too.
+PP19Mod|DIALOGUEWEDDING|Commander, you're taking longer and longer to get out of bed! If you don't get up right now I'm going to drag you to the office, sheets and all!
+PP19Mod|Introduce|Yo, Commander, I've changed to a new body, how does it look?
+M1897Mod|HELLO|Commander, I've already cleaned out the Ops Room. Today's sure to be another bright and happy day!
+M1897Mod|FORMATION|I need to properly prepare this time.
+PP19Mod|SKILL1|Where are you looking?!
+M1897Mod|SKILL1|Now!
