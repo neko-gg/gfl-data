@@ -26,3 +26,4 @@ sangvis_gasha-10000024,S05區對空指揮室
 sangvis_gasha-10000025,SP21輔助電腦安置室
 sangvis_gasha-10000026,S02區裁判天平
 sangvis_gasha-10000027,SP914區夢魘劇場
+sangvis_gasha-10000028,鐵血工造終末核心

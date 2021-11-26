@@ -270,11 +270,11 @@ mission_win_type_config-74102071,【枯草熱 V】堅持到防禦門打開
 mission_win_type_config-74102081,【枯草熱 VI】到達指定點
 mission_win_type_config-74102091,【霜狼會】b.到達指定點
 mission_win_type_config-74102101,【燈華潛】救援建築師
-mission_win_type_config-74104011,【食蛇行動 I】佔領指定點
-mission_win_type_config-74104021,【食蛇行動 II】找到控制台並操作
-mission_win_type_config-74104031,【食蛇行動 III】佔領指定點
-mission_win_type_config-74104041,【食蛇行動 IV】擊殺指定敵人
-mission_win_type_config-74104042,【食蛇行動 IV】救援VHS
+mission_win_type_config-74104011,【食蛇行動 II】佔領指定點
+mission_win_type_config-74104021,【食蛇行動 III】找到控制台並操作
+mission_win_type_config-74104031,【食蛇行動 IV】佔領指定點
+mission_win_type_config-74104041,【食蛇行動 V】擊殺指定敵人
+mission_win_type_config-74104042,【食蛇行動 V】救援VHS
 mission_win_type_config-74104051,【蜘蛛巢】入侵五個鐵血單位
 mission_win_type_config-74104061,【紙牌塔】全殲滅敵軍
 mission_win_type_config-74104071,【鬥獸棋】佔領指定點
