@@ -25345,4 +25345,36 @@
     <maxsize>78</maxsize>
     <isOrnamental>False</isOrnamental>
   </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/WishGunTipsGroup/Tex_WishGunTipsSp">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/WishGunTipsGroup/Tex_WishGunTipsSp</xmlID>
+    <rect>(316.8, 58.1),(937.7, 44.4)</rect>
+    <textfont>NotoSansHans-DemiLight</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>30</fontsize>
+    <linespac>0.85</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleLeft</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>3</minsize>
+    <maxsize>30</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/WishGunTipsGroup/Tex_WishGunTips">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/WishGunTipsGroup/Tex_WishGunTips</xmlID>
+    <rect>(316.8, 58.1),(937.7, 44.4)</rect>
+    <textfont>NotoSansHans-DemiLight</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>30</fontsize>
+    <linespac>0.85</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleLeft</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>3</minsize>
+    <maxsize>30</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
 </root>
