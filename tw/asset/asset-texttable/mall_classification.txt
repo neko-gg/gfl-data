@@ -12,7 +12,7 @@ mall_classification-10001001,真核面具
 mall_classification-20001001,
 mall_classification-10001002,瓦爾哈拉//n勳章兌換
 mall_classification-20001002,
-mall_classification-10001003,繭中蝶影//n勳章兌換
+mall_classification-10001003,雪夜殺禮異想曲//n勳章兌換
 mall_classification-20001003,
 mall_classification-10001004,代幣兌換
 mall_classification-20001004,
