@@ -64,7 +64,7 @@ K5(0)<Speaker>K5</Speaker>||:そうだね……
 BOSS-8(0)<Speaker>エージェント</Speaker>||<BGM>BGM_Empty</BGM>:まずは指揮官様へ報告しましょう。
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>8</BIN><黑点2>:……司令室。+指揮官はひどく退屈しながら動画を漁り、何か面白いものを探していた。
-()<Speaker>天气预报</Speaker>||<SE1>AVG_tele_connect</SE1>:本日は大雨と暴風が予想されています。+以下の区域にお住いの場合、//n本日の汚染濃度は一定量の上昇が見込まれます、それにより――
+()<Speaker>天気予報</Speaker>||<SE1>AVG_tele_connect</SE1>:本日は大雨と暴風が予想されています。+以下の区域にお住いの場合、//n本日の汚染濃度は一定量の上昇が見込まれます、それにより――
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:指揮官は天気予報をスワイプし、見慣れたページで手を止めた。
 ()<Speaker>指揮官</Speaker>||:『邪神ちゃん前線』が更新されてる？　前からこんな名前だったっけ……+まあいいや！　今回から新キャラが加わるらしいからね。
 ()<Speaker></Speaker>||:指揮官は『邪神ちゃん前線』の最新話をタップした。

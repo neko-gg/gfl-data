@@ -64,7 +64,7 @@ Weaver(3)<Speaker>ウロボロス</Speaker>||<SE1>AVG_coin_put</SE1>:……
 CZ75(4)<Speaker>CZ75</Speaker>||:そういや、あんたたちはNZのところから来たんだろ？　あいつは？
 Jashinchan(5)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:げ、元気そうでしたの……+ねぇ、ボロス？
 Weaver(3)<Speaker>ウロボロス</Speaker>||:元気そうだったぞ。+<color=#A9A9A9>逃げてる時は確かに元気そうだったが、その後どこに行ったかは分からん。</color>
-()<Speaker>店长</Speaker>||:CZ、なにしてるんだ？　こっちでお客様が待ってるぞ。
+()<Speaker>店長</Speaker>||:CZ、なにしてるんだ？　こっちでお客様が待ってるぞ。
 CZ75(4)<Speaker>CZ75</Speaker>||:すまない、すぐに行く。+あんたたちで遊んでてくれ、あたしは仕事に戻る。
 ()<Speaker></Speaker>||:CZ75はそそくさと仕事に戻った。
 Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:フンッ、CZのやつ、人気が高いようだな！//nちびっ子に囲まれてますの！

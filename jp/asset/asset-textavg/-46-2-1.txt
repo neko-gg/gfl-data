@@ -154,9 +154,9 @@ Weaver(5)<Speaker>ウロボロス</Speaker>||:ハハハハハハ……+そうだ
 ()<Speaker></Speaker>||<黑屏2><BIN>385</BIN><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:……一方、ゆりねの紹介で、NZ75はドラゴン書房でアルバイトしていた。
 NZ75(4)<Speaker>NZ75</Speaker>||:……はい、合計750円になります。//n1000円いただきます、では250円のおつりになります。+こちらレシートになります。またのご利用お待ちしております――
 ()<Speaker></Speaker>||:NZ75は慣れた手つきでブックカバーをつけ、おつりを返し、//n客を見送った。とても今日来たばかりのバイトとは思えない。
-()<Speaker>店长</Speaker>||:ご苦労さま、NZ。+元々いたバイトが突然パンダを訪ねて呪いを解いてもらうなんて//n言い出すから、君がいなければ大混乱だったよ。ほんとに助かった。+<color=#A9A9A9>ゆりねさんも本当にありがとう、こんな有能な人材を紹介してくれて。ついでにみんながやりたがらない仕事も全部片づけてもらうとしよう。</color>
+()<Speaker>店長</Speaker>||:ご苦労さま、NZ。+元々いたバイトが突然パンダを訪ねて呪いを解いてもらうなんて//n言い出すから、君がいなければ大混乱だったよ。ほんとに助かった。+<color=#A9A9A9>ゆりねさんも本当にありがとう、こんな有能な人材を紹介してくれて。ついでにみんながやりたがらない仕事も全部片づけてもらうとしよう。</color>
 NZ75(4)<Speaker>NZ75</Speaker>||:店長、それは買いかぶりすぎだ、私はやるべきことをやったにすぎない。+<color=#A9A9A9>でも仕事は多いし疲れるし、要求も多いんだから、そりゃみんな辞めていくだろうな。</color>+<color=#A9A9A9>そうやって褒めてくれるよりも、いっそ給料を上げてくれないか？</color>
-NZ75(4)<Speaker>店长</Speaker>||:そうだ、倉庫の中の古本を整理して、リストと突き合わせてくれ。+レジの方はやっておくから。+<color=#A9A9A9>そう簡単に昇給はできないよ、それより皆がやりたがらない汚い仕事を早いところ片付けてくれ！</color>
+NZ75(4)<Speaker>店長</Speaker>||:そうだ、倉庫の中の古本を整理して、リストと突き合わせてくれ。+レジの方はやっておくから。+<color=#A9A9A9>そう簡単に昇給はできないよ、それより皆がやりたがらない汚い仕事を早いところ片付けてくれ！</color>
 NZ75(4)<Speaker>NZ75</Speaker>||:……分かった。+<color=#A9A9A9>昇給の話を持ち出した途端、次から次へと仕事を押し付けてくるんだから、カリーナさんより厄介だ。</color>+<color=#A9A9A9>しかし今は働かざるを得ないから、我慢するしかない……</color>
 ()||<黑点1>:
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><黑点2><BIN>89</BIN>:空気の淀んだ狭い倉庫の中で、NZ75ははたきで分厚い埃を払い除け、//nその下に隠れていた古本を見やった。
@@ -281,9 +281,9 @@ Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<黑�
 ()<Speaker></Speaker>||<黑点2><BIN>385</BIN>:邪神ちゃんはドロップキックをキメると見せかけ、//nかき氷の屋台の人だかりに突っ込んでいった。
 Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:お前たちのかき氷はすべていただいた！
 ()<Speaker></Speaker>||<SE1>AVG_tableware</SE1>:信じられないスピードで、邪神ちゃんは//n屋台付近にいるお客たちのかき氷を吸引していった。
-()<Speaker>客人A</Speaker>||:……
-()<Speaker>客人B</Speaker>||:何が起きたんだ？
-()<Speaker>客人C</Speaker>||:スタンド攻撃だ！　絶対にスタンド攻撃だ！
+()<Speaker>客A</Speaker>||:……
+()<Speaker>客B</Speaker>||:何が起きたんだ？
+()<Speaker>客C</Speaker>||:スタンド攻撃だ！　絶対にスタンド攻撃だ！
 NPC-koji(2)<Speaker>浩二</Speaker><Position>0,300</Position>||:（幼い氷の悪魔の叫び声：邪神ちゃん！！！）
 Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:お前らなんかに捕まらないですの！　バーカバーカ！
 NPC-Yusakoji(1)<Speaker>遊佐</Speaker>||:……
@@ -291,9 +291,9 @@ NPC-Yusakoji(1)<Speaker>遊佐</Speaker>||:……
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:浩二は指先に氷を集結させ始め、邪神ちゃんに向かって放った。
 NPC-koji(2)<Speaker>浩二</Speaker><Position>0,300</Position>||:（幼い氷の悪魔の怒りの声：ハァァァ！！！）
 ()<Speaker></Speaker>||<SE1>AVG_amb_wilderness</SE1>:大規模な吹雪が襲ったが、邪神ちゃんは尻尾で客を巻きあげ、壁を築いた。
-()<Speaker>等待的客人A</Speaker>||:……
-()<Speaker>等待的客人B</Speaker>||:返金しろ！　返――
-()<Speaker>等待的客人C</Speaker>||:助けてくれ――助け――
+()<Speaker>客A</Speaker>||:……
+()<Speaker>客B</Speaker>||:返金しろ！　返――
+()<Speaker>客C</Speaker>||:助けてくれ――助け――
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:さっきまで怒り狂い喚いていた客たちは瞬く間に凍てつき、//n炎天下で動かなくなった。
 NPC-koji(2)<Speaker>浩二</Speaker><Position>0,300</Position>||:（幼い氷の悪魔の焦る声：お姉ちゃん、どうしよう？！）
 Jashinchan(7)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:もう時間稼ぎは十分ですの！+今ですの、撤退ですの！

@@ -66,28 +66,28 @@ Jashinchan(2)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||<黑�
 ()||<黑屏2><BIN>89</BIN><BGM>BGM_Hello</BGM>:……グリフィン基地、食堂倉庫にて。+ぺこらが昼寝から目を醒ました。//nが、ミノスとメデューサの影は既に見当たらなくなっていた。
 Pekora(0)<Speaker>ぺこら</Speaker>||:……
 G36Mod(0)<Speaker>Gr G36</Speaker>||:……
-QSB91(0)<Speaker>QSB91</Speaker>||:……+G36姉、どうしよう？
+QSB91(0)<Speaker>QSB-91</Speaker>||:……+G36姉、どうしよう？
 G36Mod(0)<Speaker>Gr G36</Speaker>||:この方は？
 Pekora(2)<Speaker>ぺこら</Speaker>;G36Mod(0)||:ひぃい……悪魔！　こっちに来るなぁ！
 Pekora(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:悪魔？
 Pekora(2)<Speaker>ぺこら</Speaker>;G36Mod(0)||:天使の輪を失っても、ぺこらは決して尊厳を捨てませんからね！
 Pekora(2);G36Mod(0)<Speaker>Gr G36</Speaker>||:天使の輪？
-Pekora(2);QSB91(0)<Speaker>QSB91</Speaker>||:あなた、ぺこらっていうの？
+Pekora(2);QSB91(0)<Speaker>QSB-91</Speaker>||:あなた、ぺこらっていうの？
 Pekora(2)<Speaker>ぺこら</Speaker>;QSB91(0)||:まさしく、私がぺこらです！
 G36Mod(0)<Speaker>Gr G36</Speaker>;QSB91(0)||:何か彼女に食べさせてあげましょう、ワン。
 G36Mod(0)<Speaker>Gr G36</Speaker>||:きっと空腹のあまり錯乱しているんだわ。
-QSB91(0)<Speaker>QSB91</Speaker>||:ハーーイ！
+QSB91(0)<Speaker>QSB-91</Speaker>||:ハーーイ！
 ()||<SE1>RunStep</SE1>:ワンちゃんはキッチンへ駆け込むと、チャーハンを素早く運んできた。
-QSB91(0)<Speaker>QSB91</Speaker>||:へいお待ち！
+QSB91(0)<Speaker>QSB-91</Speaker>||:へいお待ち！
 ()||:チャーハンからあふれる香りに、ぺこらは唾をのんだ。
 Pekora(3)<Speaker>ぺこら</Speaker>||:いいにおいです……
 Pekora(2)<Speaker>ぺこら</Speaker>||:ぺこらは悪魔の施しなど受けません！+<size=50>ぺこらは屈したりなどしないのです！</size>
 ()||:（お腹の鳴る音）+お腹の音が、倉庫の中をこだました。
 Pekora(0)<Speaker>ぺこら</Speaker>||:……
 G36Mod(0)<Speaker>Gr G36</Speaker>||:……+チャーハンがお気に召さなかったのね。//nワン、他のを持ってきなさい。
-QSB91(0)<Speaker>QSB91</Speaker>||:ハーイ！　かしこまり！
+QSB91(0)<Speaker>QSB-91</Speaker>||:ハーイ！　かしこまり！
 ()||<SE1>RunStep</SE1>:ワンちゃんはもう一度キッチンへ駆け込むと、//n今度はビーフカレーを持ってきた。
-QSB91(0)<Speaker>QSB91</Speaker>||:これどうぞ！
+QSB91(0)<Speaker>QSB-91</Speaker>||:これどうぞ！
 Pekora(0)<Speaker>ぺこら</Speaker>||:ぺ、ぺこらは……
 G36Mod(0)<Speaker>Gr G36</Speaker>||:無理はいけません。+あなたにどのような使命があるのかは存じませんが、//nそれでも食事は取らなくてはならないものです。違いますか？
 Pekora(0)<Speaker>ぺこら</Speaker>||:……

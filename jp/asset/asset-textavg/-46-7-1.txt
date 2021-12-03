@@ -41,7 +41,7 @@ Weaver(3)<Speaker>ウロボロス</Speaker>||:まだ序の口だ。
 BOSS-11(0)<Speaker>？ドリーマー</Speaker>||:聞いたよ。任務を完璧に終わらせて、エリザに認められたって。
 Weaver(3)<Speaker>ウロボロス</Speaker>||:ああ。
 BOSS-11(0)<Speaker>？ドリーマー</Speaker>||:次はどんな成果を見せてくれるか期待してるね。//nんじゃ、あたしは忙しいからここで。
-BossCerberus(0)<Speaker>？破坏者</Speaker><Position>0,150</Position>||:ワンッ！
+BossCerberus(0)<Speaker>デストロイヤー？</Speaker><Position>0,150</Position>||:ワンッ！
 Weaver(3)<Speaker>ウロボロス</Speaker>||:……おぬしは行け。
 Jashinchan(8)<Speaker>邪神ちゃん</Speaker><Position>0,100</Position>||:ハハハ、このデカ犬かわいいな！
 ()||:漆黒の廊下を、ウロボロスは突き進んでいく。
