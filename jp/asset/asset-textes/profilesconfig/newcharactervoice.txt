@@ -5101,7 +5101,7 @@ Jaeger|DIALOGUE03|...././.-/-..
 Jaeger_SWAP|DIALOGUE01|
 Jaeger_SWAP|DIALOGUE02|_(^_-)┻
 Jaeger_SWAP|DIALOGUE03|-/..../././-./-..
-Jaguar|DIALOGUE01|
+Jaguar|DIALOGUE01|グルルル～
 Jaguar|DIALOGUE02|(v？皿？v)
 Jaguar|DIALOGUE03|--/../.../..-./../.-./../-./--.
 Jericho|ALLHALLOWS|お菓子を出しなさい。さもないと、容赦はしません！……いえ、そんな言い方ではなかったような……？
