@@ -22,9 +22,6 @@ local CheckControlUI  = function(self,teamcontroller)
 end
 
 local Init = function(self)
-	if self.buildAction == nil then
-		return;
-	end
 	self.buildAction._buildController = self;
 	--print(self.buildAction._buildController);
 	self:Init();
@@ -34,9 +31,6 @@ end
 local buildAction = function(self)
 	if CS.GameData.missionAction ~= nil then		
 		local buildAction = CS.GameData.missionAction.listBuildingAction:GetDataById(self.spot.spotInfo.id);
-		if buildAction == nil then
-			return nil;
-		end
 		self.spot.buildingAction = buildAction;
 		if self.spot.spotAction ~= nil then
 			self.spot.spotAction.buildingAction = buildAction;
@@ -103,13 +97,6 @@ local CheckUseBattleSkill = function(self)
 	end
 end
 
-local RefreshController = function(self,playcameramove)
-	if self.buildAction == nil then
-		return;
-	end
-	self:RefreshController(playcameramove);
-end
-
 util.hotfix_ex(CS.DeploymentBuildingController,'InitCode',InitCode)
 util.hotfix_ex(CS.DeploymentBuildingController,'CheckControlUI',CheckControlUI)
 util.hotfix_ex(CS.DeploymentBuildingController,'Init',Init)
@@ -118,5 +105,4 @@ util.hotfix_ex(CS.DeploymentBuildingController,'CheckDefender',CheckDefender)
 util.hotfix_ex(CS.DeploymentBuildingController,'ShowTweenkle',ShowTweenkle)
 util.hotfix_ex(CS.DeploymentBuildingController,'EndTweenKle',EndTweenKle)
 util.hotfix_ex(CS.DeploymentBuildingController,'CheckUseBattleSkill',CheckUseBattleSkill)
-util.hotfix_ex(CS.DeploymentBuildingController,'RefreshController',RefreshController)
 

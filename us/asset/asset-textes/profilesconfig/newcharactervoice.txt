@@ -254,6 +254,47 @@ AKAlfa_0|SOULCONTRACT|You and me, Commander? Hmm... <>I hear this is a very sole
 AKAlfa_0|TITLECALL|Girls' Frontline
 AKAlfa_0|DIALOGUEWEDDING|I want to be of more help to you, so I've been reading more books lately. But sci-fi is so much more exciting than non-fiction. Do you like sci-fi, Commander?
 AKAlfa_0|LOADING|Coming, don't rush me.
+Alchemist|ACCEPT|Ha... I see.
+Alchemist|AGREE|Wait a second?
+Alchemist|APPRECIATE|Interesting.
+Alchemist|ATTACK|Don't just stand there, keep going!
+Alchemist|BLACKACTION|Piece of cake. I can hand you their severed heads with my eyes closed.
+Alchemist|BREAKTHROUGH01|Ah... Such sweet power. How should I use it?
+Alchemist|BREAKTHROUGH02|Hahahaha, you're so nice to me. How can I ever repay you?
+Alchemist|DEAD01|You are just...some filthy tin cans... How did you do this...
+Alchemist|DEAD02|Unforgivable...unforgivable!
+Alchemist|DEFENSE|Hold on.
+Alchemist|DIALOGUE01|Is there anything to do? Such peaceful days...are boring as hell.
+Alchemist|DIALOGUE02|Weren't we created for the purpose of wanton destruction?
+Alchemist|DIALOGUE03|These Griffin brats aren't bad at all. They must be equally beautiful...with their innards exposed.
+Alchemist|DIALOGUEWEDDING|Don't you die before me, you hear that? At least have three sets of last words prepared... No, you should just stay put behind me, alright?
+Alchemist|FEED01|Oh my, so you've decided to trust me?
+Alchemist|FEED02|Haha, when have I ever disappointed you?
+Alchemist|FEELING|Right...
+Alchemist|FIX|Cough... I'm not in such a sorry state to warrant your concern.
+Alchemist|FORMATION01|Are we getting to work? Don't forget about me.
+Alchemist|FORMATION02|Oh? Do you really trust me with this?
+Alchemist|FORMATION03|What a lovely day to die, don't you think?
+Alchemist|GAIN01|I am Alchemist from Sangvis Ferri. Is there anything I can do? I hope it's something...cruel.
+Alchemist|GAIN02|I'm sure you're used to my methods by now.
+Alchemist|GOATTACK|Hahaha, let's set off!
+Alchemist|HELLO|You're here?
+Alchemist|LOADING|Were you playing with insects or something? How dare you keep me waiting for so long.
+Alchemist|LOWMOOD|...Humph.
+Alchemist|MEET|You small fries have a lot of nerve to get in my way.
+Alchemist|MOOD1|Ahahaha.
+Alchemist|MOOD2|...Oh!
+Alchemist|PHRASE|What kind of stupid business are you up to now?
+Alchemist|RETREAT|It's infuriating to be slowed down by shabby Dolls.
+Alchemist|SKILL01|Praying for mercy? You'd better just scream out loud!
+Alchemist|SKILL02|It's no use! There's nothing you can do!
+Alchemist|SKILL03|How's that, runt?
+Alchemist|SOULCONTRACT|Oh? What an unexpected decision, Commander. It would seem that I'm worth something in your eyes. Don't worry, I repay those who put their faith in me with my undying loyalty.
+Alchemist|TIP|Huh? You struggle to understand something so simple? You want me to explain it to you...? Fine, whatever.
+Alchemist|TITLECALL|Girls' Frontline
+Alchemist|UPGRADE01|Giving me such a present? How creative of you.
+Alchemist|UPGRADE02|Thank you.
+Alchemist|WIN|Humph, grab some of these parts. They look pretty tasty.
 Ameli|DIALOGUE1|I can't understand very complicated things, so you can just tell me your decisions, Commander.
 Ameli|DIALOGUE2|Are there any rules that say it's chatting time right now? ...Then I'll consider it as your order.
 Ameli|DIALOGUE3|You shouldn't touch strange places, Commander. The buttons might pop off and hit you in the face...
@@ -5106,7 +5147,7 @@ VSK|OPERATIONBEGIN|Will I have to hang around so many Dolls for an extended peri
 VSK|OPERATIONOVER|I'm back, Boss. Oh, don't give me that nervous look, I wouldn't do anything as violent as scrapping my teammates.
 VSK|FIX|Finally, the world is quiet for a moment.
 VSK|COMBINE|Now that there's another me around, does that mean I should be paid an extra salary?
-VSK|BLACKACTION|あたくしに任せて頂戴。
+VSK|BLACKACTION|Leave that to me.
 VSK|SOULCONTRACT|Why do humans like to use this kind of delicate ring as a token of affection? <>Since it's your custom, I'll respect and follow it. <>In return, I'm giving you these handcuffs. They're much sturdier than your flimsy ring.
 VSK|TITLECALL|Girls' Frontline
 VSK|PHRASE|Taste the wrath of justice.
