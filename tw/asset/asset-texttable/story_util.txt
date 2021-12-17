@@ -1806,3 +1806,23 @@ story_util-10000916,真心話大冒險
 story_util-20000916,真心話大冒險
 story_util-10000917,世上的最後一場雨
 story_util-20000917,世上的最後一場雨
+story_util-10000918,劇情關1
+story_util-20000918,「心願何時成真」
+story_util-10000919,劇情關2
+story_util-20000919,一個人的抗爭Ⅰ
+story_util-10000920,戰鬥關A - 劇情3
+story_util-20000920,一個人的抗爭Ⅱ
+story_util-10000921,劇情關4
+story_util-20000921,重金屬與溫柔枝椏Ⅰ
+story_util-10000922,戰鬥關B - 劇情5
+story_util-20000922,重金屬與溫柔枝椏Ⅱ
+story_util-10000923,劇情關6
+story_util-20000923,被埋葬的騙局Ⅰ
+story_util-10000924,戰鬥關C - 劇情7
+story_util-20000924,被埋葬的騙局Ⅱ
+story_util-10000925,劇情關8
+story_util-20000925,雪似櫻花飄落Ⅰ
+story_util-10000926,戰鬥關D - 劇情9
+story_util-20000926,雪似櫻花飄落Ⅱ
+story_util-10000927,劇情關10
+story_util-20000927,「煙火綻放的時刻」

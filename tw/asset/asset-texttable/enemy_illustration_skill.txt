@@ -296,3 +296,23 @@ enemy_illustration_skill-10000139,戰術核心
 enemy_illustration_skill-20000139,被擊殺後清空場上賦予的增益，全體單位傷害和迴避下降50%，持續10秒。
 enemy_illustration_skill-10000140,火力集中
 enemy_illustration_skill-20000140,自身會進入嘲諷狀態，成為優先被集火的目標。
+enemy_illustration_skill-10000141,豎盾
+enemy_illustration_skill-20000141,降低身後單位所受傷害，豎盾期間自身受到一定傷害後，會提前結束豎盾效果。
+enemy_illustration_skill-10000142,徵用
+enemy_illustration_skill-20000142,偷取當前攻擊目標的命中值並標記，可疊加。普攻會依據標記層數對標記目標造成額外傷害。
+enemy_illustration_skill-10000143,掩護號令
+enemy_illustration_skill-20000143,提升己方全體迴避。
+enemy_illustration_skill-10000144,鐵壁
+enemy_illustration_skill-20000144,在場時自身周圍友方單位所受傷害降低，敵方單位傷害降低。
+enemy_illustration_skill-10000145,櫻反像
+enemy_illustration_skill-20000145,給自身增加一個護盾，持續5秒。若持續時間內護盾破裂，提升自身閃避，否則提升自身火力。
+enemy_illustration_skill-10000146,披薩標記
+enemy_illustration_skill-20000146,每發子彈會標記敵人，累積到3個標記時，則被標記目標觸發一次額外傷害並同時提升PX4 風暴的傷害。
+enemy_illustration_skill-10000147,砍價
+enemy_illustration_skill-20000147,敵方暴擊率降低100%（無法暴擊），同時己方全體單位提升攻速。
+enemy_illustration_skill-10000148,雪人出擊
+enemy_illustration_skill-20000148,在前方召喚出2個雪人，目標敵人受到4次雪人的攻擊後其中單個編製會被標記，當該敵人所有編製都被標記時，凍結（眩暈）該單位並造成額外傷害。
+enemy_illustration_skill-10000149,風暴打擊
+enemy_illustration_skill-20000149,出現預警範圍傷害，多次打擊對應格子上的單位。
+enemy_illustration_skill-10000150,幸運幣
+enemy_illustration_skill-20000150,開局我方6枚幸運幣，PX4 風暴3枚幸運幣。我方被紅色標識的投擲物擊中會被奪走1枚幸運幣；被綠色標識的投擲物擊中會奪回1枚幸運幣；在PX4 風暴25%血量之前哪一方獲得全部9枚幸運幣，哪一方直接獲勝。

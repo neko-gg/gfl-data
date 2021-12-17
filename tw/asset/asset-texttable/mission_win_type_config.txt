@@ -620,3 +620,20 @@ mission_win_type_config-11038501,
 mission_win_type_config-11038601,
 mission_win_type_config-11038701,
 mission_win_type_config-11038801,
+mission_win_type_config-10490101,清理所有 <雜物堆A> ，並堆放至下方補給點處。
+mission_win_type_config-10490102,
+mission_win_type_config-10490103,清理所有 <雜物堆A> ，並堆放至下方補給點處。
+mission_win_type_config-10490104,清理所有 <雜物堆B> ，並堆放至下方補給點處。
+mission_win_type_config-10490105,
+mission_win_type_config-10490106,
+mission_win_type_config-10490107,
+mission_win_type_config-10490201,協助索米將CD送到所有人形手中。
+mission_win_type_config-10490202,
+mission_win_type_config-10490203,
+mission_win_type_config-10490301,幫助CAWS擺脫眾人的追捕，逃至雷達點處。//n·占領雷達點。
+mission_win_type_config-10490302,
+mission_win_type_config-10490303,
+mission_win_type_config-10490401,搜查一〇〇式的移動路線。//n·踏訪初始歸屬為第三方的兩處關閉機場。
+mission_win_type_config-10490402,移動到樹下休息。
+mission_win_type_config-10490403,
+mission_win_type_config-10490404,
