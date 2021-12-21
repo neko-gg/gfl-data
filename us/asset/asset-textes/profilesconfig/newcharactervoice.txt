@@ -100,10 +100,10 @@
 88type|BREAK|Uugh...please don't bully me!
 88type|RETREAT|Could this be...a sign of bankruptcy? No, I can't give up!
 88type|FIX|I'm terribly sorry... You will have to take care of me this time, Master...
-88type|FIX|
 88type|LOWMOOD|No...
 88type|MOOD2|Ehh??
 88type|NEWYEAR|Happy New Year, Master! Got any plans for the holiday? Want to ponder over a cup of coffee?
+88type|CHRISTMAS|Merry Christmas! Master, are you participating in the store events? You might just win a special Christmas gift.
 88type|BLACKACTION|Here are the desserts. Please enjoy.
 88type|GAIN|Welcome to the CA club! It's a pleasure to be of service to you, Master.
 92type|DIALOGUE1|Please leave it to me to take stock of our resources, Commander.
@@ -1035,6 +1035,7 @@ K5|SOULCONTRACT|Although I was already aware of it, I've always kept my doubts..
 K5|Introduce|As expected, countless signs indicate...our meeting is bound by fate, Commander.
 K5|DIALOGUEWEDDING|There should be some sort of omen for the results of the mission next time... Commander, please pay closer attention to everyone, especially...me.
 K5|GAIN|As expected, countless signs indicate...our meeting is bound by fate, Commander.
+K5|CHRISTMAS|Merry Christmas, Commander! How are the preparations for my Christmas present going?
 Kiana|DIALOGUE1|This place is full of amazing shooters, but I'm not gonna lose to them.
 Kiana|DIALOGUE2|This world is experiencing another kind of "Houkai"... Don't worry. We won't just sit by and do nothing.
 Kiana|DIALOGUE3|A-Are you a pervert?! Die already! Die! Die!
@@ -1175,6 +1176,7 @@ M1895|Introduce|You're quite the odd one for having tastes in someone as old as 
 M1895|ALLHALLOWS|These girls, they're so childish. Aren't these sweets meant for children? I don't want to eat them at all!
 M1895|DIALOGUEWEDDING|Commander! Commander! Look at what I found today! Doesn't it look pretty? This is a special gift for you, so keep it safe!
 M1895|GAIN|You're quite the odd one for having tastes in someone as old as I, aren't you?
+M1895|CHRISTMAS|Ahaha, the present at the top of the pile is mine... Oh, ugh, I can't reach it... Never mind, you can have it.
 M1895Mod|DIALOGUE1|Oh? Want to hear my story?
 M1895Mod|DIALOGUE2|It's a perfect day to lie down and do nothing.
 M1895Mod|DIALOGUE3|Don't grab my hat! ...My clothes? Obviously not! What are you trying to do?!
@@ -1182,6 +1184,7 @@ M1895Mod|SOULCONTRACT|Oh? Commander, I didn't expect you to have such tastes...I
 M1895Mod|Introduce|Don't only judge a book by its cover. The inside is what really counts! But, on the other hand, if I could become a bit taller...
 M1895Mod|DIALOGUEWEDDING|To be honest, this coat is a bit big for me... Although it might just fit you, Commander. Hehe, want to try it?
 M1895Mod|GAIN|Don't only judge a book by its cover. The inside is what really counts! But, on the other hand, if I could become a bit taller...
+M1895Mod|CHRISTMAS|Ahaha, the present at the top of the pile is mine... Oh, ugh, I can't reach it... Never mind, you can have it.
 M1897|DIALOGUE1|Woo...is my sister not here? Great!
 M1897|DIALOGUE2|Are we about to have a mission briefing? let me clean the meeting room first.
 M1897|DIALOGUE3|Wooahh! C..Commander, don't scare me like that!
@@ -2633,13 +2636,14 @@ P22|DIALOGUE2|Commander, exactly how much do you know about yourself? We might b
 P22|DIALOGUE3|Are you really so frustrated without a conversation partner? ...Alright then, what do you want to talk about?
 P22|SOULCONTRACT|I think the Commander looks strange... What do you think? <>Mhm, he does look a little different, but I think I know what this is all about.<>However, the answer will have to wait until I put this on, okay? Hee hee~
 P22|Introduce|Oh my, the Commander's come to pick me up, we'll talk another time. Greetings, Commander. My name is P22. Do you need help with anything?
-P22|DIALOGUEWEDDING|When there's nothing we can talk about, I can always talk about you, Commander. Hehe, I'll never get tired of discussing about you, Commander.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+P22|DIALOGUEWEDDING|When there's nothing we can talk about, I can always talk about you, Commander. Hehe, I'll never get tired of discussing about you, Commander. 
 HS2000|DIALOGUE1|I like the sound of heartbeats... I envy those things which humans have, and which Dolls don't.
 HS2000|DIALOGUE2|I only realized it after coming here, but it's not just medical science that can protect others. You can do that by picking up a weapon too.
 HS2000|DIALOGUE3|Are you feeling unwell, Commander? Would you like me to shock you with my defibrillator?
 HS2000|SOULCONTRACT|Commander, your heart seems to be beating faster than usual... <>Does this mean you're being sincere? A person's heart doesn't lie. <>Funny...I feel like...my heart's pounding too...
 HS2000|Introduce|I see, so that's your heartbeat, Commander... Yes, I'll make sure to remember it. I'll be in your care from now on.
 HS2000|DIALOGUEWEDDING|I remember your heartbeat in all kinds of situations, Commander - when you're working, when you're happy, when you're sleeping...but your heartbeat when you're happy sounds best.
+HS2000|CHRISTMAS|Merry Christmas, Commander. Though there might be a sumptuous spread for dinner, please take care not to stuff yourself too much.
 X95|DIALOGUE1|Flowers only have meaning when people appreciate them or when they wither away. Commander, I'm willing to endure any kind of suffering as long as I can bloom for everyone.
 X95|DIALOGUE2|Jericho might be a little harsh, but I understand where her kindness lies... Commander, please place your trust in her.
 X95|DIALOGUE3|Is there something bothering you? Take your time and tell me. I'm here for you. 
@@ -2920,13 +2924,13 @@ P30|DIALOGUEWEDDING|Let's create some wonderful memories today as well, Commande
 4type|Introduce|4 Shiki automatic rifle greets you. Please give the order if you require anything of me!
 4type|DIALOGUEWEDDING|You're really getting the hang of coloring and shading, Commander. I think you can become a great assistant one day! However, the most important thing right now is to have you be my first reader... So, what do you think of this chapter?
 4type|NEWYEAR|Oh, Commander? Making New Year visits? Sure. I've been rushing deadlines- I mean, I've been training so hard...I feel rather burned out. Going out in the first month of the year and immersing in the auspicious air might just give me some inspiration.
+4type|CHRISTMAS|Thunder Claws... Must we extend a welcome to such an ominous-sounding individual? We feel this occasion is by no means a happy one.
 K3|DIALOGUE1|I was once the training partner of professional athletes and watched them diligently train to achieve results in sports competitions. I used to envy those athletes...but I am now very satisfied with my life, because you're here to guide my training, Commander!
 K3|DIALOGUE2|Ah! Where did you come from, Commander! What's behind my back...? A broken vase? A broom snapped in half? What are you talking about? I have nothing behind my back!
 K3|DIALOGUE3|Perseverance is a very important trait for an athlete. I believe it is very important for you as well, Commander! So...please continue to have me as your adjutant, and I will continue to give it my all!
 K3|SOULCONTRACT|Eh? Is this...an award for me, Commander?<>I used to think that receiving your approval was as hard as achieving a top 3 ranking in a sports competition, and I never would've imagined that I'd be able to do something I've always dreamt of...<>I will always remember the glory that you have bestowed upon me, Commander. Even if my neural cloud gets destroyed, I will never forget this day!
 K3|Introduce|Report, K3 has successfully reached the destination! Please assign me the next training mission, Commander!
 K3|DIALOGUEWEDDING|Can I prepare the training schedule today, Commander? I'm not gonna add anything strange to it! I just want to stay beside you... Not to mention, this is my favorite type of training...
-88typeMod|SOULCONTRACT|So what would you like this time, Master?<>Huhhh? Me...? A-Alright. But make sure you take good care of me...<>Umm... So this time, I'm yours.
 HK416Mod|SOULCONTRACT|Be it you or achievements in combat, everything is mine.<>You don't have to raise a finger, Commander. I'll settle everything for you.
 MP5Mod|SOULCONTRACT|Ah, Commander? Is this...really for me?!<>For someone like me who is insignificant in everything, can I really stay by your side? ......Yes, I will!
 UMP9Mod|SOULCONTRACT|This warm feeling...<>Is this the feeling of "love"?<>With this, we can finally become a real family...
@@ -2947,11 +2951,6 @@ HK416_0|GAIN|Are you the Commander? 416... Please remember this name.
 ADS|GAIN|My name is ADS amphibious assault rifle, got it? Don't forget to let me take the lead whether on land or underwater, Commander!
 P30|GAIN|P30, reporting! Alright, I've remembered your face now, Commander~
 K3|GAIN|Report, K3 has successfully reached the destination! Please assign me the next training mission, Commander!
-88typeMod|DIALOGUE1|Does this getup look odd? No? That's great. Wearing it fills me with nostalgia.
-88typeMod|DIALOGUE2|I'll pamper your taste buds at the store and ensure your safety when we're out! I had regrets in the past, but they've only made me stronger.
-88typeMod|DIALOGUE3|I have calculated how to converse with you many times, Master... But I guess I just can't help but feel flustered around you.
-88typeMod|Introduce|I don't remember what happened, but a fully upgraded Type 88 has returned! With my firepower specialized, I shall provide you with more comprehensive service. I won't lose out on bodyguard duty either!
-88typeMod|DIALOGUEWEDDING|Thank you... No, I'm not just being polite. I can't help but express my gratitude just looking at you, Master.
 97typeS|ALLHALLOWS|These days...even the lanterns look forlorn. This Halloween is more straightforward than our Ghost Festival...
 HK416Mod|DIALOGUE1|Is that you, Commander? Perfect timing. Now you can see for yourself the power of a true T-Doll.
 HK416Mod|DIALOGUE2|I don't mind helping weaker T-Dolls. That's the responsibility of the strong. But if they keep getting in the way of my work...I'll have to teach them a lesson.
@@ -3056,7 +3055,6 @@ Liberator|DIALOGUE3|I wonder if our enemies also have a compelling reason to fig
 Liberator|SOULCONTRACT|What's the matter, Commander? Asking me out like this isn't fair to the other T-Dolls... Huh?! This is... <>Commander...I'm sure you know how much I hate unequal treatment... <>Wow, what a grim face. I'm just kidding! Now that you've destroyed the balance, I'll have no choice but to give you special treatment as well. Do look forward to the days to come...
 Liberator|Introduce|Hello, here comes Liberator, champion of fairness and justice! Commander, please wield me against all inequality!
 Liberator|DIALOGUEWEDDING|You're spacing out, Commander. That's not like you. Is something on your mind? Spill it out. You can tell me anything...but you'll also have to treat me to fried chicken afterwards!
-88typeMod|GAIN|I don't remember what happened, but a fully upgraded Type 88 has returned! With my firepower specialized, I shall provide you with more comprehensive service. I won't lose out on bodyguard duty either!
 APSMod|SOULCONTRACT|You're sure about choosing me?<>Then from now on, what's yours is mine, and what's mine is still mine!
 C96Mod|SOULCONTRACT|Huhhhh? Whyyyyyy?<>Is it 'cause I'm smart? Cute? Unusual? Or is it because I have a long history? Or...or... Fine...<>I'll just keep guessing right here by your side.
 HK416Mod|GAIN|How am I different than before? Not too different. After all, scoring more than full marks is still full marks.
@@ -3132,12 +3130,6 @@ Danuvia43M|SOULCONTRACT|Commander, this component is meant to be mounted on...? 
 Danuvia43M|DIALOGUE3|Huh, Commander? It's very late already, aren't you going to sleep? I'm looking for a lost hairpin. It isn't particularly important, but it's hard to find hairpins of that exact size...
 Danuvia43M|DIALOGUE2|You cut your hand? Don't move. There is antiseptic and...the candy that you like in my bag.
 Danuvia43M|DIALOGUE1|You don't seem very happy, Commander? How about I tell you something interesting?
-R5RGP|DIALOGUEWEDDING|Want to hear my new song? ...Yeah, I wrote it just for you. This was the first time I felt so nervous about creating music. I just hope you'll like it.
-R5RGP|Introduce|Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes.
-R5RGP|SOULCONTRACT|You want to shackle my finger, which I play music with? <>Surely you understand what that entails, right, Commander...? <>Right, of course, I know that perfectly well... Then finally, have I lived up to your expectations?
-R5RGP|DIALOGUE3|While I was still in the factory, my creator believed that I could surpass all my predecessors of the same model and had high hopes for me. If I couldn't live up to these expectations, I'd despise myself.
-R5RGP|DIALOGUE2|The pearl can only see the whole world when it's taken out from its shell. Can you hear the sound of rock from the shell casings?
-R5RGP|DIALOGUE1|I heard some really obscure heavy metal music when I was on my way to the café, but there was nothing but a mess by the time I got there. I wonder who was listening to it...
 CR21|DIALOGUEWEDDING|Didn't I tell you not to eat junk food, Commander? Fine...just this once. You'll have to exercise more after work.
 CR21|Introduce|CR-21 joining the roster! Leave everything to me, be it security or your daily fitness training!
 CR21|SOULCONTRACT|Commander? Why have you gone out of your way to talk to me...? <>Huh?! Are you for real? So...you won't run away even if you have to train with me every day? <>Since you're so determined, I'll also do my best and not let you down!
@@ -3283,7 +3275,6 @@ AK15|GAIN|Nice to meet you, Commander. I am AK-15, Tactical Doll on active duty.
 06TypeSMG|GAIN|Wow! I've finally found a place where I can have hotpot, how cool is that?! Ahem, I mean, hello, Commander...
 Webley|GAIN|I am Webley. I've been waiting to make your acquaintance. Please show me to my dormitory. I have a lot of belongings to set down.
 Danuvia43M|GAIN|Jó napot, Commander! Nice day, isn't it?
-R5RGP|GAIN|Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes.
 CR21|GAIN|CR-21 joining the roster! Leave everything to me, be it security or your daily fitness training!
 KAC|GAIN|K-PDW, salute! You smell of grapes... You really are the Honey that I've been waiting for! Don't be a stranger - just call me "Honey" as well~ ❤
 SIG556|GAIN|Trendsetter SIG-556, heyo! Surprised by my outfit? The latest hashtag trend is "controlled frenzy", after all!
@@ -5153,3 +5144,67 @@ VSK|TITLECALL|Girls' Frontline
 VSK|PHRASE|Taste the wrath of justice.
 VSK|DIALOGUEWEDDING|There aren't any nice stories from my past. Most of them were filled with sorrow and despair because I kept losing the ones I wanted to protect. But this time, I won't let that happen again.
 VSK|Introduce|VSK-94, reporting for duty. So, you're my boss? Nice to meet you.
+R5RGP|ALLHALLOWS|I always prepare lots of candy at this time every year... But nobody ever visits me for trick-or-treating. I wonder why...
+R5RGP|ATTACK|Prestissimo!
+R5RGP|BLACKACTION|The audience is all here. Now enjoy our performance!
+R5RGP|BREAK|(Groan) The rhythm's all messed up now...
+R5RGP|BUILDOVER|Our new friend is ready, didn't you hear the echoes?
+R5RGP|CHRISTMAS|They're looping a Christmas song over the PA system. It sounds nice, but it seems a little monotonous... Commander, want to hear a different version of it?
+R5RGP|COMBINE|Are you on drums? Bass? Keyboard? I won't give up my spot as lead vocal!
+R5RGP|DEFENSE|Grave!
+R5RGP|DIALOGUE1|I heard some really obscure heavy metal music when I was on my way to the café, but there was nothing but a mess by the time I got there. I wonder who was listening to it...
+R5RGP|DIALOGUE2|The pearl can only see the whole world when it's taken out from its shell. Can you hear the sound of rock from the shell casings?
+R5RGP|DIALOGUE3|While I was still in the factory, my creator believed that I could surpass all my predecessors of the same model and had high hopes for me. If I couldn't live up to these expectations, I'd despise myself.
+R5RGP|DIALOGUEWEDDING|Want to hear my new song? ...Yeah, I wrote it just for you. This was the first time I felt so nervous about creating music. I just hope you'll like it.
+R5RGP|FEED|My strings...are wound tighter now.
+R5RGP|FIX|The G string pitch is a little abnormal...
+R5RGP|FORMATION|A score can only be played when each and every note on it is in harmony. That being the case, I would be the most important chord.
+R5RGP|GAIN|Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes.
+R5RGP|GOATTACK|The concert's about to begin... Everyone, let them hear our song!
+R5RGP|HELLO|You came just in time, I had a sudden burst of inspiration, so would you like me to hum a tune for you? ...Before that, though, what's today's schedule like?
+R5RGP|Introduce|Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes.
+R5RGP|LOADING|My strings aren't tuned yet... Give me a while more, Commander.
+R5RGP|MEET|Let's go, the audience is ready and waiting!
+R5RGP|NEWYEAR|Happy New Year! Commander, I'll be in your care for this coming... I'm being too earnest? But of course I am! 
+R5RGP|OPERATIONBEGIN|I'll leave my guitar with you for now, help me look after it.
+R5RGP|OPERATIONOVER|Hey! Where's my guitar? ...I really want to play it.
+R5RGP|PHRASE|Get it!
+R5RGP|RETREAT|Our next performance will be more exciting...
+R5RGP|SKILL1|Pulling-off!
+R5RGP|SKILL2|Sweep-picking!
+R5RGP|SKILL3|And then... BOOM!
+R5RGP|SOULCONTRACT|You want to shackle my finger, which I play music with? <>Surely you understand what that entails, right, Commander...? <>Right, of course, I know that perfectly well... Then finally, have I lived up to your expectations?
+R5RGP|TANABATA|I wrote a new score, would you mind listening to me play it? ...It might be a little long, so listening to all of it might take the whole day. After that, we can look at the stars together.
+R5RGP|TIP|Listen up!
+R5RGP|VALENTINE|Chocolate? Of course I didn't make any, what if I hurt my fingers? ...However, I did buy some candy at the store earlier, so I'll give you half of them.
+R5RGP|WIN|Perfect! That was flawless performance!
+88typeMod|ATTACK|Honestly! Don't just walk all over the place!
+88typeMod|BREAK|Ugh! ...Master's going to scold me now!
+88typeMod|BUILDOVER|A warm welcome to our new staffer! ...Huh? She's a new customer? Really?
+88typeMod|DEFENSE|Please stay here and wait. 
+88typeMod|DIALOGUE1|Does this getup look odd? No? That's great. Wearing it fills me with nostalgia.
+88typeMod|DIALOGUE2|I'll pamper your taste buds at the store and ensure your safety when we're out! I had regrets in the past, but they've only made me stronger.
+88typeMod|DIALOGUE3|I have calculated how to converse with you many times, Master... But I guess I just can't help but feel flustered around you.
+88typeMod|DIALOGUEWEDDING|Thank you... No, I'm not just being polite. I can't help but express my gratitude just looking at you, Master.
+88typeMod|FEED|I can really feel myself growing! Thank you, Master!
+88typeMod|FORMATION|It's been a while, everyone! Let me continue to be of service!
+88typeMod|GAIN|I don't remember what happened, but a fully upgraded Type 88 has returned! With my firepower specialized, I shall provide you with more comprehensive service. I won't lose out on bodyguard duty either!
+88typeMod|GOATTACK|Order received! Ready to move out anytime!
+88typeMod|HELLO|Welcome! Please try today's special drink.
+88typeMod|Introduce|I don't remember what happened, but a fully upgraded Type 88 has returned! With my firepower specialized, I shall provide you with more comprehensive service. I won't lose out on bodyguard duty either!
+88typeMod|MEET|Allow me to serve you!
+88typeMod|RETREAT|Where did I go wrong with my service...
+88typeMod|SKILL1|No violence in the store!
+88typeMod|SKILL2|Here's a warm welcome for you!
+88typeMod|SKILL3|Your order has arrived!
+88typeMod|CHRISTMAS|Merry Christmas! Master, are you participating in the store events? You might just win a special Christmas gift.
+88typeMod|SOULCONTRACT|So what would you like this time, Master?<>Huhhh? Me...? A-Alright. But make sure you take good care of me...<>Umm... So this time, I'm yours.
+88typeMod|WIN|It seems the customers were very pleased this time round. Let's give them good service next time too!
+88typeMod|OPERATIONBEGIN|Time to buy ingredients!
+88typeMod|OPERATIONOVER|I'm back, is everything alright?
+88typeMod|PHRASE|Thank you! Come again!
+88typeMod|BLACKACTION|Here are the desserts. Please enjoy.
+88typeMod|COMBINE|We've expanded our storefront, so let's work hard for Master!
+88typeMod|LOADING|Please wait a moment, Master.
+88typeMod|TIP|I have a tip for you, Master.
+88typeMod|FIX|I'm terribly sorry... You will have to take care of me this time, Master...
