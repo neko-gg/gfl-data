@@ -16,7 +16,7 @@ M1873Mod(0)<Speaker>콜트 리볼버</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>
 64typeMod(0)<Speaker>64식</Speaker>||<SE1>Rope</SE1>:잠 좀 깨세요 56-1! 코인은 먹는 거 아니에요!
 92type(0)<Speaker>92식</Speaker><Shake>0.1</Shake>||<震屏3><SE1>Select</SE1>:뭐? 너 지금 코인을 누구한테 줄 거라고?!
 AAT52(0)<Speaker>AAT52</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1><SE1>AVG_Combat_Hits</SE1>:스텐한테 줄 거라고! 어차피 스텐도 나한테 줄 텐데 뭐!
-StenMK2Mod(0)<Speaker>司登MkⅡ</Speaker><Shake>0.1</Shake>||:아이 참, 그만 싸워! <size=25>어떡하지, 마카로프한테 줄 생각인데...</size>
+StenMK2Mod(0)<Speaker>스텐 MkⅡ</Speaker><Shake>0.1</Shake>||:아이 참, 그만 싸워! <size=25>어떡하지, 마카로프한테 줄 생각인데...</size>
 ()<Speaker>지휘관</Speaker>||:......
 ()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake>:기지의 모두가 모이기엔 조금 좁은 카페가, 인형들의 넘쳐나는 의욕으로 폭발할 것만 같았다.
 ()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:애원하며 매달리고, 윽박지르며 말다툼하고, 투닥투닥 몸싸움까지 벌이는 저 아수라장을, 지휘관은 차마 눈 뜨고 볼 수가 없었다.
