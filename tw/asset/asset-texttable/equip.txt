@@ -790,3 +790,15 @@ equip-30000265,為M37設計的無托手槍握把，適合抵在腰部進行快�
 equip-10000266,ImpulsIIA/C
 equip-20000266,迴避+<dodge>//n暴擊機率+<critical_percent>%$Px4 風暴專用
 equip-30000266,為Px4 風暴專門定制9毫米消音器，緊湊版本縮短了長度使其更適合在狹小的空間裡作戰，是Px4 風暴的愛用品之一。
+equip-10000267,K型短槍管
+equip-20000267,暴擊機率+<critical_percent>%//n迴避+<dodge> 命中+<hit>$P38專用
+equip-30000267,原本是為P38K設計的短槍管，經過IOP的調整後可以安裝在P38上了，相比起原本的長槍管，短槍管在行動時更加的靈巧，也便於隱蔽攜帶了。
+equip-10000268,DBP10（03型）
+equip-20000268,傷害+<pow>//n暴擊傷害+<critical_harm_rate>%$03式專用
+equip-30000268,IOP專為03式重新調整的DBP10彈藥，和普通的DBP10相比，初速有顯著的提升。
+equip-10000269,ILWLP
+equip-20000269,迴避+<dodge>//n夜視能力+<night_view_percent>%$Mk23專用
+equip-30000269,專為Mk23設計的下掛戰術模組，同時擁有可見/IR鐳射指示功能，附加可見/IR照明功能，功能非常齊全。
+equip-10000270,OMEGA滑套
+equip-20000270,傷害+<pow> 命中+<hit>//n暴擊機率+<critical_percent>%技能增加$CZ75專用
+equip-30000270,全尺寸的CZ75B型上滑夾，配合OMEGA扳機組，使得快速射擊更加流暢。

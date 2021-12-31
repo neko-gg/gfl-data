@@ -113,7 +113,7 @@ Type100(7)<Speaker>一〇〇式</Speaker>||:<color=#A9A9A9>欸……她怎麼走
 ()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><回忆><BGM>BGM_Moon</BGM>:一〇〇式初入格里芬基地的第7天，午後的基地咖啡廳。
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:一〇〇式坐在咖啡廳的門口，獨自品嚐著手中的咖啡。+窗外陽光正好，但自己卻無所事事。
 Type100(0)<Speaker>一〇〇式</Speaker>||:<color=#A9A9A9>入職一週了……還是沒能交上朋友呢……</color>+<color=#A9A9A9>要是我再外向開朗些就好了……</color>
-()<Speaker></Speaker>||:輕輕嘆了口氣，一〇〇式望向窗外鬱郁蔥蔥的綠樹，在心智裡幻想著如果它們是正在盛開的一〇〇式樹該多好……
+()<Speaker></Speaker>||:輕輕嘆了口氣，一〇〇式望向窗外鬱郁蔥蔥的綠樹，在心智裡幻想著如果它們是正在盛開的櫻花樹該多好……
 ()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:叩叩——+一陣敲擊玻璃的聲音驚醒了一〇〇式。+是一個陌生的金髮人形，嘴邊不羈地叼著巧克力，看上去有幾分凶神惡煞。
 Type100(7)<Speaker>一〇〇式</Speaker>||:<color=#A9A9A9>欸，我做錯什麼了嗎……</color>
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:一〇〇式瞬間慌亂了起來，驚慌中，她打翻了手邊的咖啡。
