@@ -439,6 +439,8 @@ patch2090={
 "2090/MissionData",	
 "2090/NavigationController",	
 "2090/SLGMinigame/BattleEnemyCharacterController",
+"2090/HomeOperationButton",
+"2090/SLGMinigame/BattleInteractionGridController",
 }
 
 -- va11
