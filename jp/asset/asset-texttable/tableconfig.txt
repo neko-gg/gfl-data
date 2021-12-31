@@ -124,3 +124,9 @@ fight_success_condition
 fight_type
 chess_mission
 credits
+career_quest_group
+career_quest_grade
+fairy_talent
+fairy_talent_type
+max_cost
+commander_ranking_types
