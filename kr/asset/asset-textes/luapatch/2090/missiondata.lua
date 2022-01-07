@@ -34,4 +34,28 @@ function Split(szFullString, szSeparator)
 	return nSplitArray
 end
 
+local LoadFairySkillPerform = function(self,jsonData,readObject)
+	self:LoadFairySkillPerform(jsonData,readObject);
+	if readObject then
+		local txt1 = jsonData:ToString();
+		txt1 = string.gsub(txt1,"\\","");
+		jsonData = CS.LitJson.JsonMapper.ToObject(txt1);
+	end
+	local txt = jsonData:ToJson();
+	if txt == "[]" then
+		return;
+	end
+	for i=0,jsonData.Count-1 do
+		local sourceType = jsonData[i]:GetValue("source_type").Int;
+		local id = jsonData[i]:GetValue("source_value").Int;
+		local cd = jsonData[i]:GetValue("next_skill_cd_turn").Int;
+		if sourceType == 6 then
+			local allyteam = self.listAllyTeams:GetDataById(id);
+			if allyteam.currentFairy~=nil then
+				allyteam.currentFairy.mainSkill.cdTurn = cd;
+			end
+		end
+	end
+end
 util.hotfix_ex(CS.MissionAction,'LoadBattleEnvironment',LoadBattleEnvironment)
+util.hotfix_ex(CS.MissionAction,'LoadFairySkillPerform',LoadFairySkillPerform)

@@ -1588,6 +1588,9 @@ enemy_character_type-30900316,
 enemy_character_type-20900317,Px4 스톰
 enemy_character_type-10900317,엘리트//c그리폰
 enemy_character_type-30900317,
+enemy_character_type-20900318,디스트로이어 - 폭주사슴
+enemy_character_type-10900318,엘리트//c디스트로이어
+enemy_character_type-30900318,
 enemy_character_type-20080001,막는 애
 enemy_character_type-10080001,
 enemy_character_type-30080001,

@@ -77,7 +77,7 @@ fight_environment_skill-20000730,아군 권총 인형 스킬 쿨타임 20% 감�
 fight_environment_skill-10000731,기관단총 중점
 fight_environment_skill-20000731,아군 기관단총 명중 회피 100% 상승
 fight_environment_skill-10000732,소총 중점
-fight_environment_skill-20000732,아군 소총 인형 사속 치명률 20% 상승
+fight_environment_skill-20000732,아군 소총 인형 사속//c 치명률 20% 상승
 fight_environment_skill-10000733,돌격 중점
 fight_environment_skill-20000733,아군 돌격소총 화력 20% 명중 100% 상승
 fight_environment_skill-10000734,산탄총 중점
@@ -85,7 +85,7 @@ fight_environment_skill-20000734,아군 산탄총 장갑 20% 상승//c 받는 �
 fight_environment_skill-10000735,기관총 중점
 fight_environment_skill-20000735,아군 기관총 인형 장탄수 15발 추가
 fight_environment_skill-10000736,하늘의 가호
-fight_environment_skill-20000736,전투 개시 시 아군 인형에게 20% 보호막 부여//c 지속 10초
+fight_environment_skill-20000736,전투 개시 시 아군 인형은 최대체력 20%만큼의 보호막을 획득//c 지속 10초.
 fight_environment_skill-10000737,돌격지시
 fight_environment_skill-20000737,아군 전체 사속 50% 상승
 fight_environment_skill-10000738,기습타격
