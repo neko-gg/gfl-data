@@ -110,19 +110,19 @@ chess_chip-10015602,武裝行軍
 chess_chip-20015602,使你擁有護盾的棋子，行動力+2。
 chess_chip-30015602,
 chess_chip-10030101,兵裝改換
-chess_chip-20030101,<color=#FFFFFF00>-----</color>增加1顆行動骰子
+chess_chip-20030101,增加1顆行動骰子
 chess_chip-30030101,
 chess_chip-10030201,定位轟炸
-chess_chip-20030201,<color=#FFFFFF00>-----</color>對場上1顆棋子造成2點傷害。
+chess_chip-20030201,對場上1顆棋子造成2點傷害。
 chess_chip-30030201,
 chess_chip-10030301,物資投送
-chess_chip-20030301,<color=#FFFFFF00>-----</color><a press=280121>增幅</a>1顆友方棋子，同一回合內可使用多次，但第二次開始需支付5枚拉弗伯雷幣。
+chess_chip-20030301,<a press=280121>增幅</a>1顆友方棋子，同一回合內可使用多次，但第二次開始需支付5枚拉弗伯雷幣。
 chess_chip-30030301,
 chess_chip-10030401,重裝增援
-chess_chip-20030401,<color=#FFFFFF00>-----</color>回復場上1顆棋子2點生命並增加1點護盾值。
+chess_chip-20030401,回復場上1顆棋子2點生命並增加1點護盾值。
 chess_chip-30030401,
 chess_chip-10030501,兵裝改換
-chess_chip-20030501,<color=#FFFFFF00>-----</color>回收1顆友方棋子，回收不同槍種的棋子將獲得不同效果。//n<color=#FFFFFF00>-----</color>手槍：增加1顆行動骰子1回合；//n<color=#FFFFFF00>-----</color>步槍：獲得<a press=280294>毀傷</a>道具卡；//n<color=#FFFFFF00>-----</color>衝鋒槍：增加全體2點護盾；//n<color=#FFFFFF00>-----</color>突擊步槍：獲得<a press=280121>增幅</a>道具卡。
+chess_chip-20030501,回收1顆友方棋子，回收不同槍種的棋子將獲得不同效果。//n手槍：增加1顆行動骰子1回合；//n步槍：獲得<a press=280294>毀傷</a>道具卡；//n衝鋒槍：增加全體2點護盾；//n突擊步槍：獲得<a press=280121>增幅</a>道具卡。
 chess_chip-30030501,
 chess_chip-10015801,優勢兵力
 chess_chip-20015801,若你場上存在2個手槍，行動骰子+1。

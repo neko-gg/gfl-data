@@ -77,7 +77,7 @@ fight_environment_skill-20000730,提升我方手槍人形技能冷卻20%
 fight_environment_skill-10000731,衝鋒專精
 fight_environment_skill-20000731,提升我方衝鋒槍命中和閃避100%
 fight_environment_skill-10000732,步槍專精
-fight_environment_skill-20000732,提升我方步槍人形射速和暴擊20%
+fight_environment_skill-20000732,提升我方步槍人形射速和暴擊率20%
 fight_environment_skill-10000733,突擊專精
 fight_environment_skill-20000733,提升我方突擊步槍人形20%傷害和100%命中
 fight_environment_skill-10000734,霰彈專精
@@ -85,7 +85,7 @@ fight_environment_skill-20000734,提升我方霰彈人形20%護甲和20%傷害�
 fight_environment_skill-10000735,機槍專精
 fight_environment_skill-20000735,增加我方機槍人形15彈鏈
 fight_environment_skill-10000736,天佑之人
-fight_environment_skill-20000736,我方人形開場獲得20%護盾持續10秒
+fight_environment_skill-20000736,我方人形開場獲得自身最大生命值20%護盾持續10秒
 fight_environment_skill-10000737,突擊號令
 fight_environment_skill-20000737,我方全體射速提升50%
 fight_environment_skill-10000738,急速攻擊
@@ -97,6 +97,6 @@ fight_environment_skill-20000740,每有1種槍種全體提升30%傷害、射速�
 fight_environment_skill-10000741,清除指令
 fight_environment_skill-20000741,每隔8秒清除我方有益狀態
 fight_environment_skill-10000742,暴擊壓制
-fight_environment_skill-20000742,暴擊降低100%
+fight_environment_skill-20000742,暴擊率降低100%
 fight_environment_skill-10000743,信道中斷
 fight_environment_skill-20000743,每次使用技能後技能冷卻增加100%

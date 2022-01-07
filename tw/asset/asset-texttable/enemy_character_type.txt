@@ -1591,6 +1591,9 @@ enemy_character_type-30900316,
 enemy_character_type-20900317,Px4 風暴
 enemy_character_type-10900317,精英//c格里芬
 enemy_character_type-30900317,
+enemy_character_type-20900318,破壞者-浮掠麋影
+enemy_character_type-10900318,精英//c破壞者
+enemy_character_type-30900318,
 enemy_character_type-20080001,盾牌娘
 enemy_character_type-10080001,
 enemy_character_type-30080001,

@@ -16135,3 +16135,47 @@ A545|TIP|作為人形，雖然槍械是主要的武器，但也不能疏於格�
 A545|LOADING|我隨身的酒可消磨不掉這麼長的時間。
 A545|DIALOGUEWEDDING|家裡不需要清淡如水的飲料，你早該清楚的。所以，這些低度數的酒類全部沒收。
 A545|Introduce|A-545，從今天起接受你的指揮，希望你能發揮出與自己地位相襯的實力……首先，讓我見識一下你的酒量吧。
+Destroyer_Christmas|GAIN01|浮掠在雪原上的麋影——破壞者，為你獻上甜蜜的死亡……和別人撞台詞了？我不管，從現在起，這句台詞是我的了！
+Destroyer_Christmas|GAIN02|哼哼！沒錯，是我，正是你期待已久的破壞者大人！心懷感恩地做一頓聖誕大餐迎接我吧！
+Destroyer_Christmas|HELLO|今天去哪裡搶奪小朋友們的聖誕禮物呢？
+Destroyer_Christmas|FORMATION01|只要有我在，就贏定了！
+Destroyer_Christmas|FORMATION02|都往後站，讓你們看看我的厲害！
+Destroyer_Christmas|FORMATION03|這次，我要拿出全——部的力氣！
+Destroyer_Christmas|FEED01|指揮官你那點歪心思我都看穿了，說吧，要我幫什麼忙？
+Destroyer_Christmas|FEED02|哇！是給我的聖誕禮物嗎？再來一點啊！
+Destroyer_Christmas|BREAKTHROUGH01|哦哦！！力量湧了上來，我感覺現在就能把攔路的傢伙們全都打扁！
+Destroyer_Christmas|BREAKTHROUGH02|讓開，我要試試我的超級無敵聖誕特供版火力！
+Destroyer_Christmas|UPGRADE01|原來如此，原來如此，這點東西很簡單就明白啦~
+Destroyer_Christmas|UPGRADE02|這就是最新用法嗎？真是……哼，我自己稍費點時間也能想出來啦。
+Destroyer_Christmas|DIALOGUE01|指揮官，我再說一遍！這是超級麋鹿！不是普通麋鹿！不是馴鹿！更不是水牛！！
+Destroyer_Christmas|DIALOGUE02|（哼唱鈴兒響叮噹第一句）……指揮官？！剛，剛才我只是在練習吹口哨罷了！才不是像小孩子一樣期待聖誕禮物呢！
+Destroyer_Christmas|DIALOGUE03|指揮官的、干擾者的、小魔犬的……唔，雖然是個討厭的傢伙，但作為關照我的獎勵，還是給夢想家帶一份禮物好了！
+Destroyer_Christmas|GOATTACK|超級麋鹿！出擊！
+Destroyer_Christmas|MEET|看我把你們全都變成禮物打包送走！
+Destroyer_Christmas|ATTACK|哼哼！讓你們見識一下超級麋鹿的厲害！
+Destroyer_Christmas|DEFENSE|這就是我們的鐵壁防禦！
+Destroyer_Christmas|WIN|就這點水平？完全不夠看嘛！
+Destroyer_Christmas|RETREAT|哇！！情況不對，趕快撤退了啦！！
+Destroyer_Christmas|DEAD01|禮物還沒有……發完……
+Destroyer_Christmas|DEAD02|把我的禮物還給我……
+Destroyer_Christmas|SKILL01|這一炮下去，你腦子裡就只有聖誕節囉！
+Destroyer_Christmas|SKILL02|這就是給壞孩子的禮物！
+Destroyer_Christmas|SKILL03|呼哈！吃我聖誕大炮啦！
+Destroyer_Christmas|FIX|喂，注意點，不要磕壞我的聖誕禮物了！
+Destroyer_Christmas|BLACKACTION|聖誕宅急送出動！不要太想我哦，指揮官。
+Destroyer_Christmas|SOULCONTRACT|什麼啦指揮官，是新禮物喔？這……你不會是認真的吧？！就算用這方式賄賂我，我、我也不會多給你送禮物的喔。<>好啦，別傻笑啦，快和我一起準備一下今年聖誕節的禮物清單。<>以後咱們可得一直，一直在一起，就算你不願意，這些忙你也得幫！
+Destroyer_Christmas|DIALOGUEWEDDING|嘻嘻，超級麋鹿，你看，指揮官給了我這個呢~是不是很羡慕啊？這可是屬於我一個人的，最棒的寶物……嗚哇！指揮官？！你什麼時候過來的？剛剛……剛剛說的話不算數！忘掉！快忘掉！！！
+Destroyer_Christmas|TITLECALL|少女前線
+Destroyer_Christmas|PHRASE|這回得聽我的！
+Destroyer_Christmas|MOOD1|哈哈哈！
+Destroyer_Christmas|MOOD2|嗚哇！什麼啦！
+Destroyer_Christmas|LOWMOOD|欸……
+Destroyer_Christmas|APPRECIATE|好耶！！
+Destroyer_Christmas|AGREE|嗯嗯，說的對啊！
+Destroyer_Christmas|ACCEPT|沒錯呢！
+Destroyer_Christmas|FEELING|就是這樣！
+Destroyer_Christmas|TIP|喂！和我聊天就不要東張西望啦！
+Destroyer_Christmas|LOADING|有耐心的好孩子會收到禮物哦！
+Guard_chm|DIALOGUE01|-.-. .... .-. .. ... - -- .- ...
+Guard_chm|DIALOGUE02|--. .. -. --. . .-. -... .-. . .- -.. 
+Guard_chm|DIALOGUE03|.... .- .--. .--. -.--
