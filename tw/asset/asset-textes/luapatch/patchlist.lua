@@ -453,6 +453,7 @@ patch2090={
 "2090/SquadStateController",
 "2090/Data",
 "2090/DormEstablishDetailController",
+"2090/BattleUIPauseController",
 }
 
 -- va11
