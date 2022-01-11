@@ -14,13 +14,28 @@ local InitClockSelect = function(self,show,play)
 		end
 	end
 	if self.clockSelectRing ~= nil and not self.clockSelectRing:isNull() then
-		local title =  self.clockSelectRing.transform:Find("CurrentMission/Ring");
-		local group = title:GetComponent(typeof(CS.UnityEngine.CanvasGroup));
-		if group ~= nil then
-			if show then 
+		local title =  self.clockSelectRing.transform:Find("CurrentMission");
+		if title ~= nil then
+			local group = title:GetComponent(typeof(CS.UnityEngine.CanvasGroup));
+			if group ~= nil and not group:isNull() then
+				if show then 
+					group.alpha = 1;
+				else
+					group.alpha = 0;
+				end
+			end
+		end
+	end
+end
+local CheckCurrentAngle = function(self,order)
+	self:CheckCurrentAngle(order);
+	if self.clockSelectRing ~= nil and not self.clockSelectRing:isNull() then
+		local title =  self.clockSelectRing.transform:Find("CurrentMission");
+		if title ~= nil then
+			local group = title:GetComponent(typeof(CS.UnityEngine.CanvasGroup));
+			if group ~= nil and not group:isNull() then
+				group:DOKill();
 				group.alpha = 1;
-			else
-				group.alpha = 0;
 			end
 		end
 	end
@@ -113,7 +128,7 @@ local ShowItemRuler = function(self)
 end
 util.hotfix_ex(CS.OPSPanelController,'InitClockSelect',InitClockSelect)
 util.hotfix_ex(CS.OPSPanelController,'ShowContainerReturn',ShowContainerReturn)
---util.hotfix_ex(CS.OPSPanelController,'InitShowContainer',InitShowContainer)
+util.hotfix_ex(CS.OPSPanelController,'CheckCurrentAngle',CheckCurrentAngle)
 util.hotfix_ex(CS.OPSPanelController,'PlayTime',PlayTime)
 util.hotfix_ex(CS.OPSPanelController,'ShowClockTime',ShowClockTime)
 util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)

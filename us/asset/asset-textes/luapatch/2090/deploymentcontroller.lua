@@ -19,6 +19,13 @@ local RequestNoBattleAllyHandle = function(self,data)
 	self:RequestNoBattleAllyHandle(data);
 end
 
+local TriggerSelectTeam = function(team)
+	if team == nil then
+		CS.DeploymentBuildSkillItem.showSelectSpot = false;
+	end
+	CS.DeploymentController.TriggerSelectTeam(team);
+end	
 util.hotfix_ex(CS.DeploymentController,'RequestNoBattleAllyHandle',RequestNoBattleAllyHandle)
+util.hotfix_ex(CS.DeploymentController,'TriggerSelectTeam',TriggerSelectTeam)
 
 

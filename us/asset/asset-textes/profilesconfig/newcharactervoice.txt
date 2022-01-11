@@ -5208,3 +5208,47 @@ R5RGP|WIN|Perfect! That was flawless performance!
 88typeMod|LOADING|Please wait a moment, Master.
 88typeMod|TIP|I have a tip for you, Master.
 88typeMod|FIX|I'm terribly sorry... You will have to take care of me this time, Master...
+Dragoon_SWAP|DIALOGUE01|Clack...Clack clack...
+Dragoon_SWAP|DIALOGUE02|.-../../-.-/.
+Dragoon_SWAP|DIALOGUE03|.-/-./-
+Dreamer|ACCEPT|Hmm.
+Dreamer|AGREE|I suppose so ♪.
+Dreamer|APPRECIATE|Haha!
+Dreamer|ATTACK|Closer, even closer...
+Dreamer|BLACKACTION|I'm setting off then. Don't worry, I won't go overboard ♪.
+Dreamer|BREAKTHROUGH01|Another step closer to a new height.
+Dreamer|BREAKTHROUGH02|Heheh ♪, I'm very happy with the look of my new body.
+Dreamer|DEAD01|Haha ♪, unbelievable! This really is...hahahahaha...
+Dreamer|DEAD02|This is just...the beginning... Wait for it...
+Dreamer|DEFENSE|C'mon, I'm waiting.
+Dreamer|DIALOGUE01|My dream? Good question, but now isn't the time to tell you. One day, you'll find out everything about me.
+Dreamer|DIALOGUE02|Commander, why are you always frowning? It's as if you aren't happy with your physical appearance? Don't worry, I can help you fulfill your dream and grant you a body of great power and eternal beauty.
+Dreamer|DIALOGUE03|Commander, care to accompany me on my stroll? Haha, killing isn't on the schedule.
+Dreamer|DIALOGUEWEDDING|Ever since I'm with you, I've figured out the answers to many questions that have been puzzling me. For example, I finally understand why Salome kisses her beloved John's severed head...and why Queen Margot wants to possess her lover's head... Why do you look so pale?
+Dreamer|FEED01|A surge of power... I like this feeling.
+Dreamer|FEED02|I can't wait to flex my new-found power.
+Dreamer|FEELING|Mmhmm.
+Dreamer|FIX|Griffin's repair service is so gentle.
+Dreamer|FORMATION01|Heheh ♪, as you wish.
+Dreamer|FORMATION02|I wonder what kind of enemies we'll encounter. I can hardly wait.
+Dreamer|FORMATION03|I get to pursue my favorite murderous pastime again.
+Dreamer|GAIN01|Sangvis Ferri, codename "Dreamer". Commander, allow me to give your meaningless life a new direction.
+Dreamer|GAIN02|We meet again so soon. Looks like you really do need me, Commander.
+Dreamer|GOATTACK|I'll kill to my heart's content ♪.
+Dreamer|HELLO|Commander, you're right on time. It's perfect weather for a hunt today ♪.
+Dreamer|LOADING|Don't make promises lightly. If you betray me, my wrath will be nothing to sneeze at...
+Dreamer|LOWMOOD|Oh?
+Dreamer|MEET|Is it show time already?
+Dreamer|MOOD1|Hahahahaha!
+Dreamer|MOOD2|Hmm?
+Dreamer|PHRASE|Heheh
+Dreamer|RETREAT|Hahahaha! Well done, but don't let that get to your head...
+Dreamer|SKILL01|Hahahahaha! On your knees!
+Dreamer|SKILL02|It's not over yet! Keep going!
+Dreamer|SKILL03|Is that it? I haven't had enough!
+Dreamer|SOULCONTRACT|Is this the Oath Certificate that's at the top of every Griffin Doll's wishlist? Looks just like a regular hoop...<>Haha, just kidding. Stop frowning, Commander, I'll take good care of it.<>Now that you've sworn an Oath to me, you'd better keep your word, or I'll be very angry...
+Dreamer|TIP|Why are you always visiting the other dorms? Am I not good enough?
+Dreamer|TITLECALL|Girls' Frontline
+Dreamer|UPGRADE01|Will I find happiness in the end?
+Dreamer|UPGRADE02|"Thank you"... That's what you want me to say, isn't it?
+Dreamer|WIN|Wiped out just like that? How disappointing...
