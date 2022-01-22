@@ -126,6 +126,14 @@ local ShowItemRuler = function(self)
 	end
 	self:ShowItemRuler();
 end
+
+local ReturnContainer = function(self)
+	if not self.CanClick then
+		return;
+	end
+	CS.OPSPanelBackGround.Instance:ReadRecord();
+	self:ReturnContainer();
+end
 util.hotfix_ex(CS.OPSPanelController,'InitClockSelect',InitClockSelect)
 util.hotfix_ex(CS.OPSPanelController,'ShowContainerReturn',ShowContainerReturn)
 util.hotfix_ex(CS.OPSPanelController,'CheckCurrentAngle',CheckCurrentAngle)
@@ -135,3 +143,4 @@ util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)
 util.hotfix_ex(CS.OPSPanelController,'ShowTip',ShowTip)
 util.hotfix_ex(CS.OPSPanelController,'OpenRuler',OpenRuler)
 util.hotfix_ex(CS.OPSPanelController,'ShowItemRuler',ShowItemRuler)
+util.hotfix_ex(CS.OPSPanelController,'ReturnContainer',ReturnContainer)

@@ -25,7 +25,28 @@ local TriggerSelectTeam = function(team)
 	end
 	CS.DeploymentController.TriggerSelectTeam(team);
 end	
+
+local check = false;
+local CanPlayerAction = function(self)
+	if check then
+		return true;
+	end
+	if CS.GameData.currentSelectedMissionInfo.useDemoMission then
+		return false;	
+	end
+	return true;
+end
+
+local ClickSpot = function(self,spot)
+	check = true;
+	self:ClickSpot(spot);
+	check = false;
+end
+
 util.hotfix_ex(CS.DeploymentController,'RequestNoBattleAllyHandle',RequestNoBattleAllyHandle)
 util.hotfix_ex(CS.DeploymentController,'TriggerSelectTeam',TriggerSelectTeam)
+util.hotfix_ex(CS.DeploymentController,'get_CanPlayerAction',CanPlayerAction)
+util.hotfix_ex(CS.DeploymentController,'ClickSpot',ClickSpot)
+
 
 
