@@ -750,6 +750,14 @@ mission-10001736,03焓變·冥霧
 mission-20001736,
 mission-30001736,
 mission-40001736,
+mission-10001737,I 颶風：蛻骨
+mission-20001737,
+mission-30001737,
+mission-40001737,
+mission-10001738,II 颶風：枯蛺
+mission-20001738,
+mission-30001738,
+mission-40001738,
 mission-10010001,七階謎題
 mission-20010001,
 mission-30010001,

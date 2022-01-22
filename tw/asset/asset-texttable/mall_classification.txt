@@ -16,7 +16,7 @@ mall_classification-10002002,月卡
 mall_classification-10003001,七日禮包
 mall_classification-10003002,特惠禮包
 mall_classification-10003003,裝扮禮包
-mall_classification-10003004,支援礼包
+mall_classification-10003004,支援禮包
 mall_classification-10005001,資源
 mall_classification-10005002,契約
 mall_classification-10005003,基建

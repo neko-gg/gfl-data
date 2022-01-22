@@ -12,7 +12,9 @@
         "sound": "bb_noel_nachujiguanqiang",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "2",
@@ -27,7 +29,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "3",
@@ -42,7 +46,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "4",
@@ -57,7 +63,9 @@
         "sound": "BT_MissileExplo",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "5",
@@ -72,7 +80,9 @@
         "sound": "bb_noel_nachujiguanqiang",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "6",
@@ -87,7 +97,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "7",
@@ -102,7 +114,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "8",
@@ -117,7 +131,9 @@
         "sound": "bb_noel_nachujiguanqiang",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1002",
@@ -132,7 +148,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "1",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1003",
@@ -147,7 +165,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1004",
@@ -162,7 +182,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1005",
@@ -177,7 +199,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1006",
@@ -192,7 +216,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1007",
@@ -207,7 +233,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1008",
@@ -222,7 +250,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1009",
@@ -237,7 +267,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1010",
@@ -252,7 +284,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1011",
@@ -267,7 +301,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1012",
@@ -282,7 +318,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1013",
@@ -297,7 +335,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1014",
@@ -312,7 +352,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1015",
@@ -327,7 +369,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1016",
@@ -342,7 +386,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1017",
@@ -357,7 +403,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1018",
@@ -372,7 +420,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1019",
@@ -387,7 +437,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1020",
@@ -402,7 +454,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "100861",
@@ -417,7 +471,9 @@
         "sound": "UI_helicopter_loop",
         "spine": "1",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "900001",
@@ -432,7 +488,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "900002",
@@ -447,7 +505,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "900003",
@@ -462,7 +522,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000011",
@@ -477,7 +539,9 @@
         "sound": "BT_LockGate_Open",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000012",
@@ -492,7 +556,9 @@
         "sound": "BT_LockGate_Close",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000013",
@@ -507,7 +573,9 @@
         "sound": "BT_console_start",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000014",
@@ -522,7 +590,9 @@
         "sound": "BT_ControlStation_Freeze",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000015",
@@ -537,7 +607,9 @@
         "sound": "BT_RockExplo",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000016",
@@ -552,7 +624,9 @@
         "sound": "map_emp_explo",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000017",
@@ -567,7 +641,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000018",
@@ -582,7 +658,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000019",
@@ -597,7 +675,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000020",
@@ -612,7 +692,9 @@
         "sound": "map_emp_explo",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000021",
@@ -627,7 +709,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000022",
@@ -642,7 +726,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000023",
@@ -657,7 +743,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000024",
@@ -672,7 +760,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000025",
@@ -687,7 +777,9 @@
         "sound": "BT_The_Division_Flash_Bomb",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000026",
@@ -702,7 +794,9 @@
         "sound": "BT_The_Division_Flash_Bomb_Explosion",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000027",
@@ -717,7 +811,9 @@
         "sound": "BT_The_Division_Grenade",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000028",
@@ -732,7 +828,9 @@
         "sound": "BT_The_Division_Grenade_Explosion",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000029",
@@ -747,7 +845,9 @@
         "sound": "BT_The_Division_Machine_Gun_Tower",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000030",
@@ -762,7 +862,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000031",
@@ -777,7 +879,9 @@
         "sound": "0",
         "spine": "3",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000032",
@@ -792,7 +896,9 @@
         "sound": "BT_The_Division_Machine_Gun_Tower_Shooting",
         "spine": "4",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000033",
@@ -807,7 +913,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000034",
@@ -822,7 +930,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000035",
@@ -837,7 +947,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000036",
@@ -852,7 +964,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000037",
@@ -867,7 +981,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000038",
@@ -882,7 +998,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000039",
@@ -897,7 +1015,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000040",
@@ -912,7 +1032,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000041",
@@ -927,7 +1049,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000042",
@@ -942,7 +1066,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000043",
@@ -957,7 +1083,9 @@
         "sound": "BT_squad_howitzer",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000044",
@@ -972,7 +1100,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000045",
@@ -987,7 +1117,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000046",
@@ -1002,7 +1134,9 @@
         "sound": "SFX_20_Winter_Radar_Scan",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000047",
@@ -1017,7 +1151,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000048",
@@ -1032,7 +1168,9 @@
         "sound": "SFX_20_Winter_Boom",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000049",
@@ -1047,7 +1185,9 @@
         "sound": "SFX_20_Winter_Buff",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000050",
@@ -1062,7 +1202,9 @@
         "sound": "SFX_20_Winter_Debuff",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000051",
@@ -1077,7 +1219,9 @@
         "sound": "BT_rotate",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000052",
@@ -1092,7 +1236,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "1",
-        "relative_position": "1000,3000"
+        "relative_position": "1000,3000",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000053",
@@ -1107,7 +1253,9 @@
         "sound": "BT_The_Division_Grenade_Explosion",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000054",
@@ -1122,7 +1270,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000055",
@@ -1137,7 +1287,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000056",
@@ -1152,7 +1304,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000057",
@@ -1167,7 +1321,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000058",
@@ -1182,7 +1338,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000059",
@@ -1197,7 +1355,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000060",
@@ -1212,7 +1372,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000061",
@@ -1227,7 +1389,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000062",
@@ -1242,7 +1406,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000063",
@@ -1257,7 +1423,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000064",
@@ -1272,7 +1440,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000065",
@@ -1287,7 +1457,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000066",
@@ -1302,7 +1474,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000067",
@@ -1317,7 +1491,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000068",
@@ -1332,7 +1508,9 @@
         "sound": "SFX_20_Winter_Password",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000069",
@@ -1347,7 +1525,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000070",
@@ -1362,7 +1542,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000071",
@@ -1377,7 +1559,9 @@
         "sound": "Equip_Ice",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000072",
@@ -1392,7 +1576,9 @@
         "sound": "Equip_Smoke",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000073",
@@ -1407,7 +1593,9 @@
         "sound": "",
         "spine": "2",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000074",
@@ -1422,7 +1610,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000075",
@@ -1437,7 +1627,9 @@
         "sound": "21Summer_Bomb_Whoosh",
         "spine": "0",
         "if_starting": "1",
-        "relative_position": "-1000,2000"
+        "relative_position": "-1000,2000",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000076",
@@ -1452,7 +1644,9 @@
         "sound": "21Summer_Bomb_Alarm",
         "spine": "2",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000077",
@@ -1467,7 +1661,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000078",
@@ -1482,7 +1678,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000079",
@@ -1497,7 +1695,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000080",
@@ -1512,7 +1712,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000081",
@@ -1527,7 +1729,9 @@
         "sound": "BT_grenade_explode",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000082",
@@ -1542,7 +1746,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000083",
@@ -1557,7 +1763,9 @@
         "sound": "0",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000084",
@@ -1572,7 +1780,9 @@
         "sound": "BT_Sniper_skill_1",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000085",
@@ -1587,7 +1797,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000086",
@@ -1602,7 +1814,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "1000088",
@@ -1617,7 +1831,9 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     },
     {
         "id": "9490401",
@@ -1632,6 +1848,8 @@
         "sound": "",
         "spine": "0",
         "if_starting": "0",
-        "relative_position": "0"
+        "relative_position": "0",
+        "rotation_offset": "",
+        "is_focus": "0"
     }
 ]

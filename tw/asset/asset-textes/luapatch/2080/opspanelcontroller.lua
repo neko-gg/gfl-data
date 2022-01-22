@@ -334,17 +334,24 @@ function Close()
 end
 
 local SelectProcessInfo = function(self,processInfo)
-	if self.campaionId == -32 and processInfo.mission ~= nil and processInfo.mission.clocked then
+	if processInfo.mission ~= nil and processInfo.mission.clocked then
 		local iter = processInfo.mission.missionInfo.PointCose:GetEnumerator()     
 		while iter:MoveNext() do                      
 			local item = iter.Current.Key;
 			local num = iter.Current.Value;
+			local itemInfo = CS.GameData.listItemInfo:GetDataById(item);
 			local realNum = CS.OPSPanelController.Instance.item_use[item].itemRealNum;
 			if realNum == 0 or realNum < num then
-				CS.CommonController.ConfirmBox(CS.Data.GetLang(230011),function()
-						CS.CommonController.GotoScene("Dorm", 20004)
-					end)
-				return;
+				if self.campaionId == -32 then
+					CS.CommonController.ConfirmBox(CS.Data.GetLang(230011),function()
+							CS.CommonController.GotoScene("Dorm", 20004)
+						end)
+					return;
+				else
+					local txt = CS.System.String.Format(CS.Data.GetLang(60072), itemInfo.name);
+					CS.CommonController.LightMessageTips(txt);
+					return;
+				end
 			end                    
 		end	
 		if processInfo.panelHolder ~= nil then
@@ -458,6 +465,13 @@ local CheckSpecialAnim = function(self)
 	CS.OPSPanelController.selectHolderOrder = -1;
 	self:CheckSpecialAnim();
 end
+
+local Awake = function(self)
+	self:Awake();
+	CS.OPSPanelController.diffcluteNum = self.currentPanelConfig.diffclutyNum;
+	CS.OPSPanelController.diffclutyRecord = CS.Mathf.Min(CS.OPSPanelController.diffclutyRecord, CS.OPSPanelController.diffcluteNum - 1);
+	CS.OPSPanelController.difficulty = CS.OPSPanelController.diffclutyRecord;
+end
 util.hotfix_ex(CS.OPSPanelController,'SelectDiffcluty',SelectDiffcluty)
 util.hotfix_ex(CS.OPSPanelController,'CheckSpineMove',CheckSpineMove)
 util.hotfix_ex(CS.OPSPanelController,'CheckContainerAngle',CheckContainerAngle)
@@ -479,3 +493,4 @@ util.hotfix_ex(CS.OPSPanelController,'CheckClockTimeDelay',CheckClockTimeDelay)
 util.hotfix_ex(CS.OPSPanelController,'RequestUnClockCampaigns',RequestUnClockCampaigns)
 util.hotfix_ex(CS.OPSPanelController,'Play3dSpotAnim',Play3dSpotAnim)
 util.hotfix_ex(CS.OPSPanelController,'CheckSpecialAnim',CheckSpecialAnim)
+util.hotfix_ex(CS.OPSPanelController,'Awake',Awake)

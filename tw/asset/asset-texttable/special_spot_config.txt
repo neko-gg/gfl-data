@@ -2871,3 +2871,17 @@ special_spot_config-16000004,【標記】駐守標記
 special_spot_config-26000004,
 special_spot_config-16000005,夜間照明
 special_spot_config-26000005,照明妖精生成buff用特殊點
+special_spot_config-10002100,陷阱
+special_spot_config-20002100,
+special_spot_config-10002200,修理
+special_spot_config-20002200,
+special_spot_config-10002300,火箭
+special_spot_config-20002300,
+special_spot_config-10002301,發射1
+special_spot_config-20002301,
+special_spot_config-10002302,發射2
+special_spot_config-20002302,
+special_spot_config-10002303,發射3
+special_spot_config-20002303,
+special_spot_config-10002304,火箭結束
+special_spot_config-20002304,

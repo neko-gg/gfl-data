@@ -1698,6 +1698,22 @@ gun-10020220,MP-443
 gun-40020220,油庫狸//c千葉泉//c
 gun-50020220,Type                       Semi-automatic pistol//nWeight                     950 g (34 oz) //nLength                     198 mm (7.8 in)//nBarrel length              112.5 mm (4.4 in)//nCartridge                  9×19mm Parabellum//n　　　　　　　　　　　　　 9×19mm 7N21 +P+//nAction                     Short recoil//c locked breech//nRate of fire               40-45 rounds/min//nMuzzle velocity            450 m/s (1//c470 ft/s)//nEffective firing range     sights fixed for 50 m//nFeed system                18-round detachable box magazine//nSights                     Fixed iron sights//c 3-dot with notch and front blade
 gun-60020220,
+gun-10020021,PPSh-41
+gun-40020021,和茶//c上阪すみれ//c
+gun-50020021,Type                       Submachine Gun//n//nWeight                     3.63 kg (8.0 lb) (without magazine)//n//nLength                     843 mm (33.2 in)//n//nBarrel length              269 mm (10.6 in)//n//nCartridge                  7.62×25mm Tokarev//n//nAction                     Blowback//c open bolt//n//nRate of fire               900 to over 1000 rounds/min//n//nMuzzle velocity            488 m/s (1//c600.6 ft/s)//n//nEffective firing range     125 - 150 m//n//nMaximum firing range       200m - 250m //n//nFeed system                35-round box magazine or 71-round drum magazine//n//nSights                     Iron sights
+gun-60020021,
+gun-10020205,AN-94
+gun-40020205,多元菌//c沼倉愛美//c
+gun-50020205,Type                       Assault rifle//nWeight                     3.85 kg (8.49 lb)//nLength                     943 mm (37.1 in) stock extended//n                           728 mm (28.7 in) stock folded//nBarrel length              405 mm (15.9 in)//nCartridge                  5.45×39mm//nAction                     Gas-operated//nRate of fire               1800 (2 round burst) or 600 (full auto) rounds/min//nMuzzle velocity            900 m/s (2//c953 ft/s)//nEffective firing range     700 m//nFeed system                30//c 45 round AK-74 compatible box magazines//n                           60-round Casket magazines//nSights                     Iron sights//n                           700 mm (27.6 in) sight radius//c optional optics
+gun-60020205,
+gun-10020216,XM8
+gun-40020216,かれい//c久保田梨沙//c
+gun-50020216,Type                       Assault rifle//nWeight                     7.5 lb (3.4 kg)//nLength                     33 in (838 mm)//nBarrel length              12.5 inches (318 mm)//nCartridge                  5.56×45mm NATO//nAction                     Gas-operated//c rotating bolt//nRate of fire               750 rounds/min//nMuzzle velocity            approx. 900 m/s (see variants)//nFeed system                30-round detachable box magazine//c 100-round C-Mag drum magazine//nSights                     Unmagnified reflex sight (4x for DMR variant)
+gun-60020216,
+gun-10020293,AK-15
+gun-40020293,多元菌//c甲斐田裕子//c
+gun-50020293,Type                       Assault rifle//nLength                     945 mm (37.2 in)//n                           (725 mm stock folded)//nBarrel length              415 mm (16.3 in)//nCartridge                  7.62×39mm//nRate of fire               700 RPM//nMuzzle velocity            715 m/s (2//c346 ft/s)                           //nEffective firing range     500–600 m (547–656 yd)//nMaximum firing range       800 meters//nFeed system                30-round detachable box magazine//n                           40-round detachable box magazine//nSights                     Back-up iron sights and integrated Picatinny railfor various optics
+gun-60020293,
 gun-10030156,Super-Shorty
 gun-40030156,廢人//c七瀨亞深//c
 gun-50030156,Type                       Shotgun//nWeight                     1.8 kg (4 lb)//nLength                     419 mm (16.5 in)//nBarrel length              165 mm (6.5 in)//nCartridge                  12 (3") and 20 (3") Gauge//nAction                     pump action//nFeed system                2-shot magazine tube//nSights                     None
@@ -2050,3 +2066,31 @@ gun-10090001,PPSh-41
 gun-40090001,和茶//c上阪すみれ//c
 gun-50090001,Type                       Submachine Gun//n//nWeight                     3.63 kg (8.0 lb) (without magazine)//n//nLength                     843 mm (33.2 in)//n//nBarrel length              269 mm (10.6 in)//n//nCartridge                  7.62×25mm Tokarev//n//nAction                     Blowback//c open bolt//n//nRate of fire               900 to over 1000 rounds/min//n//nMuzzle velocity            488 m/s (1//c600.6 ft/s)//n//nEffective firing range     125 - 150 m//n//nMaximum firing range       200m - 250m //n//nFeed system                35-round box magazine or 71-round drum magazine//n//nSights                     Iron sights
 gun-60090001,
+gun-10009085,特工
+gun-40009085,
+gun-50009085,
+gun-60009085,
+gun-10009086,BGM-71
+gun-40009086,
+gun-50009086,
+gun-60009086,
+gun-10009087,PP-93
+gun-40009087,
+gun-50009087,
+gun-60009087,
+gun-10009088,QLZ-04
+gun-40009088,
+gun-50009088,
+gun-60009088,
+gun-10009098,M16A1
+gun-40009098,
+gun-50009098,
+gun-60009098,
+gun-10009099,喙
+gun-40009099,
+gun-50009099,
+gun-60009099,
+gun-10009100,杜皮約
+gun-40009100,
+gun-50009100,
+gun-60009100,

@@ -173,7 +173,7 @@ equip-10000059,國家競賽穿甲彈
 equip-20000059,穿甲+<armor_piercing> 射速+<rate>//n$春田專用
 equip-30000059,20世紀早期的遺留物品，國家競賽特製春田步槍所發射的比賽級彈藥，春田專用。
 equip-10000060,.300BLK高速彈
-equip-20000060,傷害+<pow> 命中<hit>//n$ST AR-15專用
+equip-20000060,傷害+<pow> 射速<rate>//n$ST AR-15專用
 equip-30000060,16Lab特製的.300 Blackout高速彈，更適合配合消音器使用，ST AR-15專用。
 equip-10000061,Titan火控晶片
 equip-20000061,彈量+<bullet_number_up> 傷害<pow>//n射速<rate>$M1918專用
@@ -293,7 +293,7 @@ equip-10000099,遺留的武器庫
 equip-20000099,傷害+<pow> 射速+<rate>//n護甲+<armor>$M4A1專用
 equip-30000099,離去的老兵的禮物，見證了許多不被歌頌的戰爭，和沒有墓碑的英雄，重新校準後由M4A1使用。
 equip-10000100,輕量化導軌套件
-equip-20000100,命中+<hit>//n暴擊傷害+<critical_harm_rate><%>$ST AR-15專用
+equip-20000100,傷害+<pow> 命中+<hit>//n暴擊傷害+<critical_harm_rate><%>$ST AR-15專用
 equip-30000100,追求輕量化和快速射擊穩定性的配置，包含keymod導軌，前握把，槍口補償器及浮置式槍管，提升暴擊傷害和命中，AR15專用。
 equip-10000101,XM261短彈
 equip-20000101,傷害+<pow> 穿甲<armor_piercing>//n$M1911專用
@@ -800,5 +800,20 @@ equip-10000269,ILWLP
 equip-20000269,迴避+<dodge>//n夜視能力+<night_view_percent><%>$Mk23專用
 equip-30000269,專為Mk23設計的下掛戰術模組，同時擁有可見/IR鐳射指示功能，附加可見/IR照明功能，功能非常齊全。
 equip-10000270,OMEGA滑套
-equip-20000270,傷害+<pow> 命中+<hit>//n暴擊機率+<critical_percent><%>技能增加$CZ75專用
+equip-20000270,命中+<hit> 暴擊機率+<critical_percent><%>//n傷害+<pow>技能增加$CZ75專用
 equip-30000270,全尺寸的CZ75B型上滑夾，配合OMEGA扳機組，使得快速射擊更加流暢。
+equip-10000271,.357平頭鉛彈
+equip-20000271,傷害+<pow> 穿甲<armor_piercing>//n$蟒蛇專用
+equip-30000271,IOP專為蟒蛇調整的200gr裝藥平頭鉛彈，更大的火藥裝量和沉重的鉛彈頭換來了非同尋常的破壞力。
+equip-10000272,托卡列夫被帽空尖彈
+equip-20000272,傷害+<pow> 穿甲<armor_piercing>//n$PPSh-41專用
+equip-30000272,為PPSh-41定製的專屬托卡列夫被帽空尖彈，極大地提升了武器的殺傷力。
+equip-10000273,ISM-V
+equip-20000273,傷害+<pow> 命中+<hit>//n射速<rate>$XM8專用
+equip-30000273,為XM8系統量身定製的複合瞄準系統，內置了紅點和雷射系統用於提升瞄準效率，是XM8的愛用品之一。
+equip-10000274,AN94現代化套件
+equip-20000274,暴擊機率+<critical_percent><%>//n暴擊傷害+<critical_harm_rate><%>$AN-94專用
+equip-30000274,過去一位知名的槍械設計師為AN-94專門設計的消音器與皮軌套件，為AN-94增加了更加全面的掛載能力。
+equip-10000275,Perst4
+equip-20000275,傷害+<pow> 迴避+<dodge>//n暴擊傷害+<critical_harm_rate><%>$AK-15專用
+equip-30000275,為AK-15改造後準備的專用Perst4雷射照準器，內部經過改造安裝了忤逆小隊專用的晶片，使得雷射照準的資訊能夠在小隊中共有。

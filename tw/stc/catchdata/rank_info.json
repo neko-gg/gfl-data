@@ -17,9 +17,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "2",
@@ -39,9 +42,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "3",
@@ -61,9 +67,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "4",
@@ -83,9 +92,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "5",
@@ -105,9 +117,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "6",
@@ -127,9 +142,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "7",
@@ -149,9 +167,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "8",
@@ -173,7 +194,10 @@
         "end_refresh_time": "2021-10-28",
         "begin_show_time": "1631203200",
         "end_show_time": "1635436799",
-        "mission_rank_type": "1"
+        "mission_rank_type": "1",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "101",
@@ -193,9 +217,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "102",
@@ -215,9 +242,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "112",
@@ -237,9 +267,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "122",
@@ -259,9 +292,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "123",
@@ -281,9 +317,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "124",
@@ -303,9 +342,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "125",
@@ -325,9 +367,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "126",
@@ -347,9 +392,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "127",
@@ -369,9 +417,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "128",
@@ -391,9 +442,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "129",
@@ -413,9 +467,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "130",
@@ -435,9 +492,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "131",
@@ -457,9 +517,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "132",
@@ -479,9 +542,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "133",
@@ -501,9 +567,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "134",
@@ -523,9 +592,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "135",
@@ -545,9 +617,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "136",
@@ -567,9 +642,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "137",
@@ -589,9 +667,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "138",
@@ -611,9 +692,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "139",
@@ -633,9 +717,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "140",
@@ -655,9 +742,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "141",
@@ -677,9 +767,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "142",
@@ -699,9 +792,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "143",
@@ -721,9 +817,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "144",
@@ -743,9 +842,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "145",
@@ -765,9 +867,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "146",
@@ -787,9 +892,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "147",
@@ -809,9 +917,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "148",
@@ -831,9 +942,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "149",
@@ -853,9 +967,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "150",
@@ -875,9 +992,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "151",
@@ -897,9 +1017,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "152",
@@ -919,9 +1042,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "153",
@@ -941,9 +1067,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "154",
@@ -963,9 +1092,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "155",
@@ -985,9 +1117,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "156",
@@ -1007,9 +1142,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "157",
@@ -1029,9 +1167,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "158",
@@ -1051,9 +1192,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "159",
@@ -1073,9 +1217,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "160",
@@ -1095,9 +1242,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "161",
@@ -1117,9 +1267,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "162",
@@ -1139,9 +1292,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "163",
@@ -1161,9 +1317,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "164",
@@ -1183,9 +1342,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "165",
@@ -1205,9 +1367,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "166",
@@ -1227,9 +1392,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "167",
@@ -1249,9 +1417,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "168",
@@ -1271,9 +1442,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "169",
@@ -1293,9 +1467,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "170",
@@ -1315,9 +1492,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "171",
@@ -1337,9 +1517,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "172",
@@ -1359,9 +1542,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "173",
@@ -1381,9 +1567,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "174",
@@ -1403,9 +1592,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "175",
@@ -1425,9 +1617,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "176",
@@ -1447,9 +1642,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "177",
@@ -1469,9 +1667,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "178",
@@ -1491,9 +1692,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "179",
@@ -1513,9 +1717,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "180",
@@ -1535,9 +1742,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "181",
@@ -1557,9 +1767,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "182",
@@ -1579,9 +1792,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "183",
@@ -1601,9 +1817,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "184",
@@ -1623,9 +1842,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "185",
@@ -1645,9 +1867,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "186",
@@ -1667,9 +1892,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "187",
@@ -1689,9 +1917,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "188",
@@ -1711,9 +1942,12 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     },
     {
         "id": "189",
@@ -1733,8 +1967,11 @@
         "rank_list_num": "0",
         "begin_refresh_time": "",
         "end_refresh_time": "",
-        "begin_show_time": "0",
-        "end_show_time": "0",
-        "mission_rank_type": "0"
+        "begin_show_time": "",
+        "end_show_time": "",
+        "mission_rank_type": "0",
+        "sub_mission_group": "",
+        "event_rank_id": "0",
+        "prize_preview": ""
     }
 ]
