@@ -79,6 +79,9 @@ fairy-30000026,Has the ability to boost other Fairies. Can help with assembling 
 fairy-10000027,Auspicious Fairy
 fairy-20000027,"May fortune//c happiness//c and longevity be with you; may Heaven//c Earth and Man celebrate Spring together. Happy New Year//c Happy New Year!"
 fairy-30000027,Has the ability to throw mysterious peaches. Useful for feeding the Commander and serving fruit platters for Dolls.
+fairy-10000028,Sand Dancer Fairy
+fairy-20000028,"Sand and sea//c life and death - it's all a cycle!"
+fairy-30000028,Has the ability to summon sandstorms. Useful for landscaping in daily life. 
 fairy-10090001,Enemy Fairy
 fairy-20090001,Drop description
 fairy-30090001,

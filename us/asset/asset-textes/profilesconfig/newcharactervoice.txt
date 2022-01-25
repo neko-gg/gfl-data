@@ -165,6 +165,35 @@
 97typeS|Introduce|Commander, Type97S reporting! I'm honored to be under your command. Please be sure to send me on plenty of missions!
 97typeS|DIALOGUEWEDDING|Commander, would you like to rest for a bit? I have some freshly picked fruits here, planted by yours truly.
 97typeS|GAIN|Commander, Type97S reporting! I'm honored to be under your command. Please be sure to send me on plenty of missions!
+97typeSMod|GAIN|Commander, do you know too? ...It's nothing, pretend I never said anything!
+97typeSMod|HELLO|Yo, you're up early... W-What, it's this late already!?
+97typeSMod|FORMATION|I knew you had a good eye, Commander!
+97typeSMod|FEED|Hehe, I wish I could find someone to train with!
+97typeSMod|DIALOGUE1|All topics are on the table with the exception of ketchup!
+97typeSMod|DIALOGUE2|My shield's pretty fun to play with, huh?
+97typeSMod|DIALOGUE3|Do you even know what the word "dignified" means? Listen up, first, you need to take care of your looks, next... Keep those hands to yourself, buddy!
+97typeSMod|BUILDOVER|Aiya, we've got a new girl! You'll be a great help to us, welcome, welcome!
+97typeSMod|GOATTACK|Everyone present? Then let's move out!
+97typeSMod|MEET|Looks like this lot needs a spanking!
+97typeSMod|ATTACK|Now, overrun them!
+97typeSMod|DEFENSE|Hold the fort now, don't mess up!
+97typeSMod|BREAK|Wow, today's really tough, huh?
+97typeSMod|WIN|So you were actually bold enough to come out and cause trouble when you're this weak?
+97typeSMod|RETREAT|You're pretty good, don't let me see you again!
+97typeSMod|SKILL1|Cruising for a bruising?
+97typeSMod|SKILL2|Pretty tough, no?
+97typeSMod|SKILL3|Let's finish this!
+97typeSMod|SOULCONTRACT|Commander, I've known how you've felt since a long time ago.<>But it's a little embarrassing to hear you say it out like this...<>In any case, why don't we go on a walk together first?
+97typeSMod|DIALOGUEWEDDING|Commander, you can have the whole day's supply of double-fried pork. Don't be shy, today you'll learn what true... What... Are you so touched that you're crying?
+97typeSMod|Introduce|Commander, do you know too? ...It's nothing, pretend I never said anything!
+97typeSMod|OPERATIONBEGIN|There'll be no problems with me protecting you!
+97typeSMod|OPERATIONOVER|We're back, safe and sound! I told you there was no need to worry!
+97typeSMod|PHRASE|Orders received!
+97typeSMod|COMBINE|The power of justice has multiplied once more. Commander, you should take some pride in yourself too.
+97typeSMod|BLACKACTION|Fear not, everyone! I'm here!
+97typeSMod|LOADING|Hang on, I'm still preparing.
+97typeSMod|TIP|Here's a tip.
+97typeSMod|FIX|I wasn't messing around, you know.
 98K|DIALOGUE1|You can visit me in my room every now and then if you want, heheh~
 98K|DIALOGUE2|Don't do such outrageous things, Commander. You'll upset the other girls.
 98K|DIALOGUE3|I'm studying battle tactics right now. Have you been taking care of your duties as well, Commander?
@@ -386,6 +415,41 @@ ASVAL|Introduce|Hello, I...eh? Nevermind...
 ASVAL|ALLHALLOWS|Halloween...isn't really my thing...
 ASVAL|DIALOGUEWEDDING|May I bring my friend again with us the next time we have a holiday, Commander? We all had fun last time, don't you think?
 ASVAL|GAIN|Hello, I...eh? Never mind...
+AUGPARA|GAIN|I'm AUG Para, and I'll be working at Griffin from today onwards! I'll be in your care, Senior. Oh yes, can we bring pets to work?
+AUGPARA|HELLO|You're just in time, congratulations on keeping your no-absences prize.
+AUGPARA|FORMATION|How should I command Dolls in battle...
+AUGPARA|FEED|Look, Senior, haven't I become prettier?
+AUGPARA|DIALOGUE1|I didn't think I'd be able to work at a wonderful place like Griffin. I still feel a little tense though, Senior. Could you teach me what to do?
+AUGPARA|DIALOGUE2|Ack, is that you, Senior? Oh no, I was caught slacking off... Sorry about that, but everyone working in Griffin is so cute, so I lose track of time once I start chatting with them. Especially that AUG, for some reason she feels really familiar...
+AUGPARA|DIALOGUE3|Don't be so tense all the time, Senior. Of course you need to have a serious attitude when it comes to work, but being wound tight for too long will affect your condition. How about a milk coffee?
+AUGPARA|BUILDOVER|All Dolls should be cherished, no matter who they are.
+AUGPARA|GOATTACK|Let's go, Griffin's Angels!
+AUGPARA|MEET|Do we have to blast them all to bits? I think there might be a better way?
+AUGPARA|ATTACK|This is a good chance for us, let's go!
+AUGPARA|DEFENSE|Ah, look out!
+AUGPARA|BREAK|Ah, sorry, I got careless and ended up this way...
+AUGPARA|WIN|It was close, but we won, Senior!
+AUGPARA|RETREAT|Don't push yourself too hard... Let's reorganize ourselves and give it another go.
+AUGPARA|NEWYEAR|Happy New Year, Senior! People go home to visit their families at times like this, right? Want me to go with you?
+AUGPARA|VALENTINE|What are you waiting for? Wait, seriously, Senior? Am I supposed to give you a gift on a day like this? Alright then, it can't be helped.
+AUGPARA|TANABATA|Have you thought of what kind of wish you're going to make, Senior? I won't be going. I'm happy enough just watching the Dolls gather and have fun.
+AUGPARA|ALLHALLOWS|Hah! Scared you, didn't I, Senior? On occasions like this, we ought to scare each other to have fun. You can think about how to scare me too.
+AUGPARA|CHRISTMAS|I wonder what kind of present Santa will give me? Ah, you're here, Senior. Who usually plays Santa in Griffin? Can I be part of it?
+AUGPARA|SKILL1|Take aim...fire!
+AUGPARA|SKILL2|I can fight too.
+AUGPARA|SKILL3|Don't look down on human girls.
+AUGPARA|OPERATIONBEGIN|Is this a work dispatch, Senior? Alright then, I'm going.
+AUGPARA|OPERATIONOVER|I'm back! Any cute angels want to give me a hug?
+AUGPARA|FIX|So I'm going to be treated here too? This place really does treat everyone equally.
+AUGPARA|COMBINE|Eh..ehhhh? Is this Griffin magic at work?
+AUGPARA|BLACKACTION|Don't worry, I'll do my best to learn from your leadership, Senior.
+AUGPARA|SOULCONTRACT|This ring... Commander, does it mean what I think it does? <> Although I'd like to just say yes and accept it, I had a fever several years ago and when I woke up I forgot everything about the past. <> Will you accept someone with an obscure background like me? In that case... Please put it on my finger, I'm so happy to receive it!
+AUGPARA|TITLECALL|Girls' Frontline
+AUGPARA|PHRASE|This is great!
+AUGPARA|TIP|Senior, this is the employee manual!
+AUGPARA|LOADING|Wait a minute! I'll open up once I pin up my hair!
+AUGPARA|DIALOGUEWEDDING|Before getting this invitation, I thought I'd find a normal job for myself, and then end up getting pushed to marry at a certain age to anyone who fit the requirements... But this life now is what I really want. And I've also found the person I truly love.
+AUGPARA|Introduce|I'm AUG Para, and I'll be working at Griffin from today onwards! I'll be in your care, Senior. Oh yes, can we bring pets to work?
 Ballista|DIALOGUE1|Is it an order? Otherwise don't disturb my work.
 Ballista|DIALOGUE2|This fashion magazine is... Jeez, she is still as nervous as ever.
 Ballista|DIALOGUE3|...I have tried to create a serious atmosphere, so why aren't you giving up?
@@ -764,6 +828,35 @@ G11|DIALOGUEWEDDING|Ah... Commander, where's the body pillow that I wanted? ...Y
 G11|CHRISTMAS|Merry Christmas. Is dinner ready?
 G11|NEWYEAR|It's finally New Year. I wanna sleep for a little longer...can I?
 G11|GAIN|Gr G11... Commander, you got a bed around here?
+G11Mod|GAIN|Commander, is there anything you need help with? <> No, I don't have a fever! Really... Well, if there's nothing, I'll go take a nap...
+G11Mod|HELLO|Commander, I helped tidy up your desk, so can I go get some sleep before you assign me something else to do?
+G11Mod|FORMATION|So I need to plug in again, huh... Ow! Okay! Let's go!
+G11Mod|FEED|Do you STILL need to enhance me? If I end up like before... 416 is going to get mad.
+G11Mod|DIALOGUE1|I wonder if I forgot anything? Let me try to remember... Hm... Uh... Zzzzz...
+G11Mod|DIALOGUE2|This box? Oh... It's an external power source for me, but I use most of the interior space for storing stuff like snacks, drinks, a pillow...ah, and a broom.
+G11Mod|DIALOGUE3|I still get sleepy when I ought to be sleepy... But when I need to hold on, I can hang in there... Heheh, does this mean I've grown a little, Commander?
+G11Mod|BUILDOVER|I hope she'll be a quiet girl... I mean, noisy people aren't very popular, right?
+G11Mod|GOATTACK|Alright! Let's go! I'm at my strongest right now!
+G11Mod|MEET|My remaining battery is... Oh no! We need to get this done quickly!
+G11Mod|ATTACK|Charge!
+G11Mod|DEFENSE|Fall back, fall back!
+G11Mod|BREAK|It's all because this box slowed me down...
+G11Mod|WIN|Thank goodness, I made it in time... Let me sleep a little...
+G11Mod|RETREAT|I'm out of battery for today...
+G11Mod|SKILL1|Look at my eyes.
+G11Mod|SKILL2|Shut up.
+G11Mod|SKILL3|I feel sorry for you.
+G11Mod|SOULCONTRACT|Commander, what did you wake me up so late for?<>Eh? Could this be...that so-called "confession"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I don't accept your feelings.<>Alright...just this once.
+G11Mod|DIALOGUEWEDDING|416 didn't ask me about the past ever since that incident... And I never brought it up with her... Perhaps it's because we have a tacit understanding. I like my current life very much, and no matter how things were like in the past, I'm really enjoying my days here... So Commander... I'm counting on you...to be my body pillow.
+G11Mod|Introduce|Commander, is there anything you need help with? <> No, I don't have a fever! Really... Well, if there's nothing, I'll go take a nap...
+G11Mod|OPERATIONBEGIN|Ehhh? But I don't wanna go outside...
+G11Mod|OPERATIONOVER|I'm back... Can I eat yet?
+G11Mod|PHRASE|(Yawns) So sleepy...
+G11Mod|BLACKACTION|I'll make a miracle!
+G11Mod|COMBINE|Wow~ Does this mean I can slack off now?
+G11Mod|LOADING|Mm, let me sleep a little longer~
+G11Mod|TIP|Here... Read up on this.
+G11Mod|FIX|I'll just take a nap and it'll all be over soon.
 G28|DIALOGUE1|Ah? What did you say? I didn't catch that! ...Hehe, just kidding.
 G28|DIALOGUE2|Commander, having just me is enough, right? ...At least, you're gonna be happy, right?
 G28|DIALOGUE3|Hehehh, I'm very happy that you like me, but it's gonna be troublesome if other people see us.
@@ -858,6 +951,42 @@ G43|Introduce|Guten tag! I am G43. Please allow me to display my elegance in bat
 G43|ALLHALLOWS|Süßes oder Saure! It's all good as long as the kids have fun!
 G43|DIALOGUEWEDDING|Busy recently? Let me know if you're feeling tired, Commander. If you go down, who's gonna have my back?
 G43|GAIN|Guten tag! I am G43. Please allow me to display my elegance in battle from this day forward.
+GeneralLiu|GAIN|Hello, Commander, I'm the General Liu Self-Loading Rifle... Er, that's it for now. Sorry about that.
+GeneralLiu|HELLO|Hello, Commander... Should I begin patrolling the campgrounds now?
+GeneralLiu_Live2D|HELLO|Hello, Commander... Should I begin patrolling the campgrounds now?
+GeneralLiu|FORMATION|E-excuse me, please make room...
+GeneralLiu|FEED|I'm sorry, I'm not really feeling the effect of being "enhanced", but I'm very grateful for your kindness, Commander.
+GeneralLiu|DIALOGUE1|C-Commander? I'm sorry, did I get in your way? Huh? "That's not what I meant"... What could that mean? Um, I'm terribly sorry about this!
+GeneralLiu|DIALOGUE2|The sky...is so close, yet so far...
+GeneralLiu|DIALOGUE3|This military saber was the masterwork of the best smith I could find, and it cost about...that much. You think it's expensive? It's not that bad though?
+GeneralLiu|BUILDOVER|Commander, we have a new arrival, want to go take a look?
+GeneralLiu|GOATTACK|Since the Commander gave the order, then we have to win no matter what!
+GeneralLiu|MEET|The enemy is here, should we open fire now?
+GeneralLiu|ATTACK|Orders have come down from on top! This must be a good chance, now charge!
+GeneralLiu|DEFENSE|Er, the enemy's really good. Everyone, be careful!
+GeneralLiu|BREAK|H-how could this be?
+GeneralLiu|WIN|Did...did we win?
+GeneralLiu|RETREAT|Oh no, oh no... No, I mustn't panic, I need to rally the team!
+GeneralLiu|NEWYEAR|Happy New Year, Commander... I-I'm sorry, I can't think of anything auspicious to say...
+GeneralLiu|VALENTINE|I'm sorry, but I don't really understand love or things like that... But these sweets taste really good. We should buy more.
+GeneralLiu|TANABATA|I heard Hikoboshi and Orihime became stars in the sky, but I don't know which ones they are. If you're free later, could you take me to go see them?
+GeneralLiu|ALLHALLOWS|Spirits and ghosts are all pretty scary, I think I'll pass... Just save me some candy.
+GeneralLiu|CHRISTMAS|You want to know if there's something special I want? Hm, maybe a few extra bodies would be nice... I was just thinking out loud, you don't need to take it to heart.
+GeneralLiu|SKILL1|Come on!
+GeneralLiu|SKILL2|This is a good chance!
+GeneralLiu|SKILL3|Sorry, but I won't back down!
+GeneralLiu|OPERATIONBEGIN|Are these preparations alright? Then can we move out now?
+GeneralLiu|OPERATIONOVER|Commander, are these results okay?
+GeneralLiu|FIX|Sorry to bother you...
+GeneralLiu|COMBINE|Commander... May I touch them?
+GeneralLiu|BLACKACTION|You'll let me decide? Th-then we'll go with this...
+GeneralLiu|SOULCONTRACT|I honestly didn't think I'd be able to come this far... Ah, that's not what I mean, I'm saying that I'm very happy! <> Although I'm not too good with words most of the time, I have always viewed you as a role model. <> Commander, it is an honor for me to take the next step as your companion!
+GeneralLiu|TITLECALL|Girls' Frontline
+GeneralLiu|PHRASE|Pardon me.
+GeneralLiu|TIP|Commander, um...
+GeneralLiu|LOADING|I-I'm sorry! I'll come over right away!
+GeneralLiu|DIALOGUEWEDDING|Commander, please let me know if there's something you'd like to eat. I've been learning how to cook recently, so maybe I might get a chance to practice... Hm? Anything will do?
+GeneralLiu|Introduce|Hello, Commander, I'm the General Liu Self-Loading Rifle... Er, that's it for now. Sorry about that.
 GepardM1|DIALOGUE1|Commander, if the war ends, can I go on holiday forever?
 GepardM1|DIALOGUE2|Whether it is work or this weapon, both are very heavy for me...
 GepardM1|DIALOGUE3|It is very difficult for me to stay concentrated. Please don't bother me, Commander...
@@ -1089,6 +1218,40 @@ L85A1|Introduce|Hello, I am L85A1. Care for a cup of tea, Commander?
 L85A1|ALLHALLOWS|The children are playing~ It's great they're having so much fun!
 L85A1|DIALOGUEWEDDING|Commander, I made you red tea with my secret recipe. Be sure to savor it!
 L85A1|GAIN|Hello, I am L85A1. Care for a cup of tea, Commander?
+Lewis|ALLHALLOWS|C-Commander! There are monsters roaming the streets! it's too dangerous! Don't set foot outside!
+Lewis|ATTACK|Prepare to fire!
+Lewis|BLACKACTION|This will be a good training experience.
+Lewis|BREAK|Ugh...these guys are much nastier than they look...
+Lewis|BUILDOVER|Is that a new friend? I want to meet her too!
+Lewis|CHRISTMAS|It's just a regular tree, but a little decoration really does make it Christmassy. Merry Christmas~
+Lewis|COMBINE|Heheh... I look so reliable~
+Lewis|DEFENSE|Now's the time to check our gear.
+Lewis|DIALOGUE1|I lost all the material I prepared for the meeting…b-but it's okay! I memorized it all!
+Lewis|DIALOGUE2|Everyone looks so adorable, I can't believe they're all Tactical Dolls! Are you trying to deceive the enemy?
+Lewis|DIALOGUE3|Hm? You want to arm-wrestle with me, Commander? I'm very good at it, you know.
+Lewis|DIALOGUEWEDDING|No matter how tired or unhappy I am, I perk up right away when I see you, Commander! Hehe~
+Lewis|FEED|Hm... You can't see that I've grown stronger just by looking at me.
+Lewis|FIX|I-I won't need an injection, right...?
+Lewis|FORMATION|What do the others look like?
+Lewis|GAIN|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
+Lewis|GOATTACK|Echelon in position, commencing mission!
+Lewis|HELLO|Huh? Commander? ...Crap, almost forgot I've still got stuff to do!
+Lewis|Introduce|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
+Lewis|LOADING|Commander, you look like you're in a good mood, did something good happen?
+Lewis|MEET|Wipe out the enemy!
+Lewis|NEWYEAR|Commander, I've already helped you clear those things you don't want... Uh, what? You want that?! I'll go get it back right away!
+Lewis|OPERATIONBEGIN|Let me carry the heavier supplies!
+Lewis|OPERATIONOVER|I've brought back everything that looks awesome.
+Lewis|PHRASE|That looks pretty good.
+Lewis|RETREAT|Something...doesn't feel right...
+Lewis|SKILL1|Aw, you look so sad.
+Lewis|SKILL2|Allow me to take care of you!
+Lewis|SKILL3|Careful, I'm about to use force!
+Lewis|SOULCONTRACT|Commander, while you're the person I'm most familiar with, there are times when you seem like such a stranger... <>I can't bear to just gaze at you from afar, I want to enter your heart. <>I...I want to know everything about you.
+Lewis|TANABATA|I wonder what the real Hikoboshi and Orihime looked like? They must have been very attractive to have loved each other so.
+Lewis|TIP|Commander, something's been bothering me...
+Lewis|VALENTINE|Rather than the taste, it's the wrapper that is the soul of chocolate. If it doesn't look good, then your chocolate won't taste good either.
+Lewis|WIN|Let history remember us as victors!
 LWMMG|DIALOGUE1|Commander, do we have enough ammo reserves?
 LWMMG|DIALOGUE2|Don't worry, I can do it myself. Ah...thank you...
 LWMMG|DIALOGUE3|Huh? Does anybody need help? I'm free.
@@ -2656,12 +2819,6 @@ KSVK|DIALOGUE3|I cannot answer all of your questions. Some answers can only be u
 KSVK|SOULCONTRACT|Commander, I no longer see any confusion in your eyes. <>The time is ripe, and you are the sole truth within my heart... <>Oh oathsworn one, let us carve an eternal existence into each others' fates...
 KSVK|Introduce|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
 KSVK|DIALOGUEWEDDING|Oh oathsworn one, cherish this present time, for this present happiness was not easily won, and I...can no longer bear to be without you.
-Lewis|DIALOGUE1|I lost all the material I prepared for the meeting...b-but it's okay! I memorized it all!
-Lewis|DIALOGUE2|Everyone looks so adorable, I can't believe they're all Tactical Dolls! Are you trying to deceive the enemy?
-Lewis|DIALOGUE3|Hm? You want to arm-wrestle with me, Commander? I'm very good at it, you know.
-Lewis|SOULCONTRACT|Commander, while you're the person I'm most familiar with, there are times when you seem like such a stranger... <>I can't bear to just gaze at you from afar, I want to enter your heart. <>I...I want to know everything about you.
-Lewis|Introduce|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
-Lewis|DIALOGUEWEDDING|No matter how tired or unhappy I am, I perk up right away when I see you, Commander! Hehe~
 UKM2000|DIALOGUE1|I escaped to this planet because of "them"... You don't need to know the details, Commander. It'll do you no good.
 UKM2000|DIALOGUE2|Cats speak in a language that's very close to our mother tongue, so there are times when I can understand their thoughts.
 UKM2000|DIALOGUE3|Don't pull down my hood! What if "they" recognize me...!
@@ -2764,7 +2921,6 @@ P22|GAIN|Oh my, the Commander's come to pick me up, we'll talk another time. Gre
 HS2000|GAIN|I see, so that's your heartbeat, Commander... Yes, I'll make sure to remember it. I'll be in your care from now on.
 X95|GAIN|This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you... No, not just for you, for everyone.
 KSVK|GAIN|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
-Lewis|GAIN|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
 UKM2000|GAIN|Are you...the Commander? It looks like I have no choice but to work with you from now on. "They" shouldn't be able to find me as long as I'm here...
 scout|GAIN|Mitsuha, are you sure this is the one? ...What a surprise, I didn't expect someone to actually gain Mitsuha's approval. It looks like you're not an ordinary person, Commander.
 Falcon|GAIN|Ahoj! Little Lamb...ah, no, I mean, Commander! It's a pleasure to meet you. You can call me Falcon.
@@ -2830,12 +2986,6 @@ PA15|DIALOGUE3|Do any Griffin Dolls get their fill of satisfaction from being br
 PA15|SOULCONTRACT|Ah, Commander, you're here.<>Huhu, are you here to swear an oath with me?<>What's with that expression? I can tell your thoughts with just one look.<>Then, shall we?
 PA15|Introduce|Hello, Commander! PA-15 reporting. You will assign me the most exciting missions, right?
 PA15|DIALOGUEWEDDING|Thanks for the hard work today. Want to have some fun at a night themed amusement park after work? Or do you want to quietly relax with a drink somewhere?
-QBU88|DIALOGUE1|Ah, that new seat cover? I embroidered it myself. Beautiful, isn't it? Let me know if you want me to make you anything, Commander!
-QBU88|DIALOGUE2|I get so anxious looking at the T-Dolls that do their work so carelessly... I might as well take over the work myself!
-QBU88|DIALOGUE3|Did anyone drop their combat reports at the training ground? ...If nobody's claiming them, then I'm taking them.
-QBU88|SOULCONTRACT|Commander, are you really sure about choosing me? You're taking advantage of me, aren't you...<>I am in fact a good homemaker...and I'm not bragging. You got a good deal out of choosing me, Commander.<>I-In any case, I'll be with you from now on, so don't regret it!
-QBU88|Introduce|Hello, Commander. QBU-88 sniper rifle, reporting! ...Why is it so messy here? Don't worry, I'll help you clean up.
-QBU88|DIALOGUEWEDDING|Commander, Commander? You'll catch a cold if you sleep at your desk. Ah...it's a mess here. Go to your room. I'll clean up here for you.
 R93|DIALOGUE1|Darn...I almost won this week's lottery. How unfortunate. Will you help me pick the numbers next time, Commander?
 R93|DIALOGUE2|I heard luck is also a part of strength. Then...am I strong or am I weak...?
 R93|DIALOGUE3|I always have the hunch that my luck will become better and better if I'm with you. Commander, I'll be counting on you to bring me good luck today.
@@ -2942,7 +3092,6 @@ MG36|GAIN|Gr MG36, reporting for duty. A new base, huh... I hope you're not the 
 ChauchatM1915|GAIN|Are you the commander here? Then, Chauchat M1915, reporting for duty.
 EM2|GAIN|Hello, Commander. EM-2 assault rifle is joining your ranks today. Mhm...judging by your reaction, my self-introduction has left you with a good impression.
 PA15|GAIN|Hello, Commander! PA-15 reporting. You will assign me the most exciting missions, right?
-QBU88|GAIN|Hello, Commander. QBU-88 sniper rifle, reporting! ...Why is it so messy here? Don't worry, I'll help you clean up.
 R93|GAIN|Hello, Commander. R93 reporting for duty! Hehe, complete victory is guaranteed when I'm involved! Wanna bet...if you don't believe me?
 HK33|GAIN|Gr HK33, reporting to Griffin. Um...Commander, you don't look like an ally...with that expression of yours.
 MP41|GAIN|Greetings, Dear Commander! I have long admired you, and it is my greatest honor to serve you!
@@ -2981,14 +3130,6 @@ PA15|BREAK|Ack, so this is what failure feels like... It's surprisingly not too 
 PA15|FIX|Haha...that tickles! Now do it on this side!
 PA15|DEFENSE|En garde.
 PA15|OPERATIONOVER|I'm back with some cool souvenirs.
-QBU88|BREAK|Tsk... I got careless...
-QBU88|RETREAT|Dammit...have we lost...? Take everything you can. Don't let them profit at our expense!
-QBU88|FIX|I only got hurt because I was busy warning the others...
-QBU88|ATTACK|Fire at will! Don't stinge on ammo now!
-QBU88|BLACKACTION|I'm leading the team this time so there's no need to worry, Commander!
-QBU88|ALLHALLOWS|What's the deal about this festival anyway? There are no discounts... Huh? There's free candy? C-count me in!
-QBU88|OPERATIONBEGIN|Hurry up or we'll not make it to the limited-time sale at the mall!
-QBU88|HELLO|Hello, Commander! I've tidied up your office.
 DesertEagle|DIALOGUE1|I've left the stage in the past. If I could ever go back... Nevermind, better not think about such things. Right now, my only goal is to become an outstanding T-Doll.
 DesertEagle|DIALOGUE2|You want to watch me perform? I'm playing your adjutant now, aren't I? What, is that not enough? Hmm, then why don't I demonstrate a classic scene in any action movie - tearing up a room in no time? Pfft...what a hilarious face you made. Sadly, I was just kidding.
 DesertEagle|DIALOGUE3|You look bored. Wanna make a bet? If I can lift you together with your chair, you owe me a movie date. Deal?
@@ -3179,7 +3320,6 @@ HKCAWS|CHRISTMAS|This year, my Christmas wish is to jump ship and go work for a 
 M1895MG|NEWYEAR|Happy New Year, Commander. Here's a New Year gift for you... A folder would be pretty useful, right?
 4type|NEWYEAR|Oh, Commander? Making New Year visits? Sure. I’ve been rushing deadlines- I mean, I’ve been training so hard...I feel rather burned out. Going out in the first month of the year and immersing in the auspicious air might just give me some inspiration.
 R93|COMBINE|Thank you, Commander. I can feel the good vibes coming!
-QBU88|SKILL2|Gotcha!
 PA15|NEWYEAR|The first day of each year is a brand new beginning, so let's start it with trying out some new tactics?
 PA15|BUILDOVER|Oooh, a cutie I can play with?
 PA15|BLACKACTION|Kitty scurrying into the dark after a ball of yarn...here I come.
@@ -3189,14 +3329,6 @@ PA15|FEED|This feels so good...which means I can take on stronger and more inter
 EM2|NEWYEAR|Happy New Year, Commander! I hope we'll have a safe and peaceful holiday this year so that I'll have time to try the latest kind of cookies.
 MG36|NEWYEAR|We made it through another year, Commander. I need to say something auspicious to get the red packet? Then...live long and prosper.
 Falcon|NEWYEAR|Ooof, Little Lamb! There you are! It’s full of people and exploding fireworks everywhere. Hide with me somewhere or I’ll feel guilty for not visiting the others…
-Lewis|FIX|I-I won't need an injection, right...?
-Lewis|DEFENSE|Now's the time to check our gear.
-Lewis|RETREAT|Something...doesn't feel right...
-Lewis|BREAK|Ugh...these guys are much nastier than they look...
-Lewis|HELLO|Huh? Commander? ...Crap, almost forgot I've still got stuff to do!
-Lewis|WIN|Let history remember us as victors!
-Lewis|OPERATIONOVER|I've brought back everything that looks awesome.
-Lewis|CHRISTMAS|It's just a regular tree, but a little decoration really does make it Christmassy. Merry Christmas~
 Type100|CHRISTMAS|Merry Christmas, Commander. Huh? I should dress up too...? Will that really...make me look prettier...?
 JS9mm|NEWYEAR|It's been a whole year, Commander. It's really time you fixed this nasty habit of yours. Don't burn the midnight oil today.
 WA2000|VALENTINE|I just happen to have some extra chocolate! I won't forgive you if you turn it down!
@@ -4624,6 +4756,41 @@ M6ASW|TIP|This should be recorded in the survival manual.
 M6ASW|LOADING|I'm preparing, please wait.
 M6ASW|DIALOGUEWEDDING|You can't pack a supply bag like that, let me do it. Also, your cupboard and desk are a mess, at least mark them properly so you can find the necessary items during an emergency... Do you need a diagram?
 M6ASW|Introduce|Hang on to this, Commander. It's your survival pack. Come, let's head to the frontline.
+MondragonM1908|GAIN|Mondragón reporting, Commander. Please assign me any missions which need to be carried out.
+MondragonM1908|HELLO|Commander, the situation in the base today is normal.
+MondragonM1908|FORMATION|Please remain silent and listen to my instructions.
+MondragonM1908|FEED|My statistics in all areas are showing a distinct improvement. Thank you for your trust, Commander.
+MondragonM1908|DIALOGUE1|Commander, please call me "Mond", and not "Ragon"...That form of address upsets me.
+MondragonM1908|DIALOGUE2|My apologies, Commander, but I am not given to idle conversation. Unlike those Dolls who gain strength by chatting, every interaction that is not related to the mission only causes me to expend unnecessary energy.
+MondragonM1908|DIALOGUE3|Once, I had a strong friend, so strong that I could allow myself to rely on her without any doubts in my heart. But now, due to a tiny, insignificant mistake, she can never return to my side...
+MondragonM1908|BUILDOVER|We have a new arrival. I will immediately perform a full inspection and analysis on her.
+MondragonM1908|GOATTACK|Fight hard so you may embrace tomorrow.
+MondragonM1908|MEET|Forgive me, but I shall be taking your life now.
+MondragonM1908|ATTACK|Seize the enemy by the throat.
+MondragonM1908|DEFENSE|Do not get lost in the crimson darkness that fills the sky.
+MondragonM1908|BREAK|Never mind me, keep fighting.
+MondragonM1908|WIN|Our victory belongs to the Commander.
+MondragonM1908|RETREAT|Do not lose yourself in battle.
+MondragonM1908|NEWYEAR|Happy New Year, Commander. The sentry rotations for the new year are already on your desk.
+MondragonM1908|VALENTINE|Commander, the chocolates which might cause food poisoning when ingested have already been removed. Please enjoy the ones which remain.
+MondragonM1908|TANABATA|Violating the laws of the celestial realm and falling in love with a mortal deserves punishment. However, allowing them to meet once a year is too light of a punishment.
+MondragonM1908|ALLHALLOWS|Have you finished your daily practice? Don't think I can't recognize you when you have your masks on.
+MondragonM1908|CHRISTMAS|Merry Christmas, Commander. I have punished the girls who played pranks on Santa by assigning them to shovel snow. Please do not go easy on them.
+MondragonM1908|SKILL1|I will dispatch you painlessly.
+MondragonM1908|SKILL2|Abandon your pointless struggles.
+MondragonM1908|SKILL3|Allow me to close your eyes. 
+MondragonM1908|OPERATIONBEGIN|We are setting out toward the distance.
+MondragonM1908|OPERATIONOVER|Mondragon, returning to unit.
+MondragonM1908|FIX|Can I rest a little now...
+MondragonM1908|COMBINE|I've made a new breakthrough in combat efficiency. Thank you, Commander.
+MondragonM1908|BLACKACTION|This is a simple mission. There is no need to worry.
+MondragonM1908|SOULCONTRACT|...I did not expect a gift like this, Commander. <> Thank you for always acknowledging and trusting in me, and thank you for making such a solemn pledge with me. <> Although the future remains an uncertain and illusory thing, I will no longer fear it now that I hold the promise that you have given me.
+MondragonM1908|TITLECALL|Girls' Frontline
+MondragonM1908|PHRASE|Regarding your operational flaws...
+MondragonM1908|TIP|Do you wish to discuss the mission? By all means, then.
+MondragonM1908|LOADING|Good morning, Commander. Today's schedule is...
+MondragonM1908|DIALOGUEWEDDING|Commander, you know I will always be outside your door. If you need me, I am ready to do anything for you at any time.
+MondragonM1908|Introduce|Mondragon reporting, Commander. Please assign me any missions which need to be carried out.
 VPM5|GAIN|I, I'm PM5, I hope I won't inconvenience the others...
 VPM5|HELLO|C-C-C-Com... (whimper) I'm sorry, I'm still not mentally prepared yet...
 VPM5|FORMATION|Eh?! Can I really do it?
@@ -5024,6 +5191,40 @@ PP19Mod|HELLO|Morning! If you're still tired, want to do some aerobic exercises?
 PP19Mod|FORMATION|Let's go now! Time for a bull run!
 PP19Mod|FEED|I think I can do more delicate things than before!
 PP19Mod|DIALOGUE1|(Pants) It's so hot here... I should be okay if I only take off one piece of clothing, right?
+QBU88|ALLHALLOWS|What's the deal about this festival anyway? There are no discounts... Huh? There's free candy? C-count me in!
+QBU88|ATTACK|Fire at will! Don't stinge on ammo now!
+QBU88|BLACKACTION|I'm leading the team this time so there's no need to worry, Commander!
+QBU88|BREAK|Tsk... I got careless...
+QBU88|BUILDOVER|Oh, we've got a new arrival. Are they efficient workers?
+QBU88|CHRISTMAS|I heard that the local markets have sales whenever Christmas comes around! Commander, you need to give me today off... What!? The sales ended yesterday!?
+QBU88|COMBINE|Now I'll be able to work more efficiently!
+QBU88|DEFENSE|Hey! Heeey! You, that Doll over there! Yes, you! Quickly, get behind cover!
+QBU88|DIALOGUE1|Ah, that new seat cover? I embroidered it myself. Beautiful, isn't it? Let me know if you want me to make you anything, Commander!
+QBU88|DIALOGUE2|I get so anxious looking at the T-Dolls that do their work so carelessly… I might as well take over the work myself!
+QBU88|DIALOGUE3|Did anyone drop their combat reports at the training ground? …If nobody's claiming them, then I'm taking them.
+QBU88|DIALOGUEWEDDING|Commander, Commander? You'll catch a cold if you sleep at your desk. Ah…it's a mess here. Go to your room. I'll clean up here for you.
+QBU88|FEED|My body feels like it's full of energy... Which shops are offering discounts? I can go for ten more! 
+QBU88|FIX|I only got hurt because I was busy warning the others...
+QBU88|FORMATION|Nobody in this echelon is clumsy, are they?
+QBU88|GAIN|Hello, Commander. QBU-88 sniper rifle, reporting! …Why is it so messy here? Don't worry, I'll help you clean up.
+QBU88|GOATTACK|Commander, I'm heading out! Leave the others to me, I'll take good care of them.
+QBU88|HELLO|Hello, Commander! I've tidied up your office.
+QBU88|Introduce|Hello, Commander. QBU-88 sniper rifle, reporting! …Why is it so messy here? Don't worry, I'll help you clean up.
+QBU88|LOADING|Commander, if we don't hurry we'll miss the sale!
+QBU88|MEET|Hurry hurry hurry, switch your formation! Don't drag your feet!
+QBU88|NEWYEAR|The preparations for the new year celebrations were only just finished last night. Honestly... If I'd known they were so slow, I would have asked you to let me handle it instead.
+QBU88|OPERATIONBEGIN|Hurry up or we'll not make it to the limited-time sale at the mall!
+QBU88|OPERATIONOVER|The loot's all here, Commander. I have something else to do so I'll make a move first!
+QBU88|PHRASE|This looks pretty good...
+QBU88|RETREAT|Dammit...have we lost...? Take everything you can. Don't let them profit at our expense!
+QBU88|SKILL1|Relax, it'll be over soon.
+QBU88|SKILL2|Gotcha!
+QBU88|SKILL3|You should feel lucky that you met me, because I'll give you a quick death.
+QBU88|SOULCONTRACT|Commander, are you really sure about choosing me? You're taking advantage of me, aren't you...<>I am in fact a good homemaker…and I'm not bragging. You got a good deal out of choosing me, Commander.<>I-In any case, I'll be with you from now on, so don't regret it!
+QBU88|TANABATA|How about embroidering a couple of magpies on my scarf to commemorate this day?
+QBU88|TIP|Follow me!
+QBU88|VALENTINE|Although I always prioritize value for money when I go shopping, you can't be too stingy on a day like this. Commander, you feel the same way, don't you?
+QBU88|WIN|The outcome was as I expected... Oh yes, don't forget to bag up the trophies!
 PP19Mod|DIALOGUE2|What are you looking at, Commander? Want to arm wrestle with me? I'll control my strength so you don't get hurt.
 PP19Mod|DIALOGUE3|Hehehe... Look, Commander, Shelley sent me another letter.
 PP19Mod|BUILDOVER|Who is it this time? Is it a familiar face?
@@ -5252,3 +5453,130 @@ Dreamer|TITLECALL|Girls' Frontline
 Dreamer|UPGRADE01|Will I find happiness in the end?
 Dreamer|UPGRADE02|"Thank you"... That's what you want me to say, isn't it?
 Dreamer|WIN|Wiped out just like that? How disappointing...
+PM1910|GAIN|I'm PM1910! Make sure you remember to call me out when it's time for a fight!
+PM1910|HELLO|Oi, where the hell did you go? Dragging your feet and all that!
+PM1910|FORMATION|Put me in the best attacking position!
+PM1910|FEED|It's good, but I barely felt that! Give me another!
+PM1910|DIALOGUE1|If you want to say something then say it, don't beat around the bush!
+PM1910|DIALOGUE2|I talk about the past a lot, but that doesn't mean I'm stuck in my ways, got that?
+PM1910|DIALOGUE3|I'm so damn bored, put on some exciting music!
+PM1910|BUILDOVER|I don't care about the newbie, go look yourself!
+PM1910|GOATTACK|Let them fear our names from Griffin to every single enemy camp!
+PM1910|MEET|Don't you dare die before I've had my fun!
+PM1910|ATTACK|Just in time, now get out of my way!
+PM1910|DEFENSE|I've been through more hopeless things than this, so hang in there, all of you!
+PM1910|BREAK|Those bastards over there actually know a thing or two, but after this it'll be too late for them to regret it!
+PM1910|WIN|You're actually proud of that little bit of endurance?
+PM1910|RETREAT|Don't think it's over!
+PM1910|NEWYEAR|Happy New Year? It's a bloody waste of time, get over here and empty this glass!
+PM1910|VALENTINE|Oi, where the hell do you think you're going with that chocolate, oh wait, this is... Huh, it's pretty good. They're mine now! You want to give them to somebody else? Then make more!
+PM1910|TANABATA|Tanabata? Never heard of it. If you're feeling lonely, then you can go fix up my bike, and make sure you wash it clean after!
+PM1910|ALLHALLOWS|Trick? Or treat? You think I'm three or something?
+PM1910|CHRISTMAS|In the past, I used to like the snow, but now I prefer presents... So, what did you get for me?
+PM1910|SKILL1|Rip and tear!
+PM1910|SKILL2|Go regret your choices in the scrapyard!
+PM1910|SKILL3|Strength and honor!
+PM1910|OPERATIONBEGIN|Can't you find someone else to do this small potatoes stuff?
+PM1910|OPERATIONOVER|That was like a walk in the park, isn't there a more exciting op I could be on!?
+PM1910|FIX|This is nothing compared to what happened in the past.
+PM1910|COMBINE|That's right, war has never gone easy on the weak.
+PM1910|BLACKACTION|Let's go make a mess of things!
+PM1910|SOULCONTRACT|Not long ago, I had a dream. In that dream, I saw a forest. <> While I don't know why I had a dream like that, I saw you in it too. Do you know what that means? <> It means I'm going to beat the crap out of you for daring to show up in my dream!
+PM1910|TITLECALL|Girls' Frontline
+PM1910|PHRASE|Hah?
+PM1910|TIP|Listen up and do as I say!
+PM1910|LOADING|Quit spacing out, hurry up!
+PM1910|DIALOGUEWEDDING|Oi, get on, I'm taking you on a ride! Why so nervous? I told you right, the seat behind me is yours... Come on, come on, where do you want to go today?
+PM1910|Introduce|I'm PM1910! Make sure you remember to call me out when it's time for a fight!
+RO635Mod|GAIN|It's been a while, Commander. I'm sure that as I am now, I'll be able to solve many more problems for you. Awaiting your command.
+RO635Mod|HELLO|Commander, there are still some documents which require your inspection... I've also sorted out the personal letters from the other Dolls and left them on your table.
+RO635Mod|FORMATION|Prepare to move out at any time.
+RO635Mod|FEED|The odds of keeping SOP-II from misbehaving have gone up a little.
+RO635Mod|DIALOGUE1|SOP-II, stop doing the hundred-meter dash in the base corridors! And 15, don't think I don't know you've been secretly drinking the whisky that M16 left behind! Both of you, learn the dorm rules already!
+RO635Mod|DIALOGUE2|Commander, why do you look so pale? I see, so your computer bluescreened... Don't worry, I can fix it right away. Have some coffee and relax, I'm sure the documents will all be intact.
+RO635Mod|DIALOGUE3|Peaceful days like this don't come by often... No Dolls with their heads stuck in strange places, no animal hordes escaping the Rescue Station, and no tricky emergency missions... I'm actually not too used to this.
+RO635Mod|BUILDOVER|There's a new Doll reporting, don't you want to go see her, Commander?
+RO635Mod|GOATTACK|Target locked, commencing attack.
+RO635Mod|MEET|Objective sighted, carry out elimination orders at once.
+RO635Mod|ATTACK|The odds favor us, take this opportunity!
+RO635Mod|DEFENSE|Don't be careless, maintain your defensive posture!
+RO635Mod|BREAK|Something unexpected...came up...
+RO635Mod|WIN|This outcome was inevitable.
+RO635Mod|RETREAT|Justice may be late...but it always arrives!
+RO635Mod|SKILL1|Count up your sins!
+RO635Mod|SKILL2|Accept the verdict of justice!
+RO635Mod|SKILL3|I'll never admit defeat!
+RO635Mod|SOULCONTRACT|I'm sure you have your reasons for choosing me...<>But, please don't stand so close, because everyone...everyone's watching... I'm so embarrassed!
+RO635Mod|DIALOGUEWEDDING|Commander, have you been pulling an all-nighter again? Wait, there are Dolls looking... Oh all right, on account of how hard you've been working, I'll let you hold me like this for a while.
+RO635Mod|Introduce|It's been a while, Commander. I'm sure that as I am now, I'll be able to solve many more problems for you. Awaiting your command.
+RO635Mod|OPERATIONBEGIN|Stay alert, stay on your guard, and head out!
+RO635Mod|OPERATIONOVER|Mission complete. Things went better than expected.
+RO635Mod|PHRASE|It is as you see.
+RO635Mod|COMBINE|Now I won't lose.
+RO635Mod|BLACKACTION|Nothing will change if you only watch from the side!
+RO635Mod|LOADING|Commander, could you wait a moment?
+RO635Mod|TIP|Commander, there's something I need to tell you.
+RO635Mod|FIX|Commander, this is my leave application... I hope you'll approve it...
+SuperSASSMod|GAIN|Commander, perhaps becoming like this would better meet my seniors' expectations, don't you think?
+SuperSASSMod|HELLO|Commander, is there a training plan for today?
+SuperSASSMod|FORMATION|I'll treasure this opportunity!
+SuperSASSMod|FEED|I want to find a place to test my gun out!
+SuperSASSMod|DIALOGUE1|No matter what difficulties we encounter, I'll do my best to overcome them with you, Commander. Don't you agree?
+SuperSASSMod|DIALOGUE2|In the past, I felt that reaching the peak was very hard. But now, I feel that the peak alone isn't enough.
+SuperSASSMod|DIALOGUE3|Your eyes seem to be wavering. Could you tell me what's in your heart?
+SuperSASSMod|BUILDOVER|I hope I'll be able to get along with our new friend!
+SuperSASSMod|GOATTACK|The time to show the results of my training has come!
+SuperSASSMod|MEET|Looks like an opponent worth challenging.
+SuperSASSMod|ATTACK|Everyone, let's give it our all!
+SuperSASSMod|DEFENSE|Be careful and wait for an opportunity!
+SuperSASSMod|BREAK|Don't think I'm admitting defeat!
+SuperSASSMod|WIN|This is what I need to do, for everyone and for you, Commander!
+SuperSASSMod|RETREAT|Are you an obstacle for me? I'm looking forward to challenging you again!
+SuperSASSMod|SKILL1|An opening!
+SuperSASSMod|SKILL2|Piece of cake!
+SuperSASSMod|SKILL3|This shot is for the Commander's victory!
+SuperSASSMod|SOULCONTRACT|Commander, is there something special about today's get-together?<>Hm? Prepared for me? This is too much! Doesn't this mean I have to work even harder?<>Heheh, though this will be a piece of cake for me.
+SuperSASSMod|DIALOGUEWEDDING|At long last, we're together alone... Commander, don't let yourself be bothered by trivial things. Entrust yourself to me.
+SuperSASSMod|Introduce|Commander, perhaps becoming like this would better meet my seniors' expectations, don't you think?
+SuperSASSMod|OPERATIONBEGIN|Okay, I'll lead everybody out!
+SuperSASSMod|OPERATIONOVER|Commander, we've returned safe and sound.
+SuperSASSMod|BLACKACTION|Sorry, I'm late!
+SuperSASSMod|COMBINE|I'll have more chances to deploy now, so I'll do my best!
+SuperSASSMod|LOADING|Thank you for waiting, Commander.
+SuperSASSMod|TIP|Hi hi~ This is very important~ Remember to take notes!
+SuperSASSMod|FIX|If only there were snacks... No, never mind, I'll get them myself...
+VHS|GAIN|...Ah. I've arrived already? I was focused on reading my book. VHS reporting, please use me to your heart's content.
+VHS|HELLO|Is it time for work already? Hang on, let me put these away.
+VHS|FORMATION|I'm not good at teamwork... But I guess I'll have to try.
+VHS|FEED|There is a meaning in becoming strong.
+VHS|DIALOGUE1|If you're at a loss for how to handle a situation, don't try to force the issue and get lost in trivial details. That will only lead to tunnel vision on your part. Instead, you should try doing something else. How about a 32-sided Rubik's Cube?
+VHS|DIALOGUE2|I may like playing with these things, but please stop trying to force me to make up with Gr SL8, because I have no intention of forgiving her. Hanging out with people who are too boisterous only serves to disturb my thoughts, as she has clearly demonstrated.
+VHS|DIALOGUE3|My standards for a friend? Hm... They need to be quiet, efficient, able to do their own thing even if we're in the same room and not disturb each other. In other words, like FAMAS.
+VHS|BUILDOVER|Be quiet when you come out. I'm building a model.
+VHS|GOATTACK|Let's go. Advance carefully.
+VHS|MEET|Wipe them all out and let none survive — that's it, right?
+VHS|ATTACK|Now is not the time to hold back.
+VHS|DEFENSE|Defend and minimize damage!
+VHS|BREAK|Ah, why does my body feel so light...
+VHS|WIN|No matter how many setbacks we face along the way, achieving victory is the best outcome.
+VHS|RETREAT|This is just like how you can get stuck when trying to solve a Rubik's Cube. Calm down and try again later.
+VHS|NEWYEAR|Oh come on, give me a break, is there nowhere today that I can be at peace? Happy New Year, Commander, let me duck into your room for a bit.
+VHS|VALENTINE|I learned how to make chocolate, so that's simple enough. Do you want some? Okay, help me build this model and I'll make some for you.
+VHS|TANABATA|I wish I had a private space that followed me around and which I could enter for some peace and quiet whenever I wanted to be alone. Ah, in other words, I should get a sleeping bag.
+VHS|ALLHALLOWS|So once I make myself up to be a little scary-looking and sit here, I'll be able to avoid the vast majority of social interactions? No, I don't have a phobia of social interactions, I just feel that they're unnecessary.
+VHS|CHRISTMAS|What do you want? It's not often that we have a festival where we can make and fulfil each other's wishes. If it's within my power to give, I'll make sure to satisfy you.
+VHS|SKILL1|What can be seen can be learned.
+VHS|SKILL2|What can be learned can be surpassed.
+VHS|SKILL3|I see you!
+VHS|OPERATIONBEGIN|Want me to get some toys for you?
+VHS|OPERATIONOVER|I'm back, there was nothing interesting out there.
+VHS|FIX|This place is boring, please give me a book.
+VHS|COMBINE|Can these Dummies keep up with my movements?
+VHS|BLACKACTION|I can do it if I just imitate your tactics.
+VHS|SOULCONTRACT|Thank you for bringing me here, Commander. That lot is just too noisy. <>You have something else you want to say? What is it... Ah, this is... <>What a surprise, Commander. But I don't dislike you. So yes, I agree.
+VHS|TITLECALL|Girls' Frontline
+VHS|PHRASE|I think I can learn this.
+VHS|TIP|Try doing it the way I said. 
+VHS|LOADING|Ah, we've already arrived. I'll come over once I finish this page.
+VHS|DIALOGUEWEDDING|Why did you stop halfway? It's alright, your frustrations don't count as noise. Once you've finished venting, we can think about a way to deal with them together.
+VHS|Introduce|...Ah. I've arrived already? I was focused on reading my book. VHS reporting, please use me to your heart's content.
