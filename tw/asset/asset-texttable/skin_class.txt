@@ -69,3 +69,4 @@ skin_class-10000068,瓦爾哈拉之子
 skin_class-10000069,少女與鋼之詩
 skin_class-10000070,在落雪時游弋
 skin_class-10000071,新歲風物詩
+skin_class-10000072,細雪吟春

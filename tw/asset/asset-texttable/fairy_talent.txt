@@ -24,3 +24,4 @@ fairy_talent-10910120,絢爛型
 fairy_talent-10910121,賀歲型
 fairy_talent-10910122,清涼型
 fairy_talent-10910124,吉祥型
+fairy_talent-10755192,布局型

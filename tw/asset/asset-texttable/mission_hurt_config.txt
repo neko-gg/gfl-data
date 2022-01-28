@@ -42,3 +42,10 @@ mission_hurt_config-16480002,【標記】塑膠炸彈爆炸傷害
 mission_hurt_config-10482401,【標記】通用傷害(對敵人)
 mission_hurt_config-10483901,【標記】炸彈引爆
 mission_hurt_config-10483902,【標記】炸彈引爆
+mission_hurt_config-10000021,【標記】陷阱妖精傷害
+mission_hurt_config-10000022,【標記】修理妖精負數傷害
+mission_hurt_config-16510001,【標記】大炮30%當前傷害
+mission_hurt_config-16510002,【標記】大炮80%當前傷害
+mission_hurt_config-16510003,【標記】大炮100%當前傷害
+mission_hurt_config-16510004,【標記】敵方炮擊
+mission_hurt_config-16510005,【標記】塑膠炸彈爆炸傷害

@@ -2992,3 +2992,12 @@ achievement-30001005,
 achievement-10001006,始態復現
 achievement-20001006,完整瀏覽熵減焓增製作人員名單。
 achievement-30001006,
+achievement-10001007,狼群歸來
+achievement-20001007,舊雨I：使用忤逆小隊擊敗格雷夫人並完成關卡。
+achievement-30001007,
+achievement-10001008,破碎的完整
+achievement-20001008,匿伏I：在沒有梯隊撤離的情況下完成關卡。
+achievement-30001008,
+achievement-10001009,煙羽直上
+achievement-20001009,完整瀏覽靜風點製作人員名單。
+achievement-30001009,

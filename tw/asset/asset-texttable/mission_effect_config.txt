@@ -216,3 +216,29 @@ mission_effect_config-11000088,
 mission_effect_config-21000088,
 mission_effect_config-19490401,【標記】提示特效，亮星星
 mission_effect_config-29490401,
+mission_effect_config-11000099,黏性炸藥無聲倒數]計時
+mission_effect_config-21000099,黏性炸藥無聲倒數]計時
+mission_effect_config-11000100,空襲引導
+mission_effect_config-21000100,空襲引導
+mission_effect_config-11000089,導彈攻擊特效
+mission_effect_config-21000089,導彈攻擊特效
+mission_effect_config-11000090,傳送門橙光圈
+mission_effect_config-21000090,橙光圈常駐
+mission_effect_config-11000091,傳送lv1 HG生效
+mission_effect_config-21000091,傳送lv1 HG生效
+mission_effect_config-11000092,力場盾
+mission_effect_config-21000092,力場盾
+mission_effect_config-11000093,火力up
+mission_effect_config-21000093,火力up
+mission_effect_config-11000094,emp彈攻擊特效
+mission_effect_config-21000094,emp彈攻擊特效
+mission_effect_config-11000095,建造音效
+mission_effect_config-21000095,建造音效
+mission_effect_config-11000096,升級音效
+mission_effect_config-21000096,升級音效
+mission_effect_config-11000097,加buff音效
+mission_effect_config-21000097,加buff音效
+mission_effect_config-11000098,禿洞傳送裝置音效
+mission_effect_config-21000098,禿洞傳送裝置音效
+mission_effect_config-19999999,【標記】通用打斷循環音效
+mission_effect_config-29999999,【標記】通用打斷循環音效

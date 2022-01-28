@@ -1921,3 +1921,27 @@ enemy_character_type-30990038,
 enemy_character_type-20993701,肉鴿敵方助手
 enemy_character_type-10993701,精英//c訓練用
 enemy_character_type-30993701,
+enemy_character_type-20910134,射擊士
+enemy_character_type-10910134,普通
+enemy_character_type-30910134,
+enemy_character_type-20910135,槍騎兵
+enemy_character_type-10910135,導彈//c碾壓//c力場
+enemy_character_type-30910135,
+enemy_character_type-20910136,劍盾士
+enemy_character_type-10910136,跳躍//c激光//c力場
+enemy_character_type-30910136,
+enemy_character_type-20910137,射擊士
+enemy_character_type-10910137,普通
+enemy_character_type-30910137,
+enemy_character_type-20910138,普通黑涅托（AR/RF）
+enemy_character_type-10910138,格里芬
+enemy_character_type-30910138,
+enemy_character_type-20910139,涅托 輔翼
+enemy_character_type-10910139,精英
+enemy_character_type-30910139,
+enemy_character_type-20910140,擲彈士
+enemy_character_type-10910140,投擲//c反機械
+enemy_character_type-30910140,
+enemy_character_type-20910141,射擊士
+enemy_character_type-10910141,普通
+enemy_character_type-30910141,

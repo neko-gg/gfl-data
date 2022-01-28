@@ -247,3 +247,9 @@ mission_targettrain_enemy-30002412,02焓變·夜靄
 mission_targettrain_enemy-10002413,03焓變·冥霧
 mission_targettrain_enemy-20002413,【靶機專訓】透過【熵減焓增】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
 mission_targettrain_enemy-30002413,03焓變·冥霧
+mission_targettrain_enemy-10002414,I 颶風：蛻骨
+mission_targettrain_enemy-20002414,【靶機專訓】通過【靜風點】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002414,I 颶風：蛻骨
+mission_targettrain_enemy-10002415,II 颶風：枯蛺
+mission_targettrain_enemy-20002415,【靶機專訓】通過【靜風點】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002415,II 颶風：枯蛺

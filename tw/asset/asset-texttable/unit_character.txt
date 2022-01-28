@@ -240,3 +240,5 @@ unit_character-10001002,格里芬精英
 unit_character-20001002,來自格里芬的精英單位
 unit_character-10001003,高威脅
 unit_character-20001003,該單位對我方威脅很大，請謹慎應對
+unit_character-10001004,？？？
+unit_character-20001004,

@@ -22,7 +22,7 @@ fight_environment_skill-10000703,突擊慣性
 fight_environment_skill-20000703,該場戰鬥中提升我方全體傷害和迴避每4秒提升3%，最多疊加10層
 fight_environment_skill-10000704,迅速整備
 fight_environment_skill-20000704,我方前置冷卻時間縮減30%
-fight_environment_skill-10000705,偏轉立場
+fight_environment_skill-10000705,偏轉力場
 fight_environment_skill-20000705,我方血量最高單位開場獲得9999點偏轉力場，持續8秒
 fight_environment_skill-10000706,裝甲缺失
 fight_environment_skill-20000706,本場戰鬥我方護甲降低90%
