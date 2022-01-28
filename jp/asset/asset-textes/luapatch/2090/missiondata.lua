@@ -4,13 +4,27 @@ xlua.private_accessible(CS.MissionAction)
 
 local LoadBattleEnvironment = function(self,jsonData)
 	self:LoadBattleEnvironment(jsonData);
+	if jsonData:Contains("fight_environment_group") then
+		self.environmentTxt=jsonData:GetValue("fight_environment_group").String;
+	else
+		return;
+	end
 	local text = Split(self.environmentTxt,"|");
 	local iter = self.currentEnvironmentSkill:GetEnumerator();     
 	while iter:MoveNext() do                      
 		local layer = iter.Current.Key;
-        if CS.System.String.IsNullOrEmpty(text[layer]) then
+        if CS.System.String.IsNullOrEmpty(text[layer+1]) then
 			if self.currentEnvironmentSkill:ContainsKey(layer) then
 				self.currentEnvironmentSkill[layer]:Clear();
+				print("清除enskill"..layer)
+			end
+		else
+			self.currentEnvironmentSkill[layer]:Clear();
+			local check = Split(text[layer+1],";");
+			for j=1,#check do
+				local id = tonumber(check[j]);
+				local info = CS.GameData.listBTEnvironmentData:GetDataById(id);
+				self.currentEnvironmentSkill[layer]:Add(info);
 			end
 		end          
 	end	
