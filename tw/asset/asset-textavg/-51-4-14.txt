@@ -128,7 +128,7 @@ NPC-Kyruger(0)<Speaker>克魯格</Speaker>||:我想……是的，我覺得。+�
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:【靜風點END】
 ()||<黑屏1>:
-()||<名單2>2022Winter_Credit</名單2>:
+()||<名单2>2022Winter_Credit</名单2>:
 ()<Speaker></Speaker>||:……
 ()<Speaker></Speaker>||:……
 ()||<黑屏1>:
