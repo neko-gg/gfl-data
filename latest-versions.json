@@ -1,13 +1,13 @@
 [
     {
         "region": "jp",
-        "dataVersion": "cf134eeac8dfa9392a0cd23d06623e65",
-        "abVersion": "2022012812",
+        "dataVersion": "6afef39a1726dd27f88c3b820d574b35",
+        "abVersion": "2022021112",
         "clientVersion": "20700"
     },
     {
         "region": "kr",
-        "dataVersion": "82697ccc20470ad62516bde3e99f30eb",
+        "dataVersion": "07eb8008d92076ee02dfbe91c350b2ae",
         "abVersion": "0",
         "clientVersion": "20899"
     },
