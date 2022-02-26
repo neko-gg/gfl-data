@@ -45,8 +45,8 @@ level|27|kanban_musume_021|ゲームをしましょう。指揮官様が勝て�
 level|28|kanban_musume_013|指揮官さま！もっと買っていただければ、サプライズがありますよ！
 level|29|kanban_musume_030|商品にはたくさん割引をしてますけど・・・あなたへの気持ちを割引きしたことはありません・・・。
 level|30|kanban_musume_031|私たちの契約を忘れないでくださいね。お金はその一部にすぎないんですから。
-tutorialguide|0|コツさえ掴めば、指揮官さまの作戦がよりスムーズに進むこと間違いなしです！
-tutorialguide|0|作戦Tipsが見たいのですか？左のメニューからご覧になれますよ
-tutorialguide|0|各種施設の利用方法は、「施設紹介」をご覧くださいね
-tutorialguide|0|分からない言葉に出くわしましたか？それなら「データベース」をご覧ください
-tutorialguide|0|ハンドブック内のコンテンツはすべて無料ですので、安心してご利用ください～ 
+tutorialguide|0|NPC_Kalina_Guide_Voice01|コツさえ掴めば、指揮官さまの作戦がよりスムーズに進むこと間違いなしです！
+tutorialguide|0|NPC_Kalina_Guide_Voice02|作戦Tipsが見たいのですか？左のメニューからご覧になれますよ
+tutorialguide|0|NPC_Kalina_Guide_Voice03|各種施設の利用方法は、「施設紹介」をご覧くださいね
+tutorialguide|0|NPC_Kalina_Guide_Voice04|分からない言葉に出くわしましたか？それなら「データベース」をご覧ください
+tutorialguide|0|NPC_Kalina_Guide_Voice05|手引きにあるチュートリアルは全て無料ですよ、安心してご使用ください～
