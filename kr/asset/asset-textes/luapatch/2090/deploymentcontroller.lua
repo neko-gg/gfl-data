@@ -79,6 +79,26 @@ local EndTurnPlayAllData= function(self)
 	self.isPlayingPerformance = false;
 	self:EndTurnPlayAllData();
 end
+
+local GoToBattleScene = function(self)
+	if self.engagedSpot.enemyInstanceId ~= 0 then
+		local enemyTeam = CS.GameData.missionAction.listEnemyTeams:GetDataById(self.engagedSpot.enemyInstanceId);
+		if enemyTeam.hpPercent< 0.01 then
+			enemyTeam.hpPercent = 0.01;
+		end
+		print("修改修小血量"..enemyTeam.hpPercent)
+	end
+	if self.engagedSpot.allyTeamInstanceIds.Count > 0 then
+		for i=0,self.engagedSpot.allyTeamInstanceIds.Count-1 do
+			local ally = CS.GameData.missionAction.listAllyTeams:GetDataById(self.engagedSpot.allyTeamInstanceIds[i]);
+			if ally.hpPercent< 0.01 then
+				ally.hpPercent = 0.01;
+			end
+			print("修改修小血量"..ally.hpPercent)
+		end
+	end
+	self:GoToBattleScene();
+end
 util.hotfix_ex(CS.DeploymentController,'RequestNoBattleAllyHandle',RequestNoBattleAllyHandle)
 util.hotfix_ex(CS.DeploymentController,'TriggerSelectTeam',TriggerSelectTeam)
 util.hotfix_ex(CS.DeploymentController,'get_CanPlayerAction',CanPlayerAction)
@@ -87,4 +107,5 @@ util.hotfix_ex(CS.DeploymentController,'PlayShowAllTeamForce',PlayShowAllTeamFor
 --util.hotfix_ex(CS.DeploymentController,'RequestEndEnemyTurnHandle',RequestEndEnemyTurnHandle)
 util.hotfix_ex(CS.DeploymentController,'CheckControlUI',CheckControlUI)
 util.hotfix_ex(CS.DeploymentController,'EndTurnPlayAllData',EndTurnPlayAllData)
+util.hotfix_ex(CS.DeploymentController,'GoToBattleScene',GoToBattleScene)
 
