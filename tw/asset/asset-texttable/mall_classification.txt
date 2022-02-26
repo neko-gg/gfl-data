@@ -5,7 +5,7 @@ mall_classification-10004000,服裝
 mall_classification-10005000,物品
 mall_classification-10006000,特供
 mall_classification-10001001,真核面具
-mall_classification-10001002,一幣之遙//n勳章兌換
+mall_classification-10001002,照相馆谜题//n勋章兑换
 mall_classification-10001003,靜風點//n勳章兌換
 mall_classification-10001004,代幣兌換
 mall_classification-10001005,蝕心面具
