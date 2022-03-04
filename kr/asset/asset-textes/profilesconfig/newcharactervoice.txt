@@ -16444,7 +16444,7 @@ PPsh41Mod|ATTACK|Вперёд, товарищи!(동지들, 전진!)
 PPsh41Mod|DEFENSE|Осторожно!(조심해요!)
 PPsh41Mod|BREAK|윽! 저는 신경쓰지 말고 계속 싸우세요!
 PPsh41Mod|WIN|동지들의 노력 덕분에 얻은 승리를 위하여! 만세!
-PPsh41Mod|RETREAT|더 큰 승리를 위하여, 여기선 후퇴하죠...
+PPsh41Mod|RETREAT|훗날을 고려해서, 이번엔 후퇴하도록 해요...
 PPsh41Mod|SKILL1|Ypa——!
 PPsh41Mod|SKILL2|저와 함께 위대한 승리를 맞이해요!
 PPsh41Mod|SKILL3|이번에도 제가 모두를 지키겠어요!
@@ -16494,3 +16494,40 @@ Rhino|TIP|나한테 시킬 일 있어? 마피아 게임 같은 건 절대 안 �
 Rhino|LOADING|좀 오래 걸리네... 커피 한 잔 있으면 딱인데.
 Rhino|DIALOGUEWEDDING|지휘관의 말은 전부 마음에 새겨두고 있고, 지휘관한테 하는 말도 전부 진심이야. 지휘관, 난 당신을 만나서 정말 다행이라고 생각해.
 Rhino|Introduce|차분하고 진지한 성격에, 그에 걸맞는 수많은 훈련과 실전을 거친 베테랑이어서 자신의 능력에 대한 자신감이 크다. 임무 지시라면 철저히 이행하며, 작고 가벼운 몸집으로 은폐와 잠입에 매우 능해 아무도 예상치 못한 구석에서 새로운 발견을 하곤 한다. 하지만 그런 장점이 무색하게 간단한 속임수에도 곧잘 넘어가면서 진실된 말은 일단 의심하고 보는 희한한 성격의 소유자. 왜 딱 봐도 사이즈가 전혀 안 맞는 망토를 두르고 다니는지도 절대 물어봐서는 안 된다는 듯하다.
+Hunter_WhiteDay|GAIN01|밤이 나를 감추니, 별들은 나의 동료라. 철혈공조의 헌터가 오늘 밤 가장 잔혹하고 아름다운 사냥을 선사하겠다.
+Hunter_WhiteDay|GAIN02|약간의 달콤함만 있으면, 사냥감은 나방처럼 제발로 파멸을 향해 날아가지... 그러니 발렌타인 데이야말로 사냥하기 좋은 날 아니겠어?
+Hunter_WhiteDay|HELLO|헌터, 분부에 따르겠다.
+Hunter_WhiteDay|FORMATION01|노련한 사냥꾼에겐 호흡이 잘 맞는 파트너만 있으면 돼.
+Hunter_WhiteDay|FORMATION02|전장에서의 역할이란 단 두 가지, 사냥꾼과 사냥감뿐이다.
+Hunter_WhiteDay|FORMATION03|사냥감을 주시해라, 내 나방에 주의력을 흐트리지 말고.
+Hunter_WhiteDay|FEED01|마음에 드는 선물이다.
+Hunter_WhiteDay|FEED02|합리적인 자원 배당이군.
+Hunter_WhiteDay|BREAKTHROUGH01|처음 느껴보는 기분인걸...
+Hunter_WhiteDay|BREAKTHROUGH02|감각이 더 예리해졌어.
+Hunter_WhiteDay|UPGRADE01|새로운 힘이 솟아난다.
+Hunter_WhiteDay|UPGRADE02|강해진 느낌이 참으로 좋군.
+Hunter_WhiteDay|DIALOGUE01|지휘관, 내 사냥감 컬렉션을 구경 중인가? 그건 일부에 불과해, 대부분은 잃어버렸거든. 그래도 속상하진 않아. 이미 더 희귀한 사냥감을 찾았으니까... 
+Hunter_WhiteDay|DIALOGUE02|나방은 빛을 사모해 불길로 뛰어든다던데, 그건 그저 등불에 눈이 멀어 진정으로 방향을 가리키는 달을 찾지 못해서일 뿐이야.
+Hunter_WhiteDay|DIALOGUE03|수레국화는 좋아해서가 아니라, 그 색이 사냥감을 현혹시키기에 용이해 보여서다. 하지만 지휘관이 좋아한다면, 정원에도 몇 송이 심어 두지.
+Hunter_WhiteDay|GOATTACK|이번엔 어떤 서프라이즈가 기다리고 있을까...
+Hunter_WhiteDay|MEET|모두, 즐거운 사냥이 되길.
+Hunter_WhiteDay|ATTACK|빈틈을 노려라!
+Hunter_WhiteDay|DEFENSE|약점을 보이지 마!
+Hunter_WhiteDay|WIN|포상으로, 이번 사냥의 기념품을 내가 직접 고르게 해 줘.
+Hunter_WhiteDay|RETREAT|진정한 사냥꾼은 침묵할 줄 아는 법이다.
+Hunter_WhiteDay|DEAD01|어쩌면 나야말로... 등불에 현혹된 나방일지도...
+Hunter_WhiteDay|DEAD02|이대로 잠들게 하지 말아 줘...
+Hunter_WhiteDay|SKILL01|내 덫에서는 어떤 사냥감도 빠져나갈 수 없어.
+Hunter_WhiteDay|SKILL02|헛된 발버둥은 날 더 고양시킬 뿐이다.
+Hunter_WhiteDay|SKILL03|자아, 환각 속에서 잠들어라.
+Hunter_WhiteDay|FIX|혹시... 날 걱정하는 건가?
+Hunter_WhiteDay|BLACKACTION|시시한 사냥감이로군... 임무는 요구대로 완수하겠어.
+Hunter_WhiteDay|SOULCONTRACT|분명 내가 사냥꾼이고, 네가 사냥감일 텐데...<>언제부터 내가 사냥감이 된 거지...?<>지휘관이 꽃을 들고 내게 다가왔을 때부터일까, 내가 그 수레국화를 심었을 때부터일까...
+Hunter_WhiteDay|DIALOGUEWEDDING|지휘관, 같이 사진 한 장 찍어도 될까? 인간은 사랑하는 이의 사진을 지갑에 끼워 둔다 들었는데, 왜 그러는진 잘 모르겠지만 무슨 느낌인지 한번 해보고 싶어서...
+Hunter_WhiteDay|TITLECALL|소녀전선.
+Hunter_WhiteDay|PHRASE|사냥 개시.
+Hunter_WhiteDay|TIP|지휘관에게 필요한 가이드는 전부 여기에 있어.
+Hunter_WhiteDay|LOADING|기다릴 줄 아는 것이, 사냥꾼에게 가장 중요한 소양이다.
+Vespid_bride|DIALOGUE01|우우...
+Vespid_bride|DIALOGUE02|-.-/../.../.../--/.
+Vespid_bride|DIALOGUE03|--/-.--/.-../---/...-/.
