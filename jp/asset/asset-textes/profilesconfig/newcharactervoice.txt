@@ -7846,7 +7846,7 @@ MicroUZI|TANABATA|いっ、一応聞いてあげるわよ……七夕のお願�
 MicroUZI|TIP|しょうがないから、教えてあげるわよ。
 MicroUZI|VALENTINE|義理だからね……勘違いしないでよね！
 MicroUZI|WIN|別にあんたのために頑張ったんじゃないんだからね。
-MicroUZIMod|ALLHALLOWS|
+MicroUZIMod|ALLHALLOWS|ほーらほら、悪戯されたくなかったら、お菓子出しなさい！
 MicroUZIMod|ATTACK|全力でいくわよ！
 MicroUZIMod|BREAK|負けてたまるもんか！
 MicroUZIMod|BUILDOVER|新しい仲間が来たよ。ちょっと言ってみただけ。
