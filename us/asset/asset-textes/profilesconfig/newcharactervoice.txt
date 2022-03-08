@@ -49,6 +49,7 @@
 64type|ALLHALLOWS|Oh, who's outside the door? It's Halloween...? The candy isn't ready yet... Will green tea ice cream do?
 64type|DIALOGUEWEDDING|How's the tea, Commander? And I recommend this book - it goes very well with this tea. This is my secret way of relaxing.
 64type|GAIN|Type64 reporting. Commander, I'm honored to be able to learn from you.
+64type|VALENTINE|I tried making matcha chocolate this year, but the recipe wasn't too complete, so... I made some adjustments to it. How does it taste?
 64typeMod|DIALOGUE1|Are you heading out? Do you want me to come with you?
 64typeMod|DIALOGUE2|Do you like the tea I just brewed? I've improved my technique.
 64typeMod|DIALOGUE3|Sshhh... Please be quiet, Commander. I'll strike back if you don't behave yourself.
@@ -89,6 +90,7 @@
 88type|HELLO|Ah, Master, welcome back!
 88type|SKILL2|I can't just give you my number that easily!
 88type|SKILL3|What a boorish customer. You'd better make yourself scarce!
+81typeR|VALENTINE|Commander, this is Valentine chocolate. I filled it with my deepest gratitude, so please give it a taste!
 88type|DIALOGUE1|I wonder if it'll be hot for the next few days. Not that it's a big deal to me or anything.
 88type|DIALOGUE2|Don't miss the news about this year's ComiAi! Here's a poster for you, Master, please treasure it.
 88type|DIALOGUE3|Non~ Non~ Like I've said, this isn't cosplay! Being a maid is also a proper job!
@@ -1134,6 +1136,7 @@ Ithaca37|SOULCONTRACT|So...you have always cherished me, Commander, but I've nev
 Ithaca37|Introduce|You can call me Ithaca. I'll be joining your ranks so let's all have a good time, Commander.
 Ithaca37|DIALOGUEWEDDING|Do you want to hang out after work? I have been working overtime with you for so long, I believe some compensations are in order?
 Ithaca37|GAIN|You can call me Ithaca. I'll be joining your ranks so let's all have a good time, Commander.
+Ithaca37|VALENTINE|Commander, whose present are you most looking forward to receiving? Is it mine? Try to guess what it is, there's an extra prize in store for you.
 IWS2000|DIALOGUE1|Commander, do you need help with anything? Any work for me is fine.
 IWS2000|DIALOGUE2|Let me know if you need me. I hope to improve myself.
 IWS2000|DIALOGUE3|C-Commander! Is this a fitting behavior of a gentleman? Please stop!
@@ -5721,6 +5724,7 @@ SIGMCX|COMBINE|The joy of joking around is going to be multiplied.
 SIGMCX|BLACKACTION|Messing up is also kind of fun... Don't be scared, I was just kidding.
 SIGMCX|SOULCONTRACT|There is a kind of game that can only be played by two people, and this ring seems to be a representation of that game. Once you put it on, it seems you'll be bound into a certain kind of relationship. <> Are you sure you want to do this? Oh my, it looks like I'll need to get used to your presence in all my future games.
 SIGMCX|PHRASE|Want to guess what card this is?
+XM8|VALENTINE|I made a chocolate chess set. Let's have a game — but you have to physically eat the pieces you take.
 SIGMCX|TIP|What does it mean to be reserved? That word doesn't exist in my dictionary. Speaking of which, there's been a new game going around recently...
 SIGMCX|LOADING|What a game tests is your mental state. You aren't in such a hurry, are you?
 SIGMCX|DIALOGUEWEDDING|Commander, come quick, I just thought of a new way to play cards! Hehe, don't think you can run away, I designed it to include you from beginning to end, you know~
@@ -5757,3 +5761,81 @@ RPK203|PHRASE|Some things don't need to be said to one's face.
 RPK203|TIP|Why I give out little teddy bears? Don't you think that the idea of an innocent exterior concealing a mysterious power is very exciting?
 RPK203|DIALOGUEWEDDING|Is there no more space for teddy bears at home? Well, it can't be helped, recently everyone looks like they've been doing very well... You don't think so? Could it be that my keen sight is being influenced by something?
 RPK203|Introduce|I am RPK-203, officially joining the unit from today onward. It would be an honor to share relevant combat experience with everyone.
+BossGager|GAIN01|Gager, Sangvis Ferri Elite Doll, at your service starting from today.
+BossGager|GAIN02|Since you already have information about me, please put my skills to good use.
+BossGager|HELLO|Commander, what are our arrangements for today?
+BossGager|FORMATION01|I can handle this alone.
+BossGager|FORMATION02|Then please make haste. Don't keep me waiting.
+BossGager|FORMATION03|Who will I be up against this time? I look forward to it.
+BossGager|FEED01|Thank you, you've made the right decision.
+BossGager|FEED02|I will not disappoint you.
+BossGager|BREAKTHROUGH01|May I? You trust me so much... No, nothing...
+BossGager|BREAKTHROUGH02|Commander, do you see now? This is how determined I am. From now on, I will dominate the battlefield.
+BossGager|UPGRADE01|Thank you. In return, you can look forward to my performance.
+BossGager|UPGRADE02|Allow me to try out this new power.
+BossGager|DIALOGUE01|Don't let it get to your head, Architect. Remember who we are.
+BossGager|DIALOGUE02|Can we...actually make friends with Griffin Dolls...?
+BossGager|DIALOGUE03|As Sangvis Dolls, we only focus on efficiency. That's how we're different from the various weirdos in Griffin.
+BossGager|GOATTACK|Don't worry, this won't take too long.
+BossGager|MEET|Are you going to get down on your knees yourselves, or do you need some help from my bullets?
+BossGager|ATTACK|Heed your order – advance!
+BossGager|DEFENSE|Heed your order – defend!
+BossGager|WIN|Victory can only belong to us. There is no other possibility.
+BossGager|RETREAT|No, this can't be... There must be...some mistake...
+BossGager|DEAD01|I actually lost...to such low-quality toys...
+BossGager|DEAD02|Impossible... There must be...some mistake...
+BossGager|SKILL01|Pitiful creatures. They are completely oblivious to their fate.
+BossGager|SKILL02|You will regret challenging me in battle.
+BossGager|SKILL03|Come forward and get down on your knees!
+BossGager|FIX|Don't worry about me, Commander.
+BossGager|BLACKACTION|Thank you for trusting me. Gager, setting off!
+BossGager|SOULCONTRACT|Thank you, Commander. This really shows that I have your recognition. +All this time, I'm not sure if I'm being too hard on myself... +But now you've swept away all my doubts.
+BossGager|DIALOGUEWEDDING|What do I wish for, you ask? N-nothing, really... As a Doll, serving faithfully at my post is my everything. You've already given me so much. I promise...I will repay you in kind.
+BossGager|TITLECALL|Girls' Frontline
+BossGager|PHRASE|Orders?
+BossGager|MOOD1|Heh...
+BossGager|MOOD2|Hmm?!
+BossGager|LOWMOOD|I can't...
+BossGager|APPRECIATE|Well done.
+BossGager|AGREE|You're right.
+BossGager|ACCEPT|I agree.
+BossGager|FEELING|I expect nothing less from you.
+BossGager|TIP|Here's some advice for you.
+BossGager|LOADING|Waiting is also an important part of battle.
+Golyat_Factory|DIALOGUE01|Dun dun dundun dun!
+Golyat_Factory|DIALOGUE02| -.--.--.--.-..-/-.--.--.-.-....
+Golyat_Factory|DIALOGUE03| ---..---.-.-..-/-...........--.-
+ZB26|GAIN|So this is Griffin? ...I see. Please look forward to my performance. I will do my best no matter where I am.
+ZB26|HELLO|Welcome back, I've already sorted the documents you have to look through.
+ZB26|FORMATION|You can put me anywhere you want. I will fight for you with all my strength.
+ZB26|FEED|Please enhance my capabilities to the maximum, okay?
+ZB26|DIALOGUE1|Do you know, Commander? One should always take the initiative to interact with others... That's why I've come and sought you out.
+ZB26|DIALOGUE2|I often think...Dolls are so close to humans, but why do the majority of humans refuse to understand us?
+ZB26|DIALOGUE3|The objects aren't placed properly on your desk. That's alright, I'll tidy it for you... What? You won't be able to find your things? That...that won't happen.
+ZB26|BUILDOVER|The rookies are here. Why don't you come with me and have a look? One can only grow by interacting with all sorts of people.
+ZB26|GOATTACK|Commencing mission. Let us spare no effort in completing it.
+ZB26|MEET|Everyone, prepare to intercept the enemy.
+ZB26|ATTACK|Don't be confused! Destroy all the enemies!
+ZB26|DEFENSE|Adjust formation and delay them.
+ZB26|BREAK|You'll pay...for pushing me so far!
+ZB26|WIN|Victory in battle is merely the first step towards peace... Neither you nor I can relax.
+ZB26|RETREAT|I'll cover the rear, everyone else please fall back.
+ZB26|NEWYEAR|What kind of wish did you make for the new year? ...You want to know my wish? My wish is simple. I wish the desk in my dorm were perfectly square.
+ZB26|VALENTINE|I made chocolate for you. Each piece has the same size, shape and calorie content.
+ZB26|TANABATA|Tanabata is the only day Hikoboshi can meet Orihime, right... Perhaps their inability to meet frequently led to them cherishing each other more.
+ZB26|ALLHALLOWS|If I told you I found a ghost, would you like to go see it with me? ...I know, right? Humans always say "they don't exist".
+ZB26|CHRISTMAS|Merry Christmas! It's a time for shopping, and giving presents...and going on dates. Are you free later?
+64typeMod|VALENTINE|I tried making matcha chocolate this year, but the recipe wasn't too complete, so... I made some adjustments to it. How does it taste?
+ZB26|SKILL1|I'll use all my strength to defeat you in an instant!
+ZB26|SKILL2|All I need to do is wipe you out!
+ZB26|SKILL3|I won't take a step back!
+ZB26|OPERATIONBEGIN|Leave it to me. I'll give my all even when it comes to logistics.
+ZB26|OPERATIONOVER|Well? Are you happy with the result?
+ZB26|FIX|I'm sorry... I overestimated myself.
+ZB26|COMBINE|What if my Dummy doesn't have the same dimensions as me...
+ZB26|BLACKACTION|Thank you for your trust. I will not disappoint you.
+ZB26|SOULCONTRACT|Have you really considered this carefully? Once you've entered a contract with me... <>I won't let go of you no matter where you are… <>I will always, always be by your side.
+ZB26|TITLECALL|Girls' Frontline
+ZB26|DIALOGUEWEDDING|Even though I often say one mustn't give up halfway, your working hours are way too long... I am putting you on mandatory break for a while. Don't worry, I'll keep you company.
+ZB26|Introduce|So this is Griffin? ...I see. Please look forward to my performance. I will do my best no matter where I am.
+Webley|VALENTINE|I've brought chocolate...would you like some? ...If not, then I won't insist. After all, this is my first time making this sort of thing... Hey, don't snatch it away before I'm done talking... What? You like the taste? Whew, that's a relief.
