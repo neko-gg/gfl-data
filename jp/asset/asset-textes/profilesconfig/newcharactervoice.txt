@@ -12548,7 +12548,7 @@ Vector|FIX|ほっといてくれない？
 Vector|FORMATION|気にしないで。
 Vector|GAIN|うん？新しい指揮官？まぁー…仲良くやろっ…。
 Vector|GOATTACK|作戦会議終わった？じゃあ出発ね。
-Vector|HELLO|今日の秘書はあたしだけと……失望した？
+Vector|HELLO|今日の秘書は私だけど……失望した？
 Vector|Introduce|うん？新しい指揮官？まぁー…仲良くやろっ…。
 Vector|LOADING|なに急いでんの？ちょっとは落ち着いたら？
 Vector|MEET|フフン、きな。
