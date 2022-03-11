@@ -1338,5 +1338,10 @@
         "obtain_id": "3076",
         "description": "gun_obtain-10003076",
         "detail": "0"
+    },
+    {
+        "obtain_id": "3077",
+        "description": "gun_obtain-10003077",
+        "detail": "0"
     }
 ]
