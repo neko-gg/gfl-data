@@ -63036,7 +63036,7 @@
         "fog_length": "0,500",
         "fog_color": "#000000FF",
         "limit_equip_pool": "0",
-        "draw_event_s_id": "545",
+        "draw_event_s_id": "6103",
         "support_available": 0,
         "enemy_quickmove": 0,
         "expect_defend_line_turn": 0,
