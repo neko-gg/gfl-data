@@ -5519,6 +5519,9 @@ RO635Mod|COMBINE|Now I won't lose.
 RO635Mod|BLACKACTION|Nothing will change if you only watch from the side!
 RO635Mod|LOADING|Commander, could you wait a moment?
 RO635Mod|TIP|Commander, there's something I need to tell you.
+Striker_SWAP|DIALOGUE01|Thunk thunk thump! Rut-tut-tut...
+Striker_SWAP|DIALOGUE02|(╬￣皿￣)┻
+Striker_SWAP|DIALOGUE03|-././---
 RO635Mod|FIX|Commander, this is my leave application... I hope you'll approve it...
 SuperSASSMod|GAIN|Commander, perhaps becoming like this would better meet my seniors' expectations, don't you think?
 SuperSASSMod|HELLO|Commander, is there a training plan for today?
@@ -5839,3 +5842,43 @@ ZB26|TITLECALL|Girls' Frontline
 ZB26|DIALOGUEWEDDING|Even though I often say one mustn't give up halfway, your working hours are way too long... I am putting you on mandatory break for a while. Don't worry, I'll keep you company.
 ZB26|Introduce|So this is Griffin? ...I see. Please look forward to my performance. I will do my best no matter where I am.
 Webley|VALENTINE|I've brought chocolate...would you like some? ...If not, then I won't insist. After all, this is my first time making this sort of thing... Hey, don't snatch it away before I'm done talking... What? You like the taste? Whew, that's a relief.
+Justice|LOADING|Commander, rumor has it that you've come up with a new plan, so Agent sent me to help.
+Justice|TIP|I can handle this kind of mission on my own. Other Dolls will only slow me down...
+Justice|FEELING|Yep.
+Justice|ACCEPT|That's right.
+Justice|AGREE|Ooh~
+Justice|APPRECIATE|Haha!
+Justice|LOWMOOD|Hmm...
+Justice|MOOD2|Huh?
+Justice|MOOD1|Haha.
+Justice|PHRASE|Right away.
+Justice|DIALOGUEWEDDING|Commander, what's my mission today? Watching movies with you again...? Hmm, I don't mind.
+Justice|SOULCONTRACT|...Does this mean I have your recognition?<>Thank you, Commander. You probably don't realize what this means to me...<>But I just want to confirm that you're not giving me this honor out of some strange fetish, are you?
+Justice|BLACKACTION|I'm heading out. Contact me if there's anything urgent.
+Justice|FIX|I shall return to my duties after a brief rest.
+Justice|SKILL03|Before you die, take a good look at the difference between us!
+Justice|SKILL02|Come forward, let me destroy you!
+Justice|SKILL01|Cease your struggles and save yourself some unnecessary pain.
+Justice|DEAD02|This isn't the end, nor should it be...
+Justice|DEAD01|Don't...pity me. I...don't need your sympathetic gaze!
+Justice|RETREAT|Sorry... I won't let this happen again.
+Justice|WIN|Objective fulfilled, Commander. Your plan can carry on ahead.
+Justice|DEFENSE|Hold position and stand by!
+Justice|ATTACK|All forces, attack!
+Justice|MEET|Humph, come at me all at once! I'm in a rush!
+Justice|GOATTACK|Let's begin, but don't expect this to be a breeze.
+Justice|DIALOGUE03|These Griffin Dolls have wildly varying combat capabilities... Commander, I suggest conducting some training to improve their overall performance. Look, here's my draft proposal...
+Justice|DIALOGUE02|Commander, why are you gesturing at me behind my back? Are you laughing at my stature?! (Chambers weapon) 
+Justice|DIALOGUE01|You know what, Commander? My auditory module is the best in Sangvis Ferri, so can you please stop leaning down when talking to me...?
+Justice|UPGRADE02|I knew it. Getting stronger doesn't actually make me taller...
+Justice|UPGRADE01|If I get stronger little by little, one day I might actually...uh, nothing.
+Justice|BREAKTHROUGH02|Have I...grown just a bit taller?!
+Justice|BREAKTHROUGH01|Humph, sending me off to fight again, huh? Not that I mind.
+Justice|FEED02|That felt pretty good. You're surprisingly capable.
+Justice|FEED01|Hmm, thank you, Commander.
+Justice|FORMATION03|Time to show the newcomers what I've got.
+Justice|FORMATION02|I shall lead everyone in completing this mission with flying colors.
+Justice|FORMATION01|A wise and rational decision, Commander.
+Justice|HELLO|Commander, there you are. Please issue your orders for today.
+Justice|GAIN02|Sangvis Ferri, codena- Oh, it's you, Commander.
+Justice|GAIN01|Sangvis Ferri, codename "Judge". Treat me well and I'll prove myself useful.

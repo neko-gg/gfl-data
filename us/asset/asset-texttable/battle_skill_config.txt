@@ -1159,43 +1159,43 @@ battle_skill_config-210040210,Increase rate of fire by 60% for 5 seconds.
 battle_skill_config-310040210,Cooldown: 8s//cRate of Fire Increase: 60%//cDuration: 5s
 battle_skill_config-410040210,
 battle_skill_config-110040301,Assault Focus
-battle_skill_config-210040301,Increase rate of fire by 40% for 3 seconds.
+battle_skill_config-210040301,Increase rate of fire by 40% for 3 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040301,Cooldown: 10s//cRate of Fire Increase: 40%//cDuration: 3s
 battle_skill_config-410040301,
 battle_skill_config-110040302,Assault Focus
-battle_skill_config-210040302,Increase rate of fire by 43% for 3.2 seconds.
+battle_skill_config-210040302,Increase rate of fire by 43% for 3.2 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040302,Cooldown: 9.8s//cRate of Fire Increase: 43%//cDuration: 3.2s
 battle_skill_config-410040302,
 battle_skill_config-110040303,Assault Focus
-battle_skill_config-210040303,Increase rate of fire by 46% for 3.4 seconds.
+battle_skill_config-210040303,Increase rate of fire by 46% for 3.4 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040303,Cooldown: 9.6s//cRate of Fire Increase: 46%//cDuration: 3.4s
 battle_skill_config-410040303,
 battle_skill_config-110040304,Assault Focus
-battle_skill_config-210040304,Increase rate of fire by 48% for 3.7 seconds.
+battle_skill_config-210040304,Increase rate of fire by 48% for 3.7 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040304,Cooldown: 9.3s//cRate of Fire Increase: 48%//cDuration: 3.7s
 battle_skill_config-410040304,
 battle_skill_config-110040305,Assault Focus
-battle_skill_config-210040305,Increase rate of fire by 51% for 3.9 seconds.
+battle_skill_config-210040305,Increase rate of fire by 51% for 3.9 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040305,Cooldown: 9.1s//cRate of Fire Increase: 51%//cDuration: 3.9s
 battle_skill_config-410040305,
 battle_skill_config-110040306,Assault Focus
-battle_skill_config-210040306,Increase rate of fire by 54% for 4.1 seconds.
+battle_skill_config-210040306,Increase rate of fire by 54% for 4.1 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040306,Cooldown: 8.9s//cRate of Fire Increase: 54%//cDuration: 4.1s
 battle_skill_config-410040306,
 battle_skill_config-110040307,Assault Focus
-battle_skill_config-210040307,Increase rate of fire by 57% for 4.3 seconds.
+battle_skill_config-210040307,Increase rate of fire by 57% for 4.3 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040307,Cooldown: 8.7s//cRate of Fire Increase: 57%//cDuration: 4.3s
 battle_skill_config-410040307,
 battle_skill_config-110040308,Assault Focus
-battle_skill_config-210040308,Increase rate of fire by 59% for 4.6 seconds.
+battle_skill_config-210040308,Increase rate of fire by 59% for 4.6 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040308,Cooldown: 8.4s//cRate of Fire Increase: 59%//cDuration: 4.6s
 battle_skill_config-410040308,
 battle_skill_config-110040309,Assault Focus
-battle_skill_config-210040309,Increase rate of fire by 62% for 4.8 seconds.
+battle_skill_config-210040309,Increase rate of fire by 62% for 4.8 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040309,Cooldown: 8.2s//cRate of Fire Increase: 62%//cDuration: 4.8s
 battle_skill_config-410040309,
 battle_skill_config-110040310,Assault Focus
-battle_skill_config-210040310,Increase rate of fire by 65% for 5 seconds.
+battle_skill_config-210040310,Increase rate of fire by 65% for 5 seconds. (When equipped with "7N14"//c deal an extra instance of 10% damage against enemy armored units. This damage cannot miss, ignores armor, and has a chance of inflicting critical damage.)
 battle_skill_config-310040310,Cooldown: 8s//cRate of Fire Increase: 65%//cDuration: 5s
 battle_skill_config-410040310,
 battle_skill_config-110040401,Assault Focus
