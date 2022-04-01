@@ -2,12 +2,12 @@
     {
         "region": "jp",
         "dataVersion": "5d15c6efdbc1ecf0bf1348fda4d1bbe2",
-        "abVersion": "2022033120",
+        "abVersion": "2022040119",
         "clientVersion": "20800"
     },
     {
         "region": "kr",
-        "dataVersion": "5ec3fcb147537a14e55ef403ca810ce7",
+        "dataVersion": "9395c227007700dcbe82310d538277a8",
         "abVersion": "0",
         "clientVersion": "20899"
     },
@@ -19,8 +19,8 @@
     },
     {
         "region": "us",
-        "dataVersion": "5f311834eab269b868f8476293b49d5c",
-        "abVersion": "2022032815",
+        "dataVersion": "6ba7a44d6f9fe0fdd11efe22cfd0dc95",
+        "abVersion": "2022033119",
         "clientVersion": "20800"
     }
 ]
