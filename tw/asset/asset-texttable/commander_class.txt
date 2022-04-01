@@ -138,3 +138,11 @@ commander_class-10000043,藏在碧空的夢
 commander_class-20000043,帶著承載了兒時夢想的玩具，那個迷醉於仰望天空的孩子踏入了這片一望無際的蒼藍之境。
 commander_class-30000043,2022
 commander_class-40000043,靜風點活動排名獎勵
+commander_class-10000044,游騎獵兵
+commander_class-20000044,戰爭的兵棋緩慢落下，而一架鋼鐵巨獸隨著洶湧尾焰騰空決起，在那萬里蒼穹中，沒人敢否認壯志凌雲的決鬥者們不可當做騎士。
+commander_class-30000044,2022
+commander_class-40000044,拉弗伯雷兵棋扭蛋機獎勵
+commander_class-10000045,城際先鋒
+commander_class-20000045,真正的商業精英往往帶著十足的派頭，他們的氣質中必須包括50%的精幹，和另外50%的嚴謹。
+commander_class-30000045,2022
+commander_class-40000045,
