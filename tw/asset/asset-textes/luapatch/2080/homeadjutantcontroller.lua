@@ -11,7 +11,7 @@ function is_include(value, tb)
 end
 
 local UpdateHomeAdjutant_New = function(self,...)
-	self:UpdateHomeAdjutant(); 
+	self:UpdateHomeAdjutant(...); 
 
 	local gunList = {97,20097,115,149, 168}
 	local bgmList ={[97]="GF_Room_Rocktheme",[20097]="GF_Room_Rocktheme", [115]="BGM_21Christmas_DeathMetal", [149]="m_avg_tension", [168]="GF_room_violin_loop"}
