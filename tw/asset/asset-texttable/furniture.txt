@@ -1058,6 +1058,14 @@ furniture-10036909,LWMMG-騎士與守護者
 furniture-20036909,LWMMG的海報
 furniture-10030574,M4 SOPMODII-回魂修理師Jr
 furniture-20030574,M4 SOPMODII的海報。
+furniture-10037001,CZ75-CZ75不加班
+furniture-20037001,CZ75的海報。
+furniture-10037002,FX-05-飛向雲端
+furniture-20037002,FX-05的海報。
+furniture-10037003,Rex Zero 1-深夜暖茶
+furniture-20037003,Rex Zero 1的海報。
+furniture-10037004,C14-新入職員
+furniture-20037004,C14的海報。
 furniture-10003103,睡貨精靈
 furniture-20003103,軟綿綿的睡貨專用裝置，躺在上面感覺仿佛經驗值都上升了啊……才怪！別做夢了，快起來努力工作才有經驗拿！
 furniture-10003108,晚安琴架
