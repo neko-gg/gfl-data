@@ -43587,23 +43587,23 @@ battle_skill_config-290122405,
 battle_skill_config-390122405,
 battle_skill_config-490122405,
 battle_skill_config-190122501,Law and Order
-battle_skill_config-290122501,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 24x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 30-point shield//c lasting for[ NUM6] seconds.
+battle_skill_config-290122501,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 24x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 30-point shield//c lasting for 3 seconds.
 battle_skill_config-390122501,Normal attack damage multiplier: 0.5x//cBonus attack damage multiplier: 24x//cShield: 30 points//cDuration: 3 seconds
 battle_skill_config-490122501,
 battle_skill_config-190122502,Law and Order
-battle_skill_config-290122502,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 28x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 35-point shield//c lasting for[ NUM6] seconds.
+battle_skill_config-290122502,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 28x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 35-point shield//c lasting for 3.5 seconds.
 battle_skill_config-390122502,Normal attack damage multiplier: 0.5x//cBonus attack damage multiplier: 28x//cShield: 35 points//cDuration: 3.5 seconds
 battle_skill_config-490122502,
 battle_skill_config-190122503,Law and Order
-battle_skill_config-290122503,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 32x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 40-point shield//c lasting for[ NUM6] seconds.
+battle_skill_config-290122503,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 32x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 40-point shield//c lasting for 4 seconds.
 battle_skill_config-390122503,Normal attack damage multiplier: 0.5x//cBonus attack damage multiplier: 32x//cShield: 40 points//cDuration: 4 seconds
 battle_skill_config-490122503,
 battle_skill_config-190122504,Law and Order
-battle_skill_config-290122504,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 36x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 45-point shield//c lasting for[ NUM6] seconds.
+battle_skill_config-290122504,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 36x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 45-point shield//c lasting for 4.5 seconds.
 battle_skill_config-390122504,Normal attack damage multiplier: 0.5x//cBonus attack damage multiplier: 36x//cShield: 45 points//cDuration: 4.5 seconds
 battle_skill_config-490122504,
 battle_skill_config-190122505,Law and Order
-battle_skill_config-290122505,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 40x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 50-point shield//c lasting for[ NUM6] seconds.
+battle_skill_config-290122505,The normal attack of this unit hits two enemies//c dealing 0.5x damage to each target. After every 8 normal attacks//c deal damage that is 40x the current armor value to enemies within a 3-unit distance. This damage ignores armor//c scales with Dummy-Links//c but does not crit. Also gain a 50-point shield//c lasting for 5 seconds.
 battle_skill_config-390122505,Normal attack damage multiplier: 0.5x//cBonus attack damage multiplier: 40x//cShield: 50 points//cDuration: 5 seconds
 battle_skill_config-490122505,
 battle_skill_config-190122601,Dogma
