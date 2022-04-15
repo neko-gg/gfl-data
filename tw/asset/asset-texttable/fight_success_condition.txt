@@ -84,3 +84,7 @@ fight_success_condition-10000728,指定數量某槍種
 fight_success_condition-20000728,至少2個以上AR參與戰鬥
 fight_success_condition-10000729,限定槍種
 fight_success_condition-20000729,MG不參與戰鬥
+fight_success_condition-10000801,擊殺用時（單個）
+fight_success_condition-20000801,40秒內擊殺1個涅托 輔翼
+fight_success_condition-10000802,擊殺用時（單個）
+fight_success_condition-20000802,40秒內擊殺2個指揮士
