@@ -29,7 +29,7 @@ enemy_character_type-20010008,드라군
 enemy_character_type-10010008,고속
 enemy_character_type-30010008,
 enemy_character_type-20010009,재규어
-enemy_character_type-10010009,지정타격
+enemy_character_type-10010009,고위협//c지정타격
 enemy_character_type-30010009,
 enemy_character_type-20010011,이지스
 enemy_character_type-10010011,근접//c장갑
@@ -59,13 +59,13 @@ enemy_character_type-20010020,네메움
 enemy_character_type-10010020,장갑
 enemy_character_type-30010020,
 enemy_character_type-20010021,골리앗
-enemy_character_type-10010021,엘리트//c자폭//c치명
+enemy_character_type-10010021,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30010021,
 enemy_character_type-20010022,골리앗Plus
-enemy_character_type-10010022,엘리트//c자폭//c치명
+enemy_character_type-10010022,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30010022,
 enemy_character_type-20010023,골리앗
-enemy_character_type-10010023,엘리트//c자폭//c치명
+enemy_character_type-10010023,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30010023,
 enemy_character_type-20010024,키클롭스_AR
 enemy_character_type-10010024,엘리트//c범위피해
@@ -74,10 +74,10 @@ enemy_character_type-20010025,키클롭스_SG
 enemy_character_type-10010025,엘리트//c장갑//c산탄
 enemy_character_type-30010025,
 enemy_character_type-20010026,케리니티스
-enemy_character_type-10010026,장갑
+enemy_character_type-10010026,고위협//c장갑
 enemy_character_type-30010026,
 enemy_character_type-20010027,히드라
-enemy_character_type-10010027,장갑//c위험
+enemy_character_type-10010027,고위협//c장갑//c위험
 enemy_character_type-30010027,
 enemy_character_type-20010028,이지스_GA
 enemy_character_type-10010028,근접//c장갑//c보호막
@@ -86,13 +86,13 @@ enemy_character_type-20010029,나이트메어
 enemy_character_type-10010029,근접
 enemy_character_type-30010029,
 enemy_character_type-20010030,티폰
-enemy_character_type-10010030,엘리트//c장갑//c관통
+enemy_character_type-10010030,엘리트//c고위협//c장갑//c관통
 enemy_character_type-30010030,
 enemy_character_type-20010031,티폰
-enemy_character_type-10010031,엘리트//c장갑//c관통
+enemy_character_type-10010031,엘리트//c고위협//c장갑//c관통
 enemy_character_type-30010031,
 enemy_character_type-20010032,티폰
-enemy_character_type-10010032,엘리트//c장갑//c관통
+enemy_character_type-10010032,엘리트//c고위협//c장갑//c관통
 enemy_character_type-30010032,
 enemy_character_type-20010033,다크틸
 enemy_character_type-10010033,엘리트//c장갑//c매설
@@ -104,7 +104,7 @@ enemy_character_type-20010035,로델레로
 enemy_character_type-10010035,장갑//c왜곡방벽//c관통공격
 enemy_character_type-30010035,
 enemy_character_type-20010036,도펠죌트너
-enemy_character_type-10010036,장갑//c왜곡방벽//c범위피해
+enemy_character_type-10010036,고위협//c장갑//c왜곡방벽//c범위 피해
 enemy_character_type-30010036,
 enemy_character_type-20010037,ELID감염자_무장
 enemy_character_type-10010037,평범
@@ -119,7 +119,7 @@ enemy_character_type-20010040,로델레로
 enemy_character_type-10010040,장갑//c왜곡방벽//c관통공격
 enemy_character_type-30010040,
 enemy_character_type-20010041,도펠죌트너
-enemy_character_type-10010041,장갑//c왜곡방벽//c범위피해
+enemy_character_type-10010041,고위협//c장갑//c왜곡방벽//c범위 피해
 enemy_character_type-30010041,
 enemy_character_type-20010042,울란
 enemy_character_type-10010042,엘리트//c장갑//c왜곡방벽
@@ -128,19 +128,19 @@ enemy_character_type-20010043,스트렐치
 enemy_character_type-10010043,왜곡방벽
 enemy_character_type-30010043,
 enemy_character_type-20010044,취한 드라군
-enemy_character_type-10010044,고속
+enemy_character_type-10010044,고위협//c고속
 enemy_character_type-30010044,
 enemy_character_type-20010045,취한 도펠죌트너
-enemy_character_type-10010045,장갑//c왜곡방벽//c범위피해
+enemy_character_type-10010045,고위협//c장갑//c왜곡방벽//c범위 피해
 enemy_character_type-30010045,
 enemy_character_type-20010046,맨티코어
-enemy_character_type-10010046,장갑//c위험
+enemy_character_type-10010046,고위협//c장갑//c위험
 enemy_character_type-30010046,
 enemy_character_type-20010047,히드라
-enemy_character_type-10010047,장갑//c위험
+enemy_character_type-10010047,고위협//c장갑//c위험
 enemy_character_type-30010047,
 enemy_character_type-20010048,도펠죌트너
-enemy_character_type-10010048,장갑//c왜곡방벽//c범위피해
+enemy_character_type-10010048,고위협//c장갑//c왜곡방벽//c범위 피해
 enemy_character_type-30010048,
 enemy_character_type-20010049,울란
 enemy_character_type-10010049,엘리트//c장갑//c왜곡방벽
@@ -152,7 +152,7 @@ enemy_character_type-20010051,오르트로스
 enemy_character_type-10010051,보호막
 enemy_character_type-30010051,
 enemy_character_type-20010052,켄타우로스
-enemy_character_type-10010052,지정타격
+enemy_character_type-10010052,고위협//c지정타격
 enemy_character_type-30010052,
 enemy_character_type-20010053,정찰 센터
 enemy_character_type-10010053,장갑//c생산
@@ -167,7 +167,7 @@ enemy_character_type-20010056,버려진 패트롤러
 enemy_character_type-10010056,엘리트//c장갑//c보호막//c철갑
 enemy_character_type-30010056,
 enemy_character_type-20010057,버려진 헤비거너
-enemy_character_type-10010057,왜곡방벽//c약화
+enemy_character_type-10010057,고위협//c왜곡방벽//c약화
 enemy_character_type-30010057,
 enemy_character_type-20010058,버려진 이성질체
 enemy_character_type-10010058,근접
@@ -209,7 +209,7 @@ enemy_character_type-20010072,아케론
 enemy_character_type-10010072,엘리트//c장갑//c보호막
 enemy_character_type-30010072,
 enemy_character_type-20010073,코이오스
-enemy_character_type-10010073,엘리트//c장갑//c제압//c약화
+enemy_character_type-10010073,엘리트//c고위협//c장갑//c제압//c약화
 enemy_character_type-30010073,
 enemy_character_type-20010074,폭도
 enemy_character_type-10010074,스킬·폭도
@@ -221,10 +221,10 @@ enemy_character_type-20010076,퍼니시
 enemy_character_type-10010076,수비전진
 enemy_character_type-30010076,
 enemy_character_type-20010077,비슈누
-enemy_character_type-10010077,교란B//c교란Y
+enemy_character_type-10010077,고위협//c교란B//c교란Y
 enemy_character_type-30010077,
 enemy_character_type-20010078,케루브
-enemy_character_type-10010078,심화//c일점특화
+enemy_character_type-10010078,고위협//c심화//c일점특화
 enemy_character_type-30010078,
 enemy_character_type-20010079,글래디에이터
 enemy_character_type-10010079,장갑//c왜곡방벽//c약화
@@ -233,7 +233,7 @@ enemy_character_type-20010080,패트롤러
 enemy_character_type-10010080,엘리트//c장갑//c보호막//c철갑
 enemy_character_type-30010080,
 enemy_character_type-20010081,헤비거너
-enemy_character_type-10010081,왜곡방벽//c약화
+enemy_character_type-10010081,고위협//c왜곡방벽//c약화
 enemy_character_type-30010081,
 enemy_character_type-20010082,프로 경호원
 enemy_character_type-10010082,전문인원
@@ -242,7 +242,7 @@ enemy_character_type-20010083,베테랑 경호원
 enemy_character_type-10010083,엘리트//c전문인원
 enemy_character_type-30010083,
 enemy_character_type-20010084,아스클레피오스의 지팡이
-enemy_character_type-10010084,엘리트//c실명//c관통공격
+enemy_character_type-10010084,엘리트//c고위협//c실명//c관통
 enemy_character_type-30010084,
 enemy_character_type-20010085,아케소의 접시
 enemy_character_type-10010085,엘리트//c관통
@@ -257,25 +257,25 @@ enemy_character_type-20010088,한니발
 enemy_character_type-10010088,거대//c보호막//c지속피해
 enemy_character_type-30010088,
 enemy_character_type-20010089,그레네이더
-enemy_character_type-10010089,투척//c대기계
+enemy_character_type-10010089,고위협//c투척//c대기계
 enemy_character_type-30010089,
 enemy_character_type-20010090,커맨더
-enemy_character_type-10010090,엘리트//c핵심//c지휘
+enemy_character_type-10010090,엘리트//c고위협//c핵심//c지휘
 enemy_character_type-30010090,
 enemy_character_type-20010091,니토 순찰자
-enemy_character_type-10010091,엘리트
+enemy_character_type-10010091,엘리트//c연사
 enemy_character_type-30010091,
 enemy_character_type-20010092,니토 해머
-enemy_character_type-10010092,엘리트
+enemy_character_type-10010092,엘리트//c근접//c장갑
 enemy_character_type-30010092,
 enemy_character_type-20010093,니토 호크아이
-enemy_character_type-10010093,엘리트
+enemy_character_type-10010093,엘리트//c고위협//c정확//c관통
 enemy_character_type-30010093,
 enemy_character_type-20010094,니토 날개
-enemy_character_type-10010094,엘리트
+enemy_character_type-10010094,엘리트//c고위협//c지휘
 enemy_character_type-30010094,
 enemy_character_type-20010095,가름
-enemy_character_type-10010095,고속
+enemy_character_type-10010095,고속//c약화
 enemy_character_type-30010095,
 enemy_character_type-20010096,북방 엘리트 요원
 enemy_character_type-10010096,엘리트
@@ -296,13 +296,13 @@ enemy_character_type-20011005,베스피드
 enemy_character_type-10011005,평범
 enemy_character_type-30011005,
 enemy_character_type-20011006,예거SWAP
-enemy_character_type-10011006,정확
+enemy_character_type-10011006,고위협//c정확
 enemy_character_type-30011006,
 enemy_character_type-20011007,가드SWAP
 enemy_character_type-10011007,근접//c보호막
 enemy_character_type-30011007,
 enemy_character_type-20011008,드라군SWAP
-enemy_character_type-10011008,고속
+enemy_character_type-10011008,고위협//c고속
 enemy_character_type-30011008,
 enemy_character_type-20011011,이지스SWAP
 enemy_character_type-10011011,근접//c장갑//c보호막
@@ -332,7 +332,7 @@ enemy_character_type-20011025,키클롭스_SG
 enemy_character_type-10011025,엘리트//c장갑//c산탄
 enemy_character_type-30011025,
 enemy_character_type-20011026,케리니티스
-enemy_character_type-10011026,장갑
+enemy_character_type-10011026,고위협//c장갑
 enemy_character_type-30011026,
 enemy_character_type-20011028,이지스_GA
 enemy_character_type-10011028,근접//c장갑//c보호막
@@ -347,10 +347,10 @@ enemy_character_type-20011105,베스피드
 enemy_character_type-10011105,엘리트//c평범
 enemy_character_type-30011105,
 enemy_character_type-20011030,브루트
-enemy_character_type-10011030,근접//c철갑
+enemy_character_type-10011030,고위협//c근접//c철갑
 enemy_character_type-30011030,
 enemy_character_type-20011031,네메움
-enemy_character_type-10011031,장갑//c정확
+enemy_character_type-10011031,고위협//c장갑//c정확
 enemy_character_type-30011031,
 enemy_character_type-20011032,떠돌이 난민
 enemy_character_type-10011032,평범
@@ -362,55 +362,55 @@ enemy_character_type-20011034,드라군 SWAP
 enemy_character_type-10011034,고속
 enemy_character_type-30011034,
 enemy_character_type-20015001,이지스
-enemy_character_type-10015001,장갑//c방패
+enemy_character_type-10015001,근접//c장갑//c보호막
 enemy_character_type-30015001,
 enemy_character_type-20015002,네메움
-enemy_character_type-10015002,장갑//c방패
+enemy_character_type-10015002,장갑
 enemy_character_type-30015002,
 enemy_character_type-20015003,디너게이트
-enemy_character_type-10015003,고속//c강격
+enemy_character_type-10015003,근접
 enemy_character_type-30015003,
 enemy_character_type-20015004,타란튤라
-enemy_character_type-10015004,고속//c강격//c장갑
+enemy_character_type-10015004,근접//c장갑
 enemy_character_type-30015004,
 enemy_character_type-20015005,타란튤라
-enemy_character_type-10015005,고속//c강격//c장갑
+enemy_character_type-10015005,근접//c장갑
 enemy_character_type-30015005,
 enemy_character_type-20015006,저지
-enemy_character_type-10015006,저지
+enemy_character_type-10015006,엘리트//c저지//c장갑
 enemy_character_type-30015006,
 enemy_character_type-20015007,골리앗Plus
-enemy_character_type-10015007,위험!//c접촉 금지!!
+enemy_character_type-10015007,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30015007,
 enemy_character_type-20015008,드라군
-enemy_character_type-10015008,강격//c고속//c기동
+enemy_character_type-10015008,고위협//c고속
 enemy_character_type-30015008,
 enemy_character_type-20015009,리퍼
-enemy_character_type-10015009,평범
+enemy_character_type-10015009,근접
 enemy_character_type-30015009,
 enemy_character_type-20015010,예거
-enemy_character_type-10015010,강격//c정확
+enemy_character_type-10015010,정확
 enemy_character_type-30015010,
 enemy_character_type-20015011,맨티코어
-enemy_character_type-10015011,장갑//c위험
+enemy_character_type-10015011,고위협//c장갑//c위험
 enemy_character_type-30015011,
 enemy_character_type-20015012,오르트로스
 enemy_character_type-10015012,피해제한//c약점격파
 enemy_character_type-30015012,
 enemy_character_type-20015013,켄타우로스
-enemy_character_type-10015013,폭발화살//c지속피해
+enemy_character_type-10015013,고위협//c폭발화살//c지속피해
 enemy_character_type-30015013,
 enemy_character_type-20015014,도펠죌트너
-enemy_character_type-10015014,유탄 연사//c중장갑//c역장
+enemy_character_type-10015014,고위협//c유탄 연사//c중장갑//c왜곡방벽
 enemy_character_type-30015014,
 enemy_character_type-20015015,도펠죌트너
-enemy_character_type-10015015,유탄 연사//c중장갑//c역장
+enemy_character_type-10015015,고위협//c유탄 연사//c중장갑//c왜곡방벽
 enemy_character_type-30015015,
 enemy_character_type-20015016,스트렐치
 enemy_character_type-10015016,평범
 enemy_character_type-30015016,
 enemy_character_type-20015017,로델레로
-enemy_character_type-10015017,도약//c레이저//c역장
+enemy_character_type-10015017,도약//c레이저//c왜곡방벽
 enemy_character_type-30015017,
 enemy_character_type-20015018,버려진 패트롤러
 enemy_character_type-10015018,보호막//c회피//c형태전환
@@ -434,10 +434,10 @@ enemy_character_type-20016004,예거
 enemy_character_type-10016004,강격//c정확
 enemy_character_type-30016004,
 enemy_character_type-20016005,드라군
-enemy_character_type-10016005,강격//c고속//c기동
+enemy_character_type-10016005,고위협//c강격//c고속//c기동
 enemy_character_type-30016005,
 enemy_character_type-20016006,히드라
-enemy_character_type-10016006,완전무장//c정밀사격//c완벽
+enemy_character_type-10016006,고위협//c중장갑//c위험
 enemy_character_type-30016006,
 enemy_character_type-20016007,스카웃
 enemy_character_type-10016007,기동
@@ -470,7 +470,7 @@ enemy_character_type-20020008,드라군
 enemy_character_type-10020008,고속
 enemy_character_type-30020008,
 enemy_character_type-20020009,재규어
-enemy_character_type-10020009,지정타격
+enemy_character_type-10020009,고위협//c지정타격
 enemy_character_type-30020009,
 enemy_character_type-20012050,미노타우로스
 enemy_character_type-10012050,근접//c장갑//c피해차감
@@ -479,7 +479,7 @@ enemy_character_type-20012051,오르트로스
 enemy_character_type-10012051,보호막
 enemy_character_type-30012051,
 enemy_character_type-20012052,켄타우로스
-enemy_character_type-10012052,지정타격
+enemy_character_type-10012052,고위협//c지정타격
 enemy_character_type-30012052,
 enemy_character_type-20012053,정찰 센터
 enemy_character_type-10012053,장갑//c생산
@@ -494,7 +494,7 @@ enemy_character_type-20012056,버려진 패트롤러
 enemy_character_type-10012056,엘리트//c장갑//c보호막//c철갑
 enemy_character_type-30012056,
 enemy_character_type-20012057,버려진 헤비거너
-enemy_character_type-10012057,왜곡방벽//c약화
+enemy_character_type-10012057,고위협//c왜곡방벽//c약화
 enemy_character_type-30012057,
 enemy_character_type-20012058,버려진 이성질체
 enemy_character_type-10012058,근접
@@ -509,19 +509,19 @@ enemy_character_type-20012068,패트롤러
 enemy_character_type-10012068,엘리트//c장갑//c보호막//c철갑
 enemy_character_type-30012068,
 enemy_character_type-20012069,헤비거너
-enemy_character_type-10012069,왜곡방벽//c약화
+enemy_character_type-10012069,고위협//c왜곡방벽//c약화
 enemy_character_type-30012069,
 enemy_character_type-20012070,퍼니시
 enemy_character_type-10012070,수비전진
 enemy_character_type-30012070,
 enemy_character_type-20012071,비슈누
-enemy_character_type-10012071,교란B//c교란Y
+enemy_character_type-10012071,고위협//c교란B//c교란Y
 enemy_character_type-30012071,
 enemy_character_type-20012072,케루브
-enemy_character_type-10012072,심화//c일점특화
+enemy_character_type-10012072,고위협//c심화//c일점특화
 enemy_character_type-30012072,
 enemy_character_type-20012073,아스클레피오스의 지팡이
-enemy_character_type-10012073,엘리트//c실명//c관통공격
+enemy_character_type-10012073,엘리트//c고위협//c실명//c관통공격
 enemy_character_type-30012073,
 enemy_character_type-20012074,아케소의 접시
 enemy_character_type-10012074,엘리트//c관통
@@ -536,10 +536,10 @@ enemy_character_type-20012077,한니발
 enemy_character_type-10012077,거대//c보호막//c지속피해
 enemy_character_type-30012077,
 enemy_character_type-20012078,그레네이더
-enemy_character_type-10012078,투척//c대기계
+enemy_character_type-10012078,고위협//c투척//c대기계
 enemy_character_type-30012078,
 enemy_character_type-20012079,커맨더
-enemy_character_type-10012079,엘리트//c핵심//c지휘
+enemy_character_type-10012079,엘리트//c고위협//c핵심//c지휘
 enemy_character_type-30012079,
 enemy_character_type-20013001,유령신부
 enemy_character_type-10013001,평범
@@ -707,34 +707,34 @@ enemy_character_type-20013219,해상 바텐더
 enemy_character_type-10013219,엘리트//c범위피해
 enemy_character_type-30013219,
 enemy_character_type-20013220,CAWS
-enemy_character_type-10013220,그리폰
+enemy_character_type-10013220,그리폰//c방패진
 enemy_character_type-30013220,
 enemy_character_type-20013221,VSK-94
-enemy_character_type-10013221,그리폰
+enemy_character_type-10013221,그리폰//c징용
 enemy_character_type-30013221,
 enemy_character_type-20013222,P7
-enemy_character_type-10013222,그리폰
+enemy_character_type-10013222,그리폰//c엄호개시
 enemy_character_type-30013222,
 enemy_character_type-20013223,FP-6
-enemy_character_type-10013223,그리폰
+enemy_character_type-10013223,그리폰//c철벽
 enemy_character_type-30013223,
-enemy_character_type-20013224,100식
+enemy_character_type-20013224,100식//c거울 속 벚꽃
 enemy_character_type-10013224,그리폰
 enemy_character_type-30013224,
 enemy_character_type-20013225,디저트게이트
 enemy_character_type-10013225,근접
 enemy_character_type-30013225,
 enemy_character_type-20013226,블랙 칼로리 폭탄
-enemy_character_type-10013226,엘리트//c자폭//c치명적
+enemy_character_type-10013226,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30013226,
 enemy_character_type-20013227,화이트 칼로리 폭탄
-enemy_character_type-10013227,엘리트//c자폭//c치명적
+enemy_character_type-10013227,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30013227,
 enemy_character_type-20013228,트러플 칼로리 폭탄
-enemy_character_type-10013228,엘리트//c자폭//c치명적
+enemy_character_type-10013228,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30013228,
 enemy_character_type-20013229,블랙 칼로리 폭탄
-enemy_character_type-10013229,엘리트//c자폭//c치명적
+enemy_character_type-10013229,엘리트//c고위협//c자폭//c치명적
 enemy_character_type-30013229,
 enemy_character_type-20013230,화이트 칼로리 폭탄
 enemy_character_type-10013230,엘리트//c자폭//c치명적
@@ -790,6 +790,9 @@ enemy_character_type-30800006,
 enemy_character_type-20800007,케르베로스
 enemy_character_type-10800007,엘리트//c케르베로스//c장갑
 enemy_character_type-30800007,
+enemy_character_type-20800008,RPK-16
+enemy_character_type-10800008,？？？
+enemy_character_type-30800008,
 enemy_character_type-20900010,엑스큐셔너
 enemy_character_type-10900010,엘리트//c엑스큐셔너//c장갑
 enemy_character_type-30900010,
@@ -833,16 +836,16 @@ enemy_character_type-20900024,우로보로스
 enemy_character_type-10900024,엘리트//c우로보로스//c장갑
 enemy_character_type-30900024,
 enemy_character_type-20900025,맨티코어
-enemy_character_type-10900025,장갑//c위험
+enemy_character_type-10900025,고위협//c장갑//c위험
 enemy_character_type-30900025,
 enemy_character_type-20900026,맨티코어
-enemy_character_type-10900026,장갑//c위험
+enemy_character_type-10900026,고위협//c장갑//c위험
 enemy_character_type-30900026,
 enemy_character_type-20900027,맨티코어
-enemy_character_type-10900027,장갑//c위험
+enemy_character_type-10900027,고위협//c장갑//c위험
 enemy_character_type-30900027,
 enemy_character_type-20900028,맨티코어
-enemy_character_type-10900028,장갑//c위험
+enemy_character_type-10900028,고위협//c장갑//c위험
 enemy_character_type-30900028,
 enemy_character_type-20900029,드론형 과녁기
 enemy_character_type-10900029,엘리트//c훈련 전용
@@ -854,7 +857,7 @@ enemy_character_type-20900031,드론형 과녁기
 enemy_character_type-10900031,엘리트//c훈련 전용
 enemy_character_type-30900031,
 enemy_character_type-20900032,맨티코어
-enemy_character_type-10900032,장갑//c위험
+enemy_character_type-10900032,고위협//c장갑//c위험
 enemy_character_type-30900032,
 enemy_character_type-20900033,알케미스트
 enemy_character_type-10900033,엘리트//c알케미스트
@@ -866,7 +869,7 @@ enemy_character_type-20900035,드라군
 enemy_character_type-10900035,고속
 enemy_character_type-30900035,
 enemy_character_type-20900036,맨티코어
-enemy_character_type-10900036,장갑//c위험
+enemy_character_type-10900036,고위협//c장갑//c위험
 enemy_character_type-30900036,
 enemy_character_type-20900037,게이저
 enemy_character_type-10900037,엘리트//c게이저
@@ -911,7 +914,7 @@ enemy_character_type-20900050,드리머
 enemy_character_type-10900050,엘리트//c드리머
 enemy_character_type-30900050,
 enemy_character_type-20900051,주피터
-enemy_character_type-10900051,장갑//c자동방어시설
+enemy_character_type-10900051,고위협//c장갑//c자동방어시설
 enemy_character_type-30900051,
 enemy_character_type-20900052,게이저
 enemy_character_type-10900052,엘리트//c게이저
@@ -1703,10 +1706,10 @@ enemy_character_type-20900315,인트루더-종막의 마녀
 enemy_character_type-10900315,엘리트//c인트루더
 enemy_character_type-30900315,
 enemy_character_type-20900316,Px4 스톰
-enemy_character_type-10900316,엘리트//c그리폰
+enemy_character_type-10900316,그리폰 엘리트//c피자 마크//c눈사람 출동
 enemy_character_type-30900316,
 enemy_character_type-20900317,Px4 스톰
-enemy_character_type-10900317,엘리트//c그리폰
+enemy_character_type-10900317,그리폰 엘리트//c피자 마크//c눈사람 출동
 enemy_character_type-30900317,
 enemy_character_type-20900318,디스트로이어 - 폭주사슴
 enemy_character_type-10900318,엘리트//c디스트로이어
@@ -1724,46 +1727,46 @@ enemy_character_type-20900322,그레이
 enemy_character_type-10900322,엘리트//c약화//c해킹//c지원
 enemy_character_type-30900322,
 enemy_character_type-20900323,네메아란
-enemy_character_type-10900323,엘리트//c"니토"//c암살자
+enemy_character_type-10900323,엘리트
 enemy_character_type-30900323,
 enemy_character_type-20900324,네메아란
-enemy_character_type-10900324,엘리트//c"니토"//c암살자
+enemy_character_type-10900324,엘리트
 enemy_character_type-30900324,
 enemy_character_type-20900325,네메아란
-enemy_character_type-10900325,엘리트//c"니토"//c암살자
+enemy_character_type-10900325,엘리트
 enemy_character_type-30900325,
 enemy_character_type-20900326,네메아란
-enemy_character_type-10900326,엘리트//c"니토"//c암살자
+enemy_character_type-10900326,엘리트
 enemy_character_type-30900326,
 enemy_character_type-20900327,몰리도
-enemy_character_type-10900327,엘리트//c？？？？
+enemy_character_type-10900327,엘리트//c약화//c필살//c소환사
 enemy_character_type-30900327,
 enemy_character_type-20900328,몰리도
-enemy_character_type-10900328,엘리트//c？？？？
+enemy_character_type-10900328,엘리트//c약화//c필살//c소환사
 enemy_character_type-30900328,
 enemy_character_type-20900329,몰리도
-enemy_character_type-10900329,엘리트//c약화//c필살
+enemy_character_type-10900329,엘리트//c약화//c필살//c소환사
 enemy_character_type-30900329,
 enemy_character_type-20900330,몰리도
-enemy_character_type-10900330,엘리트//c？？？？
+enemy_character_type-10900330,엘리트//c약화//c필살//c소환사
 enemy_character_type-30900330,
 enemy_character_type-20900331,네메아란
-enemy_character_type-10900331,엘리트//c"니토"//c암살자
+enemy_character_type-10900331,엘리트
 enemy_character_type-30900331,
 enemy_character_type-20900332,RPK-16
-enemy_character_type-10900332,
+enemy_character_type-10900332,???
 enemy_character_type-30900332,
 enemy_character_type-20900333,몰리도
-enemy_character_type-10900333,엘리트//c약화//c필살
+enemy_character_type-10900333,엘리트//c약화//c필살//c소환사
 enemy_character_type-30900333,
 enemy_character_type-20900334,네메아란
-enemy_character_type-10900334,엘리트//c"니토"//c암살자
+enemy_character_type-10900334,엘리트
 enemy_character_type-30900334,
 enemy_character_type-20900335,RPK-16
-enemy_character_type-10900335,
+enemy_character_type-10900335,???
 enemy_character_type-30900335,
 enemy_character_type-20900336,네메아란
-enemy_character_type-10900336,엘리트//c"니토"//c암살자
+enemy_character_type-10900336,엘리트
 enemy_character_type-30900336,
 enemy_character_type-20900337,그레이
 enemy_character_type-10900337,엘리트//c약화//c해킹//c지원
@@ -1985,26 +1988,26 @@ enemy_character_type-20013216,베트
 enemy_character_type-10013216,고속//c격려
 enemy_character_type-30013216,
 enemy_character_type-20910134,스트렐치
-enemy_character_type-10910134,평범
+enemy_character_type-10910134,왜곡방벽
 enemy_character_type-30910134,
 enemy_character_type-20910135,울란
-enemy_character_type-10910135,미사일//c돌진//c역장
+enemy_character_type-10910135,엘리트//c장갑//c왜곡방벽
 enemy_character_type-30910135,
 enemy_character_type-20910136,로델레로
-enemy_character_type-10910136,도약//c레이저//c역장
+enemy_character_type-10910136,장갑//c왜곡방벽//c관통
 enemy_character_type-30910136,
 enemy_character_type-20910137,스트렐치
-enemy_character_type-10910137,평범
+enemy_character_type-10910137,왜곡방벽
 enemy_character_type-30910137,
 enemy_character_type-20910138,그냥 흑니토（AR/RF）
-enemy_character_type-10910138,그리폰
+enemy_character_type-10910138,그리폰//c엄호개시
 enemy_character_type-30910138,
 enemy_character_type-20910139,니토 날개
-enemy_character_type-10910139,엘리트
+enemy_character_type-10910139,엘리트//c고위협//c지휘
 enemy_character_type-30910139,
 enemy_character_type-20910140,그레네이더
-enemy_character_type-10910140,투척//c대기계
+enemy_character_type-10910140,고위협//c투척//c대기계
 enemy_character_type-30910140,
 enemy_character_type-20910141,스트렐치
-enemy_character_type-10910141,평범
+enemy_character_type-10910141,왜곡방벽
 enemy_character_type-30910141,
