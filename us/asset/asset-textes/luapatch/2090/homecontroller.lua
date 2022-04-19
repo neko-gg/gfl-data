@@ -29,8 +29,19 @@ local _OnClickEvent_btn = function(self)
 		end
 	end
 end
+
+local InitUIElements= function(self)
+	self:InitUIElements();
+	local obj1 = CS.ResManager.GetObjectByPath("AtlasClips2090/活动_战区小按钮");
+	if obj1 ~= nil then
+		print("载入图片");
+		self.btnTheater:GetComponent(typeof(CS.UnityEngine.UI.Image)).sprite = obj1:GetComponent(typeof(CS.UnityEngine.UI.Image)).sprite;
+	end
+end
 util.hotfix_ex(CS.HomeController,'CheckNewShop',_CheckNewShop)
 util.hotfix_ex(CS.HomeController,'OnClickEvent_btn',_OnClickEvent_btn)
+util.hotfix_ex(CS.HomeController,'InitUIElements',InitUIElements)
+
 
 
 
