@@ -19,3 +19,4 @@
 -31|EP.|11.5|異構體|異構體|active_isomer|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2019.02.01-03.01|isomerlogo
 -33|EP.|11.75|裂變鏈接|裂變鏈接|active_Reversible|#000000C7,#3D415166,#2B9487,#FFFFFFFF|活動時間:2019.08.16-09.13|Reversiblelogo
 -36|EP.|12.5|偏振光|偏振光|active_Polarizedlight|#000000C7,#3D415166,#D92B1A,#FFFFFFFF|活動時間:2020.01.21-03.20|Polarizedlightlogo
+-41|EP.|13.25|雙聯亂數|雙聯亂數|active_DualRandomness|#000000C7,#3D415166,#E64801,#FFFFFFFF|活動時間:2020.08.28-10.02|DualRandomnesslogo

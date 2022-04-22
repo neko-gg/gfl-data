@@ -503,6 +503,7 @@ patch2090={
 "2090/ItemPackage",		
 "2090/BattleMemberController",	
 "2090/TheaterEchelonSelection",
+"2090/FormationEquipSlotButtonController",
 }
 
 -- va11
