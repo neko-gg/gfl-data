@@ -1690,7 +1690,7 @@ item-30001698,
 item-10001699,ID: Royal Flush
 item-20001699,If you have a good hand//c pretend you don't; if you don't have a good hand//c pretend you do.
 item-30001699,
-item-10001700,Icon: King of Kings
+item-10001700,Icon: King of Tricks
 item-20001700,"You're incredible! Practically invincible!"//n "No wait//c nothing is invincible. I've remained victorious this whole time because I firmly believe that."
 item-30001700,
 item-10001701,ID: Polaris Light 
@@ -2065,6 +2065,13 @@ item-30001859,
 item-10001860,ID: NA Server 3rd Anniversary Commemorative ID
 item-20001860,ID: NA Server 3rd Anniversary Commemorative ID
 item-30001860,
+item-10001870,Blazing Sun on the Ruins
+item-20001870,Blazing Sun on the Ruins
+item-30001870,
+item-10001871,Molten Moon in the Water
+item-20001871,Molten Moon in the Water
+item-30001871,
+item-10001872,Solemn March
 item-20001872,Solemn March
 item-30001872,
 item-10001876,Improvised Rhapsody
@@ -2414,6 +2421,9 @@ item-30002072,
 item-10002073,New Staff
 item-20002073,New Staff
 item-30002073,
+item-10002074,4th Anniversary
+item-20002074,4th Anniversary
+item-30002074,
 item-10004001,City's Gift
 item-20004001,A type of building block toy produced from a long time ago. It is difficult to imitate due to its high production precision//c so it is used as a currency in many war-torn areas and can be exchanged for many useful things.
 item-10004002,Snowfield's Gift
@@ -2536,6 +2546,9 @@ item-30007028,
 item-10007029,Final Puzzle
 item-20007029,Team assembled! Watch out//c boss//c this is our final form!
 item-30007029,
+item-10007201,Cards of Unpredictability
+item-20007201,Given how unpredictable fate is//c no one can tell if the next card will help you turn the tables.//n "If I can't draw a good card//c I'll just print one myself."
+item-30007201,
 item-10008001,Intel Points
 item-20008001,Intel Points
 item-10008002,Intel Points
@@ -2640,6 +2653,8 @@ item-10100036,True Core Mask: 2nd Anniversary
 item-20100036,True Core Mask: 2nd Anniversary
 item-10100037,Supply Box
 item-20100037,2nd Anniversary Special Supply Box
+item-10100040,True Core Mask - 4th Anniversary
+item-20100040,True Core Mask - 4th Anniversary
 item-10100046,1st Anniversary Costume Voucher
 item-20100046,1st Anniversary Costume Voucher
 item-10100047,Nova Medal
@@ -2750,6 +2765,15 @@ item-30100109,
 item-10100110,Platinum Medal - Freaky Pandemic
 item-20100110,Platinum Medal - Freaky Pandemic
 item-30100110,
+item-10100114,White Knight Armor Fragments
+item-20100114,White Knight Armor Fragments
+item-30100114,
+item-10100115,Nova Medal - VA-11 HALL-A
+item-20100115,Nova Medal - VA-11 HALL-A
+item-30100115,
+item-10100116,Platinum Medal - VA-11 HALL-A
+item-20100116,Platinum Medal - VA-11 HALL-A
+item-30100116,
 item-10100117,Star Ornament
 item-20100117,Star Ornament
 item-30100117,

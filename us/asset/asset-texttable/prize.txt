@@ -5425,3 +5425,63 @@ prize-20074117,
 prize-10074118,Theater Ranking Top 41-50% Reward
 prize-20074118,
 prize-10074119,Theater Ranking Top 51-100% Reward
+prize-10006277,Didgeridoo Tutorial - Mission Reward
+prize-20006277,
+prize-10006278,Adolescence - Mission Reward
+prize-20006278,
+prize-10006279,Pioneer - Mission Reward
+prize-20006279,
+prize-10006280,Sonic Boom - Mission Reward
+prize-20006280,
+prize-10006281,Chicken Breast - Mission Reward
+prize-20006281,
+prize-10006282,Fear of Public Speaking - Mission Reward
+prize-20006282,
+prize-10006283,Truth or Dare - Mission Reward
+prize-20006283,
+prize-10006284,The Last Rain In The World - Mission Reward
+prize-20006284,
+prize-10006285,Didgeridoo Tutorial EX - Mission Reward
+prize-20006285,
+prize-10006286,Adolescence EX - Mission Reward
+prize-20006286,
+prize-10006287,Pioneer EX - Mission Reward
+prize-20006287,
+prize-10006288,Sonic Boom EX - Mission Reward
+prize-20006288,
+prize-10006289,Chicken Breast EX - Mission Reward
+prize-20006289,
+prize-10006290,Fear of Public Speaking EX - Mission Reward
+prize-20006290,
+prize-10006291,Truth or Dare EX - Mission Reward
+prize-20006291,
+prize-10006292,The Last Rain In The World EX - Mission Reward
+prize-20006292,
+prize-10006293,Habanera - Mission Reward
+prize-20006293,
+prize-10016980,Didgeridoo Tutorial Lite - Mission Reward
+prize-20016980,
+prize-10016981,Adolescence Lite - Mission Reward
+prize-20016981,
+prize-10016982,Pioneer Lite - Mission Reward
+prize-20016982,
+prize-10016983,Sonic Boom Lite - Mission Reward
+prize-20016983,
+prize-10016984,Chicken Breast Lite - Mission Reward
+prize-20016984,
+prize-10016985,Fear of Public Speaking Lite - Mission Reward
+prize-20016985,
+prize-10016986,Truth or Dare Lite - Mission Reward
+prize-20016986,
+prize-10016987,The Last Rain In The World Lite - Mission Reward
+prize-20016987,
+prize-10023006,【Furniture】Master of Fate
+prize-20023006,Trust your destiny and be the master of fate. Even if you can't roll a 6//c at least roll something less pathetic than a 1.//n "Glory be to Griffin."
+prize-10023007,【Special Effects】Cards of Unpredictability
+prize-20023007,Given how unpredictable fate is//c no one can tell if the next card will help you turn the tables.//n "If I can't draw a good card//c I'll just print one myself."
+prize-10023008,【Furniture】Master of Wealth
+prize-20023008,Take the money out of your pockets and be the master of wealth. If you can't do that//c you will be its slave instead and toil your life away.//n "...Why are you all staring at me?" - Kalina
+prize-10023009,【Icon】Icon: King of Tricks
+prize-20023009,"You're incredible! Practically invincible!"//n "No wait//c nothing is invincible. I've remained victorious this whole time because I firmly believe that."
+prize-10023010,【ID card】Royal Flush
+prize-20023010, If you have a good hand//c pretend you don't; if you don't have a good hand//c pretend you do. 
